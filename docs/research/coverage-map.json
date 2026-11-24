@@ -1,0 +1,467 @@
+{
+  "version": 1,
+  "note": "Częściowe wsparcie wybranych elementów grup, nie pełne pokrycie ani gotowa lekcja.",
+  "requirements": [
+    {
+      "id": "I-SLUCH-01",
+      "claimIds": [
+        "STAFF",
+        "CLEF-G",
+        "CLEF-F",
+        "PL-HB",
+        "PL-SHARP",
+        "PL-FLAT",
+        "ACC-NATURAL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-02",
+      "claimIds": [
+        "INT-QUALITY",
+        "INT-AUG",
+        "TRITONE-AUDIO",
+        "INV-M6-M3"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-03",
+      "claimIds": [
+        "TRI-QUAL",
+        "TRI-INV",
+        "SEV-QUAL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-04",
+      "claimIds": [
+        "MAJOR-PATTERN",
+        "MINOR-NAT",
+        "MINOR-HARM",
+        "MINOR-PL-DOR"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-05",
+      "claimIds": [
+        "TRIAD-MAIN",
+        "CAD-NONI"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-06",
+      "claimIds": [
+        "DOT",
+        "TIE",
+        "METER-PL",
+        "METER-68"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-07",
+      "claimIds": [
+        "SOLM-FIXED"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-08",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-SLUCH-09",
+      "claimIds": [
+        "CAD-NONI"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-SLUCH-10",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-SLUCH-11",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-RYT-01",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-RYT-02",
+      "claimIds": [
+        "DOT",
+        "METER-PL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-RYT-03",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-RYT-04",
+      "claimIds": [
+        "INT-QUALITY",
+        "TRI-QUAL",
+        "MAJOR-PATTERN"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-RYT-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-RYT-06",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-RYT-07",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-01",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-02",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-03",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-04",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-06",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "I-WOM-07",
+      "claimIds": [
+        "MOZART-K265"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "I-WOM-08",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-FORM-01",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-FORM-02",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-FORM-03",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-FORM-04",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-FORM-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-FORM-06",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-SLUCH-01",
+      "claimIds": [
+        "STAFF",
+        "CLEF-G",
+        "CLEF-F",
+        "METER-PL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-SLUCH-02",
+      "claimIds": [
+        "INT-QUALITY",
+        "TRI-INV",
+        "SEV-INV"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-SLUCH-03",
+      "claimIds": [
+        "SEV-QUAL",
+        "SEV-INV"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-SLUCH-04",
+      "claimIds": [
+        "MAJOR-PATTERN",
+        "MINOR-MEL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-SLUCH-05",
+      "claimIds": [
+        "TRIAD-MAIN",
+        "CAD-NONI"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-SLUCH-06",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-SLUCH-07",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-SLUCH-08",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-SLUCH-09",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-SLUCH-10",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-ZAS-01",
+      "claimIds": [
+        "CLEF-G",
+        "CLEF-F"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-02",
+      "claimIds": [
+        "MAJOR-PATTERN",
+        "MINOR-NAT"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-03",
+      "claimIds": [
+        "MAJOR-PATTERN",
+        "MINOR-KEYSIG"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-04",
+      "claimIds": [
+        "TRITONE-AUDIO",
+        "PL-HB"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-ZAS-06",
+      "claimIds": [
+        "INT-QUALITY",
+        "TRI-QUAL",
+        "MINOR-V"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-07",
+      "claimIds": [
+        "SEV-INV",
+        "SEV-QUAL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-08",
+      "claimIds": [
+        "DOT",
+        "TIE",
+        "METER-PL",
+        "METER-EN"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-ZAS-09",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-ZAS-10",
+      "claimIds": [
+        "XML-PITCH",
+        "XML-DUR",
+        "XML-TIE",
+        "XML-PITCH-STRUCT"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-HAR-01",
+      "claimIds": [
+        "TRIAD-MAIN",
+        "MINOR-V",
+        "SEV-QUAL"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-HAR-02",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HAR-03",
+      "claimIds": [
+        "CAD-NONI"
+      ],
+      "status": "partial"
+    },
+    {
+      "id": "II-HAR-04",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HAR-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HAR-06",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HAR-07",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HIS-01",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HIS-02",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HIS-03",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HIS-04",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-HIS-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-01",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-02",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-03",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-04",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-05",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-06",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-07",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-08",
+      "claimIds": [],
+      "status": "unmapped"
+    },
+    {
+      "id": "II-NOM-09",
+      "claimIds": [],
+      "status": "unmapped"
+    }
+  ]
+}

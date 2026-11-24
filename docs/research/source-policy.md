@@ -22,3 +22,6 @@ Automatyczny checker wykrywa brak lub niepoprawne odwołania, nie rozpoznaje fa�
 
 ## Konflikty i bezpośredni dostęp
 Każdy sourceRef sprawdzonego twierdzenia wymaga `access: direct-read`: odczytu konkretnego fragmentu, nie samego wyniku wyszukiwania. Rozbieżności zapisywać w rejestrze, nie akceptować ani odrzucać automatycznie całego źródła. ZPE-MOLL, ćwiczenie 4 podaje KV26 dla wariacji Mozarta; HENLE-MOZART-K265, HN 165 potwierdza KV 265 (300e). ZPE weryfikuje wybrane reguły gam, nie wszystkie dane repertuarowe. Dla terminologii zależnej od konwencji wymagać zakresu i odpowiedniego źródła.
+
+## Blokada zatwierdzania — runda 5
+Do czasu rejestru rzeczywistych recenzji i kontroli runtime checker odrzuca każde releaseApproved=true oraz każdą lekcję inną niż draft. Poprzednio dowolny niepusty tekst mógł imitować recenzję. Mapa coverage-map.json nie oznacza pełnego pokrycia. Nie omijać blokady; zastąpić ją weryfikowalnymi raportami i połączeniem z publikacją treści.

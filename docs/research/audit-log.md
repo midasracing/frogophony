@@ -52,3 +52,7 @@ Zweryfikowano wykazy szkolne oraz opisy wydawców Wesołowskiego, Sikorskiego i 
 ## Runda 5 — rozwój rejestru twierdzeń po 9b2f378
 - Bezpośrednio odczytano wskazane fragmenty pięciu polskich materiałów ZPE i pięciu sekcji podręcznika University of Puget Sound. OMT2-METER ponownie 403, użyto alternatywy UPS-METER. Wykryto niepoprawny opis dominanty i klucza w ZPE, oraz rozbieżność konwencji metrycznych. Zob. conventions.md.
 - Dodano 10 rekordów źródeł, 17 twierdzeń i 9 przypadków oczekiwanych (nie testów runtime). Sprawdzono unikalność ID i istnienie powiązań claim–source–fixture. Nie odczytano ponownie wszystkich historycznych źródeł ani brakujących podręczników. Nie przeprowadzono recenzji pedagogicznej.
+
+### Runda 5 — kontrola luk i metadanych
+- 26 z 73 grup ma częściowe wsparcie, 47 nie ma powiązań. Żadna nie jest kompletna. H09/H10 uzupełniono o postać zasadniczą.
+- Zablokowano zatwierdzenia bez rzeczywistego rejestru recenzji; sprawdzono zakresy stron, lokalizatory, odwołania i kompletność mapy. Funkcję walidującą uruchomiono na danych i 7 negatywnych przypadkach, wszystkie negatywne odrzucone. To test metadanych, nie silnika muzycznego. Bez zmian runtime. Wynik Actions tego commita do potwierdzenia.
