@@ -48,3 +48,7 @@ Zweryfikowano wykazy szkolne oraz opisy wydawców Wesołowskiego, Sikorskiego i 
 - Dodano 7 twierdzeń o gamach molowych, MusicXML i identyfikacji dzieła Mozarta. 18 source-checked, 113 rekordów źródeł. Checker wymaga direct-read; nie weryfikuje prawdziwości deklaracji.
 - Wykryto błąd KV26 w ZPE-MOLL; katalog Henle HN 165 potwierdza KV 265 (300e). Nie rozszerzać potwierdzenia odmiany doryckiej na kierunek w dół bez źródła.
 - Workflow Research provenance commita f081510: success (https://github.com/midasracing/frogphony/actions/runs/45501012975), Pages także success. To walidacja metadanych i build, nie test muzyczny.
+
+## Runda 5 — rozwój rejestru twierdzeń po 9b2f378
+- Bezpośrednio odczytano wskazane fragmenty pięciu polskich materiałów ZPE i pięciu sekcji podręcznika University of Puget Sound. OMT2-METER ponownie 403, użyto alternatywy UPS-METER. Wykryto niepoprawny opis dominanty i klucza w ZPE, oraz rozbieżność konwencji metrycznych. Zob. conventions.md.
+- Dodano 10 rekordów źródeł, 17 twierdzeń i 9 przypadków oczekiwanych (nie testów runtime). Sprawdzono unikalność ID i istnienie powiązań claim–source–fixture. Nie odczytano ponownie wszystkich historycznych źródeł ani brakujących podręczników. Nie przeprowadzono recenzji pedagogicznej.

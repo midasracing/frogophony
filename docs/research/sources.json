@@ -799,6 +799,76 @@
       "url": "https://www.henle.de/12-Variations-on-Ah-vous-dirai-je-Maman-K.-265/HN-165",
       "status": "verified-partial",
       "note": "Odczyt tytułu i Content/Details: HN 165, KV 265 (300e); nie potwierdza praw do reprodukcji nut."
+    },
+    {
+      "id": "ZPE-CLEF",
+      "type": "theory",
+      "url": "https://zpe.gov.pl/a/przejdzmy-do-tematu/DELfj4fPg",
+      "status": "verified-partial",
+      "note": "Klucze G/F, pięciolinia. Uwaga: alternatywny opis grafiki błędnie nazywa klucz wiolinowy sopranowym; nie kopiować."
+    },
+    {
+      "id": "ZPE-ACC",
+      "type": "theory",
+      "url": "https://zpe.gov.pl/a/elementy-muzyki---tajemnicze-znaki---bemol-krzyzyk-kasownik/DLDN4kpnn",
+      "status": "verified-partial",
+      "note": "Sekcje Krzyżyk, Bemol, Kasownik, bezpośredni odczyt."
+    },
+    {
+      "id": "ZPE-SCALE",
+      "type": "theory",
+      "url": "https://zpe.gov.pl/a/gama---nazwy-nut---solmizacyjne-i-literowe/D10LpzlIG",
+      "status": "verified-partial",
+      "note": "Nazwy literowe i solmizacja stała, przykłady C-dur i a-moll; nie przyjmować wszystkich etykiet skal ludowych jako uniwersalnych."
+    },
+    {
+      "id": "ZPE-TRI",
+      "type": "theory",
+      "url": "https://zpe.gov.pl/a/trojdzwieki-i-akordy/DPCv4uJ4n",
+      "status": "verified-partial",
+      "note": "Tabela triady harmonicznej. Błędny absolutny opis dominanty: zawsze durowa i zawsze po niej tonika. Używać jedynie zweryfikowanych fragmentów."
+    },
+    {
+      "id": "ZPE-METER",
+      "type": "theory",
+      "url": "https://zpe.gov.pl/a/przejdzmy-do-tematu/D18HC5gVA",
+      "status": "verified-partial",
+      "note": "Podpowiedź do polecenia 5: polska klasyfikacja metrum prostego i złożonego (4/4=2/4+2/4). Uwaga: uproszczona klasyfikacja parzystości i identyfikacji wyłącznie po sumie nut."
+    },
+    {
+      "id": "UPS-METER",
+      "type": "oer",
+      "url": "https://musictheory.pugetsound.edu/mt21c/meter.html",
+      "status": "verified-partial",
+      "note": "Robert Hutchinson, Music Theory for the 21st-Century Classroom, §4.4; angielski system podziału pulsu."
+    },
+    {
+      "id": "UPS-MINCH",
+      "type": "oer",
+      "url": "https://musictheory.pugetsound.edu/mt21c/DiatonicChordsInMinor.html",
+      "status": "verified-partial",
+      "note": "§7.3, Figure 7.3.1 i Definition 7.3.2, odmiany akordów w moll."
+    },
+    {
+      "id": "UPS-CAD",
+      "type": "oer",
+      "url": "https://musictheory.pugetsound.edu/mt21c/cadences.html",
+      "status": "verified-partial",
+      "note": "§7.4, w tym 7.4.3, kadencje i rozwiązania zwodnicze."
+    },
+    {
+      "id": "UPS-INT",
+      "type": "oer",
+      "url": "https://musictheory.pugetsound.edu/mt21c/HowToIdentifyIntervals.html",
+      "status": "verified-partial",
+      "note": "§5, tabela półtonów i uwaga o enharmonicznym trytonie."
+    },
+    {
+      "id": "UPS-INV",
+      "type": "oer",
+      "url": "https://musictheory.pugetsound.edu/mt21c/InversionOfIntervals.html",
+      "status": "verified-partial",
+      "note": "§5.4, przykład m6/M3 i definicja odwracania."
     }
   ]
 }

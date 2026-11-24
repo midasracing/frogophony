@@ -1098,6 +1098,143 @@
       "expected": {
         "result": "incorrect-octave"
       }
+    },
+    {
+      "id": "C01",
+      "domain": "notation",
+      "input": {
+        "clef": "treble",
+        "lineFromBottom": 2
+      },
+      "expected": {
+        "written": "G4"
+      }
+    },
+    {
+      "id": "C02",
+      "domain": "notation",
+      "input": {
+        "clef": "bass",
+        "lineFromBottom": 4
+      },
+      "expected": {
+        "written": "F3"
+      }
+    },
+    {
+      "id": "H09",
+      "domain": "chord",
+      "input": {
+        "key": "A natural minor",
+        "degree": 5,
+        "notes": [
+          "E3",
+          "G3",
+          "B3"
+        ]
+      },
+      "expected": {
+        "root": "E",
+        "quality": "minor"
+      }
+    },
+    {
+      "id": "H10",
+      "domain": "chord",
+      "input": {
+        "key": "A harmonic minor",
+        "degree": 5,
+        "notes": [
+          "E3",
+          "G#3",
+          "B3"
+        ]
+      },
+      "expected": {
+        "root": "E",
+        "quality": "major"
+      }
+    },
+    {
+      "id": "R11",
+      "domain": "meter-convention",
+      "input": {
+        "meter": [
+          4,
+          4
+        ],
+        "convention": "polish-grouping"
+      },
+      "expected": {
+        "classification": "złożone regularne",
+        "groupsInQuarterNotes": [
+          2,
+          2
+        ]
+      }
+    },
+    {
+      "id": "R12",
+      "domain": "meter-convention",
+      "input": {
+        "meter": [
+          4,
+          4
+        ],
+        "convention": "english-beat-subdivision"
+      },
+      "expected": {
+        "classification": "simple quadruple",
+        "beats": 4,
+        "subdivisionsPerBeat": 2
+      }
+    },
+    {
+      "id": "R13",
+      "domain": "meter-convention",
+      "input": {
+        "meter": [
+          6,
+          8
+        ],
+        "convention": "english-beat-subdivision"
+      },
+      "expected": {
+        "classification": "compound duple",
+        "beats": 2,
+        "subdivisionsPerBeat": 3
+      }
+    },
+    {
+      "id": "A08",
+      "domain": "grading",
+      "input": {
+        "prompt": "Czy dominanta zawsze prowadzi do toniki?",
+        "exampleKey": "C major",
+        "progression": [
+          "G",
+          "Am"
+        ],
+        "phraseEnd": true
+      },
+      "expected": {
+        "answer": false,
+        "example": "deceptive cadence"
+      }
+    },
+    {
+      "id": "I12",
+      "domain": "interval-inversion",
+      "input": {
+        "from": "C4",
+        "to": "Ab4"
+      },
+      "expected": {
+        "original": "minor sixth",
+        "inverted": "major third",
+        "originalSemitones": 8,
+        "invertedSemitones": 4
+      }
     }
   ]
 }

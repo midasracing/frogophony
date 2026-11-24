@@ -360,6 +360,331 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "STAFF",
+      "statement": "Pięciolinia ma pięć linii i cztery pola pomiędzy nimi; numeracja od dołu, poza pięciolinią stosuje się linie dodane.",
+      "scope": "Standardowa pięciolinia.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-CLEF",
+          "locator": "Opis ilustracji pięciolinii, przed sekcją Miejsce klucza na pięciolinii",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CLEF-G",
+      "statement": "Klucz wiolinowy wyznacza g1 na drugiej linii od dołu.",
+      "scope": "Bez przenośnika oktawowego; nie mylić z historycznym kluczem sopranowym C.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-CLEF",
+          "locator": "Poznaj klucze muzyczne, Klucz wiolinowy",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "C01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CLEF-F",
+      "statement": "Klucz basowy wyznacza f oktawy małej na czwartej linii.",
+      "scope": "Bez przenośnika oktawowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-CLEF",
+          "locator": "Klucz basowy, opis grafiki",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "C02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-HB",
+      "statement": "W polskim nazewnictwie H oznacza dźwięk naturalny, B oznacza H obniżone o półton.",
+      "scope": "Nazewnictwo literowe polskie, nie angielskie; wielkość litery nie określa sama oktawy w tym twierdzeniu.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-ACC",
+          "locator": "Bemol, akapit po ilustracji",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "ZPE-SCALE",
+          "locator": "Przykład C-dur",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "P01",
+        "P02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-SHARP",
+      "statement": "Nazwy siedmiu dźwięków podwyższonych pojedynczym krzyżykiem to cis, dis, eis, fis, gis, ais, his.",
+      "scope": "Nazwy bez oznaczenia oktaw.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-ACC",
+          "locator": "Krzyżyk",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-FLAT",
+      "statement": "Nazwy siedmiu dźwięków obniżonych pojedynczym bemolem to ces, des, es, fes, ges, as, b.",
+      "scope": "Polski system, bez oznaczenia oktaw.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-ACC",
+          "locator": "Bemol",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ACC-NATURAL",
+      "statement": "Kasownik odwołuje chromatyczne podwyższenie lub obniżenie i przywraca wysokość naturalną.",
+      "scope": "Zasięg w takcie i reguły wielogłosu wymagają dodatkowych twierdzeń.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-ACC",
+          "locator": "Kasownik",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SOLM-FIXED",
+      "statement": "W solmizacji stałej C D E F G A H odpowiadają do re mi fa sol la si.",
+      "scope": "Nie stosować jako reguły movable-do.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-SCALE",
+          "locator": "Akapit o nazwach literowych i solmizacyjnych",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MAJOR-PATTERN",
+      "statement": "W gamie durowej naturalnej półtony są między III–IV i VII–VIII; inne sąsiednie stopnie oddziela cały ton.",
+      "scope": "Wznosząca gama diatoniczna.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-SCALE",
+          "locator": "Przykład gamy C-dur i poprzedzający akapit",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "G01",
+        "G08",
+        "G09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TRIAD-MAIN",
+      "statement": "W C-dur triada harmoniczna obejmuje C–E–G, F–A–C i G–H–D, odpowiednio T, S i D.",
+      "scope": "Konkretny przykład; nie generalizować pozostałych twierdzeń tabeli o dominantach.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-TRI",
+          "locator": "Ilustracja interaktywna triady C-dur",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "METER-PL",
+      "statement": "W polskiej klasyfikacji przedstawionej w ZPE 4/4 składa się z dwóch metrów 2/4, a 6/8 z dwóch metrów 3/8; 5/4 może łączyć 2/4 i 3/4 w obu kolejnościach.",
+      "scope": "Klasyfikacja grup metrycznych, nie angielska definicja compound.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-METER",
+          "locator": "Podpowiedź, polecenie 5",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "R11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "METER-EN",
+      "statement": "W angielskim systemie opisanym przez Hutchinsona simple/compound odnosi się do podziału pulsu na dwie/trzy części; 4/4 to simple quadruple, 6/8 to compound duple.",
+      "scope": "Nie tłumaczyć simple bezpośrednio jako polskie metrum proste.",
+      "sourceRefs": [
+        {
+          "sourceId": "UPS-METER",
+          "locator": "§4.4, przykłady i tabela",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "R01",
+        "R02",
+        "R12",
+        "R13"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "METER-68",
+      "statement": "W konwencjonalnym 6/8 z dwudzielnym pulsem jednostką pulsu jest ćwierćnuta z kropką, a ósemka jest jej trzecią częścią.",
+      "scope": "Nie narzucać jednego sposobu dyrygowania przy każdym tempie.",
+      "sourceRefs": [
+        {
+          "sourceId": "UPS-METER",
+          "locator": "§4.4, compound meters",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "R01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MINOR-V",
+      "statement": "W a-moll naturalnej trójdźwięk V stopnia to e-moll (E–G–H), w harmonicznej E-dur (E–Gis–H).",
+      "scope": "Przykład konstrukcji na V stopniu; nie utożsamiać automatycznie wszystkich akordów V z jednakową funkcją.",
+      "sourceRefs": [
+        {
+          "sourceId": "UPS-MINCH",
+          "locator": "§7.3, Figure 7.3.1",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "H09",
+        "H10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CAD-NONI",
+      "statement": "Dominanta nie zawsze rozwiązuje się na tonikę: typowy przykład kadencji zwodniczej w dur to V–vi na zakończeniu frazy.",
+      "scope": "W kontekście kadencyjnym; nie każdy przebieg V–vi tworzy kadencję.",
+      "sourceRefs": [
+        {
+          "sourceId": "UPS-CAD",
+          "locator": "§7.4.3",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "A08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TRITONE-AUDIO",
+      "statement": "Kwarta zwiększona i kwinta zmniejszona mają po sześć półtonów w stroju równomiernie temperowanym, choć różnią się pisownią.",
+      "scope": "Izolowany odsłuch 12-TET nie rozstrzyga nazwy diatonicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "UPS-INT",
+          "locator": "Tabela półtonów i przypis o tritonie",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "I03",
+        "I04",
+        "A05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "INV-M6-M3",
+      "statement": "Seksta mała po przewrocie prostym daje tercję wielką, a tercja wielka sekstę małą.",
+      "scope": "Interwały proste; zachować pisownię.",
+      "sourceRefs": [
+        {
+          "sourceId": "UPS-INV",
+          "locator": "§5.4, pierwszy przykład",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "I12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

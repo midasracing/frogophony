@@ -57,3 +57,6 @@ ZPE-MOLL potwierdza polską szkolną konwencję: moll dorycka ma podwyższone st
 - Fraza, zdanie, okres, ang. sentence i period nie mają gwarantowanej relacji 1:1 pomiędzy szkołami analizy. Nie wymuszać szablonu 4+4 ani jednej interpretacji formy. OMT2-PHRASE, OMT2-FORM, OMT2-SONATA.
 - Klasa wysokości (mod 12) traci oktawę oraz pisownię; służy do wybranych zadań, nie przechowywania nut. OMT2-PITCH, OMT2-INT.
 - Odróżnić widoczny znak od rzeczywistego alter i notowaną wartość od wykonawczej długości; zob. notation-contract.md.
+
+## Runda 5 — uzupełnienie
+Zob. conventions.md i twierdzenia METER-PL, METER-EN, MINOR-V, CAD-NONI, PL-HB, CLEF-G. Polski i angielski podział metrum nie są izomorficzne; modelować hierarchię akcentów niezależnie od podziału pulsu. Nie używać absolutnych reguł dominanty z ZPE-TRI. ZPE-CLEF zawiera błędny opis alternatywny klucza. Stosować wyłącznie konkretne twierdzenia źródłowe.
