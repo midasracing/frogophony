@@ -896,14 +896,14 @@
       "type": "bibliography",
       "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/9620/edition/10126?language=pl",
       "status": "verified-index",
-      "note": "Marek Kawiorski, 2023, 240 s., DOI 10.25951/9620, ISBN PDF 978-83-67580-44-1. Około 5500 jednostek; dostęp tylko w Oddziale Informacji Naukowej."
+      "note": "Marek Kawiorski, 2023, 240 s., DOI 10.25951/9620, ISBN PDF 978-83-67580-44-1. Około 5500 jednostek; dostęp tylko w Oddziale Informacji Naukowej. Ponownie potwierdzono ograniczony dostęp."
     },
     {
       "id": "PL-KAW-PLEN",
       "type": "bibliography",
       "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/12763/edition/12585/slownik-polsko-angielski-terminow-muzycznych-kawiorski-marek?language=pl",
       "status": "verified-index",
-      "note": "Marek Kawiorski, 2024, 264 s., DOI 10.25951/12763, ISBN PDF 978-83-8377-015-4. Około 4000 jednostek; dostęp ograniczony."
+      "note": "Marek Kawiorski, 2024, 264 s., DOI 10.25951/12763, ISBN PDF 978-83-8377-015-4. Około 4000 jednostek; dostęp ograniczony. Ponownie potwierdzono ograniczony dostęp."
     },
     {
       "id": "PL-PWM-ENC",
@@ -938,14 +938,14 @@
       "type": "pedagogy",
       "url": "https://www.gov.pl/attachment/a00a0425-a029-439d-b96c-9d4fb5c347e5",
       "status": "verified-partial",
-      "note": "PDF 114 stron, bezpośrednio odczytano okładkę, spis treści, fragmenty drukowanych s. 9–10, 15, 22, 39. Materiały pomocnicze dla nauczycieli kształcenia słuchu z audycjami muzycznymi (CEA 2014). Historyczna metodyka, nie bieżący akt prawny."
+      "note": "PDF 114 stron, bezpośrednio odczytano okładkę, spis treści, fragmenty drukowanych s. 9–10, 15, 22, 39. Materiały pomocnicze dla nauczycieli kształcenia słuchu z audycjami muzycznymi (CEA 2014). Historyczna metodyka, nie bieżący akt prawny. Kolejny odczyt tekstu s.9–10, 30, 39–40 oraz obrazu s.39; obraz s.30 timeout. Metodyka, nie uniwersalne reguły teorii."
     },
     {
       "id": "PL-CEA-RHY14",
       "type": "pedagogy",
       "url": "https://www.gov.pl/attachment/399ddd58-81f9-45e3-97fa-95f34a4dbf45",
       "status": "verified-partial",
-      "note": "PDF 184 strony, dostępny tekst spisu treści, próba obrazu strony tytułowej timeout. Materiały pomocnicze dla nauczycieli rytmiki z kształceniem słuchu (CEA 2014). Nie odczytano wszystkich rozdziałów."
+      "note": "PDF 184 strony, dostępny tekst spisu treści, próba obrazu strony tytułowej timeout. Materiały pomocnicze dla nauczycieli rytmiki z kształceniem słuchu (CEA 2014). Nie odczytano wszystkich rozdziałów. Kolejny odczyt tekstu s.98, 101–103, 108–110, 131–133 i obrazów s.98 oraz 131. Nie przeczytano całości; skojarzenia dur/moll z emocjami nie są definicją."
     },
     {
       "id": "PL-CEA-TEACH",
@@ -1002,6 +1002,34 @@
       "url": "https://polmic.pl/pl/dzieje-sie/prezentacja-portalu-polskie-ludowe-instrumenty-muzyczne",
       "status": "verified-partial",
       "note": "Opis projektu w wyniku wyszukiwania, nie pełne hasła instrumentów."
+    },
+    {
+      "id": "PWM-TARGOSZ",
+      "type": "bibliography",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/podstawy-harmonii-funkcyjnej%2Cjacek-targosz%2C2223%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Katalog PWM potwierdza Jacek Targosz, nie Józef. Treść podręcznika niedostępna w sprawdzonych oficjalnych źródłach."
+    },
+    {
+      "id": "AM-POZ-HARM-BIB",
+      "type": "bibliography",
+      "url": "https://amuz.edu.pl/wp-content/uploads/13-Harmonia-funkcyjna.pdf",
+      "status": "verified-partial",
+      "note": "Indeksowany sylabus potwierdza Targosza, Sikorskiego, Wesołowskiego. Nie odczytano całego sylabusa."
+    },
+    {
+      "id": "AM-GDA-HARM-BIB",
+      "type": "bibliography",
+      "url": "https://amuz.gda.pl/tinymce/2ffee120b51d45bfab09740dfdf83f407e77cc42/harmonia-tonalna.pdf",
+      "status": "verified-partial",
+      "note": "Indeksowany sylabus harmonii tonalnej, bibliografia. Nie odczytano całego sylabusa."
+    },
+    {
+      "id": "ABC-GWIZ-2",
+      "type": "bibliography",
+      "url": "https://abc.uw.edu.pl/katalog/ksiazka/18557",
+      "status": "verified-index",
+      "note": "Bezpośredni odczyt katalogu, spisu treści i listy adaptacji cz. 2, PWM 2005, ISBN 83-224-0833-1. Nie uzyskano pełnej treści książki."
     }
   ]
 }

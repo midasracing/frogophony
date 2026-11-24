@@ -6,7 +6,7 @@ Data weryfikacji 2026-11-24. To rejestr priorytetów lekturowych i rzeczywiście
 |---|---|---|
 | Zakres szkoły i egzaminu | aktualna podstawa, CEA i konkretny regulamin | programy szkół, profil uczelni |
 | Zasady i ortografia muzyczna | Franciszek Wesołowski, Zasady muzyki (WES-ZAS); konkretne wydanie | CEA samouczki (PL-CEA-TEST), ZPE po sprawdzeniu fragmentu |
-| Harmonia szkolna | Kazimierz Sikorski, Harmonia 1–2 (SIK-HAR1/2); Wesołowski Nauka harmonii (WES-HAR); Józef Targosz Podstawy harmonii funkcyjnej (PL-SCHOOL-BIB) | Kawiorski PL-KAW-HAR dla terminologii i alternatywnych analiz; nie mieszać systemów |
+| Harmonia szkolna | Kazimierz Sikorski, Harmonia 1–2 (SIK-HAR1/2); Wesołowski Nauka harmonii (WES-HAR); Jacek Targosz Podstawy harmonii funkcyjnej (PL-SCHOOL-BIB, PWM-TARGOSZ) | Kawiorski PL-KAW-HAR dla terminologii i alternatywnych analiz; nie mieszać systemów |
 | Rozbieżności polsko-angielskie | Marek Kawiorski PL-KAW-ENPL/PL-KAW-PLEN; Grzegorz Dąbkowski Polska terminologia z zakresu teorii muzyki (1991), Kształtowanie się polskiej terminologii muzycznej (2010), bibliografia PL-TERM-BN | źródło angielskie jako drugi sprawdzian, nie samodzielny dowód polskiej nazwy |
 | Metodyka I stopnia | PL-CEA-EAR14, PL-CEA-RHY14, Wacholc Kształcenie poczucia tonalnego i słuchu harmonicznego | konkretne programy szkoły i aktualna podstawa |
 | Solfeż i korekta błędów | Wacholc Czytanie nut głosem, Solfeż dwugłosowy; Dzielska i Kaszycki; Izabela Targońska Podstawy korekty błędów I–II, 2004 (PL-SCHOOL-EAR) | CEA i oryginalne ćwiczenia kontrolne |

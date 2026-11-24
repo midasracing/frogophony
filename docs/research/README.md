@@ -22,3 +22,5 @@ Audyt 2026-11-24, runda 5. Dokumentacja robocza, nie certyfikacja pedagogiczna. 
 18. [Raport zmian](audit-log.md): błędy, rozstrzygnięcia i luki.
 
 Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md w katalogu głównym. W razie sprzeczności z wcześniejszymi rundami obowiązuje nowsza korekta poparta źródłem. Nie deklarować zgodności z całym szkolnictwem, dopóki macierz wymagań nie zostanie zamknięta. Status source-reviewed oznacza weryfikację materiałów źródłowych, nie zatwierdzenie przez nauczyciela ani test wykonany na urządzeniu.
+
+- [Kolejka lektury i brakujące egzemplarze](reading-queue.md): odczytane fragmenty i priorytety pozyskania.
