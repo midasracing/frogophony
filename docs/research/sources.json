@@ -596,6 +596,104 @@
       "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Best_practices",
       "status": "verified-page",
       "note": "Uruchamianie/resume w geście użytkownika."
+    },
+    {
+      "id": "BOOK-KROSNO",
+      "type": "bibliography",
+      "url": "https://www.gov.pl/web/zsmkrosno/podreczniki-20222023",
+      "status": "verified-page",
+      "note": "Wykaz opisany jako 2023/24; Nasza muzyka, Lasocki, Wesołowski, Wójcik, Gwizdalanka i inne. Literówki w inicjałach w wykazie, nie kopiować ich automatycznie."
+    },
+    {
+      "id": "BOOK-PSM2",
+      "type": "bibliography",
+      "url": "https://www.gov.pl/attachment/03e85f02-3fb3-466c-b355-9b41449ce7b2",
+      "status": "verified-partial",
+      "note": "Wykaz PSM II, część końcowa, s. z tytułami. Zawiera błędny inicjał T. Sikorski przy Harmonii, poprawny autor Kazimierz wg wydawcy."
+    },
+    {
+      "id": "QUAL-OSM",
+      "type": "admissions",
+      "url": "https://www.gov.pl/attachment/35ee6910-c8c3-4acb-b656-6cb8a7c69312",
+      "status": "verified-partial",
+      "note": "Starszy dokument, wymagania kwalifikacyjne klas III–V, w tym dyktanda 2–3-głosowe, harmonia, historia, bibliografia. Obraz timeout; nie aktualne ogólnopolskie wymagania."
+    },
+    {
+      "id": "WES-HAR",
+      "type": "bibliography",
+      "url": "https://www.amuz.lodz.pl/index.php/pl/home/wydawnictwo/oferta-publikacje?catid=19&id=685%3Anauka-harmonii&view=article",
+      "status": "verified-partial",
+      "note": "Katalog wydawnictwa uczelni: Nauka harmonii, Franciszek Wesołowski, przeznaczony dla SM II i studiów; nie przeczytano podręcznika."
+    },
+    {
+      "id": "WES-ZAS",
+      "type": "bibliography",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/zasady-muzyki%2Cfranciszek-wesolowski%2C18421%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Wydawca potwierdza tytuł i autora; bez pełnego dostępu do książki."
+    },
+    {
+      "id": "WES-MAT",
+      "type": "bibliography",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/materialy-do-cwiczen-harmonicznych%2Cfranciszek-wesolowski%2C2219%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Wydawca potwierdza tytuł, autora i przeznaczenie do analizy i ćwiczeń klawiaturowych."
+    },
+    {
+      "id": "SIK-HAR1",
+      "type": "bibliography",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/harmonia-1%2CKazimierz%20Sikorski%2C2216%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Kazimierz Sikorski, skrócona dwuczęściowa wersja dla średniej szkoły muzycznej."
+    },
+    {
+      "id": "SIK-HAR2",
+      "type": "bibliography",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/harmonia-2%2Ckazimierz-sikorski%2C2217%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Druga część podręcznika."
+    },
+    {
+      "id": "SIK-TASK",
+      "type": "bibliography",
+      "url": "https://pwm.com.pl/index.php/pl/sklep/publikacja/harmonia%2Ckazimierz-sikorski%2C2218%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Zbiór zadań i przykładów jako osobna publikacja."
+    },
+    {
+      "id": "WACH-AUTH",
+      "type": "bibliography",
+      "url": "https://www.impulsoficyna.com.pl/791_wacholc-maria",
+      "status": "verified-partial",
+      "note": "Profil autorki potwierdza Solfeż elementarny, Czytanie nut głosem i podręcznik metodyczny o słuchu tonalnym."
+    },
+    {
+      "id": "UW-METHOD",
+      "type": "academic",
+      "url": "https://informatorects.uw.edu.pl/pl/courses/view?prz_kod=3106-1MH1-P",
+      "status": "verified-partial",
+      "note": "Kurs metodyki historii muzyki, krytyczna analiza podręczników, konspekt lekcji; Arkana Melomana w bibliografii."
+    },
+    {
+      "id": "ARKANA",
+      "type": "product-reference",
+      "url": "https://arkanamelomana.edu.pl/",
+      "status": "verified-page",
+      "note": "Polski multimedialny kurs historii muzyki, ebook/audiobook/quizy. Nie ustalono licencji ani nie czytano zamkniętych kursów."
+    },
+    {
+      "id": "NIFC-OPEN",
+      "type": "reference",
+      "url": "https://nauka.nifc.pl/pl/dziedzictwo-chopinowskie-w-otwartym-dostepie/",
+      "status": "verified-partial",
+      "note": "Digitalizacja źródeł chopinowskich i edycje cyfrowe; prawa do konkretnego obiektu sprawdzić osobno."
+    },
+    {
+      "id": "NIFC-ED",
+      "type": "reference",
+      "url": "https://repozytorium.nifc.pl/islandora/pl-wnifc-mfc-m-175",
+      "status": "verified-partial",
+      "note": "Przykład metadanych historycznego egzemplarza nutowego, nie wybrany zasób do redystrybucji."
     }
   ]
 }

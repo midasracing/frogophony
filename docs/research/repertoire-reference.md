@@ -21,3 +21,6 @@ Każdy rekord musi posiadać composerId, workId, catalogueNumber, title, movemen
 
 ## Zadania i ocena
 Rozpoznaj z nut, rozpoznaj z audio, podążaj za zapisem, zaznacz takt, wskaż głos, porównaj wykonania, zinterpretuj tekst źródłowy. Pytania z nagrań mają jawnie określony fragment; nie utożsamiać tempa jednego nagrania z uniwersalnym tempem utworu. W zadaniach historycznych i formalnych stosować sprawdzalne fakty oraz rubryki do interpretacji. POLMIC służy do weryfikowania danych, nie automatycznej redystrybucji.
+
+## Uzupełnienie: źródła polskie
+NIFC-OPEN i NIFC-ED: kandydaci do pracy ze źródłem historycznym (autograf, pierwodruk, wydanie, różnice między wersjami), a nie automatyczny import wszystkich obrazów. Przykładowe zadanie: porównaj dwa legalnie dostępne źródła nutowe i uzasadnij odczyt. ARKANA i UW-METHOD: metodyka multimedialnej historii muzyki; projektować aktywną analizę, krótkie wypowiedzi, oś czasu oraz kontekst kulturowy, zamiast wyłącznie quizów z dat.
