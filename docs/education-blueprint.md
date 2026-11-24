@@ -1,12 +1,15 @@
 # Frogophony — program i standard jakości
 Stan researchu: 2026-11-24. Dokument projektowy, nie deklaracja zatwierdzonej podstawy ani gotowego kursu.
 
+**Aktualizacja po audycie:** [baza referencyjna i korekty](research/README.md) mają pierwszeństwo nad tym wstępnym planem. W szczególności zakres I stopnia, profile rekrutacji, ramowe plany 2025/2026 i ograniczenia silników są tam doprecyzowane.
+
 ## Cel i zakres
 Trzy ścieżki: kształcenie słuchu, teoria muzyki, nauka o muzyce. Od podstaw przez SM I, egzamin do SM II, SM II po przygotowanie rekrutacyjne na studia I stopnia. Academy+ jako opcjonalne rozszerzenie. Bez nauki gry na instrumencie; śpiew i rytm pozostają częścią solfeżu. Zachować React/TypeScript/Vite, Rive, Kumkę i GitHub Pages. Polska terminologia; własne przykłady i treści. Profil instrumentalistyki klasycznej jest pierwszym punktem odniesienia, nie zamiennikiem wszystkich specjalności.
 
 ## Źródła i hierarchia
 - MKiDN: https://eli.gov.pl/eli/DU/2023/1754/ogl (załącznik 4, muzyk); nowelizacja: https://eli.gov.pl/eli/DU/2025/852/ogl . Przed publikacją mapować dokładny wariant szkoły i pozycję wymagania, nie mieszać SM, OSM i szkół policealnych.
-- CEA: https://www.gov.pl/web/cea/rok-szkolny-20252026 ; materiały nadzoru nie są zamiennikiem podstawy.
+- Ramowe plany: https://eli.gov.pl/eli/DU/2025/1082/ogl z nowelizacją https://eli.gov.pl/eli/DU/2026/1145/ogl .
+- CEA: https://www.gov.pl/web/cea/badanie-jakosci-ksztalcenia-artystycznego ; archiwum https://www.gov.pl/web/cea/rok-szkolny-20252026 ; materiały nadzoru nie są zamiennikiem podstawy.
 - PSM Opole: https://www.gov.pl/web/psmopole/instrumentalistyka-cykl-6-letni ; wymagania przedmiotowe.
 - ZPSM Warszawa: https://www.arch.szymanowski.edu.pl/o-szkole/pion-muzyczny/sekcja-teorii-muzyki ; bibliografia szkolna.
 - PSM Gostyń: https://www.gov.pl/web/psmgostyn/materialy-edukacyjne ; PSM Wrocław: https://www.gov.pl/web/smwroclaw/wykaz-podrecznikow-20252026 .
@@ -24,7 +27,7 @@ Kolejność autorska, a nie urzędowy rozkład klas. Każdy wiersz rozbić na ce
 | 0 | wysokość, puls, kierunek, echo rytmu | pięciolinia, klucze, wartości i pauzy | barwy, głosy, podstawowe elementy |
 | I-A | motywy, stopnie gamy, proste dyktanda i solfeż | klucz wiolinowy i basowy, metrum, znaki | instrumenty, zespoły, dynamika i artykulacja |
 | I-B | interwały melodyczne i harmoniczne, tonalność, trójdźwięki | dur i moll, gamy, przewroty, triada | motyw, fraza, zdanie, okres, AB/ABA |
-| I-C | kadencje, dyktanda rytmiczne i melodyczne, pamięć | chromatyka, pokrewieństwo tonacji, D7, skale | rondo, wariacje, kanon, folklor, gatunki |
+| I-C | kadencje, dyktanda rytmiczne i melodyczne, pamięć, solfeż dwugłosowy, D7 z rozwiązaniem | chromatyka, pokrewieństwo tonacji, D7 z rozwiązaniem, dur naturalny i moll naturalny/harmoniczny/dorycki do 3 znaków | rondo, wariacje, kanon, folklor, gatunki |
 | Most | samodzielny zapis i śpiew, próby egzaminu | budowanie struktur, rozwiązywanie, transpozycja | rozpoznawanie przykładów i wiedza ogólna |
 | II-A | interwały złożone, skale, chromatyka, rytm złożony | rozszerzona notacja, klucze C, harmonia funkcyjna | literatura, faktury, antyk–barok |
 | II-B | dwugłos, dyktanda harmoniczne, solfeż zaawansowany | SATB, przewroty, funkcje poboczne, dźwięki obce | klasycyzm, romantyzm, forma sonatowa i fuga |

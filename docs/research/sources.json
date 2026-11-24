@@ -1,0 +1,356 @@
+{
+  "auditDate": "2026-11-24",
+  "statusLegend": {
+    "verified-page": "Sprawdzono dostępną treść strony lub README, nie całą implementację",
+    "verified-index": "Sprawdzono indeks, nie wszystkie załączniki",
+    "verified-partial": "Sprawdzono fragment lub wynik wyszukiwania; zakres ograniczony",
+    "retry": "Nie udało się pobrać lub odczytać całości",
+    "prior-reference": "Odnośnik z poprzedniej rundy, niepotwierdzony ponownie",
+    "indexed": "Potwierdzono w katalogu, wymaga bezpośredniej weryfikacji"
+  },
+  "sources": [
+    {
+      "id": "LAW-23",
+      "type": "law",
+      "url": "https://eli.gov.pl/eli/DU/2023/1754/ogl",
+      "status": "verified-partial",
+      "note": "Załącznik 4; SM I kształcenie słuchu, s. 199–200; przegląd PDF ograniczony przez dostępny ekstrakt do s. 200."
+    },
+    {
+      "id": "LAW-23-PDF",
+      "type": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2023/1754/text.pdf",
+      "status": "verified-partial",
+      "note": "Pierwotne brzmienie, uwzględnić zmiany i przepisy przejściowe."
+    },
+    {
+      "id": "LAW-25",
+      "type": "law",
+      "url": "https://eli.gov.pl/eli/DU/2025/852/ogl",
+      "status": "verified-partial",
+      "note": "§1 pkt 3 dotyczy muzyk, m.in. fortepianmistrzostwo; nie traktować jako zmiany całej teorii."
+    },
+    {
+      "id": "PLAN-25",
+      "type": "law",
+      "url": "https://eli.gov.pl/eli/DU/2025/1082/ogl",
+      "status": "verified-index",
+      "note": "Ramowy plan, nie podstawa; załączniki zależne od rodzaju szkoły."
+    },
+    {
+      "id": "PLAN-26",
+      "type": "law",
+      "url": "https://eli.gov.pl/eli/DU/2026/1145/ogl",
+      "status": "verified-index",
+      "note": "Nowelizacja planu od 1.09.2026; sprawdzić przepisy przejściowe."
+    },
+    {
+      "id": "CEA-26",
+      "type": "official",
+      "url": "https://www.gov.pl/web/cea/badanie-jakosci-ksztalcenia-artystycznego",
+      "status": "verified-index",
+      "note": "Badania jakości 2026/27, nie gotowy bank zadań."
+    },
+    {
+      "id": "CEA-26-SCOPE",
+      "type": "official",
+      "url": "https://www.gov.pl/web/cea/ogloszenie-w-sprawie-form-zakresu-i-terminow-badan-jakosci-ksztalcenia-artystycznego-przeprowadzanych-w-roku-szkolnym-20262027",
+      "status": "verified-index",
+      "note": "Zakres badań, I st. kształcenie słuchu i wiedza o muzyce."
+    },
+    {
+      "id": "CEA-25",
+      "type": "official",
+      "url": "https://www.gov.pl/web/cea/rok-szkolny-20252026",
+      "status": "verified-index",
+      "note": "Arkusze kontroli, nie mylić z egzaminem ucznia."
+    },
+    {
+      "id": "OP-I6",
+      "type": "school",
+      "url": "https://www.gov.pl/web/psmopole/cykl-c6",
+      "status": "verified-index",
+      "note": "Rytmika, wiedza, audycje, kształcenie słuchu oddzielnie I–III i IV–VI."
+    },
+    {
+      "id": "OP-I4",
+      "type": "school",
+      "url": "https://www.gov.pl/web/psmopole/cykl-c4",
+      "status": "verified-index",
+      "note": "Oddzielny cykl czteroletni."
+    },
+    {
+      "id": "OP-II",
+      "type": "school",
+      "url": "https://www.gov.pl/web/psmopole/instrumentalistyka-cykl-6-letni",
+      "status": "verified-index",
+      "note": "Siedem przedmiotów teoretycznych; część PDF niedostępna przez timeout."
+    },
+    {
+      "id": "OP-HARM",
+      "type": "school",
+      "url": "https://www.gov.pl/attachment/c72676f0-ac63-4b23-906e-20f3987c1bda",
+      "status": "verified-partial",
+      "note": "s. 4: harmonika modalna i funkcyjna, analiza oraz zastosowanie w edycji nut; pełny przegląd do wykonania."
+    },
+    {
+      "id": "OP-SIGHT",
+      "type": "school",
+      "url": "https://www.gov.pl/attachment/925385e1-11dd-4e77-9779-d89201ca306e",
+      "status": "retry",
+      "note": "PDF kształcenie słuchu II stopnia, timeout."
+    },
+    {
+      "id": "OP-THEORY",
+      "type": "school",
+      "url": "https://www.gov.pl/attachment/17aa4cc1-2934-46d1-9d9a-ad4badcb41cd",
+      "status": "retry",
+      "note": "PDF zasad muzyki, pełny odczyt niepotwierdzony."
+    },
+    {
+      "id": "OP-FORM",
+      "type": "school",
+      "url": "https://www.gov.pl/attachment/886e4471-b985-41bb-a532-054844bd90c6",
+      "status": "retry",
+      "note": "PDF form muzycznych, pełny odczyt niepotwierdzony."
+    },
+    {
+      "id": "KED-I",
+      "type": "school",
+      "url": "https://www.gov.pl/web/psmkedzierzyn/sekcja-fortepianu-i-teorii",
+      "status": "verified-index",
+      "note": "Druga szkoła do porównania zakresu I stopnia."
+    },
+    {
+      "id": "ZG-26",
+      "type": "admissions",
+      "url": "https://www.gov.pl/web/zsmzielonagora/rok-szkolny-20262027",
+      "status": "verified-partial",
+      "note": "Zadania kwalifikacyjne do różnych klas, rozróżnić od egzaminu końcowego."
+    },
+    {
+      "id": "POZ-26",
+      "type": "admissions",
+      "url": "https://www.gov.pl/web/zsmpoznan/rekrutacja-do-psm-ii-st-2026",
+      "status": "verified-partial",
+      "note": "Wymagania egzaminacyjne i kwalifikacyjne, różne klasy."
+    },
+    {
+      "id": "OP-ADM26",
+      "type": "admissions",
+      "url": "https://www.gov.pl/web/psmopole/rekrutacja-do-psm-ii-stopnia-2026-27",
+      "status": "verified-partial",
+      "note": "Pisemny test, możliwa forma ustna dla wybranych kandydatów."
+    },
+    {
+      "id": "MIE-26",
+      "type": "admissions",
+      "url": "https://www.gov.pl/web/psmmielec/rekrutacja-ii-stopnia-20262027",
+      "status": "verified-partial",
+      "note": "Forma ustna, pisemna lub mieszana."
+    },
+    {
+      "id": "AMK",
+      "type": "admissions",
+      "url": "https://www.amuz.krakow.pl/ksztalcenie-sluchu-zakres-egzaminu-wstepnego-dla-kandydatow-na-studia-i-stopnia/",
+      "status": "verified-page",
+      "note": "Dotyczy uzupełniającego ustnego egzaminu: rytmika, muzyka kościelna, fortepian. Nie wszystkich kierunków."
+    },
+    {
+      "id": "AML-26",
+      "type": "admissions",
+      "url": "https://amuz.lodz.pl/index.php/pl/dla-kandydata/egzaminy-wstepne/studia-stacjonarne-pierwszego-stopnia/teoria-muzyki",
+      "status": "verified-page",
+      "note": "2026/27, teoria muzyki: dyktanda, solfeż, harmonia pisemna i fortepian, improwizacja, formy i literatura, wypowiedzi."
+    },
+    {
+      "id": "AMB-26",
+      "type": "admissions",
+      "url": "https://www.rekrutacja.amuz.bydgoszcz.pl/pl/offer/Rekrutacja_2026/programme/SP-I-TR/",
+      "status": "prior-reference",
+      "note": "Trąbka, sprawdzić ponownie przed publikacją profilu."
+    },
+    {
+      "id": "UMFC",
+      "type": "admissions",
+      "url": "https://chopin.edu.pl/uniwersytet/wydzialy/wydzial-instrumentalny",
+      "status": "prior-reference",
+      "note": "Strona wydziału, nie wystarcza jako specyfikacja egzaminu."
+    },
+    {
+      "id": "BOOK-GOSTYN",
+      "type": "bibliography",
+      "url": "https://www.gov.pl/web/psmgostyn/materialy-edukacyjne",
+      "status": "verified-index",
+      "note": "Wykaz literatury, nie tekst książek."
+    },
+    {
+      "id": "BOOK-26",
+      "type": "bibliography",
+      "url": "https://www.gov.pl/attachment/7c87df2f-f474-4d69-920b-dbba4816d3d8",
+      "status": "verified-partial",
+      "note": "Wacholc, Ćwiklińska/Rogozińska, Kreiner-Bogdańska, wykaz 2026/27."
+    },
+    {
+      "id": "OMT",
+      "type": "oer",
+      "url": "https://openmusictheory.github.io/",
+      "status": "verified-page",
+      "note": "CC BY-SA 4.0; wersja i lokalizator rozdziału obowiązkowe, prawa materiałów osób trzecich osobno."
+    },
+    {
+      "id": "OMT2",
+      "type": "oer",
+      "url": "https://doi.org/10.21220/SQQ8-A372",
+      "status": "indexed",
+      "note": "Wersja 2, katalog VIVA; nie mylić wersji rozdziałów."
+    },
+    {
+      "id": "MUSICCA",
+      "type": "product-reference",
+      "url": "https://www.musicca.com/pl/cwiczenia",
+      "status": "verified-page",
+      "note": "Inspiracja interakcji, nie licencja na kopiowanie."
+    },
+    {
+      "id": "MTNET",
+      "type": "product-reference",
+      "url": "https://www.musictheory.net/lessons",
+      "status": "prior-reference",
+      "note": "Do weryfikacji konkretne lekcje."
+    },
+    {
+      "id": "TEORIA",
+      "type": "product-reference",
+      "url": "https://www.teoria.com/",
+      "status": "prior-reference",
+      "note": "Do weryfikacji konkretne ćwiczenia."
+    },
+    {
+      "id": "EARMASTER",
+      "type": "product-reference",
+      "url": "https://earmaster.com/",
+      "status": "prior-reference",
+      "note": "Do weryfikacji konkretne funkcje."
+    },
+    {
+      "id": "LENMUS",
+      "type": "oss-reference",
+      "url": "https://github.com/lenmus/lenmus",
+      "status": "verified-page",
+      "note": "GPL-3.0; inspiracja, bez kopiowania kodu do MIT bez oceny licencji."
+    },
+    {
+      "id": "VF",
+      "type": "engine",
+      "url": "https://github.com/vexflow/vexflow",
+      "status": "verified-page",
+      "note": "MIT; renderer niskopoziomowy, nie edytor."
+    },
+    {
+      "id": "OSMD",
+      "type": "engine",
+      "url": "https://github.com/opensheetmusicdisplay/opensheetmusicdisplay",
+      "status": "verified-page",
+      "note": "BSD-3-Clause, VexFlow pod spodem; nie niezależny oracle."
+    },
+    {
+      "id": "VEROVIO",
+      "type": "engine",
+      "url": "https://github.com/rism-digital/verovio",
+      "status": "verified-page",
+      "note": "LGPL; natywne MEI, konwersja MusicXML."
+    },
+    {
+      "id": "TONE",
+      "type": "engine",
+      "url": "https://github.com/tonejs/tone.js",
+      "status": "verified-page",
+      "note": "MIT, Sampler z transpozycją próbek, audio scheduling."
+    },
+    {
+      "id": "TONAL",
+      "type": "engine",
+      "url": "https://github.com/tonaljs/tonal",
+      "status": "verified-page",
+      "note": "Biblioteka teorii; potrzebne adaptery i reguły kontekstowe."
+    },
+    {
+      "id": "SMPLR",
+      "type": "engine",
+      "url": "https://github.com/danigb/smplr",
+      "status": "verified-page",
+      "note": "Sampler; licencje konkretnych banków osobno."
+    },
+    {
+      "id": "PITCHY",
+      "type": "engine",
+      "url": "https://github.com/ianprime0509/pitchy",
+      "status": "verified-page",
+      "note": "McLeod Pitch Method, Hz i clarity; clarity nie jest skalibrowanym prawdopodobieństwem."
+    },
+    {
+      "id": "BP",
+      "type": "engine",
+      "url": "https://github.com/spotify/basic-pitch-ts",
+      "status": "verified-page",
+      "note": "Apache-2.0, audio-to-MIDI, eksperyment."
+    },
+    {
+      "id": "M21",
+      "type": "engine",
+      "url": "https://github.com/cuthbertLab/music21",
+      "status": "verified-page",
+      "note": "BSD-3-Clause kodu; osobne prawa korpusu."
+    },
+    {
+      "id": "XML",
+      "type": "standard",
+      "url": "https://www.musicxml.com/for-developers/",
+      "status": "verified-page",
+      "note": "MusicXML 4.0, raport grupy społeczności W3C, nie W3C Recommendation."
+    },
+    {
+      "id": "XML-XSD",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/listings/musicxml.xsd/",
+      "status": "prior-reference",
+      "note": "Walidacja schematu nie dowodzi poprawności muzycznej."
+    },
+    {
+      "id": "BRAVURA",
+      "type": "font",
+      "url": "https://github.com/steinbergmedia/bravura",
+      "status": "verified-page",
+      "note": "OFL 1.1, SMuFL."
+    },
+    {
+      "id": "LILY-TEST",
+      "type": "test",
+      "url": "https://lilypond.org/doc/v2.26/input/regression/musicxml/collated-files.html",
+      "status": "verified-page",
+      "note": "Nieoficjalny zestaw testowy; sprawdzić licencje przed skopiowaniem fixture."
+    },
+    {
+      "id": "DCML",
+      "type": "corpus",
+      "url": "https://github.com/DCMLab/dcml_corpora",
+      "status": "verified-page",
+      "note": "Analizy eksperckie, licencja każdego podkorpusu oddzielnie."
+    },
+    {
+      "id": "SALAMANDER",
+      "type": "audio",
+      "url": "https://github.com/sfzinstruments/SalamanderGrandPiano",
+      "status": "verified-page",
+      "note": "Alexander Holm, CC BY 3.0; wariant konwersji i atrybucja do potwierdzenia."
+    },
+    {
+      "id": "VCSL",
+      "type": "audio",
+      "url": "https://github.com/sgossner/VCSL",
+      "status": "verified-page",
+      "note": "CC0 deklarowane w README; kontrolować pochodzenie konkretnych plików."
+    }
+  ]
+}

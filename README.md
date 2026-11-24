@@ -69,7 +69,7 @@ frogphony/
 
 ## What's next
 
-The prototype establishes the interface and core lesson flow. The [curriculum and engineering blueprint](docs/education-blueprint.md) describes the proposed program and release quality gates. The repository slug and Pages path remain unchanged for now. The next steps are:
+The prototype establishes the interface and core lesson flow. The [curriculum and engineering blueprint](docs/education-blueprint.md) describes the proposed program and release quality gates. The [audited reference library](docs/research/README.md) contains source status, curriculum mapping, music-theory rules, engine assessment and proposed test fixtures; it supersedes the initial blueprint where they differ. The repository slug and Pages path remain unchanged for now. The next steps are:
 
 - More lessons across all three subjects.
 - Better audio examples, including verified instrument samples.
