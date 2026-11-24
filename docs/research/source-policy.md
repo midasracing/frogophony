@@ -19,3 +19,6 @@ docs/research/lesson-manifest.json zawiera tablicę lessons. Dla każdej: id, st
 
 ## Granice
 Automatyczny checker wykrywa brak lub niepoprawne odwołania, nie rozpoznaje fałszywego twierdzenia, nie zastępuje pedagoga i nie sprawdza poprawności audio. Nie istnieje kompletna baza całej muzyki; budujemy kontrolowalny, rozszerzalny zakres projektu od szkoły do rekrutacji akademickiej.
+
+## Konflikty i bezpośredni dostęp
+Każdy sourceRef sprawdzonego twierdzenia wymaga `access: direct-read`: odczytu konkretnego fragmentu, nie samego wyniku wyszukiwania. Rozbieżności zapisywać w rejestrze, nie akceptować ani odrzucać automatycznie całego źródła. ZPE-MOLL, ćwiczenie 4 podaje KV26 dla wariacji Mozarta; HENLE-MOZART-K265, HN 165 potwierdza KV 265 (300e). ZPE weryfikuje wybrane reguły gam, nie wszystkie dane repertuarowe. Dla terminologii zależnej od konwencji wymagać zakresu i odpowiedniego źródła.

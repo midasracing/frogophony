@@ -364,7 +364,7 @@
       "type": "theory",
       "url": "https://zpe.gov.pl/a/w-dur-i-w-moll/D1ApP9WWl",
       "status": "verified-page",
-      "note": "Polska terminologia odmian moll: dorycka z podwyższonym VI i VII, melodyczna w górę dorycka, w dół naturalna."
+      "note": "Polska terminologia odmian moll: dorycka z podwyższonym VI i VII, melodyczna w górę dorycka, w dół naturalna. Uwaga: Ćwiczenie 4 błędnie podaje KV26 dla wariacji Mozarta Ah, vous dirai-je Maman. Poprawny numer KV 265 (300e), HENLE-MOZART-K265. Inne dane repertuarowe sprawdzać oddzielnie."
     },
     {
       "id": "CZ-26",
@@ -785,6 +785,20 @@
       "url": "https://isap.sejm.gov.pl/isap.Nsf/download.xsp/WDU20260001145/O/D20261145.pdf",
       "status": "verified-partial",
       "note": "Fragment zmian 2026 dotyczący m.in. kształcenia ogólnego; nie twierdzić bez pełnego przeglądu, że zmieniono treści teorii."
+    },
+    {
+      "id": "OMT2-MINOR",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
+      "status": "verified-partial",
+      "note": "Odczyt Natural Minor, Harmonic Minor, Melodic Minor, Example 10 i The Parallel and Relative Relationships."
+    },
+    {
+      "id": "HENLE-MOZART-K265",
+      "type": "publisher",
+      "url": "https://www.henle.de/12-Variations-on-Ah-vous-dirai-je-Maman-K.-265/HN-165",
+      "status": "verified-partial",
+      "note": "Odczyt tytułu i Content/Details: HN 165, KV 265 (300e); nie potwierdza praw do reprodukcji nut."
     }
   ]
 }

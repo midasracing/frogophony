@@ -9,7 +9,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-INT",
-          "locator": "Diminished and Augmented Intervals, Examples 7–8"
+          "locator": "Diminished and Augmented Intervals, Examples 7–8",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -31,7 +32,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-INT",
-          "locator": "Example 8"
+          "locator": "Example 8",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -51,7 +53,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-TRI",
-          "locator": "Triadic Qualities and Listening to Triads"
+          "locator": "Triadic Qualities and Listening to Triads",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -72,7 +75,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-INV",
-          "locator": "Triadic Inversion, Example 2"
+          "locator": "Triadic Inversion, Example 2",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -93,7 +97,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-INV",
-          "locator": "Seventh Chord Inversion, Example 7"
+          "locator": "Seventh Chord Inversion, Example 7",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -109,7 +114,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-7",
-          "locator": "Seventh Chord Qualities and Nomenclature, Example 3"
+          "locator": "Seventh Chord Qualities and Nomenclature, Example 3",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -125,7 +131,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-NR",
-          "locator": "Opening summary; Example 6"
+          "locator": "Opening summary; Example 6",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -144,7 +151,8 @@
       "sourceRefs": [
         {
           "sourceId": "OMT2-NR",
-          "locator": "Paragraph after Example 6"
+          "locator": "Paragraph after Example 6",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -163,7 +171,8 @@
       "sourceRefs": [
         {
           "sourceId": "XML-MIDI",
-          "locator": "The MIDI-Compatible Part of MusicXML, pitch example"
+          "locator": "The MIDI-Compatible Part of MusicXML, pitch example",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -181,7 +190,8 @@
       "sourceRefs": [
         {
           "sourceId": "XML-DURATION",
-          "locator": "Element description"
+          "locator": "Element description",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -200,7 +210,8 @@
       "sourceRefs": [
         {
           "sourceId": "XML-TIED",
-          "locator": "Element description"
+          "locator": "Element description",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -209,6 +220,144 @@
         "N02",
         "N03"
       ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MINOR-NAT",
+      "statement": "W gamie molowej naturalnej półtony występują między II–III i V–VI; pozostałe sąsiednie stopnie dzieli cały ton.",
+      "scope": "Gama wstępująca, system diatoniczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-MINOR",
+          "locator": "Natural Minor, Example 3",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "ZPE-MOLL",
+          "locator": "Ćwiczenie 3",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MINOR-HARM",
+      "statement": "Gama molowa harmoniczna różni się od naturalnej podwyższeniem VII stopnia o półton.",
+      "scope": "Klasyczny model gamy.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-MINOR",
+          "locator": "Harmonic Minor; Examples 4, 10",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "G02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MINOR-MEL",
+      "statement": "W klasycznej odmianie melodycznej VI i VII stopień gamy naturalnej podwyższa się w górę, w dół stosuje się układ naturalny.",
+      "scope": "Konwencja gam klasycznych, nie jazzowa ani uniwersalny opis kompozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-MINOR",
+          "locator": "Melodic Minor; Examples 5, 10",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "ZPE-MOLL",
+          "locator": "Ćwiczenie 3",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "G04",
+        "G05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MINOR-PL-DOR",
+      "statement": "W polskiej terminologii szkolnej zastosowanej w ZPE gama molowa dorycka ma podwyższony VI i VII stopień względem naturalnej.",
+      "scope": "Nie utożsamiać z angielskim Dorian mode. Źródło potwierdza układ w górę; kierunek zstępujący wymaga osobnej kontroli.",
+      "sourceRefs": [
+        {
+          "sourceId": "ZPE-MOLL",
+          "locator": "Ćwiczenie 3",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "G06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MINOR-KEYSIG",
+      "statement": "Znaki przykluczowe tonacji molowej wynikają z gamy naturalnej; odmiany gam nie stanowią odrębnych tonacji.",
+      "scope": "Klasyczny system dur-moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-MINOR",
+          "locator": "The Minor Scale; Minor Key Signatures",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "XML-PITCH-STRUCT",
+      "statement": "MusicXML 4.0 reprezentuje wysokość przez step, alter i octave; alter jest opcjonalny dla dźwięku niezmienionego, konieczny dla zmienionego także znakiem przykluczowym.",
+      "scope": "Format danych, nie wygląd znaków nutowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "XML-MIDI",
+          "locator": "Pitch",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "N01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MOZART-K265",
+      "statement": "Wariacje fortepianowe Mozarta na temat Ah, vous dirai-je Maman noszą numer katalogowy KV 265 (300e).",
+      "scope": "Dane identyfikacyjne, nie datowanie i licencje.",
+      "sourceRefs": [
+        {
+          "sourceId": "HENLE-MOZART-K265",
+          "locator": "Content/Details, HN 165",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
     }

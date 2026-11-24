@@ -43,3 +43,8 @@ Zweryfikowano wykazy szkolne oraz opisy wydawców Wesołowskiego, Sikorskiego i 
 - Dodano ADM-26-LAW i źródła katalogowe, ponownie potwierdzono wybrane definicje OMT i MusicXML. Rejestr: 111 rekordów, nie tyle pełnych publikacji. Lista verified-claims: 11 twierdzeń ze ścisłym zakresem, żadne nie zatwierdzone do publikacji przez pedagoga.
 - AGENTS.md, polityka źródłowa, manifest i checker metadanych. W narzędziu wykonano tę samą funkcję walidującą na danych oraz 3 kontrolne błędne manifesty; wszystkie odrzucone. Nie uruchomiono jeszcze pliku przez Node ani workflow po commicie; nie oznaczać tego jako test muzyczny. W repo nie ma zatwierdzonych lekcji w manifestie; istniejące demo pozostaje demonstracją.
 - Ograniczenia: nie odczytano wszystkich stron i specjalności, nie zamknięto literatury muzycznej i wszystkich planów ramowych, nie powtórzono odczytu wszystkich 98 wcześniejszych rekordów; wybrane OMT 403, wybrane załączniki szkolne timeout, pełne podręczniki i recenzent nadal brak. Bez zmian runtime. Nie potwierdzać pełnego pokrycia lub dokładnego czasu pracy.
+
+### Runda 4 — kontrola twierdzeń
+- Dodano 7 twierdzeń o gamach molowych, MusicXML i identyfikacji dzieła Mozarta. 18 source-checked, 113 rekordów źródeł. Checker wymaga direct-read; nie weryfikuje prawdziwości deklaracji.
+- Wykryto błąd KV26 w ZPE-MOLL; katalog Henle HN 165 potwierdza KV 265 (300e). Nie rozszerzać potwierdzenia odmiany doryckiej na kierunek w dół bez źródła.
+- Workflow Research provenance commita f081510: success (https://github.com/midasracing/frogphony/actions/runs/45501012975), Pages także success. To walidacja metadanych i build, nie test muzyczny.
