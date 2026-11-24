@@ -25,3 +25,6 @@ Każdy sourceRef sprawdzonego twierdzenia wymaga `access: direct-read`: odczytu 
 
 ## Blokada zatwierdzania — runda 5
 Do czasu rejestru rzeczywistych recenzji i kontroli runtime checker odrzuca każde releaseApproved=true oraz każdą lekcję inną niż draft. Poprzednio dowolny niepusty tekst mógł imitować recenzję. Mapa coverage-map.json nie oznacza pełnego pokrycia. Nie omijać blokady; zastąpić ją weryfikowalnymi raportami i połączeniem z publikacją treści.
+
+## Pierwszeństwo źródeł polskich
+Przed rozstrzyganiem wątpliwości merytorycznej i terminologicznej użyć [polskiej biblioteki referencyjnej](polish-reference-library.md). W polskiej teorii szkolnej i terminologii pierwszeństwo ma odpowiednia polska literatura specjalistyczna, odczytana w konkretnym miejscu. Jeśli dostęp jest ograniczony, nie udawać lektury; znaleźć wiarygodną polską alternatywę lub wstrzymać treść. Anglojęzyczne źródła są pomocnicze, z wyjątkiem standardów technicznych i jawnie oznaczonych konwencji. Nie przypisywać książkom stwierdzeń z samego katalogu.

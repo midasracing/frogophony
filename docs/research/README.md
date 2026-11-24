@@ -18,6 +18,7 @@ Audyt 2026-11-24, runda 5. Dokumentacja robocza, nie certyfikacja pedagogiczna. 
 14. [Manifest lekcji](lesson-manifest.json): status dopuszczenia.
 15. [Konwencje i rozbieżności](conventions.md): polskie i angielskie systemy, wykryte błędy.
 16. [Mapa luk](coverage-map.json): częściowe wsparcie źródłowe.
-17. [Raport zmian](audit-log.md): błędy, rozstrzygnięcia i luki.
+17. [Polska biblioteka referencyjna](polish-reference-library.md): priorytetowe kompendia, dostępność i kolejność weryfikacji.
+18. [Raport zmian](audit-log.md): błędy, rozstrzygnięcia i luki.
 
 Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md w katalogu głównym. W razie sprzeczności z wcześniejszymi rundami obowiązuje nowsza korekta poparta źródłem. Nie deklarować zgodności z całym szkolnictwem, dopóki macierz wymagań nie zostanie zamknięta. Status source-reviewed oznacza weryfikację materiałów źródłowych, nie zatwierdzenie przez nauczyciela ani test wykonany na urządzeniu.

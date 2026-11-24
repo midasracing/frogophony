@@ -56,3 +56,6 @@ Zweryfikowano wykazy szkolne oraz opisy wydawców Wesołowskiego, Sikorskiego i 
 ### Runda 5 — kontrola luk i metadanych
 - 26 z 73 grup ma częściowe wsparcie, 47 nie ma powiązań. Żadna nie jest kompletna. H09/H10 uzupełniono o postać zasadniczą.
 - Zablokowano zatwierdzenia bez rzeczywistego rejestru recenzji; sprawdzono zakresy stron, lokalizatory, odwołania i kompletność mapy. Funkcję walidującą uruchomiono na danych i 7 negatywnych przypadkach, wszystkie negatywne odrzucone. To test metadanych, nie silnika muzycznego. Bez zmian runtime. Wynik Actions tego commita do potwierdzenia.
+
+## Polska biblioteka referencyjna — kontynuacja rundy 5
+Dodano 19 rekordów, w tym Kawiorski (leksykon 2026 i dwa słowniki), PWN, PWM, polskie bibliografie i metodykę CEA. Potwierdzono ograniczony dostęp do trzech publikacji Kawiorskiego bezpośrednio w rekordach UJK; bez lektury treści. CEA udostępnia dwa publiczne PDF-y 114 i 184 strony; odczytano wybrane fragmenty pierwszego i spis drugiego, screenshot drugiego timeout. Muzykoteka 502, PWM 403, portal NIMiT timeout — statusy fragmentaryczne, nie certyfikować haseł. Nie kopiowano publikacji do repo. Dodano politykę pierwszeństwa polskich źródeł i indeks biblioteki. Nie dodano nowych twierdzeń muzycznych ani zmian runtime.

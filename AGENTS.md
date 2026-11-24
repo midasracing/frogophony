@@ -5,3 +5,5 @@
 - Curriculum scope is not evidence for a definition. A library README is not a benchmark. A book catalogue is not a read textbook. No automatic certification of pedagogical correctness.
 - Every teaching explanation, answer and generator invariant must map to source-checked claims. Published lessons require separate real musical/pedagogical review and tested implementation. Never manufacture reviewer names, dates or test results.
 - Run node scripts/check-research.mjs before changing educational data. Its checks cover provenance metadata, not music correctness. See source-policy.md for current limitations. Update audit-log.md and source registry on corrections. Do not mark all old research as verified automatically.
+
+- For Polish musical theory, terminology and school harmony, consult docs/research/polish-reference-library.md FIRST. Use an actually read passage of a recognized Polish specialist source; use foreign sources for independent cross-checks and explicit foreign conventions. Technical standards retain their original authoritative documentation. If a Polish claim cannot be verified, leave it blocked. Catalogues are not read books.

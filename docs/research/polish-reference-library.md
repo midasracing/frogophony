@@ -1,0 +1,36 @@
+# Polska biblioteka referencyjna Frogophony
+Data weryfikacji 2026-11-24. To rejestr priorytetów lekturowych i rzeczywiście dostępnych materiałów, nie twierdzenie o przeczytaniu wszystkich książek. Wpisy wskazują identyfikatory w sources.json; każdy nowy fakt nadal wymaga odczytu konkretnego miejsca i zapisu w verified-claims.json.
+
+## Hierarchia według rodzaju problemu
+| Problem | Pierwszy wybór | Dodatkowa kontrola |
+|---|---|---|
+| Zakres szkoły i egzaminu | aktualna podstawa, CEA i konkretny regulamin | programy szkół, profil uczelni |
+| Zasady i ortografia muzyczna | Franciszek Wesołowski, Zasady muzyki (WES-ZAS); konkretne wydanie | CEA samouczki (PL-CEA-TEST), ZPE po sprawdzeniu fragmentu |
+| Harmonia szkolna | Kazimierz Sikorski, Harmonia 1–2 (SIK-HAR1/2); Wesołowski Nauka harmonii (WES-HAR); Józef Targosz Podstawy harmonii funkcyjnej (PL-SCHOOL-BIB) | Kawiorski PL-KAW-HAR dla terminologii i alternatywnych analiz; nie mieszać systemów |
+| Rozbieżności polsko-angielskie | Marek Kawiorski PL-KAW-ENPL/PL-KAW-PLEN; Grzegorz Dąbkowski Polska terminologia z zakresu teorii muzyki (1991), Kształtowanie się polskiej terminologii muzycznej (2010), bibliografia PL-TERM-BN | źródło angielskie jako drugi sprawdzian, nie samodzielny dowód polskiej nazwy |
+| Metodyka I stopnia | PL-CEA-EAR14, PL-CEA-RHY14, Wacholc Kształcenie poczucia tonalnego i słuchu harmonicznego | konkretne programy szkoły i aktualna podstawa |
+| Solfeż i korekta błędów | Wacholc Czytanie nut głosem, Solfeż dwugłosowy; Dzielska i Kaszycki; Izabela Targońska Podstawy korekty błędów I–II, 2004 (PL-SCHOOL-EAR) | CEA i oryginalne ćwiczenia kontrolne |
+| Formy | Danuta Wójcik ABC form muzycznych i Analizy (PWM-WOJ-F/A), Chomiński Formy muzyczne t. I–V (PL-SCHOOL-BIB; zweryfikować autorstwo każdego tomu) | analiza konkretnej partytury i drugi podręcznik |
+| Historia | Danuta Gwizdalanka Historia muzyki; Chomiński Historia muzyki; Małgorzata Kowalska ABC historii muzyki (PL-SCHOOL-BIB; sprawdzić wydania) | Encyklopedia Muzyczna PWM (PL-PWM-ENC, przede wszystkim biografie), Encyklopedia muzyki PWN (PL-PWN-ENC), POLMIC, NIFC |
+| Instrumenty i akustyka | Mieczysław Drobner Instrumentoznawstwo i akustyka (PL-DROB) | źródła muzealne i akademickie, NIMiT dla instrumentów ludowych |
+| Folklor i polskie instrumenty ludowe | PL-NIMIT-INSTR, Wójcik Nauka o muzyce | konkretne rekordy muzeów, POLMIC |
+| Wprowadzenie do historii/pojęć | Muzykoteka Szkolna (PL-MUZYKOTEKA) po sprawdzeniu dostępności | opracowania akademickie, źródło pierwotne |
+| Standard notacji i audio | MusicXML, SMuFL, dokumentacja biblioteki | polskie zasady muzyki dla treści; standard techniczny dla formatu |
+
+## Publikacje o szczególnie dużej wartości, ale niedostępne w pełni online
+- Marek Kawiorski, Leksykon muzyczny. Harmonia, cz. 1, Wydawnictwo UJK, 2026, 272 s., DOI 10.25951/14202. Katalog opisuje akordy i konteksty harmoniczne. Dostęp do PDF ograniczony do Oddziału Informacji Naukowej. Nie znamy treści konkretnych haseł.
+- Marek Kawiorski, Słownik angielsko-polski terminów muzycznych, 2023, 240 s., DOI 10.25951/9620; Słownik polsko-angielski terminów muzycznych, 2024, 264 s., DOI 10.25951/12763. Oba ograniczone w bibliotece cyfrowej. Nie wpisywać tłumaczeń z domysłu pod tymi źródłami.
+- Encyklopedia muzyki PWN, red. Andrzej Chodkowski (1995; późniejsze wydanie odnotowane w bibliografii PWM), nie mylić z Encyklopedią Muzyczną PWM. Pełny tekst PWN nie został uzyskany.
+- Wesołowski, Sikorski, Targosz, Wójcik, Drobner, Gwizdalanka, Wacholc: dostęp katalogowy lub szkolne wykazy; legalny egzemplarz lub dostarczone fragmenty potrzebne przed powoływaniem się na rozdziały.
+
+## Publicznie dostępne PDF CEA — mapa lektury
+PL-CEA-EAR14: 114 stron. Drukowana strona 9–10: Anna Pawelec, koncepcja nauczania (bezpośredni odczyt fragmentu); 15 i 22: Urszula Cebula, puls i uzupełnianie rytmu (odczyt fragmentu); 39: Anna Pawelec, słuch harmoniczny i tonalny (odczyt fragmentu). Spis treści wskazuje dalsze części: rytm i metrum s. 15, synkopa s. 30, twórczość s. 58, scenariusze s. 73, tańce s. 81, faktura s. 84, forma s. 87, elementy dzieła s. 90. Numery drukowane, indeks PDF o jeden mniejszy. Pozostałe rozdziały nieprzeczytane.
+PL-CEA-RHY14: 184 strony; spis treści wskazuje elementy muzyki (s. 23–62), rytm i metrum (s. 68–94), struktury melodyczne i harmoniczne (s. 97–137), m.in. tetrachordy, tonikę, półton i cały ton, interwały i trójdźwięki. W tej rundzie tylko przegląd indeksu. Nie opisywać wyników metodycznych jako badań skuteczności aplikacji.
+Obie publikacje z 2014 r. są źródłami metodycznymi, a nie aktualną podstawą prawną. Nie kopiować ich ćwiczeń i przykładów bez oceny praw.
+
+## Reguła pracy
+1. Wątpliwość o polskie pojęcie → odpowiedni polski specjalistyczny podręcznik/kompendium → dokładne wydanie, strona, fragment. Jeśli nie ma legalnego pełnego dostępu, sprawdzić drugie polskie źródło; jeśli nadal brak, zablokować twierdzenie.
+2. Wątpliwość historyczna → polska encyklopedia/monografia i źródło dzieła, a nie jedna strona popularna.
+3. Rozbieżność → opisać obie konwencje i wybrać jawną konwencję lekcji. Nie uznawać różnicy za błąd, jeżeli wynika ze szkoły analizy.
+4. Źródło zagraniczne jako kontrola uzupełniająca (lub główne dla standardu technicznego); nie dowodzi polskiej terminologii.
+5. Dotychczasowe twierdzenia sprawdzone jedynie w angielskich źródłach pozostają source-checked w zadeklarowanym zakresie, lecz polskie nazwy wymagają osobnego potwierdzenia przed wydaniem. W tej rundzie nie promowano żadnego twierdzenia.

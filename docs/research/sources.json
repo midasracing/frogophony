@@ -869,6 +869,139 @@
       "url": "https://musictheory.pugetsound.edu/mt21c/InversionOfIntervals.html",
       "status": "verified-partial",
       "note": "§5.4, przykład m6/M3 i definicja odwracania."
+    },
+    {
+      "id": "PL-SCHOOL-BIB",
+      "type": "bibliography",
+      "url": "https://www.arch.szymanowski.edu.pl/o-szkole/pion-muzyczny/sekcja-teorii-muzyki",
+      "status": "verified-index",
+      "note": "Archiwalny szkolny zestaw podręczników, sekcja od nagłówka SZKOLNY ZESTAW PODRĘCZNIKÓW; nie aktualny program ani tekst książek."
+    },
+    {
+      "id": "PL-KAW-HAR",
+      "type": "bibliography",
+      "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/14202/edition/13799?language=pl",
+      "status": "verified-index",
+      "note": "Marek Kawiorski, Leksykon muzyczny. Harmonia cz. 1, Kielce 2026, 272 s., DOI 10.25951/14202, ISBN PDF 978-83-8377-048-2. Odczyt abstraktu i praw dostępu: tylko w Oddziale Informacji Naukowej. Nie czytano haseł."
+    },
+    {
+      "id": "PL-KAW-PUB",
+      "type": "bibliography",
+      "url": "https://wydawnictwo.ujk.edu.pl/produkt/leksykon-muzyczny-harmonia-cz-1/",
+      "status": "verified-index",
+      "note": "Opis wydawcy, zakres akordów i różnych ujęć analitycznych. Nie pełny tekst."
+    },
+    {
+      "id": "PL-KAW-ENPL",
+      "type": "bibliography",
+      "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/9620/edition/10126?language=pl",
+      "status": "verified-index",
+      "note": "Marek Kawiorski, 2023, 240 s., DOI 10.25951/9620, ISBN PDF 978-83-67580-44-1. Około 5500 jednostek; dostęp tylko w Oddziale Informacji Naukowej."
+    },
+    {
+      "id": "PL-KAW-PLEN",
+      "type": "bibliography",
+      "url": "https://bibliotekacyfrowa.ujk.edu.pl/dlibra/publication/12763/edition/12585/slownik-polsko-angielski-terminow-muzycznych-kawiorski-marek?language=pl",
+      "status": "verified-index",
+      "note": "Marek Kawiorski, 2024, 264 s., DOI 10.25951/12763, ISBN PDF 978-83-8377-015-4. Około 4000 jednostek; dostęp ograniczony."
+    },
+    {
+      "id": "PL-PWM-ENC",
+      "type": "reference",
+      "url": "https://polskabibliotekamuzyczna.pl/o-encyklopedii/",
+      "status": "verified-partial",
+      "note": "Opis projektu w indeksie; bezpośredni odczyt 403. Encyklopedia Muzyczna PWM przede wszystkim biograficzna, nie podręcznik zasad muzyki. Dostęp do poszczególnych haseł sprawdzić oddzielnie."
+    },
+    {
+      "id": "PL-PWN-ENC",
+      "type": "bibliography",
+      "url": "https://bibliotekapiosenki.pl/publikacje/Chodkowski_Andrzej_Encyklopedia_muzyki",
+      "status": "verified-index",
+      "note": "Encyklopedia muzyki pod red. Andrzeja Chodkowskiego, PWN 1995, ISBN 8301113901. Katalog, nie pełny tekst."
+    },
+    {
+      "id": "PL-CEA-TEST",
+      "type": "official",
+      "url": "https://www.gov.pl/web/cea/harmonia-zasady-muzyki",
+      "status": "verified-index",
+      "note": "Bezpośrednio przeczytano wykaz samouczków i testów; nie otwierano ani nie rozwiązywano testów w Testportal. Referencja typów zadań, nie dowód definicji."
+    },
+    {
+      "id": "PL-CEA-PUB",
+      "type": "official",
+      "url": "https://www.gov.pl/web/cea/publikacje-cea",
+      "status": "verified-index",
+      "note": "Spis publikacji z linkami do metodyki 2014 i innych prac."
+    },
+    {
+      "id": "PL-CEA-EAR14",
+      "type": "pedagogy",
+      "url": "https://www.gov.pl/attachment/a00a0425-a029-439d-b96c-9d4fb5c347e5",
+      "status": "verified-partial",
+      "note": "PDF 114 stron, bezpośrednio odczytano okładkę, spis treści, fragmenty drukowanych s. 9–10, 15, 22, 39. Materiały pomocnicze dla nauczycieli kształcenia słuchu z audycjami muzycznymi (CEA 2014). Historyczna metodyka, nie bieżący akt prawny."
+    },
+    {
+      "id": "PL-CEA-RHY14",
+      "type": "pedagogy",
+      "url": "https://www.gov.pl/attachment/399ddd58-81f9-45e3-97fa-95f34a4dbf45",
+      "status": "verified-partial",
+      "note": "PDF 184 strony, dostępny tekst spisu treści, próba obrazu strony tytułowej timeout. Materiały pomocnicze dla nauczycieli rytmiki z kształceniem słuchu (CEA 2014). Nie odczytano wszystkich rozdziałów."
+    },
+    {
+      "id": "PL-CEA-TEACH",
+      "type": "official",
+      "url": "https://www.gov.pl/web/cea/materialy-do-nauczania",
+      "status": "verified-index",
+      "note": "Indeks materiałów i wykładów CEA."
+    },
+    {
+      "id": "PL-SCHOOL-EAR",
+      "type": "bibliography",
+      "url": "https://www.gov.pl/web/zposm3warszawa/bibliografia-nut",
+      "status": "verified-index",
+      "note": "Sekcja KSZTAŁCENIE SŁUCHU: Targońska, Wacholc, Dzielska, Nowy solfeż. Wykaz pozycji, nie lektura."
+    },
+    {
+      "id": "PL-DROB",
+      "type": "bibliography",
+      "url": "https://integro.ciniba.edu.pl/integro/191901503781/drobner-mieczyslaw/instrumentoznawstwo-i-akustyka",
+      "status": "verified-index",
+      "note": "Mieczysław Drobner, Instrumentoznawstwo i akustyka, podręcznik SM II. Rekord katalogowy."
+    },
+    {
+      "id": "PL-TERM-BN",
+      "type": "reference",
+      "url": "https://sensualnosc.bn.org.pl/terminologia-muzyczna-187/",
+      "status": "verified-page",
+      "note": "Sebastian Żurowski, Terminologia muzyczna, 2024/2025, odczyt artykułu i bibliografii prac Grzegorza Dąbkowskiego. Językoznawstwo, nie zbiór definicji wszystkich terminów."
+    },
+    {
+      "id": "PL-MUZYKOTEKA",
+      "type": "reference",
+      "url": "https://produkcja.muzykotekaszkolna.pl/wiedza/",
+      "status": "verified-partial",
+      "note": "Wynik indeksowany; bezpośredni odczyt 502. Portal historii, pojęć i instrumentów, nie zweryfikowano haseł."
+    },
+    {
+      "id": "PL-MUZYKOTEKA-GUIDE",
+      "type": "reference",
+      "url": "https://produkcja.muzykotekaszkolna.pl/aktualne/jak-uczy%C4%87-si%C4%99-z-domu-fina-podpowiada/",
+      "status": "verified-partial",
+      "note": "Indeksowany opis FINA i kanonu 133 utworów, nie potwierdzono dostępności każdego nagrania."
+    },
+    {
+      "id": "PL-NIMIT-INSTR",
+      "type": "reference",
+      "url": "https://www.ludowe.instrumenty.edu.pl/",
+      "status": "verified-partial",
+      "note": "Portal NIMiT, indeks i potwierdzenie w POLMIC; bezpośredni odczyt timeout."
+    },
+    {
+      "id": "PL-NIMIT-INSTR-ABOUT",
+      "type": "reference",
+      "url": "https://polmic.pl/pl/dzieje-sie/prezentacja-portalu-polskie-ludowe-instrumenty-muzyczne",
+      "status": "verified-partial",
+      "note": "Opis projektu w wyniku wyszukiwania, nie pełne hasła instrumentów."
     }
   ]
 }
