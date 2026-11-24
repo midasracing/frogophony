@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "policy": "Tylko twierdzenia sprawdzone w widocznym fragmencie, nie certyfikowane przez pedagoga. Oryginalne sformułowania, odsyłacze, nie kopie przykładów. Nie rozszerzać zakresu przez domysł.",
+  "claims": [
+    {
+      "id": "INT-QUALITY",
+      "statement": "Interwał wielki zmniejszony o półton jest mały; czysty lub mały zmniejszony o półton staje się zmniejszony.",
+      "scope": "Klasyczna notacja diatoniczna, nie klasy interwałowe mod 12.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-INT",
+          "locator": "Diminished and Augmented Intervals, Examples 7–8"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "I01",
+        "I02",
+        "I03",
+        "I04",
+        "I08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "INT-AUG",
+      "statement": "Interwał czysty lub wielki powiększony o półton staje się zwiększony.",
+      "scope": "Nie zastępuje ustalenia liczby diatonicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-INT",
+          "locator": "Example 8"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "I01",
+        "I03",
+        "I11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TRI-QUAL",
+      "statement": "Trójdźwięk durowy ma tercję wielką i kwintę czystą; molowy tercję małą i kwintę czystą; zmniejszony tercję małą i kwintę zmniejszoną; zwiększony tercję wielką i kwintę zwiększoną (od prymy).",
+      "scope": "Struktury tercjowe; poprawna pisownia wymagana w zadaniu nutowym.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-TRI",
+          "locator": "Triadic Qualities and Listening to Triads"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "H01",
+        "H02",
+        "H05",
+        "H06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TRI-INV",
+      "statement": "Postać zasadnicza, pierwszy i drugi przewrót trójdźwięku mają odpowiednio prymę, tercję lub kwintę w basie.",
+      "scope": "Pryma określona; akordy symetryczne bez kontekstu mogą być niejednoznaczne.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-INV",
+          "locator": "Triadic Inversion, Example 2"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "H01",
+        "H02",
+        "H05",
+        "H06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SEV-INV",
+      "statement": "W trzecim przewrocie akordu septymowego w basie znajduje się septyma akordowa.",
+      "scope": "Pryma musi być określona.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-INV",
+          "locator": "Seventh Chord Inversion, Example 7"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SEV-QUAL",
+      "statement": "Cztery dźwięki akordu septymowego o strukturze tercjowej można sklasyfikować według jakości trójdźwięku i septymy względem prymy.",
+      "scope": "Nie przesądza o funkcji harmonicznej; polskie etykiety do osobnego zatwierdzenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-7",
+          "locator": "Seventh Chord Qualities and Nomenclature, Example 3"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DOT",
+      "statement": "Pierwsza kropka dodaje połowę wartości podstawowej; kolejna połowę wartości poprzedniej kropki.",
+      "scope": "Czas notowany, nie interpretacja wykonawcza.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-NR",
+          "locator": "Opening summary; Example 6"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "R04",
+        "R07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TIE",
+      "statement": "Łuk przedłużający łączy wartości nut tej samej wysokości bez ponownego ataku drugiej nuty.",
+      "scope": "Zwykły tie, bez wyjątków edytorskich i let-ring.",
+      "sourceRefs": [
+        {
+          "sourceId": "OMT2-NR",
+          "locator": "Paragraph after Example 6"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "R05",
+        "N03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "XML-PITCH",
+      "statement": "MusicXML rozróżnia zmianę wysokości alter i znak notowany accidental.",
+      "scope": "MusicXML 4.0; alter musi określać zmienioną wysokość także przy znaku przykluczowym.",
+      "sourceRefs": [
+        {
+          "sourceId": "XML-MIDI",
+          "locator": "The MIDI-Compatible Part of MusicXML, pitch example"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "N01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "XML-DUR",
+      "statement": "MusicXML duration reprezentuje zamierzoną długość, która może się różnić od wartości graficznie zapisanej.",
+      "scope": "MusicXML 4.0; nie utożsamiać z ekspresyjnym czasem wykonania w sekundach.",
+      "sourceRefs": [
+        {
+          "sourceId": "XML-DURATION",
+          "locator": "Element description"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "N04",
+        "N05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "XML-TIE",
+      "statement": "MusicXML rozróżnia zapis łuku tied i wykonawczy tie.",
+      "scope": "MusicXML 4.0, nie mylić ze slur.",
+      "sourceRefs": [
+        {
+          "sourceId": "XML-TIED",
+          "locator": "Element description"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [
+        "N02",
+        "N03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    }
+  ]
+}

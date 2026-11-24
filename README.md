@@ -106,3 +106,6 @@ The animated Kumka is rendered by `@rive-app/react-webgl2` in `src/Kumka.tsx`, u
 Click Kumka on the home screen to wave. In practice questions, correct answers trigger celebration, and incorrect answers trigger a look; the finishing screen also celebrates. If Rive hasn't loaded, the approved `kumka.png` is displayed instead.
 
 The Rive asset was built locally with the Rive CLI and may need a signed publish/export if a particular Rive web runtime refuses the binary. Verify on the deployed GitHub Pages site. All asset URLs use Vite's `import.meta.env.BASE_URL` to work under the repository subpath.
+
+## Evidence policy
+Educational content follows [the source policy](docs/research/source-policy.md), [the official curriculum map](docs/research/official-curriculum.json) and [the scoped claims registry](docs/research/verified-claims.json). The current demo is not an approved curriculum. Run `node scripts/check-research.mjs` to validate research metadata. This is not a music or pedagogy test.

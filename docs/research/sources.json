@@ -14,7 +14,7 @@
       "type": "law",
       "url": "https://eli.gov.pl/eli/DU/2023/1754/ogl",
       "status": "verified-partial",
-      "note": "Załącznik 4; SM I kształcenie słuchu, s. 199–200; przegląd PDF ograniczony przez dostępny ekstrakt do s. 200. Ponowna próba przez LAW23-ALT i LAW23-ELI nie odzyskała pełnego SM II; OSM I nie może zastąpić SM I."
+      "note": "Załącznik 4; SM I kształcenie słuchu, s. 199–200; przegląd PDF ograniczony przez dostępny ekstrakt do s. 200. Ponowna próba przez LAW23-ALT i LAW23-ELI nie odzyskała pełnego SM II; OSM I nie może zastąpić SM I. Runda 4: obejście limitu ekstrakcji przez obrazy stron LAW23-SEJM, zob. official-curriculum.json."
     },
     {
       "id": "LAW-23-PDF",
@@ -98,7 +98,7 @@
       "type": "school",
       "url": "https://www.gov.pl/attachment/925385e1-11dd-4e77-9779-d89201ca306e",
       "status": "retry",
-      "note": "PDF kształcenie słuchu II stopnia, timeout."
+      "note": "PDF kształcenie słuchu II stopnia, timeout. Runda 4: ponowny timeout; krajowe wymagania odczytano bezpośrednio z LAW23-SEJM s. 209–211."
     },
     {
       "id": "OP-THEORY",
@@ -112,7 +112,7 @@
       "type": "school",
       "url": "https://www.gov.pl/attachment/886e4471-b985-41bb-a532-054844bd90c6",
       "status": "retry",
-      "note": "PDF form muzycznych, pełny odczyt niepotwierdzony."
+      "note": "PDF form muzycznych, pełny odczyt niepotwierdzony. Runda 4: ponowny timeout; krajowe wymagania odczytano z LAW23-SEJM s. 208–209."
     },
     {
       "id": "KED-I",
@@ -441,7 +441,7 @@
       "type": "oer",
       "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intervals/",
       "status": "verified-partial",
-      "note": "Rozpoznawanie interwałów."
+      "note": "Odczyt sekcji Diminished and Augmented Intervals, przykłady 7–8. Weryfikacja dotyczy zakresu twierdzeń z verified-claims.json."
     },
     {
       "id": "OMT2-PITCH",
@@ -694,6 +694,97 @@
       "url": "https://repozytorium.nifc.pl/islandora/pl-wnifc-mfc-m-175",
       "status": "verified-partial",
       "note": "Przykład metadanych historycznego egzemplarza nutowego, nie wybrany zasób do redystrybucji."
+    },
+    {
+      "id": "LAW23-SEJM",
+      "type": "law",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/1754/text.pdf",
+      "status": "verified-partial",
+      "note": "Obrazy drukowanych stron 199–215, 217–221, 223–226 odczytane 2026-11-24; § i załącznik 4. Zakres głównej ścieżki SM I i SM II instrumentalistyka; nie wszystkie specjalności."
+    },
+    {
+      "id": "ADM-26-LAW",
+      "type": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2026/493/text.pdf",
+      "status": "verified-partial",
+      "note": "Tekst jednolity, § 7 ust. 2 pkt 1–2, s. 3–4; obraz s. 4 odczytany. OSM i SM mają odrębny zakres."
+    },
+    {
+      "id": "OMT2-TRI",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/triads/",
+      "status": "verified-partial",
+      "note": "Odczyt sekcji Triadic Qualities and Listening to Triads, cztery jakości."
+    },
+    {
+      "id": "OMT2-INV",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/inversion/",
+      "status": "verified-partial",
+      "note": "Odczyt Triadic Inversion i Seventh Chord Inversion, przykłady 2 i 7."
+    },
+    {
+      "id": "OMT2-7",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/",
+      "status": "verified-partial",
+      "note": "Odczyt Seventh Chord Qualities and Nomenclature, przykład 3."
+    },
+    {
+      "id": "OMT2-NR",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/notating-rhythm/",
+      "status": "verified-partial",
+      "note": "Odczyt podsumowania i części o kropkach oraz łukach przedłużających."
+    },
+    {
+      "id": "OMT2-METER",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/compound-meters-and-time-signatures/",
+      "status": "verified-partial",
+      "note": "Tylko indeksowany fragment; bezpośredni odczyt 403; nie dopuszczać definicji na tej podstawie."
+    },
+    {
+      "id": "PWM-DK",
+      "type": "bibliography",
+      "url": "https://pwm.sklep.pl/podrecznik-do-ksztalcenia-sluchu",
+      "status": "verified-partial",
+      "note": "Katalog potwierdza Jadwiga Dzielska i Lucjan Kaszycki. Nie przeczytano książki."
+    },
+    {
+      "id": "PWM-WOJ-F",
+      "type": "bibliography",
+      "url": "https://pwm.sklep.pl/product/view/1771",
+      "status": "verified-partial",
+      "note": "ABC form muzycznych Danuty Wójcik; katalog."
+    },
+    {
+      "id": "PWM-WOJ-A",
+      "type": "bibliography",
+      "url": "https://pwm.sklep.pl/product/view/3012",
+      "status": "verified-partial",
+      "note": "ABC form muzycznych. Analizy Danuty Wójcik, oddzielna pozycja."
+    },
+    {
+      "id": "PWM-WOJ-N",
+      "type": "bibliography",
+      "url": "https://pwm.sklep.pl/nauka-o-muzyce",
+      "status": "verified-partial",
+      "note": "Nauka o muzyce Danuty Wójcik; katalog i opis rozdziałów."
+    },
+    {
+      "id": "PLAN25-PDF",
+      "type": "law",
+      "url": "https://dziennikustaw.gov.pl/DU/2025/1082/D2025000108201.pdf",
+      "status": "verified-partial",
+      "note": "Wynik wyszukiwania potwierdza przepisy przejściowe; mapowanie tabel ramowego planu nadal wymagane."
+    },
+    {
+      "id": "PLAN26-PDF",
+      "type": "law",
+      "url": "https://isap.sejm.gov.pl/isap.Nsf/download.xsp/WDU20260001145/O/D20261145.pdf",
+      "status": "verified-partial",
+      "note": "Fragment zmian 2026 dotyczący m.in. kształcenia ogólnego; nie twierdzić bez pełnego przeglądu, że zmieniono treści teorii."
     }
   ]
 }

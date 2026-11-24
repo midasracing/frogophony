@@ -49,3 +49,6 @@ LUB-26 w kwalifikacji do III klasy OSM II określonej specjalności obejmuje m.i
 
 ## Luki
 Pełny tekst zał.4 dla SM II, niezależne wymagania form i historii, programy dla pozostałych specjalności, konkretne wydania polskich podręczników, recenzja pedagoga. Trzy załączniki OP-SIGHT, OP-THEORY, OP-FORM ponownie timeout. Nie zamknięto krajowej matrycy.
+
+## Runda 4 — rozgraniczenie
+Krajową podstawę głównej ścieżki odczytano w LAW23-SEJM; wcześniejsza luka w dostępie do wymienionych tabel została zamknięta. Zob. official-curriculum.json. Rozwinięcia lokalne (dysalteracja, elipsa, akord tristanowski itp.) nadal nie są automatycznie minimum krajowym. Dominanta chopinowska i nonowa są natomiast wprost wymienione w kształceniu słuchu II, s.210. Definicje i odpowiedzi wymagają osobnej weryfikacji, także polskiego wydania.

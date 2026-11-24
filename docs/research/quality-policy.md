@@ -16,3 +16,6 @@ MIT kodu nie obejmuje automatycznie treści, maskotki, fontów, sampli ani nagra
 - benchmark audio i mikrofonu, recenzja notacji i pedagogiczna;
 - przegląd licencji, test deployment na GitHub Pages oraz iOS Safari;
 - nie zgłaszać wykonania testów, jeśli powstały tylko specyfikacje testowe.
+
+## Runda 4 — obowiązujący gate
+Stosować source-policy.md oraz główny AGENTS.md. Zatwierdzone lekcje nie mogą zawierać twierdzeń spoza zweryfikowanej bazy. Manifest i checker są pierwszym krokiem, nie dowodem zatwierdzenia obecnego runtime. Nie dopuszczać materiałów przez sztuczne uzupełnianie pól recenzji.

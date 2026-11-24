@@ -1,0 +1,993 @@
+{
+  "version": 1,
+  "checkedAt": "2026-11-24",
+  "sourceId": "LAW23-SEJM",
+  "scope": "Wybrane pełne tabele przedmiotów ogólnomuzycznych SM I oraz ścieżki instrumentalistyki SM II, nie wszystkie obowiązkowe zajęcia i specjalności. II-degree oznacza część wspólną lub sekcję wskazaną w specialty, a nie automatyczne zastosowanie do każdego typu szkoły.",
+  "note": "Zakres prawny potwierdzony na obrazach stron; krótkie etykiety autorskie, nie pełna transkrypcja. Status implementation wszystkich planned. Nie zatwierdza definicji, odpowiedzi ani lekcji. Aktualność w odniesieniu do nowelizacji i planu konkretnego rocznika wymaga dalszego przeglądu.",
+  "subjects": [
+    {
+      "id": "I-SLUCH",
+      "schoolType": "SM-I",
+      "specialty": "all",
+      "title": "Kształcenie słuchu",
+      "pages": [
+        199,
+        201
+      ],
+      "requirements": [
+        {
+          "id": "I-SLUCH-01",
+          "topic": "Notacja, klucze G/F, oktawy wielka–dwukreślna, znaki i skróty",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            199,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-02",
+          "topic": "Interwały proste, charakterystyczne i ich rozwiązania",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            199,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-03",
+          "topic": "Trójdźwięki dur/moll z przewrotami, zwiększony/zmniejszony zasadniczy; D7 z rozwiązaniem",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            199,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-04",
+          "topic": "Dur naturalna i moll naturalna/harmoniczna/dorycka do 3 znaków; pokrewieństwo",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            199,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-05",
+          "topic": "Triada, progresja, transpozycja, kadencje",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            199,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-06",
+          "topic": "Wartości, grupowanie, triola ósemkowa, 2/4 3/4 4/4 3/8 6/8, przedtakt",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            199,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-07",
+          "topic": "Śpiew jedno- i dwugłosowy, wybrany głos, śpiew z klawiaturą, transpozycja",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            200,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-08",
+          "topic": "Rytm jedno- i dwugłosowy, a vista i po przygotowaniu",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            200,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-09",
+          "topic": "Dyktanda, kadencje, pamięć, korekta i uzupełnianie",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            200,
+            200
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-10",
+          "topic": "Improwizacja głosem",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            201,
+            201
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-SLUCH-11",
+          "topic": "Samoocena, krytyczny dobór źródeł i życie artystyczne",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            201,
+            201
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "reflection",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "I-RYT",
+      "schoolType": "SM-I",
+      "specialty": "all",
+      "title": "Podstawy rytmiki",
+      "pages": [
+        202,
+        204
+      ],
+      "requirements": [
+        {
+          "id": "I-RYT-01",
+          "topic": "Postawa, koordynacja wzrokowo- i słuchowo-ruchowa, przestrzeń",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            202,
+            202
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "teacher",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-RYT-02",
+          "topic": "Puls, akcent, metrum, wartości, przedtakt, synkopa, triola, kaligrafia",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            202,
+            203
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-RYT-03",
+          "topic": "Tematy i dyktanda rytmiczne, tworzenie, korekta",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            202,
+            203
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-RYT-04",
+          "topic": "Kierunek melodii, interwały, trójdźwięki, gamy, piosenki i kanony",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            203,
+            203
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-RYT-05",
+          "topic": "Agogika, artykulacja i dynamika",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            203,
+            203
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-RYT-06",
+          "topic": "Orff, perkusja, tańce polskie i innych narodów",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            203,
+            203
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "teacher",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-RYT-07",
+          "topic": "Improwizacja i aktywne słuchanie przez ruch",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            203,
+            203
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "teacher",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "I-WOM",
+      "schoolType": "SM-I",
+      "specialty": "all",
+      "title": "Wiedza o muzyce",
+      "pages": [
+        204,
+        206
+      ],
+      "requirements": [
+        {
+          "id": "I-WOM-01",
+          "topic": "Rodzaje i funkcje muzyki",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            204,
+            204
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-02",
+          "topic": "Zawody muzyczne, instytucje, festiwale, konkursy, savoir-vivre",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            204,
+            204
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-03",
+          "topic": "Instrumenty, głosy, zespoły, elementy dzieła i faktura",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            204,
+            205
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-04",
+          "topic": "Gatunki i formy: dwu/trzyczęściowa, rondo, sonatowa, wariacje, kanon",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            205,
+            205
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-05",
+          "topic": "Tańce narodowe, kroki, folklor własnego regionu i obrzędy",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            205,
+            205
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-06",
+          "topic": "Burczybas, cymbały, diabelskie skrzypce, dudy, ligawka, lira korbowa",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            205,
+            205
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-07",
+          "topic": "Epoki, twórcy polscy i światowi, przypisanie dzieł",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            205,
+            205
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "I-WOM-08",
+          "topic": "Patron szkoły (lokalny), źródła i streaming",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            206,
+            206
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "II-FORM",
+      "schoolType": "II-degree",
+      "specialty": "all",
+      "title": "Formy muzyczne",
+      "pages": [
+        208,
+        209
+      ],
+      "requirements": [
+        {
+          "id": "II-FORM-01",
+          "topic": "Elementy i faktury, środki wykonawcze",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            208,
+            208
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-FORM-02",
+          "topic": "Motyw, fraza, zdanie, okres; szeregowanie, okresowość, ewolucyjność",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            208,
+            209
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-FORM-03",
+          "topic": "Imitacja, ostinato, wariacyjność, przetworzenie",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            209,
+            209
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-FORM-04",
+          "topic": "Forma repryzowa, figuracyjna, tańce stylizowane, pieśń, rondo",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            209,
+            209
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-FORM-05",
+          "topic": "Fuga, forma wariacyjna i sonatowa, cykl suitowy i sonatowy",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            209,
+            209
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-FORM-06",
+          "topic": "Analiza porównawcza stylu, ewolucji gatunku, prezentacja wniosków",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            209,
+            209
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "II-SLUCH",
+      "schoolType": "II-degree",
+      "specialty": "all",
+      "title": "Kształcenie słuchu",
+      "pages": [
+        209,
+        211
+      ],
+      "requirements": [
+        {
+          "id": "II-SLUCH-01",
+          "topic": "Ortografia, klucze G/F/C altowy i tenorowy, grupowanie metryczne",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-02",
+          "topic": "Interwały proste i złożone, akordy, tryb, pozycja, przewrót",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-03",
+          "topic": "Trójdźwięk z sekstą, septymy, D7/D9 pełne i bez prymy, dominanta chopinowska",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-04",
+          "topic": "Odmiany dur/moll, skale modalne, ludowe, pentatonika, całotonowa, dwunastodźwiękowa",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-05",
+          "topic": "Funkcje i nazwy literowe, progresje, modulacje, kadencja neapolitańska i inne",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-06",
+          "topic": "Ambitus i interwały wielodźwięku atonalnego, melodia, rytm, harmonia, ekspresja",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-07",
+          "topic": "Dyktanda jedno- i dwugłosowe także z literatury, korekta zapisu względem odsłuchu",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            210,
+            210
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-08",
+          "topic": "Czytanie głosem i z akompaniamentem, jedno- i dwugłos, transpozycja, partie transponujące",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            211,
+            211
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-09",
+          "topic": "Pamięć słuchowa/wzrokowa, improwizacja z rytmu, materiału, funkcji, tekstu",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            211,
+            211
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-SLUCH-10",
+          "topic": "Samoocena, dobór źródeł i udział w kulturze",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            211,
+            211
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "reflection",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "II-ZAS",
+      "schoolType": "SM-II",
+      "specialty": "all",
+      "title": "Zasady muzyki z elementami edycji nut",
+      "pages": [
+        211,
+        215
+      ],
+      "requirements": [
+        {
+          "id": "II-ZAS-01",
+          "topic": "Akustyka i cechy dźwięku, klucze i oktawy",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            211,
+            212
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-02",
+          "topic": "Tetrachord, skala, gama, tonacja, dur/moll i system temperowany",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            212,
+            212
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-03",
+          "topic": "Budowa i gra gam do 7 znaków; koło kwintowe, transpozycja, pokrewieństwa",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            212,
+            212
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-04",
+          "topic": "Chromatyzacja regularna gam majorowych i enharmonia dźwięków, gam, akordów",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            212,
+            212
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-05",
+          "topic": "Skale spoza dur/moll i rozpoznawanie ich w literaturze",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            212,
+            212
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-06",
+          "topic": "Interwały, konsonanse/dysonanse, trójdźwięki, triada i akordy na stopniach",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            213,
+            213
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-07",
+          "topic": "D7 z przewrotami, rozwiązania, interwały charakterystyczne",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            213,
+            213
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-08",
+          "topic": "Rytm, metrum, akcent, grupowanie, polirytmia i polimetria, zapis wokalny/instrumentalny",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            213,
+            214
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-09",
+          "topic": "Agogika, dynamika, artykulacja, oznaczenia wykonawcze, ozdobniki i skróty",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            214,
+            214
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-ZAS-10",
+          "topic": "Edytor nut i wprowadzanie danych; uzyskanie materiałów nutowych",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            214,
+            215
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "edit-score",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "II-HAR",
+      "schoolType": "II-degree",
+      "specialty": "instrumentalistyka",
+      "title": "Harmonia",
+      "pages": [
+        217,
+        219
+      ],
+      "requirements": [
+        {
+          "id": "II-HAR-01",
+          "topic": "System dur-moll; akordy główne/poboczne, dodana seksta, septymy, dysonansowe dominanty",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            218,
+            218
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "write",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HAR-02",
+          "topic": "Budowa, łączenie i rozwiązywanie akordów w czterogłosie",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            218,
+            218
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HAR-03",
+          "topic": "Kadencje i progresje pisemnie i na instrumencie",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            218,
+            218
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "guided-performance",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HAR-04",
+          "topic": "Harmonizacja sopranu, schemat funkcyjny, bas cyfrowany, własne konstrukcje",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            218,
+            219
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HAR-05",
+          "topic": "Dźwięki obce, figuracja, harmonizacja melodii",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            219,
+            219
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HAR-06",
+          "topic": "Alteracje, wychylenia modulacyjne, akordy wtrącone, trzy typy modulacji",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            219,
+            219
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HAR-07",
+          "topic": "Analiza chorałowa, fortepianowa i solowa z fortepianem; wnioski",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            219,
+            219
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "II-HIS",
+      "schoolType": "II-degree",
+      "specialty": "instrumentalistyka",
+      "title": "Historia muzyki",
+      "pages": [
+        219,
+        221
+      ],
+      "requirements": [
+        {
+          "id": "II-HIS-01",
+          "topic": "Epoki od antyku, uzasadnione ramy, kontekst sztuki i historii",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            220,
+            220
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HIS-02",
+          "topic": "Ośrodki muzyki dawnej; Mannheim, Berlin, Wiedeń; kręgi XIX wieku",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            220,
+            220
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HIS-03",
+          "topic": "Impresjonizm, ekspresjonizm, dodekafonia, punktualizm, neoklasycyzm, folkloryzm, serializm, aleatoryzm, sonoryzm, spektralizm, elektroakustyka, minimalizm, postmodernizm",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            220,
+            220
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HIS-04",
+          "topic": "Muzyka polska, style twórców, dzieła i biografie",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            220,
+            221
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-HIS-05",
+          "topic": "Wypowiedź ustna i pisemna, porównanie stylów, identyfikacja nagrań i nut",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            221,
+            221
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "rubric",
+          "implementation": "planned"
+        }
+      ]
+    },
+    {
+      "id": "II-NOM",
+      "schoolType": "II-degree",
+      "specialty": "instrumentalistyka",
+      "title": "Nauka o muzyce",
+      "pages": [
+        223,
+        226
+      ],
+      "requirements": [
+        {
+          "id": "II-NOM-01",
+          "topic": "Materiał dźwiękowy, elementy, faktura wg obsady i głosów, kształtowanie",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            223,
+            224
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-02",
+          "topic": "Motyw/fraza/zdanie/okres, instrumenty, głosy, zespoły",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            224,
+            224
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-03",
+          "topic": "Instrumenty dawne i współczesne, ludowe Europy i spoza niej, techniki rozszerzone",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            224,
+            224
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-04",
+          "topic": "Partytura klasyczna i graficzna, śledzenie nagrań XX–XXI w.",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            224,
+            224
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-05",
+          "topic": "Wybitni wykonawcy, rola muzyka, tańce suity, stylizacja, walc i tango",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            224,
+            224
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-06",
+          "topic": "Muzyka filmowa, etniczna i rozrywkowa",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            225,
+            225
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "listen-analyze",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-07",
+          "topic": "Fonografia, nośniki, formaty dźwięku i streaming; media",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            225,
+            225
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-08",
+          "topic": "Instytucje, festiwale, konkursy, harmonogram życia muzycznego",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            225,
+            225
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        },
+        {
+          "id": "II-NOM-09",
+          "topic": "Prawo autorskie i ochrona wizerunku",
+          "sourceId": "LAW23-SEJM",
+          "pages": [
+            225,
+            226
+          ],
+          "sourceStatus": "page-reviewed",
+          "assessment": "research",
+          "implementation": "planned"
+        }
+      ]
+    }
+  ]
+}
