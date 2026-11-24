@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="docs/kumka-readme.png" alt="Kumka" width="110" />&nbsp;&nbsp;<img src="docs/wordmark.svg" alt="frogphony" width="220" />
+  <img src="docs/kumka-readme.png" alt="Kumka" width="110" />&nbsp;&nbsp;<img src="docs/wordmark.svg" alt="frogophony" width="220" />
 </p>
 
-## What is Frogphony?
+## What is Frogophony?
 
-Frogphony is a browser-based music learning project. It brings ear training, music theory and general music knowledge into one place, with short interactive lessons instead of pages of passive reading.
+Frogophony is a browser-based music learning project. It brings ear training, music theory and general music knowledge into one place, with short interactive lessons instead of pages of passive reading.
 
 It's an **early demo**, not a finished course. The current version has three playable lesson sets, a practice mode and a small progress system. The interface is in Polish.
 
@@ -20,9 +20,9 @@ No account is needed. Progress is stored locally on the device, not synchronized
 
 ## Meet Kumka
 
-Kumka is Frogphony's pink toad mascot. The character appears throughout the learning interface.
+Kumka is Frogophony's pink toad mascot. The character appears throughout the learning interface.
 
-The repository also contains a separate [Rive animation experiment](design/kumka-rive/) with idle, wave, success and encouragement motions. **The web app currently uses static mascot artwork**; the Rive runtime animation has not been integrated.
+The repository also contains a separate [Rive animation experiment](design/kumka-rive/) with idle, wave, success and encouragement motions. The web app attempts to load the animated Rive mascot and retains static artwork as a fallback.
 
 ## Run locally
 
@@ -62,19 +62,19 @@ frogphony/
 │   └── main.tsx           # App entry point
 ├── public/
 │   ├── kumka.png          # Mascot artwork
-│   └── animations/        # Rive runtime asset (not yet wired into the app)
+│   └── animations/        # Rive runtime asset
 ├── design/kumka-rive/     # Editable animation source and build scripts
 └── .github/workflows/    # GitHub Pages deployment
 ```
 
 ## What's next
 
-The prototype establishes the interface and core lesson flow. The next steps are:
+The prototype establishes the interface and core lesson flow. The [curriculum and engineering blueprint](docs/education-blueprint.md) describes the proposed program and release quality gates. The repository slug and Pages path remain unchanged for now. The next steps are:
 
 - More lessons across all three subjects.
 - Better audio examples, including verified instrument samples.
 - Automated tests for exercises and progress.
-- Integrating Kumka's Rive animation after runtime compatibility is verified.
+- Verifying Kumka's Rive animation in supported browsers.
 - Continued accessibility and small-screen improvements.
 
 The audio in the current demo is **synthesized**, not a recorded piano. The three lesson sets are examples, not a complete curriculum.
@@ -95,7 +95,7 @@ Original source code in this repository is licensed under the [MIT License](LICE
 
 <div align="center">
 
-  <sub>Built in public by <a href="https://github.com/midasracing">midasracing</a> · <a href="https://midasracing.github.io/frogphony/">Open Frogphony</a></sub>
+  <sub>Built in public by <a href="https://github.com/midasracing">midasracing</a> · <a href="https://midasracing.github.io/frogphony/">Open Frogophony</a></sub>
 
 </div>
 
