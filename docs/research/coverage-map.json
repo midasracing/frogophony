@@ -21,7 +21,9 @@
         "INT-QUALITY",
         "INT-AUG",
         "TRITONE-AUDIO",
-        "INV-M6-M3"
+        "INV-M6-M3",
+        "PL-INV-QUALITY",
+        "PL-INT-TIME"
       ],
       "status": "partial"
     },
@@ -30,7 +32,8 @@
       "claimIds": [
         "TRI-QUAL",
         "TRI-INV",
-        "SEV-QUAL"
+        "SEV-QUAL",
+        "PL-HARM-V79"
       ],
       "status": "partial"
     },
@@ -40,7 +43,9 @@
         "MAJOR-PATTERN",
         "MINOR-NAT",
         "MINOR-HARM",
-        "MINOR-PL-DOR"
+        "MINOR-PL-DOR",
+        "PL-KEY-REL",
+        "PL-KEY-SAME"
       ],
       "status": "partial"
     },
@@ -58,7 +63,9 @@
         "DOT",
         "TIE",
         "METER-PL",
-        "METER-68"
+        "METER-68",
+        "PL-METER-REG",
+        "PL-RHY-GROUP"
       ],
       "status": "partial"
     },
@@ -100,7 +107,9 @@
       "id": "I-RYT-02",
       "claimIds": [
         "DOT",
-        "METER-PL"
+        "METER-PL",
+        "PL-SYNCOPE",
+        "PL-RHY-GROUP"
       ],
       "status": "partial"
     },
@@ -228,7 +237,8 @@
       "id": "II-SLUCH-03",
       "claimIds": [
         "SEV-QUAL",
-        "SEV-INV"
+        "SEV-INV",
+        "PL-HARM-V79"
       ],
       "status": "partial"
     },
@@ -293,7 +303,9 @@
       "id": "II-ZAS-03",
       "claimIds": [
         "MAJOR-PATTERN",
-        "MINOR-KEYSIG"
+        "MINOR-KEYSIG",
+        "PL-KEY-REL",
+        "PL-KEY-SAME"
       ],
       "status": "partial"
     },
@@ -315,7 +327,8 @@
       "claimIds": [
         "INT-QUALITY",
         "TRI-QUAL",
-        "MINOR-V"
+        "MINOR-V",
+        "PL-INV-QUALITY"
       ],
       "status": "partial"
     },
@@ -323,7 +336,8 @@
       "id": "II-ZAS-07",
       "claimIds": [
         "SEV-INV",
-        "SEV-QUAL"
+        "SEV-QUAL",
+        "PL-HARM-V79"
       ],
       "status": "partial"
     },
@@ -333,7 +347,10 @@
         "DOT",
         "TIE",
         "METER-PL",
-        "METER-EN"
+        "METER-EN",
+        "PL-METER-REG",
+        "PL-RHY-GROUP",
+        "PL-SYNCOPE"
       ],
       "status": "partial"
     },

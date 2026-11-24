@@ -16,3 +16,6 @@ Katalog rozstrzygnięć do zastosowania w zadaniach. Nie jest zatwierdzonym podr
 - Przy dominantach rozróżniać stopień skali, jakość i funkcję; zadania o rozwiązaniu muszą zawierać kontekst.
 - ZPE jest źródłem konkretnych fragmentów, nie automatycznym autorytetem dla całej strony. Wcześniejszy konflikt KV26/KV265 pozostaje w sources.json.
 - Wszystkie nowe twierdzenia mają status source-checked, nie releaseApproved. Nie dodawać ich do publicznej lekcji przed recenzją i testem.
+
+## Kontrola w Wesołowskim (1986)
+§44 s.134 potwierdza polskie odpowiedniki relative/parallel (PL-KEY-REL, PL-KEY-SAME). Przedmowa s.8 i §15 wskazują, że podział taktów jest konwencją notacyjną, nie jedyną możliwą klasyfikacją. §18 s.59–63: dopuszcza synkopę w trójdzielności między słabymi częściami; nie stosować wyłącznie warunku przekroczenia mocnej części. §38 s.109–110 potwierdza polski minor dorycki i melodyczny, nie daje jeszcze jednoznacznego polecenia ćwiczenia doryckiej w dół.

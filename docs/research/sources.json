@@ -1030,6 +1030,13 @@
       "url": "https://abc.uw.edu.pl/katalog/ksiazka/18557",
       "status": "verified-index",
       "note": "Bezpośredni odczyt katalogu, spisu treści i listy adaptacji cz. 2, PWM 2005, ISBN 83-224-0833-1. Nie uzyskano pełnej treści książki."
+    },
+    {
+      "id": "WES-1986-TEXT",
+      "type": "theory",
+      "url": "https://www.scribd.com/document/46458587/Weso%C5%82owski-Franciszek-Zasady-Muzyki-Warszawa-1986-179",
+      "status": "verified-partial",
+      "note": "Link użytkownika. Franciszek Wesołowski, Zasady muzyki, PWM 1986, ISBN 83-224-0250-3. Serwis podaje 179 stron. Odczyt warstwy tekstowej HTML: karta tytułowa, spis, przedmowa, wybrane fragmenty §12,15–16,18,30–31,38,44. OCR zniekształca nuty, indeksy i ułamki; nie zweryfikowano obrazów nut, całości książki ani uprawnień osoby publikującej. Nie archiwizować kopii."
     }
   ]
 }

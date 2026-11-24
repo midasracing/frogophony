@@ -20,3 +20,6 @@ Dodatkowo: Marek Kawiorski, Leksykon muzyczny. Harmonia cz.1 i Słownik angielsk
 
 ## Procedura po otrzymaniu
 Zapisać wydanie, rok, strony i status lektury; rozdzielać fakt, konwencję, propozycję metodyczną. Sprawdzić rozbieżności, powiązać z istniejącymi claimId i curriculumId. Brak źródła nie jest dowodem błędu; utrzymać status blocked. Nie publikować zeskanowanych książek, nagrań ani obszernych cytatów. 
+
+## Aktualizacja po linku użytkownika
+WES-1986-TEXT: dostępny tekst wydania PWM 1986; nie prosić ponownie o ten sam tekst. Nadal potrzebny czytelny PDF/skan stron z nutami, jeśli użytkownik posiada legalny egzemplarz, szczególnie s.37–74, 101–110, 112–137 i 148–164. Pozostałe P0 pozostają otwarte. Przejrzano wybrane fragmenty, nie całą książkę.

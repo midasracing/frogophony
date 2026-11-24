@@ -34,3 +34,6 @@ Obie publikacje z 2014 r. są źródłami metodycznymi, a nie aktualną podstaw�
 3. Rozbieżność → opisać obie konwencje i wybrać jawną konwencję lekcji. Nie uznawać różnicy za błąd, jeżeli wynika ze szkoły analizy.
 4. Źródło zagraniczne jako kontrola uzupełniająca (lub główne dla standardu technicznego); nie dowodzi polskiej terminologii.
 5. Dotychczasowe twierdzenia sprawdzone jedynie w angielskich źródłach pozostają source-checked w zadeklarowanym zakresie, lecz polskie nazwy wymagają osobnego potwierdzenia przed wydaniem. W tej rundzie nie promowano żadnego twierdzenia.
+
+## Aktualizacja Wesołowski
+WES-1986-TEXT — dostępny tekst wydania PWM 1986, ISBN 83-224-0250-3, link dostarczony przez użytkownika. Odczyt częściowy, jakość OCR nie pozwala zatwierdzać zapisu graficznego. Bibliografia WES-ZAS pozostaje odrębnym rekordem katalogowym.

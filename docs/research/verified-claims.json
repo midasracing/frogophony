@@ -254,6 +254,11 @@
           "sourceId": "OMT2-MINOR",
           "locator": "Harmonic Minor; Examples 4, 10",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§38, s.108–109",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -278,6 +283,11 @@
           "sourceId": "ZPE-MOLL",
           "locator": "Ćwiczenie 3",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§38, s.110",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -297,6 +307,11 @@
         {
           "sourceId": "ZPE-MOLL",
           "locator": "Ćwiczenie 3",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§38, s.109–110",
           "access": "direct-read"
         }
       ],
@@ -676,6 +691,11 @@
           "sourceId": "UPS-INV",
           "locator": "§5.4, pierwszy przykład",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§30, s.89–90",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -683,6 +703,142 @@
       "fixtures": [
         "I12"
       ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-KEY-REL",
+      "statement": "Tonacje równoległe mają wspólne znaki przykluczowe, różny tryb i toniki oddalone o tercję małą. Przykład: D-dur i h-moll.",
+      "scope": "Terminologia Wesołowskiego; angielskie relative keys.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§44, s.134",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-KEY-SAME",
+      "statement": "Tonacje jednoimienne mają wspólną tonikę i różny tryb, np. F-dur i f-moll.",
+      "scope": "Terminologia Wesołowskiego; angielskie parallel keys.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§44, s.134",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-INV-QUALITY",
+      "statement": "Przewrót interwału prostego zachowuje jakość czystą, zamienia wielką z małą oraz zwiększoną ze zmniejszoną.",
+      "scope": "Przewrót w obrębie oktawy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§30, s.89",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-INT-TIME",
+      "statement": "Interwał melodyczny ma następujące po sobie dźwięki, harmoniczny brzmi równocześnie.",
+      "scope": "Rozróżnienie typów ćwiczeń słuchowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§31, s.90",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-METER-REG",
+      "statement": "W tradycyjnym podziale regularny takt złożony łączy takty proste jednego rodzaju.",
+      "scope": "Konwencja notacyjna autora; nie uniwersalna klasyfikacja pulsu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§15, s.48–49",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-RHY-GROUP",
+      "statement": "Poprawne grupowanie rytmu uwidacznia metrum, a nie tylko sumę wartości.",
+      "scope": "Konwencja notacyjna; konkretne wyjątki wymagają obrazu nut.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§12, s.37–39; §16, s.50",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-SYNCOPE",
+      "statement": "W ujęciu Wesołowskiego synkopa obejmuje przedłużenie wartości ze słabej części na kolejną część metryczną; nie musi przekraczać wyłącznie mocnej części.",
+      "scope": "Konwencja szkolna autora; szersze definicje innych stylów osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§18, s.59–63",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-HARM-V79",
+      "statement": "W c-moll harmonicznej D7 ma dźwięki G–H–D–F, a D9 z noną małą dodatkowo As.",
+      "scope": "Własny przykład literowy wynikający z opisu §38, nie rekonstrukcja nut OCR.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-TEXT",
+          "locator": "§38, s.109",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
     }

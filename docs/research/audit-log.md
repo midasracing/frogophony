@@ -62,3 +62,6 @@ Dodano 19 rekordów, w tym Kawiorski (leksykon 2026 i dwa słowniki), PWN, PWM, 
 
 ## Kontynuacja — audyt dostępności polskich kompendiów
 Ponownie otwarto obydwa PDF CEA; odczytano wskazane w reading-queue.md fragmenty tekstu i obrazy stron 39, 98, 131, obraz s.30 timeout. Potwierdzono Jacek Targosz (PWM i bibliografie akademickie), poprawiono błędne imię w polskiej bibliotece. ABC UW udostępnia rekord i spis treści Gwizdalanki cz.2, nie uzyskano pełnej treści. Ponownie sprawdzono rekordy UJK, dostęp do słowników ograniczony. Zapisano kolejkę legalnych egzemplarzy od użytkownika. Nie odczytano wszystkich wcześniejszych źródeł ani całych PDF; nie dodawano twierdzeń do verified-claims bez odrębnego audytu. Bez zmian runtime.
+
+## Wesołowski — link użytkownika
+Odczytano fragmenty warstwy tekstowej WES-1986-TEXT. Dodano osiem twierdzeń i cztery potwierdzenia istniejących; uzupełniono powiązania. Utrzymano blokadę wydawniczą, nie testowano silników. Nie pobrano kopii książki ani nie zweryfikowano nut w obrazie. Pozostałe strony oczekują lektury.
