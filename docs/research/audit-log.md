@@ -71,3 +71,6 @@ WES-1986-ALT: odczyt wybranych fragmentów HTML s.70–75 i 133–137. Dodano pi
 
 ## Sikorski — link użytkownika
 SIK-HAR-SCRIBD: sprawdzono dostępność strony; 499 stron według metadanych, brak treści książki. Nie dodano twierdzeń merytorycznych i nie oznaczono publikacji jako przeczytanej. Wpisano brakujący egzemplarz do kolejki lektury. Bez zmian runtime.
+
+## Sikorski — alternatywny link
+Bezpośrednie otwarcie SIK-HAR-ILIDE zakończyło się błędem dostępu. Zapisano ograniczenie, bez dodawania twierdzeń i bez zmian runtime.

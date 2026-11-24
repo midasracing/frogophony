@@ -1051,6 +1051,13 @@
       "url": "https://www.scribd.com/document/1000832072/K-Sikorski-Harmonia-I-i-II",
       "status": "retry",
       "note": "Link użytkownika. Odczyt strony HTML: tytuł opisowy K. Sikorski – Harmonia I i II, 499 stron wg serwisu, tytuł wspomagany AI. Brak dostępnej treści podręcznika, spisu, obrazów stron i potwierdzenia wydania oraz kompletności tomów. Nie pobierano ani nie obchodzono ograniczeń. Potrzebny plik PDF lub czytelne skany dostarczone przez użytkownika."
+    },
+    {
+      "id": "SIK-HAR-ILIDE",
+      "type": "bibliography",
+      "url": "https://ilide.info/docdownloadv2-k-sikorski-harmonia-i-i-ii-pr_aaf88189877d7f9ef302b83841d83125",
+      "status": "retry",
+      "note": "Link użytkownika. Próba bezpośredniego otwarcia zakończona DisabledError. Brak odczytu pliku, stron i danych wydania; nie obchodzono ograniczenia. Nie stanowi dowodu merytorycznego."
     }
   ]
 }
