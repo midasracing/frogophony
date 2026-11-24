@@ -519,6 +519,48 @@
         "result": "unmeasurable",
         "penalize": false
       }
+    },
+    {
+      "id": "G06",
+      "domain": "scale",
+      "input": {
+        "tonic": "A",
+        "mode": "polish-school-dorian-minor",
+        "direction": "ascending"
+      },
+      "expected": {
+        "notes": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F#",
+          "G#",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "G07",
+      "domain": "scale",
+      "input": {
+        "tonic": "A",
+        "mode": "polish-school-dorian-minor",
+        "direction": "descending"
+      },
+      "expected": {
+        "notes": [
+          "A",
+          "G#",
+          "F#",
+          "E",
+          "D",
+          "C",
+          "B",
+          "A"
+        ]
+      }
     }
   ]
 }

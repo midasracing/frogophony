@@ -24,3 +24,6 @@
  
 ## Luki do zamknięcia
 Pełny urzędowy PDF: dostępna ekstrakcja kończy się na s. 200, dalsza część wymaga odczytu. Niektóre załączniki Opola przekroczyły timeout (status w sources.json). Brak pełnego mapowania II stopnia i pozostałych specjalności. Brak ponownej weryfikacji każdego starego URL, pełnych wydań podręczników, konkretnych stron i licencji materiałów; referencje historyczne oznaczone. Nie przeczytano wszystkich książek. Nie zweryfikowano na żywo działania silników, nie przeprowadzono recenzji pedagogicznej ani buildu aplikacji; fixtures to specyfikacje, nie wykonane testy. W tej rundzie nie zmieniano runtime ani wyglądu.
+
+## Dogrywka kontrolna
+Potwierdzono AMB-26, indeks uchwały UMFC-26-RES, ZPE-MOLL i CZ-26. Dodano dwa przypadki polskiej odmiany doryckiej. Sprawdzono parsowanie dwóch plików JSON, unikalność identyfikatorów oraz niezależnym prostym przeliczeniem 11 przypadków wysokości, interwałów i transpozycji (część wartości liczbowych, nie pełny grading ani test silnika). Pozostałe fixture to nadal oczekiwania do wykonania w CI.

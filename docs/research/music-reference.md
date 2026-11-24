@@ -29,7 +29,7 @@ Numer diatoniczny = liczba stopni literowych włącznie. Pryma, kwarta, kwinta, 
 - Łuk przedłużający łączy czas nut tej samej wysokości, bez powtórnego ataku; legato dotyczy artykulacji. Dwie osobne nuty tej samej wysokości nie są automatycznie wiązaniem.
 - Rytm zapisany i wykonany to osobne reprezentacje: swing, rubato, staccato, fermata, ornament, tempo i ekspresja. Nie zmieniać notowanej wartości podczas interpretacji.
 - Przedtakt, takty nieregularne, zmiany metrum, repetycje, volta, D.C./D.S./Coda, taktowa pauza, niezależne głosy. Suma wartości w każdym głosie taktu musi pasować do jego ramy, z jawnymi wyjątkami (przedtakt, kadencja bez metrum itp.). Nuty w akordzie nie sumują się szeregowo.
-- Synkopa to przesunięcie akcentu/akcent metrycznie słabej pozycji, nie tylko kropka. Uczyć grupowania według pulsu i metrum, nie wyłącznie matematycznej sumy.
+- Synkopa zakłóca oczekiwany rozkład akcentów metrycznych, np. przez przedłużenie dźwięku z pozycji słabej na mocną; nie każda kropka ani każda nuta na słabej części jest synkopą. Uczyć grupowania według pulsu i metrum, nie wyłącznie matematycznej sumy.
 
 ## 5. Percepcja i solfeż
 - Rozpoznawanie absolutne, relatywne i funkcyjne to odrębne cele. Nie wymagać słuchu absolutnego w zadaniu względnym bez punktu odniesienia.
@@ -44,3 +44,6 @@ Numer diatoniczny = liczba stopni literowych włącznie. Pryma, kwarta, kwinta, 
 - Epoki jako konwencje historiograficzne, nakładające się chronologicznie. Nie klasyfikować twórcy wyłącznie datą urodzenia. Wprowadzać style, instytucje, źródła, praktykę wykonawczą, kompozytorów i kompozytorki, muzykę polską i regionalną, instrumentarium historyczne, muzykę poza klasycznym kanonem jako oznaczone rozszerzenie.
 - Przykłady nutowe i odsłuch: metadane dzieła, część, takty, edycja, wykonawca, nagranie, licencje. Nie zakładać wolności nagrania na podstawie daty śmierci kompozytora.
 - Wiedzę rozszerzać przez aktywne porównanie wykonania z partyturą, wskazanie instrumentu/tematu, uzasadnienie formy i krótką wypowiedź. Ocena otwarta: rubryka plus nauczyciel/samoocena.
+
+## Doprecyzowanie terminologii
+ZPE-MOLL potwierdza polską szkolną konwencję: moll dorycka ma podwyższone stopnie VI i VII względem naturalnej, a moll melodyczna w górę odpowiada doryckiej, w dół naturalnej. Modus dorycki ma inną strukturę (VI podwyższony, VII naturalny względem moll naturalnej). CZ-26 rozróżnia cztery odmiany w wymaganiach rekrutacyjnych. W kodzie używać jednoznacznych identyfikatorów, nie samego słowa `dorian`.

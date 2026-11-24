@@ -167,8 +167,8 @@
       "id": "AMB-26",
       "type": "admissions",
       "url": "https://www.rekrutacja.amuz.bydgoszcz.pl/pl/offer/Rekrutacja_2026/programme/SP-I-TR/",
-      "status": "prior-reference",
-      "note": "Trąbka, sprawdzić ponownie przed publikacją profilu."
+      "status": "verified-page",
+      "note": "Trąbka, rekrutacja 2026/27: egzamin wykonawczy, przygotowanie interpretacji i a vista, ustna wiedza o kulturze związana ze specjalnością. Nie utożsamiać z ogólnym egzaminem z kształcenia słuchu."
     },
     {
       "id": "UMFC",
@@ -351,6 +351,27 @@
       "url": "https://github.com/sgossner/VCSL",
       "status": "verified-page",
       "note": "CC0 deklarowane w README; kontrolować pochodzenie konkretnych plików."
+    },
+    {
+      "id": "UMFC-26-RES",
+      "type": "admissions",
+      "url": "https://bip.chopin.edu.pl/uchwala/u-uchwala-nr-26-42-2025",
+      "status": "verified-index",
+      "note": "Uchwała Senatu 26/42/2025, rekrutacja 2026/27; wymagania dla konkretnych kierunków pozostają do mapowania."
+    },
+    {
+      "id": "ZPE-MOLL",
+      "type": "theory",
+      "url": "https://zpe.gov.pl/a/w-dur-i-w-moll/D1ApP9WWl",
+      "status": "verified-page",
+      "note": "Polska terminologia odmian moll: dorycka z podwyższonym VI i VII, melodyczna w górę dorycka, w dół naturalna."
+    },
+    {
+      "id": "CZ-26",
+      "type": "admissions",
+      "url": "https://www.gov.pl/web/zsmczestochowa/rekrutacja-do-klasy-pierwszej4",
+      "status": "verified-page",
+      "note": "Przykład wymagań szkolnych obejmujących cztery odmiany moll, nie rozszerzać automatycznie minimum krajowego."
     }
   ]
 }

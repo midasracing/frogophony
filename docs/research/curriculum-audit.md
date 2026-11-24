@@ -55,7 +55,9 @@ OP-II potwierdza oddzielne przedmioty: kształcenie słuchu, zasady muzyki z ele
 - POZ-26, ZG-26: progi klasowe używać do diagnostyki, nie deklarować identycznych wymagań w całej Polsce.
 - AMK: ustny egzamin uzupełniający dla rytmiki, muzyki kościelnej i fortepianu. Interwały, akordy, analiza harmoniczna, identyfikacja melodii, dwa głosy rytmiczne i głos z klawiaturą zależnie od specjalności; nie dotyczy wszystkich instrumentalistów.
 - AML-26: teoria muzyki, 2026/27. Dyktanda: polifoniczne dwugłosowe z chromatyką, rytmiczne, atonalne jednogłosowe, harmoniczne czterogłosowe, pamięciowe jednogłosowe; a vista; harmonizacja sfigurowanej melodii w 4 głosach, ćwiczenia harmoniczne i improwizacja 8 taktów na fortepianie; literatura i formy, wypowiedź pisemna i ustna.
-- AMB-26 i UMFC: nie oznaczać jako zweryfikowanych w tej rundzie; sprawdzić aktualny kierunek i uchwałę rekrutacyjną.
+- AMB-26: trąbka 2026/27, wykonanie, czytanie a vista i przygotowanie interpretacji, ustna wiedza o kulturze związana z kierunkiem. Nie ma podstaw do przypisywania temu profilowi ogólnego egzaminu z kształcenia słuchu.
+- UMFC-26-RES: potwierdzono uchwałę rekrutacyjną 2026/27, szczegółowe wymagania według specjalności nadal do odczytu.
+- CZ-26: przykład egzaminu szkolnego obejmującego moll eolską, harmoniczną, dorycką i melodyczną. Oznaczyć jako wymaganie konkretnej szkoły.
 - Academy+ to osobny opcjonalny katalog. Nie twierdzić, że przygotowanie do egzaminu odpowiada ukończeniu studiów.
  
 Każdy profil: institution, program, specialty, year, sourceId, section, taskTypes, explicitLimits, examinerOnly, status, lastChecked. Przy zmianie roku wygasa status aktualności. Nie wymyślać czasu, liczby odsłuchów ani progu zaliczenia.
