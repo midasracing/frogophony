@@ -29,3 +29,6 @@ Drugi link użytkownika (WES-1986-ALT) jest dostępny w warstwie HTML; to ten sa
 Sikorski: użytkownik podał SIK-HAR-SCRIBD (499 stron wg serwisu). Strona się otwiera, ale nie zwraca tekstu ani obrazów książki. Nadal P0: czytelny PDF/skany obu tomów, z kartami tytułowymi i spisem treści; nie można potwierdzić wydania ani kompletności na podstawie samego tytułu.
 
 Alternatywny link do Sikorskiego SIK-HAR-ILIDE: bezpośrednie otwarcie niedostępne (DisabledError). Nadal potrzebny plik użytkownika lub czytelne fragmenty; bez potwierdzenia zawartości.
+
+### Otrzymano Sikorskiego (2026-11-25)
+SIK-HAR-UPLOAD: 499 stron PDF, dostęp do osadzonych skanów. Część I PDF 1–180 (brak początku wydania), część II PDF 181–499, karta tytułowa PWM 1979. Nie prosić o ponowny upload; brak roku części I i pełny audyt pozostają do sprawdzenia. Odczyt podstaw §1–21 i wybranej s.110; dalsza lektura D7, D9, funkcje poboczne, modulacje, figuracja, alteracje i druga część. Standardowe renderowanie niektórych stron uszkodzone, korzystać z oryginalnych osadzonych obrazów. Nie publikować książki w repo.

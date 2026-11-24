@@ -1058,6 +1058,15 @@
       "url": "https://ilide.info/docdownloadv2-k-sikorski-harmonia-i-i-ii-pr_aaf88189877d7f9ef302b83841d83125",
       "status": "retry",
       "note": "Link użytkownika. Próba bezpośredniego otwarcia zakończona DisabledError. Brak odczytu pliku, stron i danych wydania; nie obchodzono ograniczenia. Nie stanowi dowodu merytorycznego."
+    },
+    {
+      "id": "SIK-HAR-UPLOAD",
+      "type": "theory",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/harmonia-1%2CKazimierz%20Sikorski%2C2216%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "Źródło odczytu: PDF użytkownika ilide.info-k-sikorski-harmonia-i-i-ii-pr_aaf88189877d7f9ef302b83841d83125.pdf, 499 stron, 111689734 bajtów; URL jest odnośnikiem katalogowym, nie miejscem odczytu. Część I od przedmowy, brak kart tytułowych, duplikat PDF 9–10; część II od PDF 181, karta tytułowa PDF 182 PWM 1979. Odczyt obrazów PDF 1–68 oraz 100, kontrola granicy 178–201 i wybranych dalszych miniatur. Od okolic PDF 100 renderery mogą zniekształcać obraz, ale osadzone JPEG są czytelne. Nie sprawdzono całej zawartości ani kompletności każdej strony; nie publikować skanów.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-k-sikorski-harmonia-i-i-ii-pr_aaf88189877d7f9ef302b83841d83125.pdf"
     }
   ]
 }

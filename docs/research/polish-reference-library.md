@@ -37,3 +37,6 @@ Obie publikacje z 2014 r. są źródłami metodycznymi, a nie aktualną podstaw�
 
 ## Aktualizacja Wesołowski
 WES-1986-TEXT — dostępny tekst wydania PWM 1986, ISBN 83-224-0250-3, link dostarczony przez użytkownika. Odczyt częściowy, jakość OCR nie pozwala zatwierdzać zapisu graficznego. Bibliografia WES-ZAS pozostaje odrębnym rekordem katalogowym.
+
+### Sikorski — egzemplarz użytkownika
+SIK-HAR-UPLOAD zastępuje brak dostępu do tekstu w SIK-HAR-SCRIBD i SIK-HAR-ILIDE. Reguły autora stosować do jawnego profilu klasycznej harmonii szkolnej; sprawdzać wyjątki i porównywać z Targoszem, gdy otrzymamy książkę. Nie utożsamiać reguł etapu podstawowego z uniwersalnymi zakazami kompozycji.

@@ -77,6 +77,11 @@
           "sourceId": "OMT2-INV",
           "locator": "Triadic Inversion, Example 2",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Cz. I §17, s.63–64 (PDF 53–54)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -98,6 +103,11 @@
         {
           "sourceId": "OMT2-INV",
           "locator": "Seventh Chord Inversion, Example 7",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Cz. I s.110 (PDF 100), D7",
           "access": "direct-read"
         }
       ],
@@ -258,6 +268,11 @@
         {
           "sourceId": "WES-1986-TEXT",
           "locator": "§38, s.108–109",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Cz. I §5, s.19 (PDF 8)",
           "access": "direct-read"
         }
       ],
@@ -933,6 +948,227 @@
       ],
       "status": "source-checked",
       "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TRIAD",
+      "statement": "W dur trzy akordy triady są durowe; w moll harmonicznym tonika i subdominanta są molowe, a dominanta durowa.",
+      "scope": "Triada na I, IV, V stopniu w systemie autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §6, s.20–21 (PDF 9–11)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FUNCTION",
+      "statement": "Identyczny trójdźwięk może pełnić różne funkcje zależnie od tonacji, np. C-dur jako akord w tonacji C lub F.",
+      "scope": "Funkcja, nie sama jakość akordu; przykład autora omawia c-e-g.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §7, s.22 (PDF 12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SATB",
+      "statement": "W czterogłosie szkolnym sopranu i altu nie oddala się o więcej niż oktawę; tenor i alt zasadniczo bliżej niż oktawa; tenor i bas do dwóch oktaw. Autor przewiduje wyjątki.",
+      "scope": "Konwencja Sikorskiego w początkowych ćwiczeniach, nie uniwersalna reguła muzyki; odległość tenor-alt może osiągnąć oktawę w określonych układach.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §9, s.26 i §17, s.64 (PDF 16,54)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-POS",
+      "statement": "Pozycję określa składnik akordu w sopranie, postać/przewrót składnik w basie.",
+      "scope": "Konwencja czterogłosu Sikorskiego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §9, s.27; §17, s.63 (PDF 17,53)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SPACING",
+      "statement": "Układ skupiony lub rozległy zależy od rozmieszczenia trzech górnych głosów, nie od odległości tenor–bas.",
+      "scope": "Konwencja szkolna autora; przy nietypowych układach stosować dokładny kontekst.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §9, s.27–28 (PDF 17–18)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOTION",
+      "statement": "Ruch prosty oznacza ten sam kierunek dwóch głosów, przeciwny różne kierunki, uboczny pozostawienie jednego głosu na miejscu przy ruchu drugiego.",
+      "scope": "Porównanie pary głosów w następstwie akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §10, s.30–31 (PDF 20–21)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PARALLEL",
+      "statement": "W podstawowych połączeniach różnych akordów autor wyklucza równoległe i przeciw­równoległe prymy, kwinty i oktawy.",
+      "scope": "Reguła szkolna; nie stosować bezwarunkowo do powtórzenia tego samego akordu, §16 zawiera wyjątek.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §10–11, s.31,36–37; §16, s.59 (PDF 21,26–27,49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-STRICT5",
+      "statement": "W ścisłym połączeniu trójdźwięków triady w stosunku kwinty w postaci zasadniczej zachowuje się wspólny dźwięk, bas zmienia prymę, a pozostałe głosy prowadzi blisko do składników następnego akordu.",
+      "scope": "Etap nauki §10, nie jedyna dopuszczalna realizacja; swobodne łączenie później.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §10, s.31–34 (PDF 21–24)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-STRICT2",
+      "statement": "W ścisłym połączeniu trójdźwięków triady w stosunku sekundy bez przewrotu i z podwojoną prymą bas porusza się o sekundę, trzy górne głosy idą przeciwnie do basu do bliskich składników.",
+      "scope": "Zakres §11; nie uogólniać na przewroty i swobodne łączenie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §11, s.35–38 (PDF 25–28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-REPEAT",
+      "statement": "Przy powtórzeniu tego samego akordu można zmienić pozycję, układ albo oba; nie jest to połączenie dwóch różnych akordów.",
+      "scope": "Konwencja autora §12; szczegółowe ograniczenia ruchu zależą od wariantu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §12, s.39–42 (PDF 29–32)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-DOUBLING",
+      "statement": "W podstawowych ćwiczeniach trójdźwięku bez przewrotu podwaja się prymę; w pierwszym przewrocie prymę lub kwintę, a w drugim preferuje się kwintę.",
+      "scope": "Konwencja §17 dla trójdźwięków triady, nie bezwzględna reguła wszystkich akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §17, s.64–65 (PDF 54–55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-BASS6",
+      "statement": "W podstawowym systemie basu cyfrowanego opisanym przez autora brak cyfr (lub 5 albo 3) wskazuje trójdźwięk bez przewrotu, cyfra 6 pierwszy przewrót.",
+      "scope": "Zakres ćwiczeń §21; w historycznym materiale interpretować kontekst.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I §21, s.78 (PDF 68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-INV",
+      "statement": "Dominanta septymowa ma postać zasadniczą i trzy przewroty, zależnie od tego, czy bas zawiera prymę, tercję, kwintę czy septymę. Skrócone cyfry przewrotów to 6/5, 4/3 i 2.",
+      "scope": "Konwencja basu cyfrowanego w tekście autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "Część I s.110 (PDF 100)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false

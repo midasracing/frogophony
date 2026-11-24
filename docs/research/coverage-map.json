@@ -33,7 +33,8 @@
         "TRI-QUAL",
         "TRI-INV",
         "SEV-QUAL",
-        "PL-HARM-V79"
+        "PL-HARM-V79",
+        "SIK-D7-INV"
       ],
       "status": "partial"
     },
@@ -55,7 +56,8 @@
       "claimIds": [
         "TRIAD-MAIN",
         "CAD-NONI",
-        "PL-TRANSPOSE"
+        "PL-TRANSPOSE",
+        "SIK-TRIAD"
       ],
       "status": "partial"
     },
@@ -234,7 +236,8 @@
       "claimIds": [
         "INT-QUALITY",
         "TRI-INV",
-        "SEV-INV"
+        "SEV-INV",
+        "SIK-POS"
       ],
       "status": "partial"
     },
@@ -243,7 +246,8 @@
       "claimIds": [
         "SEV-QUAL",
         "SEV-INV",
-        "PL-HARM-V79"
+        "PL-HARM-V79",
+        "SIK-D7-INV"
       ],
       "status": "partial"
     },
@@ -260,7 +264,8 @@
       "id": "II-SLUCH-05",
       "claimIds": [
         "TRIAD-MAIN",
-        "CAD-NONI"
+        "CAD-NONI",
+        "SIK-FUNCTION"
       ],
       "status": "partial"
     },
@@ -347,7 +352,8 @@
       "claimIds": [
         "SEV-INV",
         "SEV-QUAL",
-        "PL-HARM-V79"
+        "PL-HARM-V79",
+        "SIK-D7-INV"
       ],
       "status": "partial"
     },
@@ -387,14 +393,26 @@
       "claimIds": [
         "TRIAD-MAIN",
         "MINOR-V",
-        "SEV-QUAL"
+        "SEV-QUAL",
+        "SIK-TRIAD",
+        "SIK-FUNCTION"
       ],
       "status": "partial"
     },
     {
       "id": "II-HAR-02",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "SIK-SATB",
+        "SIK-POS",
+        "SIK-SPACING",
+        "SIK-MOTION",
+        "SIK-PARALLEL",
+        "SIK-STRICT5",
+        "SIK-STRICT2",
+        "SIK-REPEAT",
+        "SIK-DOUBLING"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-HAR-03",
@@ -405,8 +423,11 @@
     },
     {
       "id": "II-HAR-04",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "SIK-REPEAT",
+        "SIK-BASS6"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-HAR-05",

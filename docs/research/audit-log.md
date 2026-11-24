@@ -74,3 +74,6 @@ SIK-HAR-SCRIBD: sprawdzono dostępność strony; 499 stron według metadanych, b
 
 ## Sikorski — alternatywny link
 Bezpośrednie otwarcie SIK-HAR-ILIDE zakończyło się błędem dostępu. Zapisano ograniczenie, bez dodawania twierdzeń i bez zmian runtime.
+
+## Sikorski — pierwsza lektura dostarczonego PDF (2026-11-25)
+Plik otwarto programowo (499 stron) oraz sprawdzono obrazy pierwszych rozdziałów, granicę tomów i wybrane dalsze strony. Wykryto duplikat 9–10 i zniekształcenie renderowania dalszych stron; ekstrakcja osadzonych JPEG pozwala czytać tekst. Dodano 13 twierdzeń z precyzyjnymi lokalizatorami i 3 dodatkowe potwierdzenia istniejących. W szczególności odróżniono pozycję, postać, układ, ruchy i ograniczenia ścisłego łączenia akordów od swobodnego. Część II tylko identyfikacja i przegląd struktury, nie przeczytana. Bez kopii podręcznika, bez zmian runtime ani zatwierdzenia pedagogicznego.
