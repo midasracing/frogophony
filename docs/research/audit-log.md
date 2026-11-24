@@ -27,3 +27,9 @@ Pełny urzędowy PDF: dostępna ekstrakcja kończy się na s. 200, dalsza częś
 
 ## Dogrywka kontrolna
 Potwierdzono AMB-26, indeks uchwały UMFC-26-RES, ZPE-MOLL i CZ-26. Dodano dwa przypadki polskiej odmiany doryckiej. Sprawdzono parsowanie dwóch plików JSON, unikalność identyfikatorów oraz niezależnym prostym przeliczeniem 11 przypadków wysokości, interwałów i transpozycji (część wartości liczbowych, nie pełny grading ani test silnika). Pozostałe fixture to nadal oczekiwania do wykonania w CI.
+
+## Runda 3 — kontynuacja 2405af6
+- Ponownie zweryfikowano regulacje (w tym rozróżnienie tekstu głównego, załączników i przejścia między podstawami), OP-HARM i LUB-26; odróżniono OSM I (szerszy zakres) od SM I. Uzupełniono źródła szkolne i OMT2 z konkretnymi rozdziałami.
+- Dodano advanced-curriculum.md (18 modułów harmonii, 10 modułów słuchu, teoria i profil jazzowy), notation-contract.md i repertoire-reference.md; doprecyzowano poprzednią bazę bez usuwania historii.
+- Dodano 32 autorskie fixtures. JSON poprawne, ID unikalne. Niezależne proste obliczenia sprawdziły 47 z 64 przypadków (zakres: {"pitch":8,"interval":11,"scale":10,"chord":4,"rhythm":10,"transposition":4}). To kontrola oczekiwań liczbowych/symbolicznych, nie test bibliotek lub implementacji, ani potwierdzenie wszystkich pól. Pozostałe wymagają osobnych testów i recenzji.
+- Nadal nie ma pełnego odczytu podstawy SM II. Próby PDF i obrazu stron kończyły się timeoutem, OP-SIGHT/THEORY/FORM ponownie niedostępne. Rozdziały OMT2 w większości sprawdzone fragmentarycznie; brak pełnego przeczytania polskich podręczników. Bez deklaracji pełnego pokrycia, bez zmian runtime. 

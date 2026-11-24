@@ -61,3 +61,6 @@ OP-II potwierdza oddzielne przedmioty: kształcenie słuchu, zasady muzyki z ele
 - Academy+ to osobny opcjonalny katalog. Nie twierdzić, że przygotowanie do egzaminu odpowiada ukończeniu studiów.
  
 Każdy profil: institution, program, specialty, year, sourceId, section, taskTypes, explicitLimits, examinerOnly, status, lastChecked. Przy zmianie roku wygasa status aktualności. Nie wymyślać czasu, liczby odsłuchów ani progu zaliczenia.
+
+## Runda 3 — doprecyzowanie
+Zob. [advanced-curriculum.md](advanced-curriculum.md). LAW23-ALT s.112–114 pokazuje odrębny, szerszy zakres OSM I (m.in. skale, nonę i decymę, czterodźwięk zmniejszony, do 5 znaków). NIE dopisywać automatycznie tych limitów do SM I z tabeli powyżej. LAW23-ELI §2–3: przepisy przejściowe dla wybranych zajęć rozpoczętych przed 1.09.2023; LAW22-TRANS tylko w tych kontekstach. LUB-26 rozróżnia kwalifikację do konkretnej klasy i specjalności. OP-HARM daje znacznie bardziej szczegółową lokalną progresję harmonii, w tym ćwiczenia klawiaturowe, odczyt basu cyfrowanego i opóźnienia. Zakres jazzowy jest odrębnym profilem, nie obowiązkową klasyczną harmonią.

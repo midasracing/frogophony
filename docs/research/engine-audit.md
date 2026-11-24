@@ -35,3 +35,6 @@ HTTPS i zgoda, brak obowiązkowego przesyłania, audio lokalne, jawne zakończen
 4. Tone.Sampler vs smplr: pierwszy dźwięk, czas i pamięć pobrania, polifonia 4/16/32, przerwania, tempo, replay, offline, iOS Safari i Android Chrome, mały ekran. Raport surowych pomiarów i wersji.
 5. Pilot Pitchy: syntetyczne tony, licencjonowane głosy i dobrowolne nagrania, recenzja nauczyciela; confusion matrix osobno na rejestry i szum, odsetek abstencji, false pass/false fail. Bez obietnic do czasu wyników.
 6. Zabezpieczyć parser XML przed DTD/XXE, limit wielkości/dekompresji MXL, SVG bez aktywnych skryptów; testy dostępności i focus. Nie pobierać z nieznanych URL podczas lekcji.
+
+## Runda 3 — ponowna weryfikacja techniczna
+XML-NOT, XML-MIDI, XML-DURATION, XML-TIED, XML-ACC, XML-TRANS i XML-TUPLET potwierdzają rozdzielenie semantyki zapisu, wysokości oraz wykonania. Zob. notation-contract.md. TONE-ACCURATE i TONE-PERF: czas przekazany do callbacku jest czasem planowanym w audio, a nie momentem wywołania JS; zwalniać węzły i zdarzenia, synchronizować animację do czasu audio. MDN-AUDIO potwierdza konieczność inicjalizacji/resume w geście. M21-LIC: licencja kodu nie pozwala automatycznie redystrybuować korpusu. VF, OSMD, PITCHY i TONE zweryfikowano ponownie w publicznych README; decyzje pozostają kandydaturami, nie wynikami benchmarku.

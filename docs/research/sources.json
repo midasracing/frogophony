@@ -14,7 +14,7 @@
       "type": "law",
       "url": "https://eli.gov.pl/eli/DU/2023/1754/ogl",
       "status": "verified-partial",
-      "note": "Załącznik 4; SM I kształcenie słuchu, s. 199–200; przegląd PDF ograniczony przez dostępny ekstrakt do s. 200."
+      "note": "Załącznik 4; SM I kształcenie słuchu, s. 199–200; przegląd PDF ograniczony przez dostępny ekstrakt do s. 200. Ponowna próba przez LAW23-ALT i LAW23-ELI nie odzyskała pełnego SM II; OSM I nie może zastąpić SM I."
     },
     {
       "id": "LAW-23-PDF",
@@ -91,7 +91,7 @@
       "type": "school",
       "url": "https://www.gov.pl/attachment/c72676f0-ac63-4b23-906e-20f3987c1bda",
       "status": "verified-partial",
-      "note": "s. 4: harmonika modalna i funkcyjna, analiza oraz zastosowanie w edycji nut; pełny przegląd do wykonania."
+      "note": "Opole 2025, dr Zofia Komuszyna. Odczytano szczegółowe cele s. 4–8 (w tym obraz s.4); klasy III–VI instrumentalistyka/rytmika, II–IV wokalistyka; lokalny program."
     },
     {
       "id": "OP-SIGHT",
@@ -372,6 +372,230 @@
       "url": "https://www.gov.pl/web/zsmczestochowa/rekrutacja-do-klasy-pierwszej4",
       "status": "verified-page",
       "note": "Przykład wymagań szkolnych obejmujących cztery odmiany moll, nie rozszerzać automatycznie minimum krajowego."
+    },
+    {
+      "id": "LAW23-ALT",
+      "type": "law",
+      "url": "https://dziennikustaw.gov.pl/D2023000175401.pdf",
+      "status": "verified-partial",
+      "note": "Załącznik 4; OSM I s. 112–120; dostępny tekst, próby obrazów s. 200–202 timeout."
+    },
+    {
+      "id": "LAW23-ELI",
+      "type": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2023/1754/text/I/D20231754.pdf",
+      "status": "verified-partial",
+      "note": "§2–3 przepisy przejściowe; dostępny ekstrakt kończy się przed pełnym SM II."
+    },
+    {
+      "id": "LAW23-HTML",
+      "type": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2023/1754/text.html",
+      "status": "verified-page",
+      "note": "Tekst części głównej; nie zawiera pełnych tabel załącznika."
+    },
+    {
+      "id": "LAW22-TRANS",
+      "type": "law",
+      "url": "https://eli.gov.pl/api/acts/DU/2022/1329/text.html",
+      "status": "verified-partial",
+      "note": "Historyczne brzmienie podstawy; wyłącznie dla właściwych przypadków przejściowych, nie zastępuje LAW-23."
+    },
+    {
+      "id": "MKiDN-SCHOOLS",
+      "type": "official",
+      "url": "https://www.gov.pl/web/kultura/ksztalcenie-muzyczne2",
+      "status": "verified-page",
+      "note": "Rodzaje szkół, specjalności i cykle, w tym instrumentalistyka jazzowa."
+    },
+    {
+      "id": "ASSESS-26",
+      "type": "law",
+      "url": "https://eli.gov.pl/eli/DU/2026/1146/ogl",
+      "status": "verified-index",
+      "note": "Nowelizacja oceniania; nie utożsamiać z podstawą programową."
+    },
+    {
+      "id": "SCHOOL-THEORY-2526",
+      "type": "school",
+      "url": "https://www.gov.pl/attachment/79868108-1bed-45c1-940e-934461ceef5e",
+      "status": "verified-partial",
+      "note": "Tekst wymagań 2025/26, m.in. kształcenie słuchu, zasady i harmonia; nie ustalono nazwy szkoły z widocznego fragmentu, screenshot timeout; materiał porównawczy, nie norma krajowa."
+    },
+    {
+      "id": "LUB-26",
+      "type": "admissions",
+      "url": "https://www.gov.pl/web/osmlublin/rekrutacja-202627",
+      "status": "verified-page",
+      "note": "Wymagania kwalifikacyjne według klas i specjalności, w tym jazz; nie utożsamiać ze zwykłym egzaminem do I klasy SM II."
+    },
+    {
+      "id": "OMT2-ABOUT",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/about/",
+      "status": "verified-page",
+      "note": "Wersja 2; rozdziały oddzielne, licencje mediów osobno."
+    },
+    {
+      "id": "OMT2-INT",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intervals/",
+      "status": "verified-partial",
+      "note": "Rozpoznawanie interwałów."
+    },
+    {
+      "id": "OMT2-PITCH",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/pitch-and-pitch-class/",
+      "status": "verified-partial",
+      "note": "Pitch vs pitch class, enharmonia."
+    },
+    {
+      "id": "OMT2-FB",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/figured-bass/",
+      "status": "verified-partial",
+      "note": "Bas cyfrowany, odległości względem basu."
+    },
+    {
+      "id": "OMT2-NEAP",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/bii6/",
+      "status": "verified-partial",
+      "note": "Neapolitański sekstakord."
+    },
+    {
+      "id": "OMT2-MOD",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/reinterpreting-augmented-sixth-chords/",
+      "status": "verified-partial",
+      "note": "Enharmoniczna reinterpretacja akordów."
+    },
+    {
+      "id": "OMT2-ALTER",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/altered-and-extended-dominant-chords/",
+      "status": "verified-partial",
+      "note": "Alteracje i rozszerzenia dominanty; terminologia amerykańska."
+    },
+    {
+      "id": "OMT2-FORM",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/part/form/",
+      "status": "verified-index",
+      "note": "Forma na wielu poziomach."
+    },
+    {
+      "id": "OMT2-PHRASE",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/phrase-archetypes-unique-forms/",
+      "status": "verified-partial",
+      "note": "Okres, sentence, formy nieregularne; nie tłumaczyć mechanicznie sentence jako zdanie w sensie polskiej teorii."
+    },
+    {
+      "id": "OMT2-SONATA",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/sonata-form/",
+      "status": "verified-partial",
+      "note": "Forma sonatowa i funkcje formalne."
+    },
+    {
+      "id": "OMT2-RHY",
+      "type": "oer",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/other-rhythmic-essentials/",
+      "status": "verified-partial",
+      "note": "Synkopa i inne pojęcia rytmiczne."
+    },
+    {
+      "id": "POLMIC-ENC",
+      "type": "reference",
+      "url": "https://polmic.pl/pl/nasze-projekty/bazy-danych/encyklopedia-bazy-danych",
+      "status": "verified-page",
+      "note": "Polscy twórcy, wykonawcy, instytucje; nie licencja na kopiowanie."
+    },
+    {
+      "id": "POLMIC-WORKS",
+      "type": "reference",
+      "url": "https://polmic.pl/pl/nasze-projekty/baza-danych-polmic",
+      "status": "verified-page",
+      "note": "Katalog dzieł polskiej muzyki współczesnej."
+    },
+    {
+      "id": "XML-NOT",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/tutorial/notation-basics/",
+      "status": "verified-partial",
+      "note": "Oddzielne notacje i wysokość, tuplety i łuki."
+    },
+    {
+      "id": "XML-MIDI",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/tutorial/midi-compatible-part/",
+      "status": "verified-partial",
+      "note": "Alter obowiązuje niezależnie od tonacji, transpozycja, backup/forward."
+    },
+    {
+      "id": "XML-DURATION",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/duration/",
+      "status": "verified-page",
+      "note": "Duration przesuwa pozycję z wyjątkiem nuty chord; różnica między czasem zamierzonym a notowanym."
+    },
+    {
+      "id": "XML-TIED",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/tied/",
+      "status": "verified-page",
+      "note": "Tied dotyczy notacji, nie to samo co tie; let-ring jako osobna semantyka."
+    },
+    {
+      "id": "XML-ACC",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/accidental/",
+      "status": "verified-page",
+      "note": "Widoczny znak, odrębny od alter."
+    },
+    {
+      "id": "XML-TRANS",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/transpose/",
+      "status": "verified-page",
+      "note": "Transpozycja per staff, rozróżnia diatoniczną i chromatyczną składową."
+    },
+    {
+      "id": "XML-TUPLET",
+      "type": "standard",
+      "url": "https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/tuplet/",
+      "status": "verified-page",
+      "note": "Zapis i zagnieżdżenia tupletów."
+    },
+    {
+      "id": "TONE-ACCURATE",
+      "type": "engine",
+      "url": "https://github.com/Tonejs/Tone.js/wiki/Accurate-Timing",
+      "status": "verified-page",
+      "note": "Przekazywany czas audio używać przy planowaniu, nie czas wywołania callbacku."
+    },
+    {
+      "id": "TONE-PERF",
+      "type": "engine",
+      "url": "https://github.com/Tonejs/Tone.js/wiki/Performance",
+      "status": "verified-page",
+      "note": "Lookahead, dispose, synchronizacja grafiki."
+    },
+    {
+      "id": "M21-LIC",
+      "type": "engine",
+      "url": "https://music21.org/music21docs/about/about.html",
+      "status": "verified-page",
+      "note": "BSD dla kodu, corpus oddzielne prawa."
+    },
+    {
+      "id": "MDN-AUDIO",
+      "type": "engine",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Best_practices",
+      "status": "verified-page",
+      "note": "Uruchamianie/resume w geście użytkownika."
     }
   ]
 }

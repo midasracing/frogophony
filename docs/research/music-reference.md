@@ -47,3 +47,13 @@ Numer diatoniczny = liczba stopni literowych włącznie. Pryma, kwarta, kwinta, 
 
 ## Doprecyzowanie terminologii
 ZPE-MOLL potwierdza polską szkolną konwencję: moll dorycka ma podwyższone stopnie VI i VII względem naturalnej, a moll melodyczna w górę odpowiada doryckiej, w dół naturalnej. Modus dorycki ma inną strukturę (VI podwyższony, VII naturalny względem moll naturalnej). CZ-26 rozróżnia cztery odmiany w wymaganiach rekrutacyjnych. W kodzie używać jednoznacznych identyfikatorów, nie samego słowa `dorian`.
+
+## Runda 3 — reguły i rozróżnienia
+- Pozycja akordu (w szkolnej harmonii: składnik w sopranie) to nie jego postać/przewrót (składnik w basie), ani układ skupiony/rozległy. Rozpoznawanie jakości akordu nie jest równoważne rozpoznaniu pozycji i przewrotu. Oceniać każdy wymiar osobno. OP-HARM, SCHOOL-THEORY-2526.
+- Bas cyfrowany opisuje interwały względem basu, a nie bezpośrednio funkcję; znak chromatyczny interpretować względem konwencji i tonacji. Trójdźwięk w pierwszym przewrocie ma cyfry 6/3 (często skrót 6), w drugim 6/4. Nie mylić oznaczenia S z dodaną sekstą w polskiej harmonii z samym sekstakordem. OMT2-FB, OP-HARM.
+- Akord neapolitański: durowy trójdźwięk na obniżonym II stopniu, typowo pierwszy przewrót; w c-moll Des–F–As, bas F. W konkretnych stylach i podręcznikach interpretacja funkcyjna różni się; nie narzucać jednego symbolu. OMT2-NEAP.
+- Akordy o tej samej klasie wysokości mogą mieć odmienne funkcje i pisownię. Przykład: As–C–Es–Fis w c-moll jako niemiecki akord seksty zwiększonej; As–C–Es–Ges jako septymowy na As. Pierwszy zwykle kieruje As i Fis do G, drugi wymaga innego kontekstu. OMT2-MOD. Nie utożsamiać bezpośrednio amerykańskich nazw z polskimi nazwami funkcyjnymi.
+- Przy akordzie tristanowskim i złożonych akordach alterowanych ćwiczenia wymagają kontekstu i uzasadnienia, nie jednej uniwersalnej etykiety. Dominantę chopinowską, dysalterację i polski system funkcji pobocznych opracować z konkretnym polskim wydaniem przed zatwierdzeniem; obecnie to cele, nie zweryfikowane definicje podręcznikowe.
+- Fraza, zdanie, okres, ang. sentence i period nie mają gwarantowanej relacji 1:1 pomiędzy szkołami analizy. Nie wymuszać szablonu 4+4 ani jednej interpretacji formy. OMT2-PHRASE, OMT2-FORM, OMT2-SONATA.
+- Klasa wysokości (mod 12) traci oktawę oraz pisownię; służy do wybranych zadań, nie przechowywania nut. OMT2-PITCH, OMT2-INT.
+- Odróżnić widoczny znak od rzeczywistego alter i notowaną wartość od wykonawczej długości; zob. notation-contract.md.
