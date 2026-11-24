@@ -68,3 +68,6 @@ Odczytano fragmenty warstwy tekstowej WES-1986-TEXT. Dodano osiem twierdzeń i c
 
 ## Wesołowski — drugi link użytkownika
 WES-1986-ALT: odczyt wybranych fragmentów HTML s.70–75 i 133–137. Dodano pięć twierdzeń, poprawiono przypisanie terminologii równoimienne, uzupełniono mapę. To druga kopia tego samego wydania, nie niezależny dowód; brak odczytu grafiki i pełnego PDF, nie kopiowano książki. Bez zmian runtime.
+
+## Sikorski — link użytkownika
+SIK-HAR-SCRIBD: sprawdzono dostępność strony; 499 stron według metadanych, brak treści książki. Nie dodano twierdzeń merytorycznych i nie oznaczono publikacji jako przeczytanej. Wpisano brakujący egzemplarz do kolejki lektury. Bez zmian runtime.

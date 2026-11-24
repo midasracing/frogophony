@@ -1044,6 +1044,13 @@
       "url": "https://pdfcoffee.com/wesoowski-franciszek-zasady-muzyki-warszawa-1986-179-5-pdf-free.html",
       "status": "verified-partial",
       "note": "Link użytkownika, alternatywny OCR tego samego wydania PWM 1986, ISBN 83-224-0250-3. Odczyt HTML: przedmowa, §20–22 (s.70–75), §44–46 (s.133–137); brak weryfikacji obrazów i praw publikującego. Nie jest niezależnym źródłem merytorycznym. Nie pobierano PDF."
+    },
+    {
+      "id": "SIK-HAR-SCRIBD",
+      "type": "bibliography",
+      "url": "https://www.scribd.com/document/1000832072/K-Sikorski-Harmonia-I-i-II",
+      "status": "retry",
+      "note": "Link użytkownika. Odczyt strony HTML: tytuł opisowy K. Sikorski – Harmonia I i II, 499 stron wg serwisu, tytuł wspomagany AI. Brak dostępnej treści podręcznika, spisu, obrazów stron i potwierdzenia wydania oraz kompletności tomów. Nie pobierano ani nie obchodzono ograniczeń. Potrzebny plik PDF lub czytelne skany dostarczone przez użytkownika."
     }
   ]
 }
