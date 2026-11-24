@@ -45,7 +45,8 @@
         "MINOR-HARM",
         "MINOR-PL-DOR",
         "PL-KEY-REL",
-        "PL-KEY-SAME"
+        "PL-KEY-SAME",
+        "PL-KEY-DETECT"
       ],
       "status": "partial"
     },
@@ -53,7 +54,8 @@
       "id": "I-SLUCH-05",
       "claimIds": [
         "TRIAD-MAIN",
-        "CAD-NONI"
+        "CAD-NONI",
+        "PL-TRANSPOSE"
       ],
       "status": "partial"
     },
@@ -65,7 +67,8 @@
         "METER-PL",
         "METER-68",
         "PL-METER-REG",
-        "PL-RHY-GROUP"
+        "PL-RHY-GROUP",
+        "PL-PICKUP"
       ],
       "status": "partial"
     },
@@ -109,7 +112,8 @@
         "DOT",
         "METER-PL",
         "PL-SYNCOPE",
-        "PL-RHY-GROUP"
+        "PL-RHY-GROUP",
+        "PL-PICKUP"
       ],
       "status": "partial"
     },
@@ -220,7 +224,8 @@
         "STAFF",
         "CLEF-G",
         "CLEF-F",
-        "METER-PL"
+        "METER-PL",
+        "PL-POLYRHYTHM"
       ],
       "status": "partial"
     },
@@ -246,7 +251,8 @@
       "id": "II-SLUCH-04",
       "claimIds": [
         "MAJOR-PATTERN",
-        "MINOR-MEL"
+        "MINOR-MEL",
+        "PL-KEY-DETECT"
       ],
       "status": "partial"
     },
@@ -270,8 +276,10 @@
     },
     {
       "id": "II-SLUCH-08",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "PL-TRANSPOSE"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-SLUCH-09",
@@ -305,7 +313,9 @@
         "MAJOR-PATTERN",
         "MINOR-KEYSIG",
         "PL-KEY-REL",
-        "PL-KEY-SAME"
+        "PL-KEY-SAME",
+        "PL-KEY-DETECT",
+        "PL-TRANSPOSE"
       ],
       "status": "partial"
     },
@@ -350,7 +360,10 @@
         "METER-EN",
         "PL-METER-REG",
         "PL-RHY-GROUP",
-        "PL-SYNCOPE"
+        "PL-SYNCOPE",
+        "PL-POLYRHYTHM",
+        "PL-POLYMETER",
+        "PL-PICKUP"
       ],
       "status": "partial"
     },

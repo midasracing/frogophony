@@ -23,3 +23,5 @@ Zapisać wydanie, rok, strony i status lektury; rozdzielać fakt, konwencję, pr
 
 ## Aktualizacja po linku użytkownika
 WES-1986-TEXT: dostępny tekst wydania PWM 1986; nie prosić ponownie o ten sam tekst. Nadal potrzebny czytelny PDF/skan stron z nutami, jeśli użytkownik posiada legalny egzemplarz, szczególnie s.37–74, 101–110, 112–137 i 148–164. Pozostałe P0 pozostają otwarte. Przejrzano wybrane fragmenty, nie całą książkę.
+
+Drugi link użytkownika (WES-1986-ALT) jest dostępny w warstwie HTML; to ten sam podręcznik i wydanie, nie niezależna publikacja. Odczytano §20–22 i §44–46 w wybranych fragmentach. OCR nadal pomija część symboli muzycznych; nie potwierdzono obrazów nut ani pełnego pliku PDF. Do pracy nad przykładami przydatny będzie czytelny egzemplarz użytkownika. Nie prosić ponownie o tekst tych fragmentów.

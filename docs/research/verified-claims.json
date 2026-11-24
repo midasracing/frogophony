@@ -715,6 +715,11 @@
           "sourceId": "WES-1986-TEXT",
           "locator": "§44, s.134",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-ALT",
+          "locator": "§44, s.134",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -725,11 +730,16 @@
     },
     {
       "id": "PL-KEY-SAME",
-      "statement": "Tonacje jednoimienne mają wspólną tonikę i różny tryb, np. F-dur i f-moll.",
-      "scope": "Terminologia Wesołowskiego; angielskie parallel keys.",
+      "statement": "W terminologii Wesołowskiego tonacje równoimienne mają wspólną tonikę, ale różny tryb.",
+      "scope": "Termin autora: równoimienne. Ang. parallel keys. Wcześniejsze przypisanie słowa jednoimienne bezpośrednio temu wydaniu było nieścisłe; dodatkowe polskie synonimy sprawdzić oddzielnie.",
       "sourceRefs": [
         {
           "sourceId": "WES-1986-TEXT",
+          "locator": "§44, s.134",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-ALT",
           "locator": "§44, s.134",
           "access": "direct-read"
         }
@@ -833,6 +843,91 @@
         {
           "sourceId": "WES-1986-TEXT",
           "locator": "§38, s.109",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-POLYRHYTHM",
+      "statement": "Polirytmia w ujęciu Wesołowskiego obejmuje samodzielne przebiegi rytmiczne głosów, również we wspólnym metrum.",
+      "scope": "Szersze ujęcie niż sam konflikt podziałów 2:3.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-ALT",
+          "locator": "§20, s.70–71",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-POLYMETER",
+      "statement": "Polimetria dotyczy zróżnicowania metrycznego współbrzmiących głosów.",
+      "scope": "Ujęcie autora; nie utożsamiać z każdą polirytmią.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-ALT",
+          "locator": "§20, s.71–73",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-PICKUP",
+      "statement": "Przedtakt to niepełny takt rozpoczynający utwór lub jego część; niepełny takt końcowy jest częstą, a nie bezwzględną regułą.",
+      "scope": "Konwencja zapisu metrycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-ALT",
+          "locator": "§21, s.73",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-KEY-DETECT",
+      "statement": "Same znaki przykluczowe nie rozstrzygają tonacji; potrzebny jest kontekst melodii i harmonii.",
+      "scope": "System dur-moll, w szczególności tonacje równoległe i zmiany tonacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-ALT",
+          "locator": "§45, s.134–135",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-24",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "PL-TRANSPOSE",
+      "statement": "Transpozycja przenosi materiał muzyczny o ustalony interwał w górę albo w dół, z odpowiednią zmianą zapisu.",
+      "scope": "Transpozycja tonalna; nie mylić z samą zmianą klucza.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-ALT",
+          "locator": "§46, s.136",
           "access": "direct-read"
         }
       ],

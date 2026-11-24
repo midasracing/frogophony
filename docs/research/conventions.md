@@ -19,3 +19,6 @@ Katalog rozstrzygnięć do zastosowania w zadaniach. Nie jest zatwierdzonym podr
 
 ## Kontrola w Wesołowskim (1986)
 §44 s.134 potwierdza polskie odpowiedniki relative/parallel (PL-KEY-REL, PL-KEY-SAME). Przedmowa s.8 i §15 wskazują, że podział taktów jest konwencją notacyjną, nie jedyną możliwą klasyfikacją. §18 s.59–63: dopuszcza synkopę w trójdzielności między słabymi częściami; nie stosować wyłącznie warunku przekroczenia mocnej części. §38 s.109–110 potwierdza polski minor dorycki i melodyczny, nie daje jeszcze jednoznacznego polecenia ćwiczenia doryckiej w dół.
+
+### Korekta nazewnictwa według §44 Wesołowskiego
+Wydanie 1986 na s.134 używa określenia równoimienne (PL-KEY-SAME). Poprzednio błędnie przypisano autorowi formę jednoimienne; nie odrzucamy jej w innych źródłach, lecz wymaga odrębnego potwierdzenia. Dodatkowo §20–21 rozróżnia polirytmię, polimetrię oraz przedtakt (PL-POLYRHYTHM, PL-POLYMETER, PL-PICKUP).

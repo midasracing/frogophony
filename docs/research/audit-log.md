@@ -65,3 +65,6 @@ Ponownie otwarto obydwa PDF CEA; odczytano wskazane w reading-queue.md fragmenty
 
 ## Wesołowski — link użytkownika
 Odczytano fragmenty warstwy tekstowej WES-1986-TEXT. Dodano osiem twierdzeń i cztery potwierdzenia istniejących; uzupełniono powiązania. Utrzymano blokadę wydawniczą, nie testowano silników. Nie pobrano kopii książki ani nie zweryfikowano nut w obrazie. Pozostałe strony oczekują lektury.
+
+## Wesołowski — drugi link użytkownika
+WES-1986-ALT: odczyt wybranych fragmentów HTML s.70–75 i 133–137. Dodano pięć twierdzeń, poprawiono przypisanie terminologii równoimienne, uzupełniono mapę. To druga kopia tego samego wydania, nie niezależny dowód; brak odczytu grafiki i pełnego PDF, nie kopiowano książki. Bez zmian runtime.
