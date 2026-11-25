@@ -1997,6 +1997,170 @@
           72
         ]
       }
+    },
+    {
+      "id": "TH01",
+      "domain": "harmony",
+      "input": {
+        "fundamentalHz": 100,
+        "harmonics": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "expected": {
+        "hz": [
+          100,
+          200,
+          300,
+          400
+        ]
+      }
+    },
+    {
+      "id": "TH02",
+      "domain": "harmony",
+      "input": {
+        "key": "C",
+        "fromMidi": [
+          48,
+          55,
+          60,
+          64
+        ],
+        "toMidi": [
+          41,
+          57,
+          60,
+          65
+        ],
+        "voiceOrder": "B,T,A,S"
+      },
+      "expected": {
+        "commonVoice": "A",
+        "upperDeltas": [
+          2,
+          0,
+          1
+        ],
+        "validPattern": true
+      }
+    },
+    {
+      "id": "TH03",
+      "domain": "harmony",
+      "input": {
+        "key": "C",
+        "fromMidi": [
+          41,
+          53,
+          57,
+          60
+        ],
+        "toMidi": [
+          43,
+          50,
+          55,
+          59
+        ],
+        "voiceOrder": "B,T,A,S"
+      },
+      "expected": {
+        "upperDeltas": [
+          -3,
+          -2,
+          -1
+        ],
+        "bassDelta": 2,
+        "validPattern": true
+      }
+    },
+    {
+      "id": "TH04",
+      "domain": "harmony",
+      "input": {
+        "rootMidiClass": 0,
+        "midi": [
+          48,
+          60,
+          64,
+          72
+        ]
+      },
+      "expected": {
+        "rootCount": 3,
+        "thirdCount": 1,
+        "fifthCount": 0
+      }
+    },
+    {
+      "id": "TH05",
+      "domain": "harmony",
+      "input": {
+        "mode": "major",
+        "allowed": [
+          "T",
+          "S",
+          "D"
+        ],
+        "degree": 1
+      },
+      "expected": {
+        "functions": [
+          "T",
+          "S"
+        ]
+      }
+    },
+    {
+      "id": "TH06",
+      "domain": "harmony",
+      "input": {
+        "key": "a-minor",
+        "scaleDegrees": [
+          6,
+          7,
+          8
+        ],
+        "profile": "moll-doryckie"
+      },
+      "expected": {
+        "notes": [
+          "Fis",
+          "Gis",
+          "A"
+        ],
+        "functions": [
+          "S+",
+          "D",
+          "T"
+        ]
+      }
+    },
+    {
+      "id": "TH07",
+      "domain": "harmony",
+      "input": {
+        "key": "a-minor",
+        "scaleDegrees": [
+          7,
+          6
+        ],
+        "variant": "natural"
+      },
+      "expected": {
+        "notes": [
+          "G",
+          "F"
+        ],
+        "functions": [
+          "D-minor",
+          "S-minor"
+        ],
+        "allowedInProfile": true
+      }
     }
   ]
 }

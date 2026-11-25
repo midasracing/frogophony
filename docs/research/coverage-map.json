@@ -442,7 +442,8 @@
         "DK-CHORD",
         "DROB-EAR",
         "WES-COMPOUND",
-        "DK-ADDED-NOTE"
+        "DK-ADDED-NOTE",
+        "TAR-ROOT-CONCEPT"
       ],
       "status": "partial"
     },
@@ -583,7 +584,8 @@
         "WES-PURE-TONE",
         "WES-RESONANCE",
         "WES-REVERB",
-        "WES-OCTAVE-NAMES"
+        "WES-OCTAVE-NAMES",
+        "TAR-HARMONIC-FREQUENCY"
       ],
       "status": "partial"
     },
@@ -631,7 +633,8 @@
         "WES-THIRD-RELATION",
         "WES-KEY-PICARDY",
         "WES-KEY-CONTEXT",
-        "WES-CLEF-TRANSPOSE"
+        "WES-CLEF-TRANSPOSE",
+        "TAR-HISTORICAL-KEYSIG"
       ],
       "status": "partial"
     },
@@ -690,7 +693,8 @@
         "WES-DIATONIC-THIRDS",
         "WES-INTERVAL-PAIR",
         "WES-CONSONANCE",
-        "WES-TERTIAN"
+        "WES-TERTIAN",
+        "TAR-DISSONANCE-CONTEXT"
       ],
       "status": "partial"
     },
@@ -705,7 +709,8 @@
         "TAR-D7-RES",
         "WES-HARM-MAJOR-INTERVALS",
         "WES-DISSONANCE-RESOLVE",
-        "WES-MINOR-HARM-TRIADS"
+        "WES-MINOR-HARM-TRIADS",
+        "TAR-DISSONANCE-MOTION"
       ],
       "status": "partial"
     },
@@ -825,7 +830,15 @@
         "TAR-D9",
         "TAR-D9-ROOTLESS",
         "TAR-DEGREES",
-        "WH-CHOPIN-CHORD"
+        "WH-CHOPIN-CHORD",
+        "TAR-PEDAGOGY-THRESHOLDS",
+        "TAR-DISSONANCE-CONTEXT",
+        "TAR-ROOT-CONCEPT",
+        "TAR-FUNCTION-CONTEXT",
+        "TAR-COMPONENT-NUMBER",
+        "TAR-DORIAN-S-RES",
+        "TAR-MINOR-D-S",
+        "TAR-MAJOR-MINOR-S"
       ],
       "status": "partial"
     },
@@ -847,7 +860,22 @@
         "WH-D7-EXCEPTION",
         "WH-D7-SEVENTH",
         "WH-D7-LIMIT",
-        "WH-DOUBLING"
+        "WH-DOUBLING",
+        "TAR-SATB-STEMS",
+        "TAR-ROOT-DOUBLING",
+        "TAR-SPACING",
+        "TAR-FIFTH-NEAREST",
+        "TAR-SECOND-CONTRARY",
+        "TAR-REPEAT-SAME",
+        "TAR-REPEAT-CHANGE",
+        "TAR-FIFTH-CONTRARY",
+        "TAR-SECOND-EXTENDED",
+        "TAR-THIRD-TO-THIRD",
+        "TAR-INNER-THIRDS",
+        "TAR-INCOMPLETE-TRIAD",
+        "TAR-VOICE-LEAP",
+        "TAR-ALL-VOICES",
+        "TAR-CROSS-RELATION"
       ],
       "status": "partial"
     },
@@ -855,7 +883,12 @@
       "id": "II-HAR-03",
       "claimIds": [
         "CAD-NONI",
-        "TAR-CADENCE"
+        "TAR-CADENCE",
+        "TAR-FUNCTION-CONTEXT",
+        "TAR-SUSPENDED-CADENCE",
+        "TAR-PEDAL",
+        "TAR-MINOR-D-S",
+        "TAR-MAJOR-MINOR-S"
       ],
       "status": "partial"
     },
@@ -866,7 +899,12 @@
         "SIK-BASS6",
         "TAR-FIGURED",
         "WH-PRACTICE",
-        "WH-CONTINUO"
+        "WH-CONTINUO",
+        "TAR-PRACTICE",
+        "TAR-HARMONIZATION-CANDIDATES",
+        "TAR-HARMONIZATION-PLAN",
+        "TAR-HARMONIC-RHYTHM",
+        "TAR-SYNCOPATED-HARMONY"
       ],
       "status": "partial"
     },
@@ -878,7 +916,8 @@
         "TAR-PASS",
         "TAR-NEIGHBOR",
         "TAR-ANTICIPATION",
-        "WH-PEDAL"
+        "WH-PEDAL",
+        "TAR-PEDAGOGY-THRESHOLDS"
       ],
       "status": "partial"
     },
@@ -893,7 +932,9 @@
         "WH-D7-CHAIN",
         "WH-MOD-CAD",
         "WH-MOD-TYPES",
-        "WES-KEY-SIGNATURE-CONTEXT"
+        "WES-KEY-SIGNATURE-CONTEXT",
+        "TAR-ALTER-DIRECTION",
+        "TAR-CROSS-RELATION"
       ],
       "status": "partial"
     },
@@ -902,7 +943,8 @@
       "claimIds": [
         "TAR-ANALYSIS",
         "WH-PRACTICE",
-        "WH-DOUBLING"
+        "WH-DOUBLING",
+        "TAR-PRACTICE"
       ],
       "status": "partial"
     },

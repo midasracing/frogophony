@@ -1463,6 +1463,53 @@
         "DK-GRAPHIC-TIME"
       ],
       "remaining": "Przejrzano obrazy wszystkich 92 stron, łącznie ze spisem; nie przepisano i nie rozwiązano niezależnie każdego przykładu nutowego. Przycięcia marginesów i odręczne dopiski nie są podstawą twierdzeń. Batches pełnego audytu pozostają pending-full-review."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-PEDAGOGY-THRESHOLDS",
+        "TAR-PRACTICE",
+        "TAR-HISTORICAL-KEYSIG",
+        "TAR-ALTER-DIRECTION",
+        "TAR-HARMONIC-FREQUENCY",
+        "TAR-DISSONANCE-CONTEXT",
+        "TAR-DISSONANCE-MOTION",
+        "TAR-ROOT-CONCEPT",
+        "TAR-FUNCTION-CONTEXT",
+        "TAR-SUSPENDED-CADENCE",
+        "TAR-COMPONENT-NUMBER",
+        "TAR-SATB-STEMS",
+        "TAR-ROOT-DOUBLING",
+        "TAR-SPACING",
+        "TAR-FIFTH-NEAREST",
+        "TAR-SECOND-CONTRARY",
+        "TAR-REPEAT-SAME",
+        "TAR-REPEAT-CHANGE",
+        "TAR-HARMONIZATION-CANDIDATES",
+        "TAR-HARMONIZATION-PLAN",
+        "TAR-HARMONIC-RHYTHM",
+        "TAR-SYNCOPATED-HARMONY",
+        "TAR-PEDAL",
+        "TAR-FIFTH-CONTRARY",
+        "TAR-SECOND-EXTENDED",
+        "TAR-THIRD-TO-THIRD",
+        "TAR-INNER-THIRDS",
+        "TAR-INCOMPLETE-TRIAD",
+        "TAR-VOICE-LEAP",
+        "TAR-ALL-VOICES",
+        "TAR-CROSS-RELATION",
+        "TAR-DORIAN-S-RES",
+        "TAR-MINOR-D-S",
+        "TAR-MAJOR-MINOR-S"
+      ],
+      "remaining": "Odczyt kolejny tekstu s.1–83, obrazy s.23–26 i 34–80 udostępnione; obrazy s.81–83 nie pojawiły się w odpowiedzi, a wcześniejsze przykłady s.1–22,27–33 nie przeszły pełnej kontroli obrazu. Nie wykonano wszystkich zadań ani analizy nuta po nucie. Następny zakres 84–121 (dźwięki obce)."
     }
   ]
 }

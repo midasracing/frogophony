@@ -125,3 +125,6 @@ Kontynuacja bez pomijania rozdziałów. 10 twierdzeń i 4 przypadki wzorcowe; re
 
 ## Dzielska i Kaszycki — ciągła lektura 1–92
 Przejrzano wszystkie obrazy stron dostępnych w pliku. Dodano 34 twierdzeń i 15 roboczych schematów generatorów. Zapisano różnice konwencji notacyjnych, wieloznaczność rozpoznawania gam/akordów, osobne strumienie rytmiczne, izolowanie bodźców, pamięć i improwizację. Nie skopiowano przykładów. Nie rozwiązano każdego ćwiczenia nuta po nucie; nie nadano statusu pełnego audytu ani zgody wydawniczej. Schematy nie są jeszcze implementacją.
+
+## Targosz — lektura ciągła s.1–83
+34 nowych twierdzeń i 7 oryginalnych przypadków wzorcowych. Wprowadzenie oraz triada w postaci zasadniczej, metodyka harmonizacji, warianty połączeń, niepełność, odmiany skal. Oddzielono reguły pierwszego etapu (np. D–S) od późniejszych dopuszczeń (molowa D–S), zależności funkcyjne od akordów oraz sztywne ograniczenia szkolne od preferencji i praktyki repertuarowej. Dostępne obrazy s.23–26 i 34–80; nie rozwiązano wszystkich zadań ani nie sprawdzono każdej nuty. Dalsza lektura od s.84. Nie nadano zgody wydawniczej. Przypadki wzorcowe nie są wykonanymi testami silnika.

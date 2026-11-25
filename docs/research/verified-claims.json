@@ -7157,6 +7157,598 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-PEDAGOGY-THRESHOLDS",
+      "statement": "Targosz wprowadza dźwięki obce już po triadzie bez przewrotów, a za drugi próg trudności uznaje rozróżnienie zastępczego i samodzielnego działania stopni pobocznych.",
+      "scope": "Kolejność właściwa temu podręcznikowi, nie jedyna obowiązująca.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.7–9",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-PRACTICE",
+      "statement": "Nauka harmonii obejmuje pisanie, grę na fortepianie, wyobrażanie harmonizacji i słuchową analizę przebiegów.",
+      "scope": "Cele dydaktyczne autora; osobna ocena praktycznych kompetencji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.10–12",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HISTORICAL-KEYSIG",
+      "statement": "Autor opisuje historyczną notację dorycką tonacji molowych z bemolami, mającą o jeden bemol mniej niż współczesna sygnatura.",
+      "scope": "Nie stosować do współczesnej normy; przykład d-moll bez znaków.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.13 przypis",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-DIRECTION",
+      "statement": "W elementarnym modelu Targosza podwyższony chromatycznie stopień ciąży ku następnemu wyższemu stopniowi, obniżony ku niższemu.",
+      "scope": "Warunki s.18 przypis: rozpatrywane zmiany muszą umożliwiać rozwiązanie w ramach skali; tendencja, nie uniwersalny zakaz innych ruchów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.17–18",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIC-FREQUENCY",
+      "statement": "W idealnym szeregu harmonicznym częstotliwość n-tej składowej wynosi n razy częstotliwość podstawową; odstęp w Hz między kolejnymi składowymi jest stały, interwały maleją.",
+      "scope": "Model harmoniczny; nie każdy instrument daje dokładnie harmoniczne widmo.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.20–22",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DISSONANCE-CONTEXT",
+      "statement": "W tonalnej konwencji autora dysonans wymaga rozwiązania, a konsonans nie; kwarta może działać jako dysonans między basem i głosem wyższym.",
+      "scope": "Nie utożsamiać z oceną estetyczną ani rozszerzać na całą muzykę.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.23–24, przykł.9",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DISSONANCE-MOTION",
+      "statement": "Typowe rozwiązania według Targosza: sekundy na tercje, septymy na seksty, wielka septyma także na oktawę; zwiększone interwały rozszerzają się, zmniejszone zwężają.",
+      "scope": "Autor pokazuje typowe, nie wszystkie rozwiązania; ruch i jakość zależą od materiału.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.23–24, przykł.9",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ROOT-CONCEPT",
+      "statement": "Akord w definicji autora ma harmoniczną podstawę, która może nie brzmieć; składniki zachowują nazwy niezależnie od przestawienia głosów.",
+      "scope": "Nie wyznaczać prymy mechanicznie przez najniższy dźwięk ani wymagać tercjowości każdego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.26–28",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FUNCTION-CONTEXT",
+      "statement": "Przyporządkowanie T, S, D wynika z kontekstu; sama tonika może być chwilowym rozwiązaniem bez zamknięcia frazy.",
+      "scope": "W ramach tonalności funkcyjnej; nie każda obecność toniki jest kadencją.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.28–31,41,51–52",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSPENDED-CADENCE",
+      "statement": "W ujęciu autora zakończenie odcinka na D jest kadencją zawieszoną; wymienia również rzadsze zakończenie na S.",
+      "scope": "Terminologia Targosza, nie utożsamiać bezwarunkowo ze wszystkimi definicjami półkadencji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.30",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-COMPONENT-NUMBER",
+      "statement": "Cyfry rzymskie wskazują stopnie skali, arabskie interwały lub składniki akordu zależnie od kontekstu notacji.",
+      "scope": "Składnik jest odniesiony do prymy, nie brzmiącego basu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.27,33",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SATB-STEMS",
+      "statement": "W omawianej dwupięcioliniowej notacji SATB sopran i tenor mają laski w górę, alt i bas w dół; tenor w kluczu basowym zapisany jest w rzeczywistej wysokości.",
+      "scope": "Profil ćwiczeń Targosza, nie ogólna reguła wszystkich partytur.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.34, przykł.13",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ROOT-DOUBLING",
+      "statement": "Pełny trójdźwięk w postaci zasadniczej ma na tym etapie podwojoną prymę; o pozycji decyduje składnik sopranu, o przewrocie składnik basu.",
+      "scope": "Ograniczenie ćwiczeń początkowych; dalsze rozdziały dopuszczają inne rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.35–38",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SPACING",
+      "statement": "Układ skupiony oznacza brak wolnego składnika akordu pomiędzy sąsiednimi głosami górnymi, rozległy po jednym takim składniku; bas nie rozstrzyga układu.",
+      "scope": "W pełnych trójdźwiękach omawianego etapu; preferencja układu zależy od rejestru sopranu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.38–39",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIFTH-NEAREST",
+      "statement": "W elementarnym połączeniu najbliższą drogą trójdźwięków pokrewnych kwintowo bas przechodzi między prymami, głos wspólny pozostaje, a pozostałe dwa górne głosy idą sekundami w tę samą stronę; układ pozostaje.",
+      "scope": "Pełne akordy triady bez przewrotu; nie jedyna technika.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.39–41, przykł.22–24",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-CONTRARY",
+      "statement": "W początkowym połączeniu S–D bas idzie sekundą w górę, pozostałe głosy w dół do najbliższych składników, układ pozostaje.",
+      "scope": "Model dwóch trójdźwięków triady w postaci zasadniczej; dalsze rozdziały rozszerzają.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.42–43, przykł.25–26",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-REPEAT-SAME",
+      "statement": "Przy powtórzeniu pełnego akordu i skoku sopranu na najbliższy składnik można zachować układ, jeśli pozwalają zakresy; wszystkie trzy górne głosy poruszają się w kierunku sopranu.",
+      "scope": "Nie stosować do zmiany akordu; dalsze warianty zmieniają układ.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.45–47",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-REPEAT-CHANGE",
+      "statement": "Przy powtórzeniu ze zmianą układu skok sopranu w górę prowadzi z układu skupionego do rozległego, w dół odwrotnie; przy pominięciu składnika w omawianym wzorze zmiana jest konieczna.",
+      "scope": "Profil pełnej triady w postaci zasadniczej; skok oktawowy opisany osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.48, przykł.36",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIZATION-CANDIDATES",
+      "statement": "W pełnej triadzie dur naturalnego lub moll harmonicznego I i V stopień należą do dwóch trójdźwięków, pozostałe stopnie do jednego.",
+      "scope": "Wyłącznie T/S/D bez dźwięków obcych, nie reguła ogólnej harmonizacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.49, przykł.39",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIZATION-PLAN",
+      "statement": "Autor zaleca najpierw prześpiewać melodię, ustalić cezury i kadencje, funkcje, rodzaje połączeń i układy, a dopiero potem zapisać pełny czterogłos.",
+      "scope": "Metoda szkolna; nie oznacza, że wszystkie melodie mają formę regularnego okresu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.50–55,59,75–76",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIC-RHYTHM",
+      "statement": "Zmiany funkcji mają związek z metrum i często wypadają na mocnych częściach; po zmianie na słabej części autor oczekuje zwykle zmiany na następnej mocnej.",
+      "scope": "W modelu ćwiczeń; s.57 wyraźnie dopuszcza utrzymanie funkcji przez kreskę między zdaniami lub przez pełne takty.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.51,53,56–57",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SYNCOPATED-HARMONY",
+      "statement": "Funkcja może zmienić się podczas trwania jednej nuty synkopowanej, gdy jej zapis rozłoży się na wartości połączone łukiem.",
+      "scope": "Przykłady 48–50; zmiana harmonii nie oznacza ponownego ataku tej nuty.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.55–56",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-PEDAL",
+      "statement": "Nuta pedałowa to utrzymany dźwięk basu niezależnie od zmian harmonii w wyższych głosach; autor pokazuje końcowe T–S–T nad prymą toniki.",
+      "scope": "Przykładowy zabieg, nie wymóg każdej kadencji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.58, przykł.51–52",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIFTH-CONTRARY",
+      "statement": "W alternatywnym połączeniu trójdźwięków pokrewnych kwintowo bas skacze kwartą, trzy górne głosy idą przeciwnie do najbliższych składników, układ pozostaje.",
+      "scope": "Nie to samo co połączenie najbliższą drogą; może słabiej realizować ciążenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.61–62,68",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-EXTENDED",
+      "statement": "W rozszerzonym ruchu przeciwnym S–D trzy górne głosy omijają najbliższe składniki; preferowany jest układ rozległy.",
+      "scope": "Bas sekundę w górę; układ skupiony może prowadzić do nakładania przebiegów głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.62–63, przykł.56",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-THIRD-TO-THIRD",
+      "statement": "Łączenie dwóch akordów w pozycji tercji zmienia układ: ruch sopranu w górę oznacza skupiony→rozległy, w dół odwrotnie.",
+      "scope": "Reguła dla pełnych trójdźwięków triady bez przewrotu w technice Targosza.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.63–64",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-INNER-THIRDS",
+      "statement": "Przejście z tercji na tercję może również wystąpić w tenorze, a w sąsiedztwie sekundy także w alcie; zmiana układu jest odwrotna względem kierunku przejścia tercji niż w sopranie.",
+      "scope": "W omawianych połączeniach; wskazówką jest ruch sopranu 1–5 lub 5–1.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.64–66, przykł.61–62",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-INCOMPLETE-TRIAD",
+      "statement": "Niepełny trójdźwięk w omawianym czterogłosie ma trzy prymy, jedną tercję i brak kwinty; może umożliwić rozwiązanie dźwięku prowadzącego.",
+      "scope": "Nie mylić z dowolnym niepełnym akordem septymowym ani z akordem bez prymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.68–71, przykł.67–69",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-VOICE-LEAP",
+      "statement": "W profilu elementarnym autor zakazuje skoków zwiększonych między różnymi akordami; po skoku zmniejszonym wymaga rozwiązania małą sekundą w przeciwnym kierunku.",
+      "scope": "S.8 dopuszcza zwiększone skoki przy powtórzeniu; zakres i dalsze wyjątki pozostają źródłowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.8,71–72",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALL-VOICES",
+      "statement": "Targosz zakazuje ruchu wszystkich czterech głosów w jednym kierunku, wskazując możliwe złagodzenie przy powtórzeniu akordu na granicy fraz lub zdań.",
+      "scope": "Rygorystyczny profil szkolny; przypis s.68 wskazuje praktykę Bacha odmienną od wzorca.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.68,72",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CROSS-RELATION",
+      "statement": "W szkolnym profilu Targosza chromatyczna zmiana wspólnej litery między akordami powinna odbyć się w tym samym głosie; przejście między głosami może dać skośne brzmienie półtonu.",
+      "scope": "Autor przyznaje, że kompozytorzy używają tego efektu świadomie; nie uniwersalny zakaz repertuarowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.80–82, przykł.84",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DORIAN-S-RES",
+      "statement": "W moll doryckim tercja durowej S przechodzi w górę na tercję D, następnie na prymę T, realizując wznoszące VI–VII–VIII.",
+      "scope": "Opis konkretnej ścieżki w harmonii szkolnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.78–79",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MINOR-D-S",
+      "statement": "Molowa D z naturalnego moll może przechodzić na S, gdy VII stopień opada na VI; brak półtonowego dźwięku prowadzącego osłabia ciążenie ku T.",
+      "scope": "Nie sprzeczność z początkowym zakazem D–S, który dotyczył durowej D w modelu triady.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.81",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MAJOR-MINOR-S",
+      "statement": "W dur harmonicznym S jest molowa; jej obniżona tercja ciąży w dół ku prymie D, a w plagalnym S–T autor zaleca rozwiązanie zgodne z ciążeniem.",
+      "scope": "Profil Targosza; nie wszystkie użycia zapożyczonej subdominanty mają tę samą kontynuację.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.82–83",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }
