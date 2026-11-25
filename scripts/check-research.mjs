@@ -58,3 +58,9 @@ for(const c of nr.klucze){for(let p=-4;p<=12;p++){const q=nr.pozycje.filter(x=>x
 for(const r of nr.proporcjeNiemiarowe)if(r.mnoznikCzasu[0]*r.liczbaNut!==r.mnoznikCzasu[1]*r.zastepuje||!validRefs(r.odwolania))ne.push('Invalid tuplet ratio');
 for(const g of nr.siatkiRytmiczne){const [a,b]=g.liczebnosci;if(g.koniec!==g.siatka||g.poczatkiA.length!==a||g.poczatkiB.length!==b||g.poczatkiA.some((x,i)=>!Number.isInteger(x)||x!==i*g.siatka/a)||g.poczatkiB.some((x,i)=>!Number.isInteger(x)||x!==i*g.siatka/b))ne.push('Invalid rhythm grid');}
 if(ne.length){console.error(ne.join('\n'));process.exitCode=1;}else console.log('Notation and rhythm derived data checked; rendering and audio untested.');
+
+const ae=szczegoly.akustykaIElementy, aeErrors=[];
+if(ae.dopuszczoneDoPublikacji!==false||!validRefs(ae.odwolania)||ae.szeregHarmoniczny.length!==16||ae.oktawyA.length!==8||ae.zespoly.length!==8)aeErrors.push('Invalid acoustic metadata');
+for(const [i,q] of ae.szeregHarmoniczny.entries())if(q.numerSkladowej!==i+1||q.czestotliwoscPrzy440Hz!==440*(i+1)||!validRefs(q.odwolania))aeErrors.push('Invalid harmonic');
+for(const [i,q] of ae.oktawyA.entries())if(q.czestotliwoscAHz!==440*2**(i-4)||!validRefs(q.odwolania))aeErrors.push('Invalid octave');
+if(aeErrors.length){console.error(aeErrors.join('\n'));process.exitCode=1;}else console.log('Acoustic model arithmetic checked.');

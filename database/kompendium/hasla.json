@@ -3958,6 +3958,291 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "osrodek-akustyczny",
+      "termin": "Ośrodek rozchodzenia się dźwięku",
+      "aliasy": [
+        "przewodnik dźwięku",
+        "fale akustyczne"
+      ],
+      "definicja": "W modelu akustycznym podręcznika dźwięk dociera do słuchacza przez drgania przenoszone w ośrodku materialnym.",
+      "omowienie": "Autor rozróżnia gazy, ciecze i ciała stałe; dla powietrza podaje przybliżone prędkości 330 m/s w 0°C i 340 m/s w 18°C. W idealizowanej wolnej przestrzeni opisuje falę rozchodzącą się kulisto.",
+      "przyklady": [
+        "Model autorski: W przykładzie z dzwonkiem pod kloszem ograniczenie ośrodka ogranicza przekazywanie dźwięku drogą powietrzną."
+      ],
+      "ograniczenia": [
+        "Wartości są przybliżeniami z wydania 1986; nie traktować ich jako ścisłych stałych fizycznych. Nie wyprowadzać modelu wszystkich ośrodków z tego opisu."
+      ],
+      "podstawa": [
+        "WES-SOUND-MEDIUM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§1, s.9–10"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "kamerton",
+      "termin": "Kamerton i punkt odniesienia stroju",
+      "aliasy": [
+        "widełki strojowe",
+        "a razkreślne"
+      ],
+      "definicja": "Kamerton to w opisie autora dwuramienny stalowy element na trzonku, który wydaje dźwięk po pobudzeniu.",
+      "omowienie": "Podręcznik przyjmuje a razkreślne równe 440 drganiom na sekundę i wspomina dawny strój paryski 435 Hz. Standard odniesienia umożliwia wspólne strojenie zespołu.",
+      "przyklady": [
+        "Model autorski: Przy a1 = 440 Hz oktawa niżej to a małe = 220 Hz."
+      ],
+      "ograniczenia": [
+        "Historyczne informacje autora nie są weryfikacją współczesnych norm. Nie zakładać 440 Hz w każdym nagraniu i każdym wykonaniu."
+      ],
+      "podstawa": [
+        "WES-OCTAVE-RATIO",
+        "WES-SOUND"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.12–13"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "ton-podstawowy-alikwoty",
+      "termin": "Ton podstawowy i alikwoty",
+      "aliasy": [
+        "częstotliwość harmoniczna",
+        "składowe struny"
+      ],
+      "definicja": "W nomenklaturze Wesołowskiego ton podstawowy jest pierwszą składową idealnego szeregu harmonicznego, dalsze składowe to alikwoty.",
+      "omowienie": "Częstotliwości tworzą wielokrotności częstotliwości podstawowej. Autor wskazuje proporcje kolejnych par, np. 2:1, 3:2 i 4:3. Zapis nutowy wyższych alikwotów jest przybliżony wobec stroju temperowanego; s.12 wyróżnia siódmy, jedenasty, trzynasty i czternasty.",
+      "przyklady": [
+        "Model autorski: Przy 440 Hz składowa trzecia ma 1320 Hz."
+      ],
+      "ograniczenia": [
+        "Numer składowej liczony od podstawowej, terminologia konkretnego autora; nie utożsamiać kwinty czystej w proporcji 3:2 z dokładnie temperowaną."
+      ],
+      "podstawa": [
+        "WES-HARMONICS",
+        "WES-OCTAVE-RATIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.11–12"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "poglos",
+      "termin": "Pogłos",
+      "aliasy": [
+        "odbicia fali",
+        "czas wybrzmienia"
+      ],
+      "definicja": "Pogłos w opisie autora wynika z wielokrotnych odbić fal dźwiękowych od powierzchni pomieszczenia.",
+      "omowienie": "Może przedłużyć słyszalność brzmienia po ustaniu drgania źródła. Autor przeciwstawia takie wrażenie bezpośredniemu czasowi drgań ciała.",
+      "przyklady": [
+        "Model autorski: W dużym pomieszczeniu dźwięk może być słyszalny po zakończeniu jego wydobywania."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać czasu pogłosu z zapisaną wartością nuty. Nie modelować akustyki sali bez dodatkowych danych."
+      ],
+      "podstawa": [
+        "WES-REVERB"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.13"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "barwa-dzwieku",
+      "termin": "Barwa dźwięku",
+      "aliasy": [
+        "tony składowe",
+        "kolorystyka"
+      ],
+      "definicja": "Barwa pozwala odróżnić dźwięki o tej samej wysokości i podobnej głośności.",
+      "omowienie": "Wesołowski wyjaśnia ją przez liczbę i natężenie tonów składowych. To szkolny model, a nie pełna charakterystyka akustyczna instrumentu.",
+      "przyklady": [
+        "Model autorski: Klarynet i skrzypce mogą mieć tę samą wysokość, lecz różnić się brzmieniem."
+      ],
+      "ograniczenia": [
+        "Nie tworzyć identyfikatora instrumentów wyłącznie z obecności jednej harmonicznej; opis źródła nie wyczerpuje współczesnej psychoakustyki."
+      ],
+      "podstawa": [
+        "WES-SOUND",
+        "WES-HARMONICS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.13–14"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "kierunek-melodii",
+      "termin": "Kierunek i typ ruchu melodycznego",
+      "aliasy": [
+        "linia pozioma",
+        "wznosząca",
+        "opadająca",
+        "falista"
+      ],
+      "definicja": "Przebieg melodii można opisać przez kierunek zmian wysokości i rodzaj odległości między dźwiękami.",
+      "omowienie": "Autor wskazuje ruch małymi interwałami, dźwiękami akordowymi i skokami oraz kontury poziome, rosnące, malejące i faliste. Kategorie mogą się łączyć w jednym utworze.",
+      "przyklady": [
+        "Model autorski: c–d–e–f to autorski model ruchu wznoszącego sekundami."
+      ],
+      "ograniczenia": [
+        "Nie wymagać jednej etykiety dla całej melodii; analizować wskazany odcinek."
+      ],
+      "podstawa": [
+        "WES-MELODIC-CONTOUR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.167"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "motyw-imitacja",
+      "termin": "Motyw, praca motywiczna i imitacja",
+      "aliasy": [
+        "myśl muzyczna",
+        "naśladownictwo",
+        "polifonia"
+      ],
+      "definicja": "Motyw jest w ujęciu autora najkrótszą jednostką myśli muzycznej, którą można opracowywać w kolejnych głosach.",
+      "omowienie": "W polifonii motyw może pojawiać się kolejno w różnych głosach. Autor nazywa jego naśladowanie imitacją i wskazuje kanon, fugę oraz inwencję jako często spotykane formy polifoniczne.",
+      "przyklady": [
+        "Model autorski: W autorskim modelu jeden głos przedstawia figurę c–d–e, a drugi później podejmuje analogiczny motyw."
+      ],
+      "ograniczenia": [
+        "Nie wyprowadzać pełnej teorii form lub kontrapunktu z krótkiej definicji; podobieństwo motywów wymaga kontekstu."
+      ],
+      "podstawa": [
+        "WES-TEXTURE",
+        "WES-IMITATION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.168"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "faktura-instrumentalna",
+      "termin": "Faktura jako dobór środków wykonawczych",
+      "aliasy": [
+        "faktura fortepianowa",
+        "chóralna",
+        "smyczkowa"
+      ],
+      "definicja": "Oprócz relacji głosów autor rozpatruje fakturę jako sposób użycia środków właściwych danej obsadzie.",
+      "omowienie": "Przykładami są rozłożone współbrzmienia w akompaniamencie fortepianowym i typowe rozwiązania chóralne, takie jak bliskie prowadzenie głosów. Wspomniane cechy nie stanowią definicji wszystkich utworów danej obsady.",
+      "przyklady": [
+        "Model autorski: Rozłożony akord akompaniamentu może ilustrować jeden ze sposobów kształtowania faktury fortepianowej."
+      ],
+      "ograniczenia": [
+        "Nie narzucać chórowi zakazu chromatyki ani skoków na podstawie tendencji opisanej przez autora."
+      ],
+      "podstawa": [
+        "WES-TEXTURE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.168"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zespoly-kameralne-nazwy",
+      "termin": "Nazwy zespołów solistów według liczebności",
+      "aliasy": [
+        "duet",
+        "tercet",
+        "trio",
+        "kwartet",
+        "kwintet",
+        "sekstet",
+        "septet",
+        "oktet",
+        "nonet"
+      ],
+      "definicja": "Autor rozróżnia nazwy zespołów wokalnych i instrumentalnych, których uczestnicy wykonują własne partie.",
+      "omowienie": "Przy trzech wykonawcach używa nazwy tercet dla wokalnego i trio dla instrumentalnego. Od czterech do ośmiu stosuje wspólne nazwy; w grupie instrumentalnej wymienia także nonet.",
+      "przyklady": [
+        "Model autorski: Czterech instrumentalistów grających odrębne partie może tworzyć kwartet."
+      ],
+      "ograniczenia": [
+        "Nazwy nie wyznaczają automatycznie obsady. Przykład kwintetu dętego z s.169 pozostaje zablokowany do kolacji obrazu."
+      ],
+      "podstawa": [
+        "WES-ENSEMBLE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§58, s.169"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "a-cappella",
+      "termin": "Śpiew a cappella",
+      "aliasy": [
+        "muzyka chóralna",
+        "bez akompaniamentu"
+      ],
+      "definicja": "W podstawowym opisie Wesołowskiego jest to śpiew chóralny bez towarzyszenia instrumentów.",
+      "omowienie": "Autor przeciwstawia go wykonaniom z akompaniamentem i wskazuje odrębność muzyki wokalnej, instrumentalnej i wokalno-instrumentalnej.",
+      "przyklady": [
+        "Model autorski: Chór wykonujący własne partie bez instrumentów ilustruje ten model."
+      ],
+      "ograniczenia": [
+        "Nie rozszerzać definicji na historyczne praktyki spoza omawianego podręcznika."
+      ],
+      "podstawa": [
+        "WES-ENSEMBLE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§58, s.169"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }

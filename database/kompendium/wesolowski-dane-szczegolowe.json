@@ -3863,6 +3863,116 @@
       ],
       "status": "projekt-do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "harmoniczne-czestotliwosci",
+      "haslo": "ton-podstawowy-alikwoty",
+      "polecenie": "Wyznacz częstotliwość wskazanej składowej w idealnym szeregu harmonicznym.",
+      "parametry": [
+        "częstotliwość podstawowa",
+        "numer składowej"
+      ],
+      "zasadyOceny": "Iloczyn częstotliwości podstawowej i numeru. Nie utożsamiaj wyniku z dokładną wysokością temperowaną.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.11–12"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "oktawy-czestotliwosci",
+      "haslo": "kamerton",
+      "polecenie": "Oblicz częstotliwość dźwięku a w innej oktawie.",
+      "parametry": [
+        "częstotliwość odniesienia",
+        "oktawa"
+      ],
+      "zasadyOceny": "Pomnóż przez odpowiednią potęgę 2; stosuj jawny strój.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.12–13"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "cechy-rozpoznanie",
+      "haslo": "cechy-dzwieku",
+      "polecenie": "Przyporządkuj opis do cechy dźwięku według klasyfikacji autora.",
+      "parametry": [
+        "opis",
+        "model podręcznika"
+      ],
+      "zasadyOceny": "Odróżniaj wysokość, głośność, czas i barwę; nie utożsamiaj opisu z pełnym pomiarem psychoakustycznym.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.12–14"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "kontur-melodii",
+      "haslo": "kierunek-melodii",
+      "polecenie": "Opisz kierunek i rodzaj ruchu podanego odcinka melodycznego.",
+      "parametry": [
+        "wysokości",
+        "odcinek",
+        "zakres analizy"
+      ],
+      "zasadyOceny": "Dopuść wiele etykiet, jeśli odcinek ma złożony przebieg.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.167"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "faktura-glosy",
+      "haslo": "faktura-polifonia-homofonia",
+      "polecenie": "Porównaj role głosów w autorskich przykładach faktury.",
+      "parametry": [
+        "głosy",
+        "rola melodii i akompaniamentu",
+        "przebieg"
+      ],
+      "zasadyOceny": "Nie rozstrzygaj wyłącznie na podstawie liczby głosów.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.168"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "obsada-zespolu",
+      "haslo": "zespoly-kameralne-nazwy",
+      "polecenie": "Podaj nazwę zespołu według liczby wykonawców i typu obsady.",
+      "parametry": [
+        "liczba solistów",
+        "wokalny lub instrumentalny"
+      ],
+      "zasadyOceny": "Nie wymagaj konkretnego składu instrumentów bez dodatkowych danych. Brak pola nie jest dowodem nieistnienia nazwy.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§58, s.169"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ],
   "audyt": [
@@ -6779,6 +6889,435 @@
       "Pozycje są autorskim wyprowadzeniem z punktów kluczowych: 0 to dolna linia, 8 górna, kolejne liczby oznaczają kolejne kroki diatoniczne; oktawa 0 to mała. Brak znaków przykluczowych i przygodnych.",
       "Tablice liczbowe nie są kopiami partytur. Proporcje dotyczą określonych podziałów autora, nie wszystkich możliwych oznaczeń.",
       "Przy przykładzie 56 na s.32 tekst i diagram mieszają numerowanie od zera i od jedynki; użyto spójnego numerowania od zera. Historycznego wykonania zestawień trójek z dwójkami nie automatyzowano."
+    ]
+  },
+  "akustykaIElementy": {
+    "odwolania": [
+      {
+        "sourceId": "WES-1986-UPLOAD",
+        "locator": "§1–3, s.9–14; §57–58, s.166–169"
+      }
+    ],
+    "status": "do-recenzji",
+    "dopuszczoneDoPublikacji": false,
+    "szeregHarmoniczny": [
+      {
+        "numerSkladowej": 1,
+        "typ": "ton podstawowy",
+        "stosunekDoPodstawowej": [
+          1,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 440,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 2,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          2,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 880,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 3,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          3,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 1320,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 4,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          4,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 1760,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 5,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          5,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 2200,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 6,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          6,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 2640,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 7,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          7,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 3080,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 8,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          8,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 3520,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 9,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          9,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 3960,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 10,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          10,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 4400,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 11,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          11,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 4840,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 12,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          12,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 5280,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 13,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          13,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 5720,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 14,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          14,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 6160,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 15,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          15,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 6600,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      },
+      {
+        "numerSkladowej": 16,
+        "typ": "alikwot według autora",
+        "stosunekDoPodstawowej": [
+          16,
+          1
+        ],
+        "czestotliwoscPrzy440Hz": 7040,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§2, s.11–12; zadanie s.14"
+          }
+        ]
+      }
+    ],
+    "oktawyA": [
+      {
+        "oktawa": "subkontra",
+        "czestotliwoscAHz": 27.5,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "kontra",
+        "czestotliwoscAHz": 55,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "wielka",
+        "czestotliwoscAHz": 110,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "mała",
+        "czestotliwoscAHz": 220,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "razkreślna",
+        "czestotliwoscAHz": 440,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "dwukreślna",
+        "czestotliwoscAHz": 880,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "trzykreślna",
+        "czestotliwoscAHz": 1760,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      },
+      {
+        "oktawa": "czterokreślna",
+        "czestotliwoscAHz": 3520,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§3, s.12–13"
+          }
+        ]
+      }
+    ],
+    "zespoly": [
+      {
+        "liczba": 2,
+        "wokalny": "duet",
+        "instrumentalny": "duet (duo)",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 3,
+        "wokalny": "tercet",
+        "instrumentalny": "trio",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 4,
+        "wokalny": "kwartet",
+        "instrumentalny": "kwartet",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 5,
+        "wokalny": "kwintet",
+        "instrumentalny": "kwintet",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 6,
+        "wokalny": "sekstet",
+        "instrumentalny": "sekstet",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 7,
+        "wokalny": "septet",
+        "instrumentalny": "septet",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 8,
+        "wokalny": "oktet",
+        "instrumentalny": "oktet",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      },
+      {
+        "liczba": 9,
+        "wokalny": null,
+        "instrumentalny": "nonet",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§58, s.169"
+          }
+        ]
+      }
+    ],
+    "uwagi": [
+      "Dane częstotliwościowe są obliczone z idealnych zależności autora, nie pomiarami instrumentów. Pierwsza składowa jest tonem podstawowym według terminologii książki.",
+      "Obraz s.12 pozwolił sprawdzić zapis szeregu i doświadczenie rezonansowe. Nie przepisano nut ani nie obliczano dokładnych odchyleń stroju bez osobnego modelu.",
+      "Nie uzyskano obrazu s.169; nie użyto wątpliwego zestawienia kwintetu dętego."
     ]
   }
 }

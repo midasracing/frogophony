@@ -1185,7 +1185,17 @@
           "kropki-rozmieszczenie",
           "fermata-kontekst",
           "grupy-niemiarowe-proporcja",
-          "siatka-rytmiczna"
+          "siatka-rytmiczna",
+          "osrodek-akustyczny",
+          "kamerton",
+          "ton-podstawowy-alikwoty",
+          "poglos",
+          "barwa-dzwieku",
+          "kierunek-melodii",
+          "motyw-imitacja",
+          "faktura-instrumentalna",
+          "zespoly-kameralne-nazwy",
+          "a-cappella"
         ],
         "status": "pierwsza-warstwa-wszystkich-rozdzialow-do-poglebienia",
         "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury. Ponowny odczyt pełnego dostępnego tekstu s.15–34, pierwsze opracowanie rozdziałów II–III. Nie przeprowadzono indywidualnej kontroli ilustracji, historycznych przykładów wykonania ani nie wykonano generatorów. Część szczegółów ma bezpośrednie odwołania do podręcznika, ale wymaga jeszcze własnych rekordów atomowych przed wdrożeniem. Przegląd wszystkich 13 rozdziałów oraz dostępnego indeksu i okładki; ponowny odczyt rozdz. IV–XIII obejmował pełny dostępny tekst s.35–57 oraz obszerne fragmenty s.59–169 (odczyt ograniczony długością fragmentów). S.58 sprawdzono na obrazie; s.169 nie udało się pobrać obrazu. Nie jest to pełna kolacja każdej nuty, tabeli, terminu, wyjątku ani akapitu. Pozostają: pełny słownik s.75–82, tabele interwałów i znaków, szczegółowe grupowanie, historyczne ozdobniki i przykłady repertuarowe. Nie uznano braku osobnej erraty. Wykryto niespójności odczytu/druku na s.79 i 169, wymagają kolacji. Nie dopuszczono haseł do publikacji.",
@@ -1307,7 +1317,7 @@
           "liczbaTerminow": 179,
           "liczbaInterwalow": 27,
           "liczbaRelacjiStopni": 42,
-          "liczbaProjektowZadan": 36,
+          "liczbaProjektowZadan": 42,
           "uwagi": "Dalsza kolacja nut, pełnych tabel skal, ćwiczeń, indeksu i innych rozdziałów pozostaje otwarta. Nie uznawać projektów zadań za wykonane testy silnika.",
           "skaleITonacje": {
             "plik": "database/kompendium/wesolowski-skale-i-tonacje.json",
@@ -1353,6 +1363,27 @@
             "siatki": 16,
             "projektyZadan": 8,
             "uwagi": "Nie przeprowadzono testów glifów ani odtwarzania dźwięku."
+          },
+          "akustykaIElementy": {
+            "zakresy": [
+              [
+                9,
+                14
+              ],
+              [
+                166,
+                169
+              ]
+            ],
+            "obrazy": [
+              12
+            ],
+            "noweHasla": 10,
+            "skladowe": 16,
+            "oktawy": 8,
+            "rekordyZespolow": 8,
+            "projektyZadan": 6,
+            "uwagi": "Obraz s.169 niedostępny. Brak pełnej transkrypcji nut i testów silnika."
           }
         }
       }
