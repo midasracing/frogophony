@@ -175,3 +175,6 @@ Kontrola końcowa przypadków TN48–49: jawnie rozdzielono prymę funkcyjną pr
 
 ## Wesołowski Nauka harmonii — PDF 21–40
 31 twierdzeń, 8 własnych przypadków oczekiwanych. Odczyt druk.40–79 z obróconych rozkładówek. Doprecyzowano WH-FIGURED-BASS-BASIC o źródło cyfr przewrotów (s.32) dla WHB04. Rozdzielono interpretacje akordów pobocznych, funkcję i strukturę D bez prymy, warunki D9 dla cztero- i pięciogłosu oraz kontekst seksty dodanej. Nie przepisano zadań ani wszystkich znaków w tabelach; ich kontrola pozostaje otwarta. Następny PDF 41.
+
+## Wesołowski, Nauka harmonii — PDF 41–104, koniec pierwszej lektury
+54 twierdzeń, 9 autorskich przypadków oczekiwanych. Wszystkie dostępne strony w rejestrze (104/104), odczyt tekstu i przegląd nut w montażach. Opracowano continuo, figurację, alteracje, obsady, nutę pedałową, swobody, modulacje i rozwój tonalności. Zarejestrowano 11 grup końcowych 100 ćwiczeń bez kopiowania nut. Errata PDF 102–103 zawiera korekty także do wcześniejszych partii; obowiązkowa kolacja przed użyciem przykładu. Nie przeniesiono niezweryfikowanych tez historycznych ani szczegółowych analiz repertuarowych jako faktów niezależnych. Nie wykonano pełnej kontroli wszystkich nut, rozwiązań, recenzji ani testów muzycznych. Zaktualizowano istniejące pliki, bez nowych raportów.

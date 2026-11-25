@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 914,
-    "fixtures": 246,
+    "claims": 968,
+    "fixtures": 255,
     "competencies": 73,
     "partial": 58
   },
@@ -861,7 +861,61 @@
       "WH-SEVENTH-NINTH-ROOT-MOTIONS",
       "WH-SEVENTH-NINTH-APPARENT",
       "WH-SEVENTH-THIRD-LOWER",
-      "WH-VII-SEVENTH-SUBDOMINANT"
+      "WH-VII-SEVENTH-SUBDOMINANT",
+      "WH-CHOPIN-SIXTH",
+      "WH-CONTINUO-HISTORICAL-FIGURES",
+      "WH-CONTINUO-RHYTHM",
+      "WH-CONTINUO-SIXTH-CHAIN",
+      "WH-CONTINUO-SOLO-RANGE",
+      "WH-CONTINUO-VARIABLE-VOICES",
+      "WH-FIGURATION-DEFINITION",
+      "WH-FIGURATION-CONTOUR",
+      "WH-FIGURATION-DISSONANCE",
+      "WH-FIGURATION-MULTIVOICE",
+      "WH-FIGURATION-HARMONIC-RHYTHM",
+      "WH-FIGURATION-ANALYSIS",
+      "WH-FIGURATION-COMPLEMENT",
+      "WH-ALTERATION-DEFINITION",
+      "WH-ALTERATION-NONMOD",
+      "WH-ALTERATION-TWO-AXES",
+      "WH-ALTERATION-SYMBOLS",
+      "WH-ALTERATION-MULTIPLE",
+      "WH-ALTERATION-BACK",
+      "WH-THREE-VOICE-REDUCTION",
+      "WH-REDUCED-VOICE-DISSONANCE",
+      "WH-TWO-VOICE-REDUCTION",
+      "WH-LARGER-VOICE-DOUBLING",
+      "WH-VARIABLE-TEXTURE",
+      "WH-ENSEMBLE-SPACING",
+      "WH-PIANO-ACCOMPANIMENT",
+      "WH-OCTAVE-REINFORCEMENT",
+      "WH-PEDAL-VARIANTS",
+      "WH-PEDAL-HARMONIC-CONTEXT",
+      "WH-OSTINATO-BASS",
+      "WH-FREE-VOICE-CONTEXT",
+      "WH-MOZART-FIFTHS",
+      "WH-MIXED-FIFTHS-REPERTOIRE",
+      "WH-MOD-ENTRY-TYPES",
+      "WH-MOD-ENTRY-RESOLUTION",
+      "WH-MOD-FUNCTION-TABLE",
+      "WH-MOD-FIFTHS-ENTRY",
+      "WH-MOD-SCHOOL-EXCEPTIONS",
+      "WH-MOD-COMPOUND-KEYS",
+      "WH-MOD-CHROMATIC-METHODS",
+      "WH-ENH-ALL-SPELLING",
+      "WH-ENH-DIM-ENTRY",
+      "WH-ENH-DIM-NO-RESPELL",
+      "WH-ENH-NATURAL-SEVENTH",
+      "WH-ENH-FLAT-FIFTH",
+      "WH-ENH-AUG-DOUBLING",
+      "WH-ENH-NOTATED-VS-SOUNDING",
+      "WH-MOD-SHIFT",
+      "WH-TONAL-SYSTEM-CRITERIA",
+      "WH-TONAL-EXTENSIONS",
+      "WH-TONAL-AMBIGUITY",
+      "WH-POLYTONALITY",
+      "WH-EXERCISE-FORMATS",
+      "WH-EXERCISE-ALTERNATIVE-BASS"
     ],
     "CHOM-FORM1-1983-UPLOAD": [
       "CHOM-FORM",
@@ -1926,6 +1980,7 @@
         "TRIAD-MAIN",
         "WH-ADDED-SIXTH",
         "WH-CHOPIN-CHORD",
+        "WH-CHOPIN-SIXTH",
         "WH-D7-NOTATION",
         "WH-D7-ROOTLESS",
         "WH-D9-ROOTLESS-SYMMETRY",
@@ -1934,7 +1989,9 @@
         "WH-LOWERED-VI-MAJOR",
         "WH-NEAPOLITAN",
         "WH-POSITION-LAYOUT",
+        "WH-REDUCED-VOICE-DISSONANCE",
         "WH-SEVENTH-NINTH-APPARENT",
+        "WH-TONAL-SYSTEM-CRITERIA",
         "WH-VII-ROLE"
       ]
     },
@@ -2098,9 +2155,11 @@
         "TAR-VOICE-LEAP",
         "WH-ADDED-SIXTH",
         "WH-BASS-LEAPS",
+        "WH-CHOPIN-SIXTH",
         "WH-CHROMATIC-SAME-VOICE",
         "WH-CLOSE-FIFTH",
         "WH-CLOSE-SECOND",
+        "WH-CONTINUO-SIXTH-CHAIN",
         "WH-D7-EXCEPTION",
         "WH-D7-FIFTH",
         "WH-D7-LIMIT",
@@ -2114,17 +2173,27 @@
         "WH-D9-INVERSION",
         "WH-D9-ROOTLESS-FIFTH",
         "WH-DOUBLING",
+        "WH-ENH-AUG-DOUBLING",
+        "WH-ENSEMBLE-SPACING",
+        "WH-FIGURATION-COMPLEMENT",
+        "WH-FIGURATION-DISSONANCE",
         "WH-FREE-D-T-INCOMPLETE",
         "WH-FREE-FIFTH-COMMON",
         "WH-FREE-FIFTH-NO-COMMON",
         "WH-FREE-SECOND-ALTERNATIVE",
         "WH-FREE-SECOND-TWO-PLUS-TWO",
+        "WH-FREE-VOICE-CONTEXT",
         "WH-II-SUBSTITUTE",
         "WH-III-MINOR",
         "WH-INVERSION-DOUBLING",
         "WH-INVERSION-SPACING",
+        "WH-LARGER-VOICE-DOUBLING",
+        "WH-MIXED-FIFTHS-REPERTOIRE",
+        "WH-MOZART-FIFTHS",
+        "WH-OCTAVE-REINFORCEMENT",
         "WH-POSITION-LAYOUT",
         "WH-RAISED-VI-MINOR",
+        "WH-REDUCED-VOICE-DISSONANCE",
         "WH-SATB-ORDER",
         "WH-SATB-SPACING-BASIC",
         "WH-SECOND-INVERSION-CONTEXT",
@@ -2132,7 +2201,9 @@
         "WH-SEVENTH-NINTH-ROOT-MOTIONS",
         "WH-SEVENTH-THIRD-LOWER",
         "WH-TERTIAN-LINK",
+        "WH-THREE-VOICE-REDUCTION",
         "WH-TRIAD-DOUBLING-BASIC",
+        "WH-TWO-VOICE-REDUCTION",
         "WH-VOICING-CONSTRUCTION"
       ]
     },
@@ -2196,6 +2267,7 @@
         "TAR-VI-ROLE-CHANGE",
         "WH-CADENCE-AEOLIAN",
         "WH-CADENTIAL-64-CONTEXT",
+        "WH-MOD-ENTRY-RESOLUTION",
         "WH-MOD-SEQUENCE",
         "WH-NEAPOLITAN-CADENCES",
         "WH-PARALLELISM",
@@ -2270,8 +2342,19 @@
         "TAR-SEQUENCE-PRACTICE",
         "TAR-SYNCOPATED-HARMONY",
         "WH-ADDED-SIXTH-FIGURES",
+        "WH-ALTERATION-SYMBOLS",
         "WH-CONTINUO",
+        "WH-CONTINUO-HISTORICAL-FIGURES",
+        "WH-CONTINUO-RHYTHM",
+        "WH-CONTINUO-SIXTH-CHAIN",
+        "WH-CONTINUO-SOLO-RANGE",
+        "WH-CONTINUO-VARIABLE-VOICES",
         "WH-D7-NOTATION",
+        "WH-EXERCISE-ALTERNATIVE-BASS",
+        "WH-EXERCISE-FORMATS",
+        "WH-FIGURATION-ANALYSIS",
+        "WH-FIGURATION-COMPLEMENT",
+        "WH-FIGURATION-HARMONIC-RHYTHM",
         "WH-FIGURED-BASS-BASIC",
         "WH-FUNCTION-REPEAT-MARK",
         "WH-HARMONIZE-INITIAL",
@@ -2279,7 +2362,9 @@
         "WH-HARMONIZE-WORKFLOW",
         "WH-MENTAL-CONSTRUCTION",
         "WH-METRIC-HARMONY",
+        "WH-MOD-FUNCTION-TABLE",
         "WH-PEDAGOGY-ADVANCED",
+        "WH-PIANO-ACCOMPANIMENT",
         "WH-PIANO-TEXTURE",
         "WH-PRACTICE",
         "WH-REPEAT-POSITION",
@@ -2399,12 +2484,25 @@
         "TAR-SUSP-TRANSFER",
         "TAR-WEAK-DURATION",
         "WH-ADDED-SIXTH-FIGURES",
+        "WH-ALTERATION-BACK",
+        "WH-ALTERATION-DEFINITION",
+        "WH-ALTERATION-MULTIPLE",
+        "WH-ALTERATION-NONMOD",
+        "WH-ALTERATION-SYMBOLS",
+        "WH-ALTERATION-TWO-AXES",
         "WH-CADENTIAL-64-CONTEXT",
         "WH-CHROMATIC-SAME-VOICE",
+        "WH-CONTINUO-RHYTHM",
         "WH-DOUBLE-SUSPENSION-T-S",
+        "WH-FIGURATION-ANALYSIS",
+        "WH-FIGURATION-CONTOUR",
+        "WH-FIGURATION-DEFINITION",
+        "WH-FIGURATION-DISSONANCE",
+        "WH-FIGURATION-MULTIVOICE",
         "WH-NONCHORD-FIVE",
         "WH-NONCHORD-TWO-TYPES",
         "WH-PEDAL",
+        "WH-PEDAL-VARIANTS",
         "WH-SINGLE-SUSPENSION"
       ]
     },
@@ -2507,11 +2605,27 @@
         "TAR-TONICIZATION-TARGET",
         "TAR-VII-NATURAL-MINOR",
         "WES-KEY-SIGNATURE-CONTEXT",
+        "WH-ALTERATION-TWO-AXES",
         "WH-D7-CHAIN",
         "WH-D9-ROOTLESS-SYMMETRY",
+        "WH-ENH-ALL-SPELLING",
+        "WH-ENH-AUG-DOUBLING",
+        "WH-ENH-DIM-ENTRY",
+        "WH-ENH-DIM-NO-RESPELL",
+        "WH-ENH-FLAT-FIFTH",
+        "WH-ENH-NATURAL-SEVENTH",
+        "WH-ENH-NOTATED-VS-SOUNDING",
         "WH-EXT-TONALITY",
         "WH-MOD-CAD",
+        "WH-MOD-CHROMATIC-METHODS",
+        "WH-MOD-COMPOUND-KEYS",
+        "WH-MOD-ENTRY-RESOLUTION",
+        "WH-MOD-ENTRY-TYPES",
+        "WH-MOD-FIFTHS-ENTRY",
+        "WH-MOD-FUNCTION-TABLE",
+        "WH-MOD-SCHOOL-EXCEPTIONS",
         "WH-MOD-SEQUENCE",
+        "WH-MOD-SHIFT",
         "WH-MOD-TYPES",
         "WH-NEAPOLITAN",
         "WH-PEDAGOGY-ADVANCED",
@@ -2618,12 +2732,25 @@
         "TAR-TIII-CONTEXT",
         "TAR-VI-ROLE-CHANGE",
         "WH-DOUBLING",
+        "WH-ENH-DIM-ENTRY",
+        "WH-ENH-NOTATED-VS-SOUNDING",
+        "WH-FIGURATION-HARMONIC-RHYTHM",
+        "WH-FREE-VOICE-CONTEXT",
         "WH-III-FUNCTION",
         "WH-LOWERED-VI-MAJOR",
+        "WH-OCTAVE-REINFORCEMENT",
+        "WH-OSTINATO-BASS",
         "WH-PEDAGOGY-ADVANCED",
+        "WH-PEDAL-HARMONIC-CONTEXT",
+        "WH-PEDAL-VARIANTS",
+        "WH-POLYTONALITY",
         "WH-PRACTICE",
         "WH-SEQUENCE-NONMOD",
         "WH-SEVENTH-NINTH-APPARENT",
+        "WH-TONAL-AMBIGUITY",
+        "WH-TONAL-EXTENSIONS",
+        "WH-TONAL-SYSTEM-CRITERIA",
+        "WH-VARIABLE-TEXTURE",
         "WH-VI-FUNCTION",
         "WH-VII-ROLE",
         "WH-VII-SEVENTH-SUBDOMINANT"
@@ -12758,6 +12885,583 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "WH-CHOPIN-SIXTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CONTINUO-HISTORICAL-FIGURES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CONTINUO-RHYTHM": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CONTINUO-SIXTH-CHAIN": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CONTINUO-SOLO-RANGE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CONTINUO-VARIABLE-VOICES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-DEFINITION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-CONTOUR": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-DISSONANCE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-MULTIVOICE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-HARMONIC-RHYTHM": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-ANALYSIS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FIGURATION-COMPLEMENT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ALTERATION-DEFINITION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ALTERATION-NONMOD": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ALTERATION-TWO-AXES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "WHB18"
+      ],
+      "releaseApproved": false
+    },
+    "WH-ALTERATION-SYMBOLS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ALTERATION-MULTIPLE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "WHB16"
+      ],
+      "releaseApproved": false
+    },
+    "WH-ALTERATION-BACK": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-THREE-VOICE-REDUCTION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-REDUCED-VOICE-DISSONANCE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-TWO-VOICE-REDUCTION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [
+        "WHB17"
+      ],
+      "releaseApproved": false
+    },
+    "WH-LARGER-VOICE-DOUBLING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-VARIABLE-TEXTURE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ENSEMBLE-SPACING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-PIANO-ACCOMPANIMENT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-OCTAVE-REINFORCEMENT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "WHB19"
+      ],
+      "releaseApproved": false
+    },
+    "WH-PEDAL-VARIANTS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-PEDAL-HARMONIC-CONTEXT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-OSTINATO-BASS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-FREE-VOICE-CONTEXT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOZART-FIFTHS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MIXED-FIFTHS-REPERTOIRE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-ENTRY-TYPES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-ENTRY-RESOLUTION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-FUNCTION-TABLE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "WHB20"
+      ],
+      "releaseApproved": false
+    },
+    "WH-MOD-FIFTHS-ENTRY": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-SCHOOL-EXCEPTIONS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-COMPOUND-KEYS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-CHROMATIC-METHODS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ENH-ALL-SPELLING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "WHB21"
+      ],
+      "releaseApproved": false
+    },
+    "WH-ENH-DIM-ENTRY": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "WHB22"
+      ],
+      "releaseApproved": false
+    },
+    "WH-ENH-DIM-NO-RESPELL": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ENH-NATURAL-SEVENTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ENH-FLAT-FIFTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ENH-AUG-DOUBLING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ENH-NOTATED-VS-SOUNDING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-SHIFT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-TONAL-SYSTEM-CRITERIA": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-TONAL-EXTENSIONS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-TONAL-AMBIGUITY": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-POLYTONALITY": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "WHB23"
+      ],
+      "releaseApproved": false
+    },
+    "WH-EXERCISE-FORMATS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-EXERCISE-ALTERNATIVE-BASS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "WHB24"
+      ],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -13407,6 +14111,33 @@
     ],
     "WHB15": [
       "WH-ADDED-SIXTH-FIGURES"
+    ],
+    "WHB18": [
+      "WH-ALTERATION-TWO-AXES"
+    ],
+    "WHB16": [
+      "WH-ALTERATION-MULTIPLE"
+    ],
+    "WHB17": [
+      "WH-TWO-VOICE-REDUCTION"
+    ],
+    "WHB19": [
+      "WH-OCTAVE-REINFORCEMENT"
+    ],
+    "WHB20": [
+      "WH-MOD-FUNCTION-TABLE"
+    ],
+    "WHB21": [
+      "WH-ENH-ALL-SPELLING"
+    ],
+    "WHB22": [
+      "WH-ENH-DIM-ENTRY"
+    ],
+    "WHB23": [
+      "WH-POLYTONALITY"
+    ],
+    "WHB24": [
+      "WH-EXERCISE-ALTERNATIVE-BASS"
     ]
   }
 }

@@ -2180,6 +2180,135 @@
         "WH-VII-SEVENTH-SUBDOMINANT"
       ],
       "remaining": "Obrócone obrazy PDF 21–40 (druk. s.40–79), przegląd w montażach dwóch rozkładówek. Tekst odczytano, przykłady i zadania nie zostały niezależnie zweryfikowane nuta po nucie. Następny PDF 41 (druk.80–81)."
+    },
+    {
+      "sourceId": "WES-HAR-1997-UPLOAD",
+      "ranges": [
+        [
+          41,
+          104
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "WH-CHOPIN-SIXTH",
+        "WH-CONTINUO-HISTORICAL-FIGURES",
+        "WH-CONTINUO-RHYTHM",
+        "WH-CONTINUO-SIXTH-CHAIN",
+        "WH-CONTINUO-SOLO-RANGE",
+        "WH-CONTINUO-VARIABLE-VOICES",
+        "WH-FIGURATION-DEFINITION",
+        "WH-FIGURATION-CONTOUR",
+        "WH-FIGURATION-DISSONANCE",
+        "WH-FIGURATION-MULTIVOICE",
+        "WH-FIGURATION-HARMONIC-RHYTHM",
+        "WH-FIGURATION-ANALYSIS",
+        "WH-FIGURATION-COMPLEMENT",
+        "WH-ALTERATION-DEFINITION",
+        "WH-ALTERATION-NONMOD",
+        "WH-ALTERATION-TWO-AXES",
+        "WH-ALTERATION-SYMBOLS",
+        "WH-ALTERATION-MULTIPLE",
+        "WH-ALTERATION-BACK",
+        "WH-THREE-VOICE-REDUCTION",
+        "WH-REDUCED-VOICE-DISSONANCE",
+        "WH-TWO-VOICE-REDUCTION",
+        "WH-LARGER-VOICE-DOUBLING",
+        "WH-VARIABLE-TEXTURE",
+        "WH-ENSEMBLE-SPACING",
+        "WH-PIANO-ACCOMPANIMENT",
+        "WH-OCTAVE-REINFORCEMENT",
+        "WH-PEDAL-VARIANTS",
+        "WH-PEDAL-HARMONIC-CONTEXT",
+        "WH-OSTINATO-BASS",
+        "WH-FREE-VOICE-CONTEXT",
+        "WH-MOZART-FIFTHS",
+        "WH-MIXED-FIFTHS-REPERTOIRE",
+        "WH-MOD-ENTRY-TYPES",
+        "WH-MOD-ENTRY-RESOLUTION",
+        "WH-MOD-FUNCTION-TABLE",
+        "WH-MOD-FIFTHS-ENTRY",
+        "WH-MOD-SCHOOL-EXCEPTIONS",
+        "WH-MOD-COMPOUND-KEYS",
+        "WH-MOD-CHROMATIC-METHODS",
+        "WH-ENH-ALL-SPELLING",
+        "WH-ENH-DIM-ENTRY",
+        "WH-ENH-DIM-NO-RESPELL",
+        "WH-ENH-NATURAL-SEVENTH",
+        "WH-ENH-FLAT-FIFTH",
+        "WH-ENH-AUG-DOUBLING",
+        "WH-ENH-NOTATED-VS-SOUNDING",
+        "WH-MOD-SHIFT",
+        "WH-TONAL-SYSTEM-CRITERIA",
+        "WH-TONAL-EXTENSIONS",
+        "WH-TONAL-AMBIGUITY",
+        "WH-POLYTONALITY",
+        "WH-EXERCISE-FORMATS",
+        "WH-EXERCISE-ALTERNATIVE-BASS"
+      ],
+      "remaining": "Odczyt tekstu i przegląd wszystkich kolejnych obróconych obrazów PDF 41–104, druk.80–201, errata PDF 102–103 oraz końcowa pusta rozkładówka PDF 104. Skan dwustronicowy. Pierwsza lektura dostępnego egzemplarza zakończona. Nie rozwiązano niezależnie każdego zadania, nie odczytano każdej nuty ani nie przeprowadzono pełnej kolacji erraty. Errata zawiera m.in. brakujący fragment przykł.98 (s.91), korekty odsyłaczy i zad.109 (s.85) oraz poprawki do wcześniejszych przykładów i zadań. Przed użyciem konkretnego przykładu sprawdzić obie rozkładówki erraty i oryginał w pełnej rozdzielczości.",
+      "exerciseGroups": [
+        {
+          "first": 1,
+          "last": 5,
+          "topic": "triada: droga najbliższa"
+        },
+        {
+          "first": 6,
+          "last": 10,
+          "topic": "triada: połączenia swobodne"
+        },
+        {
+          "first": 11,
+          "last": 15,
+          "topic": "przewroty i dominanta z podwójnym opóźnieniem"
+        },
+        {
+          "first": 16,
+          "last": 20,
+          "topic": "dźwięki obce"
+        },
+        {
+          "first": 21,
+          "last": 35,
+          "topic": "akordy poboczne i dysonansowe formy dominanty"
+        },
+        {
+          "first": 36,
+          "last": 53,
+          "topic": "cztero- i pięciodźwięki z dźwiękami obcymi"
+        },
+        {
+          "first": 54,
+          "last": 55,
+          "topic": "alteracja niemodulująca"
+        },
+        {
+          "first": 56,
+          "last": 61,
+          "topic": "figuracja"
+        },
+        {
+          "first": 62,
+          "last": 69,
+          "topic": "modulacja"
+        },
+        {
+          "first": 70,
+          "last": 84,
+          "topic": "basso continuo"
+        },
+        {
+          "first": 85,
+          "last": 100,
+          "topic": "harmonizacja pieśni"
+        }
+      ],
+      "exerciseGroupLocator": "druk. s.173 (PDF 87)",
+      "errataPdfPages": [
+        102,
+        103
+      ]
     }
   ]
 }

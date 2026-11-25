@@ -4734,6 +4734,153 @@
         "functionalRoot": "F",
         "sameCollectionAsSeventhChord": true
       }
+    },
+    {
+      "id": "WHB16",
+      "domain": "harmony",
+      "input": {
+        "letter": "F",
+        "voices": [
+          "F#",
+          "Fb"
+        ],
+        "simultaneous": true
+      },
+      "expected": {
+        "type": "dysalteration",
+        "alterations": [
+          1,
+          -1
+        ]
+      }
+    },
+    {
+      "id": "WHB17",
+      "domain": "harmony",
+      "input": {
+        "key": "C major",
+        "function": "T",
+        "finalCadence": true,
+        "pitches": [
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "acceptableUnderFinalRootRule": false,
+        "missingRoot": "C"
+      }
+    },
+    {
+      "id": "WHB18",
+      "domain": "harmony",
+      "input": {
+        "classificationAxes": [
+          "effectOnTonality",
+          "diatonicStructure"
+        ]
+      },
+      "expected": {
+        "independent": true,
+        "possibilities": [
+          [
+            "modulating",
+            "nonmodulating"
+          ],
+          [
+            "apparent",
+            "real"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "WHB19",
+      "domain": "harmony",
+      "input": {
+        "independentVoices": 2,
+        "octaveDoubles": 2
+      },
+      "expected": {
+        "independentVoices": 2,
+        "soundingParts": 4
+      }
+    },
+    {
+      "id": "WHB20",
+      "domain": "harmony",
+      "input": {
+        "oldKey": "C major",
+        "newKey": "G major",
+        "pivot": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "oldFunction": "T",
+        "newFunction": "S",
+        "modulationEstablishedByPivotAlone": false
+      }
+    },
+    {
+      "id": "WHB21",
+      "domain": "harmony",
+      "input": {
+        "from": [
+          "Db",
+          "F",
+          "Ab"
+        ],
+        "to": [
+          "C#",
+          "E#",
+          "G#"
+        ],
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "samePitchClassSet": true,
+        "intervalStructureUnchanged": true
+      }
+    },
+    {
+      "id": "WHB22",
+      "domain": "harmony",
+      "input": {
+        "pitchClasses": [
+          0,
+          3,
+          6,
+          9
+        ],
+        "tonalContext": null
+      },
+      "expected": {
+        "uniqueFunctionalAnalysis": false
+      }
+    },
+    {
+      "id": "WHB23",
+      "domain": "harmony",
+      "input": {
+        "simultaneousEstablishedTonalPlans": 2
+      },
+      "expected": {
+        "classification": "bitonal"
+      }
+    },
+    {
+      "id": "WHB24",
+      "domain": "harmony",
+      "input": {
+        "task": "open-harmonization",
+        "sopranoFixed": true
+      },
+      "expected": {
+        "uniqueBassRequired": false
+      }
     }
   ]
 }

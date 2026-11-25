@@ -26,3 +26,6 @@ WH-SATB-SPACING-BASIC i WH-INVERSION-SPACING muszą pozostać odrębnymi reguła
 
 ## Wesołowski 1997 — PDF 21–40
 WH-D9-FOUR-VOICE i WH-D9-INVERSION potwierdzają ograniczenia profilu D9 z prymą opisane przez Targosza i Sikorskiego. WH-D9-FIVE-VOICE wyłącza ograniczenie braku kwinty przy pełnym pięciogłosie. WH-NEAPOLITAN-CADENCES zachowuje nazwy kadencji autora, WH-VII-ROLE i WH-VII-SEVENTH-SUBDOMINANT odróżniają funkcję od budowy. WH-ADDED-SIXTH-FIGURES rozróżnia funkcyjną prymę i liczby nad basem. Nie scalano odmiennych profili w jeden zestaw zakazów; brak niezależnej recenzji i testów silnika.
+
+## Wesołowski 1997 — zakończenie pierwszej lektury
+WH-MOD-SCHOOL-EXCEPTIONS: autor jawnie pomija część szkolnych ograniczeń modulacji, w tym zakaz progresji i dojścia do akordu w stosunku sekundy; nie mieszać z TAR-MOD-PATH-NO-SEQUENCE ani podstawowym profilem Sikorskiego. WH-ALTERATION-TWO-AXES odpowiada ogólnemu podziałowi TAR-ALTER-AXES i SIK-ALTER-CLASSIFICATION, ale zakresy pozostają odrębne. WH-FREE-VOICE-CONTEXT i WH-OCTAVE-REINFORCEMENT rozdzielają wyjątki fakturalne i ćwiczenia ścisłe. WH-ENH-ALL-SPELLING odróżnia zapis i zmianę struktury. WH-CONTINUO-HISTORICAL-FIGURES wymaga profilu historycznego. Errata PDF 102–103 ma pierwszeństwo przy analizie przykładów; pełna kolacja nadal otwarta.

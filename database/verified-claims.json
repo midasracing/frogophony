@@ -16293,6 +16293,942 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WH-CHOPIN-SIXTH",
+      "statement": "Wesołowski opisuje dominantę septymową z sekstą zamiast kwinty, najczęściej zasadniczą z sekstą w sopranie; seksta może skoczyć na I stopień lub mieć charakter dźwięku oderwanego.",
+      "scope": "Wariant akordu Chopinowskiego, nie jedyna definicja nazwy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 82 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CONTINUO-HISTORICAL-FIGURES",
+      "statement": "W przytoczonej dawnej praktyce następstwo 6–5 może oznaczać akord sekstowy i następnie 5/3; autor pokazuje też odwrotny wariant i kasowanie podwyższenia bemolem.",
+      "scope": "Przykł.95b–d; ustalić konwencję wydania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 82 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CONTINUO-RHYTHM",
+      "statement": "Przy realizacji ruchliwego basu cyfrowanego należy rozpoznać, czy kolejna nuta zmienia akord, czy stanowi figurację przy zachowanej harmonii; zmiana może nastąpić tylko na pierwszą nutę grupy.",
+      "scope": "Errata PDF 102 poprawia odsyłacze na s.85 i zadanie 109; nie kopiować błędnego zapisu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 85–86 (PDF 43–44)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CONTINUO-SIXTH-CHAIN",
+      "statement": "W łańcuchu akordów sekstowych autor zaleca trzy głosy, podobnie przy dłuższym przebiegu 7–6; w łańcuchu septymowych pokazuje naprzemienne rozwiązania pełne i niepełne.",
+      "scope": "Model przykł.97a–d, nie każde continuo.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 86 (PDF 44)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CONTINUO-SOLO-RANGE",
+      "statement": "W akompaniamencie chorału solo najwyższy głos akompaniamentu nie powinien wykraczać ponad głos solowy ani długo pozostawać z nim w unisonie; chwilowy unison jest dopuszczalny.",
+      "scope": "Wskazania dla chorałów ze zbioru Schemelliego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 88 (PDF 45)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CONTINUO-VARIABLE-VOICES",
+      "statement": "W tym modelu akompaniamentu autor zaleca zmienną liczbę głosów od dwóch do czterech, często naprzemiennie trzy i cztery.",
+      "scope": "Profil solo z organami, nie ścisły SATB.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 88 (PDF 45)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-DEFINITION",
+      "statement": "Figuracja melodyczna polega na wprowadzaniu dźwięków obcych przez rozdrobnienie wartości rytmicznych; może również wykorzystywać dodatkowe składniki istniejącego akordu.",
+      "scope": "Przykł.98–99; brakujący fragment przykł.98 w erracie PDF 103.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 91–92 (PDF 46–47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-CONTOUR",
+      "statement": "Autor zaleca logiczny rozwój linii, narastanie i rozładowanie napięcia, łagodzenie skoków ruchem łącznym i drobne modyfikacje powtarzanych motywów.",
+      "scope": "Zalecenia metodyczne, nie bezwzględne warunki kompozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 92 (PDF 47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-DISSONANCE",
+      "statement": "Brak tercji na słabej części może być dopuszczalny; autor zakazuje zdwojenia tercji dominanty będącej dźwiękiem prowadzącym, odróżniając przypadek opóźnionej tercji w jednym głosie.",
+      "scope": "Kontekst przykł.99.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 92 (PDF 47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-MULTIVOICE",
+      "statement": "Dźwięki obce mogą wystąpić jednocześnie w kilku głosach; autor wskazuje m.in. równoległe tercje i seksty lub ruch przeciwny.",
+      "scope": "Profil figuracji z rozdz. V.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 93 (PDF 47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-HARMONIC-RHYTHM",
+      "statement": "Autor zestawia częstsze zmiany funkcji w modelu chorałowym z dłuższym trwaniem akordu w muzyce klasycznej; rytm melodii i rytm harmoniczny mogą być różne.",
+      "scope": "Przykł.100–101; opis stylu, nie schemat obowiązkowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 95–96 (PDF 48–49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-ANALYSIS",
+      "statement": "Przed harmonizowaniem melodii figurowanej wyznacza się zmiany akordów i dźwięki obce; nuta podwyższona może być prowadzącą tercją dominanty wtrąconej lub dźwiękiem obcym.",
+      "scope": "Możliwe różne interpretacje; nie rozstrzygać samą alteracją.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 96–97 (PDF 49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURATION-COMPLEMENT",
+      "statement": "Po ustaleniu akordów autor zaleca figurację innych głosów podczas dłuższych wartości melodii i przestrzega przed wymianą składników akordu między głosami, zwłaszcza prowadzącego.",
+      "scope": "Kontekst harmonizacji figurowanej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 97 (PDF 49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ALTERATION-DEFINITION",
+      "statement": "Akord alterowany zawiera co najmniej jeden składnik zmieniony chromatycznie; autor rozróżnia chromatyczne dźwięki obce od zmian wprowadzonych równocześnie z akordem.",
+      "scope": "Przykł.103–104; chromatyka nie dowodzi zmiany funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 100–102 (PDF 51–52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ALTERATION-NONMOD",
+      "statement": "W podstawowym modelu alteracji niemodulującej zmieniany dźwięk zbliża się o półton do następnego gamowłaściwego stopnia w kierunku zmiany.",
+      "scope": "Z wyjątkami na s.103; osobne listy stopni dur i odmian moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 102–103 (PDF 52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ALTERATION-TWO-AXES",
+      "statement": "Autor rozróżnia alterację modulującą i niemodulującą, a osobno pozorną i rzeczywistą. Pozorna daje akord niealterowany w innej tonacji; rzeczywista strukturę niewystępującą jako diatoniczna w rozpatrywanym systemie, z uwzględnieniem enharmonii.",
+      "scope": "Klasyfikacja Wesołowskiego, nie uniwersalna dla wszystkich stylów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 102–103 (PDF 52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB18"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ALTERATION-SYMBOLS",
+      "statement": "Autor wymaga wskazania kierunku alteracji i numeru składnika; wielkość wynikowego interwału zależy od jakości wyjściowej.",
+      "scope": "Tabela s.102–103; nie transkrybowano wszystkich symboli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 102–103 (PDF 52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ALTERATION-MULTIPLE",
+      "statement": "Alteracja pojedyncza, podwójna i potrójna oznacza zmianę odpowiedniej liczby składników; dysalteracja to równoczesne podwyższenie i obniżenie dwóch wystąpień tego samego stopnia.",
+      "scope": "W przykł.103 i 107 dysalteracja oznaczona plusem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 103–104 (PDF 52–53)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB16"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ALTERATION-BACK",
+      "statement": "Autor wskazuje odstępstwa od kierunkowego rozwiązania: powrót zmienionego dźwięku do niealterowanej postaci lub ruch podwyższonego składnika w dół w określonym kontekście.",
+      "scope": "Nie oznacza dowolnego nierozwiązywania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 103 (PDF 52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-THREE-VOICE-REDUCTION",
+      "statement": "W trzygłosowej redukcji autor preferuje pełne trójdźwięki, dopuszcza opuszczenie kwinty lub prymy, rzadko tercji; trzy prymy mogą zamknąć kadencję.",
+      "scope": "Profil rozdz. VI.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 108 (PDF 55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-REDUCED-VOICE-DISSONANCE",
+      "statement": "Przy ograniczaniu liczby głosów w akordzie dysonansowym zachowuje się charakterystyczny składnik funkcji i co najmniej jeden dźwięk tworzący z nim dysonans.",
+      "scope": "Dobór zależy od typu akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 108 (PDF 55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-TWO-VOICE-REDUCTION",
+      "statement": "W dwugłosowej redukcji trójdźwięku najczęściej pomija się kwintę lub prymę; nie opuszcza się prymy końcowej toniki.",
+      "scope": "Model ćwiczeń redukcyjnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 108 (PDF 55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB17"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-LARGER-VOICE-DOUBLING",
+      "statement": "W obsadzie większej niż czterogłos autor dopuszcza zdwojenie każdego składnika trójdźwięku poza prowadzącym; w cztero- i pięciodźwiękach zasadniczo nie dwoi składników dysonujących.",
+      "scope": "Zasada rozdz. VI z kwalifikatorem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 108 (PDF 55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-VARIABLE-TEXTURE",
+      "statement": "Wesołowski odróżnia stałą i zmienną liczbę głosów, ilustrując zmienność pieśnią oraz opracowaniem organowym.",
+      "scope": "Nie oceniać dowolnej faktury regułami SATB.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 109–111 (PDF 55–56)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENSEMBLE-SPACING",
+      "statement": "Autor wiąże rozłożenie głosów z obsadą: w chórach i zespołach dętych dba o zakresy i spójność odstępów, w smyczkowych dopuszcza większe odległości.",
+      "scope": "Wskazówki brzmieniowe, nie uniwersalne limity.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 111–114 (PDF 56–58)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PIANO-ACCOMPANIMENT",
+      "statement": "Autor pokazuje figurę Albertiego, model bas–akord i powtarzanie akordu jako odmienne faktury akompaniamentu.",
+      "scope": "Przykł.123–124; bez niezweryfikowanej tezy o historycznym pierwszeństwie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 117–118 (PDF 59–60)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-OCTAVE-REINFORCEMENT",
+      "statement": "Wzmacnianie linii górną lub dolną oktawą nie jest dodaniem niezależnego głosu; wynikające z wzmocnienia równoległe kwinty traktuje się inaczej niż między samodzielnymi głosami.",
+      "scope": "Przykł.130–134; kontrolować położenie głosów środkowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 121–123 (PDF 61–62)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB19"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PEDAL-VARIANTS",
+      "statement": "Nuta stała może być ciągła, przerywana, powtarzana lub figurowana; możliwe są dwie lub trzy nuty stałe, a nuta pedałowa znajduje się w najniższym głosie.",
+      "scope": "Nie utożsamiać z dowolną figurą basową.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 123–125 (PDF 62–63)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PEDAL-HARMONIC-CONTEXT",
+      "statement": "W opisanej klasycznej konwencji nuta stała jest prymą pierwszego i ostatniego akordu odcinka; pośrednie współbrzmienia mogą mieć inne funkcje, również modulować.",
+      "scope": "Konwencja autora, nie wymóg każdego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 124 (PDF 63)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-OSTINATO-BASS",
+      "statement": "Autor odróżnia powtarzającą się figurę ostinato od węższego pojęcia basso ostinato, powracającego tematu basowego pod zmiennymi przebiegami górnych głosów.",
+      "scope": "Dane repertuarowe i liczby powtórzeń wymagają kontroli edycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 125–126 (PDF 63–64)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FREE-VOICE-CONTEXT",
+      "statement": "Autor przedstawia odstępstwa repertuarowe: oktawy przeciw­równoległe, wynikające z figuracji lub przesunięć akordów oraz kwinty przy różnych relacjach prym.",
+      "scope": "Nie znosi ograniczeń ćwiczeń ścisłych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 126–131 (PDF 64–66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOZART-FIFTHS",
+      "statement": "Autor wiąże nazwę kwint mozartowskich z połączeniem alterowanej molowej subdominanty septymowej z dominantą.",
+      "scope": "Przykł.151a, nie zgoda na wszystkie kwinty równoległe.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 130 (PDF 66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MIXED-FIFTHS-REPERTOIRE",
+      "statement": "W nauce harmonii autor zaleca unikać następstwa kwinty czystej i zmniejszonej w głosach skrajnych, lecz dokumentuje odstępstwa repertuarowe.",
+      "scope": "Przykł.154; oddzielić walidację szkolną od analizy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 131 (PDF 66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-ENTRY-TYPES",
+      "statement": "W szkolnej modulacji akord wejściowy jest formą subdominanty lub dominanty nowej tonacji; w przejściu do moll autor wskazuje molowe formy S oraz dominanty z dźwiękiem prowadzącym.",
+      "scope": "Rozdz. VII; nie transkrybowano wszystkich symboli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 135 (PDF 68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-ENTRY-RESOLUTION",
+      "statement": "Po wejściowej dominancie na V stopniu autor zaleca rozwiązanie na toniczny VI lub tonikę z tercją w basie, następnie kadencję utrwalającą; wejściowa S może rozpocząć kadencję bezpośrednio.",
+      "scope": "Model dydaktyczny, nie wymóg repertuarowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 135 (PDF 68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-FUNCTION-TABLE",
+      "statement": "Projektowanie modulacji diatonicznej obejmuje wybór osiągalnego akordu wejściowego, rozpisanie struktur i ich funkcji w obu tonacjach, a następnie metrum i kadencji.",
+      "scope": "Odrębne pola funkcji przed i po zmianie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 137–138 (PDF 69–70)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB20"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-FIFTHS-ENTRY",
+      "statement": "W przykładach w górę koła kwint łatwiej osiągnąć formę S celu, w dół często D, czasem również S.",
+      "scope": "Heurystyka, nie reguła wszystkich par tonacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 140–143 (PDF 71–72)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-SCHOOL-EXCEPTIONS",
+      "statement": "Autor unika toniki celu i jej jednoimiennego akordu jako akordu wejściowego oraz odradza akordy jednoimienne w drodze; rezygnuje jednak z ogólnego zakazu progresji i dojścia do akordu wejściowego stosunkiem sekundy.",
+      "scope": "Odrębny profil względem restrykcyjnych modeli Targosza i Sikorskiego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 143 (PDF 72)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-COMPOUND-KEYS",
+      "statement": "Droga modulacji złożonej przebiega przez tonacje pośrednie, niekiedy krótko zaznaczone wychyleniem przez dominantę lub subdominantę i tonikę.",
+      "scope": "Nie każdy akord pośredniczący stanowi nową tonację.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 143–144 (PDF 72–73)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-CHROMATIC-METHODS",
+      "statement": "Akord wejściowy modulacji chromatycznej można osiągnąć przez zmianę jednego lub kilku składników akordu wyjściowego lub chromatyczne połączenie różnych akordów, często w relacji tercji.",
+      "scope": "Sama chromatyka nie dowodzi utrwalenia tonacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 145–148 (PDF 73–75)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-ALL-SPELLING",
+      "statement": "Gdy zmiana enharmoniczna dotyczy wszystkich składników i nie zmienia wewnętrznych relacji, autor traktuje przebieg zasadniczo jako modulację diatoniczną do enharmonicznie zapisanej tonacji.",
+      "scope": "Przykł.175; odróżnić od samej zmiany zapisu bez modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 151 (PDF 76)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB21"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-DIM-ENTRY",
+      "statement": "Czterodźwięk zmniejszony może pełnić funkcję wejściowej dominanty nonowej bez prymy lub odpowiedniej alterowanej subdominanty septymowej; bas i rozwiązanie zależą od interpretacji.",
+      "scope": "Przykł.176–180; klasy wysokości nie przesądzają funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 151–153 (PDF 76–77)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB22"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-DIM-NO-RESPELL",
+      "statement": "Autor pokazuje czterodźwięk zmniejszony diatoniczny w tonacji wyjściowej, który bez zmiany enharmonicznej otrzymuje funkcję akordu alterowanego w docelowej; drogę można zaliczyć do diatonicznych.",
+      "scope": "Przykł.179.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 152–153 (PDF 77)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-NATURAL-SEVENTH",
+      "statement": "Przy modulacji przez czterodźwięk naturalny autor pokazuje reinterpretację D7 jako alterowanej S przy przejściu o półton w dół, odwrotnie przy przejściu w górę, oraz zastosowanie przy odległości trytonu.",
+      "scope": "Modele, nie automatyczna funkcja każdego czterodźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 154–155 (PDF 78)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-FLAT-FIFTH",
+      "statement": "Czterodźwięk naturalny z obniżoną kwintą może pośredniczyć w modulacji do tonacji oddalonej o tryton lub półton.",
+      "scope": "Przykł.185; konkretne układy wymagają kontroli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 155 (PDF 78)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-AUG-DOUBLING",
+      "statement": "W czterogłosowej modulacji przez trójdźwięk zwiększony autor zaleca zdwojenie prymy lub tercji w interpretacji wyjściowej i docelowej.",
+      "scope": "Przykł.187; zachować nazwy składników po zmianie pisowni.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 156–157 (PDF 79)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ENH-NOTATED-VS-SOUNDING",
+      "statement": "W repertuarze zamiana enharmoniczna może nie zostać jawnie wypisana, przez co zapis przypomina modulację chromatyczną.",
+      "scope": "Przykł.188–189; analizować funkcję, nie tylko zapis.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 157–158 (PDF 79–80)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-SHIFT",
+      "statement": "Przesunięcie modulacyjne to przejście do innej tonacji bez procesu modulacyjnego, często między jednostkami formalnymi; może być diatoniczne, chromatyczne lub enharmoniczne.",
+      "scope": "Odróżnić od modulacji przeprowadzonej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 159 (PDF 80)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-TONAL-SYSTEM-CRITERIA",
+      "statement": "Autor opisuje dur-moll przez odniesienie do toniki, tercjową budowę akordów, funkcyjność połączeń i zależność dysonansu od konsonansu.",
+      "scope": "Model rozdz. VIII, nie uniwersalna definicja tonalności.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 161 (PDF 81)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-TONAL-EXTENSIONS",
+      "statement": "Autor ilustruje rozszerzenia harmonii chromatycznymi i enharmonicznymi modulacjami, alteracjami oraz swobodnymi rozwiązaniami akordów dysonansowych.",
+      "scope": "Opis stylów autora; szczegółowe tezy chronologiczne wymagają innych źródeł.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 164–167 (PDF 83–84)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-TONAL-AMBIGUITY",
+      "statement": "Nawet przebieg samych konsonansowych trójdźwięków może nie określać jednej tonacji; podobnie szeregi o stałej odległości prym.",
+      "scope": "Przykłady rozdz. VIII; nie klasyfikować tonalności samą odległością prym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 168–169 (PDF 85)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-POLYTONALITY",
+      "statement": "Bitonalność oznacza u autora równoczesne prowadzenie dwóch planów tonalnych, politonalność więcej niż dwóch; ilustruje to przykładami Milhauda i Szymanowskiego.",
+      "scope": "Analizy konkretnych partytur wymagają osobnej weryfikacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 169–170 (PDF 85–86)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB23"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-EXERCISE-FORMATS",
+      "statement": "Końcowy zestaw 100 ćwiczeń przeznaczony jest do pracy pisemnej lub fortepianowej; grupuje połączenia triady, przewroty, dźwięki obce, akordy poboczne i dysonansowe, alteracje, figurację, modulację, continuo oraz harmonizację pieśni.",
+      "scope": "Spis grup, bez kopiowania melodii i zadań.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 173 (PDF 87)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-EXERCISE-ALTERNATIVE-BASS",
+      "statement": "Ćwiczenie 84 przedstawia jedną melodię z trzema różnymi basami do realizacji.",
+      "scope": "Przykład wielości opracowań; nie zakładać jednego rozwiązania zadania otwartego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 197 (PDF 99)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB24"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }
