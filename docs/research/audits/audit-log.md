@@ -134,3 +134,6 @@ Przejrzano wszystkie obrazy stron dostępnych w pliku. Dodano 34 twierdzeń i 15
 
 ## Targosz — lektura ciągła rozdziału IV, s. 122–146
 20 nowych twierdzeń i 5 autorskich przypadków wzorcowych: pierwszy i drugi przewrót, odstępy, podwojenia, prowadzenie basu, ukryte kwinty i oktawy, rola metrum i nuty pedałowej oraz interpretacyjna wieloznaczność struktur 6/4. Przejrzano tekst i obrazy wszystkich stron, bez deklarowania rozwiązania wszystkich zadań. Wzorce nie stanowią wykonanych testów silnika.
+
+## Targosz — lektura ciągła s. 147–170 (część rozdziału V)
+14 twierdzeń i 4 autorskie przypadki wzorcowe. D7 pełna, niepełna, bez prymy, przewroty i ścisłe rozwiązania, swobodne rozwiązanie septymy, subdominanta z sekstą i jej wieloznaczność. Obrazy tylko s. 147–150, dalsze przykłady nutowe wymagają kontroli. Na s. 155–157 odczyt tekstu jest niejednoznaczny w zakresie położenia tercji i septymy; nie przyjęto automatycznej reguły. Wzorce nie są wynikami testów.

@@ -2355,6 +2355,96 @@
         "sameUpperVoices": true,
         "doubledFifth": true
       }
+    },
+    {
+      "id": "TH17",
+      "domain": "harmony",
+      "input": {
+        "key": "C",
+        "voicingsMidi": [
+          [
+            43,
+            53,
+            59,
+            62
+          ],
+          [
+            48,
+            52,
+            60,
+            60
+          ]
+        ]
+      },
+      "expected": {
+        "sourceFull": true,
+        "targetRootCount": 3,
+        "targetThirdCount": 1,
+        "targetFifthCount": 0
+      }
+    },
+    {
+      "id": "TH18",
+      "domain": "harmony",
+      "input": {
+        "key": "C",
+        "voicingsMidi": [
+          [
+            43,
+            55,
+            59,
+            65
+          ],
+          [
+            48,
+            55,
+            60,
+            64
+          ]
+        ]
+      },
+      "expected": {
+        "sourceRootCount": 2,
+        "sourceFifthCount": 0,
+        "targetFull": true
+      }
+    },
+    {
+      "id": "TH19",
+      "domain": "harmony",
+      "input": {
+        "pitches": [
+          "D",
+          "F",
+          "A",
+          "C"
+        ],
+        "bass": "D",
+        "context": null
+      },
+      "expected": {
+        "possibleRoots": [
+          "F",
+          "D"
+        ],
+        "uniqueWithoutContext": false
+      }
+    },
+    {
+      "id": "TH20",
+      "domain": "harmony",
+      "input": {
+        "key": "C",
+        "notesMidi": [
+          50,
+          59,
+          62,
+          65
+        ]
+      },
+      "expected": {
+        "doubledDominantComponent": 5
+      }
     }
   ]
 }

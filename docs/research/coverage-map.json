@@ -710,7 +710,8 @@
         "WES-HARM-MAJOR-INTERVALS",
         "WES-DISSONANCE-RESOLVE",
         "WES-MINOR-HARM-TRIADS",
-        "TAR-DISSONANCE-MOTION"
+        "TAR-DISSONANCE-MOTION",
+        "TAR-D7-DISSONANCES"
       ],
       "status": "partial"
     },
@@ -840,7 +841,10 @@
         "TAR-MINOR-D-S",
         "TAR-MAJOR-MINOR-S",
         "TAR-FIRST-INV-ROLE",
-        "TAR-SECOND-INV-AMBIGUITY"
+        "TAR-SECOND-INV-AMBIGUITY",
+        "TAR-D7-DISSONANCES",
+        "TAR-S6-DISSONANCES",
+        "TAR-S6-ROOT-AMBIGUITY"
       ],
       "status": "partial"
     },
@@ -894,7 +898,17 @@
         "TAR-SECOND-INV-PASSING",
         "TAR-SECOND-INV-NEIGHBOR",
         "TAR-SECOND-INV-ARPEGGIO",
-        "TAR-SECOND-INV-COMBINED"
+        "TAR-SECOND-INV-COMBINED",
+        "TAR-D7-FULL-RES",
+        "TAR-D7-INV-RES",
+        "TAR-D7-INCOMPLETE-RES",
+        "TAR-D7-THIRD-BASS",
+        "TAR-D7-FREE-SEVENTH",
+        "TAR-D7-REPEAT",
+        "TAR-ROOTLESS-D7-DOUBLING",
+        "TAR-ROOTLESS-D7-RES",
+        "TAR-S6-T-RES",
+        "TAR-S6-D-RES"
       ],
       "status": "partial"
     },
@@ -913,7 +927,12 @@
         "TAR-FIRST-INV-D-RES",
         "TAR-FIRST-INV-S-RES",
         "TAR-SECOND-INV-PASSING",
-        "TAR-SECOND-INV-PEDAL"
+        "TAR-SECOND-INV-PEDAL",
+        "TAR-D7-FULL-RES",
+        "TAR-D7-INV-RES",
+        "TAR-S6-T-RES",
+        "TAR-S6-D-RES",
+        "TAR-S6-CADENCE"
       ],
       "status": "partial"
     },
@@ -972,7 +991,8 @@
         "TAR-HIDDEN-PARALLEL-NCT",
         "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIRST-INV-BASS-SUSP",
-        "TAR-SECOND-INV-COMBINED"
+        "TAR-SECOND-INV-COMBINED",
+        "TAR-D7-REPEAT"
       ],
       "status": "partial"
     },
@@ -1002,7 +1022,9 @@
         "TAR-PRACTICE",
         "TAR-NONCHORD-TENSION",
         "TAR-SECOND-INV-AMBIGUITY",
-        "TAR-SECOND-INV-PEDAL"
+        "TAR-SECOND-INV-PEDAL",
+        "TAR-S6-ROOT-AMBIGUITY",
+        "TAR-S6-CADENCE"
       ],
       "status": "partial"
     },

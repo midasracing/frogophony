@@ -8515,6 +8515,252 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-DISSONANCES",
+      "statement": "Dominanta septymowa zawiera septymę małą między prymą i septymą oraz kwintę zmniejszoną między tercją i septymą; mogą występować ich przewroty interwałowe.",
+      "scope": "Model durowego trójdźwięku z małą septymą.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 147–149",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-FULL-RES",
+      "statement": "Przy ścisłym rozwiązaniu pełnej D7 w postaci zasadniczej na tonikę bez przewrotu pryma w basie skacze na prymę toniki, tercja wznosi się sekundą, kwinta i septyma opadają sekundami; tonika jest niepełna.",
+      "scope": "W czterogłosowym modelu Targosza; nie opis wszystkich rozwiązań D7.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 149–150",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH17"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-INV-RES",
+      "statement": "Przy ścisłym rozwiązaniu D7 w przewrocie pryma pozostaje jako wspólny dźwięk, tercja wznosi się sekundą, kwinta i septyma opadają sekundami; po trzecim przewrocie powstaje tonika w pierwszym przewrocie.",
+      "scope": "Omawiany ścisły model czterogłosowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 150–152",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-INCOMPLETE-RES",
+      "statement": "Niepełna D7 bez kwinty i z podwojoną prymą w postaci zasadniczej rozwiązuje się w modelu ścisłym na tonikę pełną: dodatkowa pryma dominanty pozostaje jako kwinta toniki.",
+      "scope": "Dotyczy niepełnej dominanty z prymą, nie dominanty bez prymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 152–154",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH18"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-THIRD-BASS",
+      "statement": "Autor preferuje w trzecim przewrocie D7 względnie wysoką septymę w basie, blisko tenoru, w celu złagodzenia ostrości brzmienia.",
+      "scope": "Preferencja brzmieniowa, nie zakaz niskiej septymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 151",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-FREE-SEVENTH",
+      "statement": "Targosz dopuszcza swobodne rozwiązanie septymy D7 sekundą w górę, szczególnie przy tonice w pierwszym przewrocie lub pozycji tercji, pod warunkami układu głosów.",
+      "scope": "Nie kodować warunku rozmieszczenia jako reguły automatycznej przed sprawdzeniem obrazu s. 155–157: odczyt tekstowy zawiera niejednoznaczność dotyczącą wzajemnego położenia tercji i septymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 155–157",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-REPEAT",
+      "statement": "Po wprowadzeniu septymy w powtarzanej dominancie zasadniczo zachowuje się charakter septymowy do rozwiązania; możliwy jest wyjątek, jeżeli septyma pełni rolę dysonansu melodycznego rozwiązywanego pośrednio.",
+      "scope": "Reguła z wyraźnymi wyjątkami autora, nie wymaga mechanicznie obecności septymy w każdym pionie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 157–160",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ROOTLESS-D7-DOUBLING",
+      "statement": "W czterogłosowej D7 bez prymy podwaja się kwintę dominanty, ponieważ jej tercja i septyma są składnikami dysonującymi i prowadzącymi.",
+      "scope": "W ramach ścisłego modelu autora; środkowy składnik wynikowego trójdźwięku zmniejszonego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 162–163",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH20"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ROOTLESS-D7-RES",
+      "statement": "W podstawowym rozwiązaniu D7 bez prymy tercja idzie sekundą w górę, septyma sekundą w dół, jedna z podwojonych kwint sekundą w dół, druga na kwintę toniki skokiem.",
+      "scope": "Kwinta w basie w tym modelu opada; istnieją odrębne swobodne rozwiązania opisane na s. 163.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 162–163",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-DISSONANCES",
+      "statement": "W durowej subdominancie z dodaną sekstą wielką dysonuje wielka sekunda między kwintą i sekstą; w molowej występuje ponadto kwarta zwiększona między tercją i sekstą.",
+      "scope": "Struktura charakterystyczna w konwencji Targosza.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 165–166",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-ROOT-AMBIGUITY",
+      "statement": "Umieszczenie dodanej seksty subdominanty w basie daje strukturę równoważną czterodźwiękowi septymowemu, np. F–A–C–D i D–F–A–C; interpretacja prymy zależy od kontekstu.",
+      "scope": "W tym etapie autor stosuje dodaną sekstę w basie na słabej części taktu; nie jest to ogólny zakaz akordu II stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 166",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH19"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-T-RES",
+      "statement": "W typowym rozwiązaniu subdominanty z sekstą na tonikę dodana seksta wznosi się sekundą; autor dopuszcza też opadanie seksty przy określonym rozłożeniu składników i rozwiązaniu nony na oktawę.",
+      "scope": "Alternatywne rozwiązanie wymaga kontroli relacji tercji i seksty oraz równoległości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 166–167",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-D-RES",
+      "statement": "W podstawowym rozwiązaniu subdominanty z sekstą na trójdźwięk dominanty seksta pozostaje jako kwinta dominanty, a kwinta subdominanty opada sekundą na tercję dominanty.",
+      "scope": "Pozostałe formy rozwiązania zależą od postaci dominanty i jej opóźnień.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 167–168",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-CADENCE",
+      "statement": "Subdominanta z sekstą może podkreślić siłę kadencji, w szczególności w końcowych odcinkach konstrukcji, ale autor nie zaleca stosować jej automatycznie przy każdej subdominancie.",
+      "scope": "Wskazówka interpretacyjna i brzmieniowa.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 168–169",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

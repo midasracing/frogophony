@@ -1580,6 +1580,33 @@
         "TAR-SECOND-INV-COMBINED"
       ],
       "remaining": "Przejrzano tekst i obrazy wszystkich stron rozdziału IV; nie przepisano ani nie rozwiązano wszystkich przykładów i zadań. Następny zakres od s. 147."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          147,
+          170
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-D7-DISSONANCES",
+        "TAR-D7-FULL-RES",
+        "TAR-D7-INV-RES",
+        "TAR-D7-INCOMPLETE-RES",
+        "TAR-D7-THIRD-BASS",
+        "TAR-D7-FREE-SEVENTH",
+        "TAR-D7-REPEAT",
+        "TAR-ROOTLESS-D7-DOUBLING",
+        "TAR-ROOTLESS-D7-RES",
+        "TAR-S6-DISSONANCES",
+        "TAR-S6-ROOT-AMBIGUITY",
+        "TAR-S6-T-RES",
+        "TAR-S6-D-RES",
+        "TAR-S6-CADENCE"
+      ],
+      "remaining": "Tekst s. 147–170; obrazy s. 147–150 dostępne, dalszych ilustracji narzędzie nie zwróciło. Konieczna kontrola oryginalnych przykładów s. 151–170 i niejednoznaczności odczytu s. 155–157. Następny zakres: od s. 171. Nie rozwiązano wszystkich zadań."
     }
   ]
 }
