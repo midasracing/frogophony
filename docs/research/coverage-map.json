@@ -917,7 +917,17 @@
         "SIK-ENH-AUG-TRIAD-SETS",
         "SIK-FIVE-VOICE-NINTH",
         "SIK-EXTENDED-TERTIAN",
-        "WH-POSITION-LAYOUT"
+        "WH-POSITION-LAYOUT",
+        "WH-II-SUBSTITUTE",
+        "WH-III-MINOR",
+        "WH-D7-NOTATION",
+        "WH-NEAPOLITAN",
+        "WH-LOWERED-VI-MAJOR",
+        "WH-D7-ROOTLESS",
+        "WH-D9-ROOTLESS-SYMMETRY",
+        "WH-VII-ROLE",
+        "WH-ADDED-SIXTH",
+        "WH-SEVENTH-NINTH-APPARENT"
       ],
       "status": "partial"
     },
@@ -1100,7 +1110,23 @@
         "WH-FREE-SECOND-ALTERNATIVE",
         "WH-INVERSION-SPACING",
         "WH-INVERSION-DOUBLING",
-        "WH-SECOND-INVERSION-CONTEXT"
+        "WH-SECOND-INVERSION-CONTEXT",
+        "WH-II-SUBSTITUTE",
+        "WH-TERTIAN-LINK",
+        "WH-SECONDARY-DOUBLING",
+        "WH-III-MINOR",
+        "WH-D7-OMISSION",
+        "WH-RAISED-VI-MINOR",
+        "WH-D7-ROOT-IRREGULAR",
+        "WH-D7-ROOTLESS",
+        "WH-D7-ROOTLESS-DECEPTIVE",
+        "WH-D9-FOUR-VOICE",
+        "WH-D9-INVERSION",
+        "WH-D9-FIVE-VOICE",
+        "WH-D9-ROOTLESS-FIFTH",
+        "WH-ADDED-SIXTH",
+        "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+        "WH-SEVENTH-THIRD-LOWER"
       ],
       "status": "partial"
     },
@@ -1166,7 +1192,13 @@
         "WH-CADENCE-AEOLIAN",
         "WH-SECOND-INVERSION-CONTEXT",
         "WH-CADENTIAL-64-CONTEXT",
-        "WH-SEQUENCE-NONMOD"
+        "WH-SEQUENCE-NONMOD",
+        "WH-SEQUENCE-VARIANTS",
+        "WH-MOD-SEQUENCE",
+        "WH-NEAPOLITAN-CADENCES",
+        "WH-PARALLELISM",
+        "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+        "WH-VII-SEVENTH-SUBDOMINANT"
       ],
       "status": "partial"
     },
@@ -1244,7 +1276,10 @@
         "WH-HARMONIZE-WORKFLOW",
         "WH-METRIC-HARMONY",
         "WH-FIGURED-BASS-BASIC",
-        "WH-PIANO-TEXTURE"
+        "WH-PIANO-TEXTURE",
+        "WH-D7-NOTATION",
+        "WH-SECONDARY-DOMINANT-SYMBOL",
+        "WH-ADDED-SIXTH-FIGURES"
       ],
       "status": "partial"
     },
@@ -1365,7 +1400,8 @@
         "WH-CADENTIAL-64-CONTEXT",
         "WH-DOUBLE-SUSPENSION-T-S",
         "WH-SINGLE-SUSPENSION",
-        "WH-NONCHORD-FIVE"
+        "WH-NONCHORD-FIVE",
+        "WH-ADDED-SIXTH-FIGURES"
       ],
       "status": "partial"
     },
@@ -1472,7 +1508,12 @@
         "SIK-ENH-D7-AUG6",
         "SIK-ENH-MOD-BETWEEN",
         "SIK-ENH-SEQUENCE-CYCLES",
-        "WH-PEDAGOGY-ADVANCED"
+        "WH-PEDAGOGY-ADVANCED",
+        "WH-SECONDARY-DOMINANT-SYMBOL",
+        "WH-MOD-SEQUENCE",
+        "WH-NEAPOLITAN",
+        "WH-RAISED-VI-MINOR",
+        "WH-D9-ROOTLESS-SYMMETRY"
       ],
       "status": "partial"
     },
@@ -1577,7 +1618,13 @@
         "SIK-TONALITY-TWO-AXES",
         "SIK-TONALITY-CONTEXT-II",
         "WH-PEDAGOGY-ADVANCED",
-        "WH-SEQUENCE-NONMOD"
+        "WH-SEQUENCE-NONMOD",
+        "WH-III-FUNCTION",
+        "WH-VI-FUNCTION",
+        "WH-LOWERED-VI-MAJOR",
+        "WH-VII-ROLE",
+        "WH-SEVENTH-NINTH-APPARENT",
+        "WH-VII-SEVENTH-SUBDOMINANT"
       ],
       "status": "partial"
     },

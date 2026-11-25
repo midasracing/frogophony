@@ -2136,6 +2136,50 @@
         "WH-SEQUENCE-NONMOD"
       ],
       "remaining": "Obejrzano kolejno PDF 1–20 (karty tytułowe, spis, przedmowa i druk. s.7–39). Skan dwustronicowy bez tekstu, parzyste i nieparzyste strony wymagają przeciwnych obrotów. Nie odczytano każdej nuty i nie rozwiązano wszystkich zadań. Następna partia PDF 21 (druk.40–41)."
+    },
+    {
+      "sourceId": "WES-HAR-1997-UPLOAD",
+      "ranges": [
+        [
+          21,
+          40
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "WH-SEQUENCE-VARIANTS",
+        "WH-II-SUBSTITUTE",
+        "WH-III-FUNCTION",
+        "WH-VI-FUNCTION",
+        "WH-TERTIAN-LINK",
+        "WH-SECONDARY-DOUBLING",
+        "WH-III-MINOR",
+        "WH-D7-NOTATION",
+        "WH-D7-OMISSION",
+        "WH-SECONDARY-DOMINANT-SYMBOL",
+        "WH-MOD-SEQUENCE",
+        "WH-NEAPOLITAN",
+        "WH-NEAPOLITAN-CADENCES",
+        "WH-LOWERED-VI-MAJOR",
+        "WH-RAISED-VI-MINOR",
+        "WH-D7-ROOT-IRREGULAR",
+        "WH-PARALLELISM",
+        "WH-D7-ROOTLESS",
+        "WH-D7-ROOTLESS-DECEPTIVE",
+        "WH-D9-FOUR-VOICE",
+        "WH-D9-INVERSION",
+        "WH-D9-FIVE-VOICE",
+        "WH-D9-ROOTLESS-FIFTH",
+        "WH-D9-ROOTLESS-SYMMETRY",
+        "WH-VII-ROLE",
+        "WH-ADDED-SIXTH",
+        "WH-ADDED-SIXTH-FIGURES",
+        "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+        "WH-SEVENTH-NINTH-APPARENT",
+        "WH-SEVENTH-THIRD-LOWER",
+        "WH-VII-SEVENTH-SUBDOMINANT"
+      ],
+      "remaining": "Obrócone obrazy PDF 21–40 (druk. s.40–79), przegląd w montażach dwóch rozkładówek. Tekst odczytano, przykłady i zadania nie zostały niezależnie zweryfikowane nuta po nucie. Następny PDF 41 (druk.80–81)."
     }
   ]
 }

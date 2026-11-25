@@ -23,3 +23,6 @@ Zgodnie z SIK-MOD-ENTRY-PREFERENCE i SIK-MOD-SEQUENCE-ADVANCED ograniczenia pods
 
 ## Wesołowski 1997 — rozdziały I–II i początek III
 WH-SATB-SPACING-BASIC i WH-INVERSION-SPACING muszą pozostać odrębnymi regułami zależnymi od etapu, a nie ogólnym limitem odległości. WH-CLOSE-FIFTH i SIK-STRICT-KEEP-LAYOUT są zgodne w modelu drogi najbliższej; WH-FREE-FIFTH-COMMON i WH-FREE-FIFTH-NO-COMMON rozróżniają swobodne warianty. WH-METRIC-HARMONY nie może być wdrożona bez wyjątków s.22. WH-NONCHORD-FIVE ma odpowiedniki w klasyfikacji Sikorskiego, ale zachowujemy terminologię i zakres danego źródła. Reguły nie są jeszcze testowanym silnikiem.
+
+## Wesołowski 1997 — PDF 21–40
+WH-D9-FOUR-VOICE i WH-D9-INVERSION potwierdzają ograniczenia profilu D9 z prymą opisane przez Targosza i Sikorskiego. WH-D9-FIVE-VOICE wyłącza ograniczenie braku kwinty przy pełnym pięciogłosie. WH-NEAPOLITAN-CADENCES zachowuje nazwy kadencji autora, WH-VII-ROLE i WH-VII-SEVENTH-SUBDOMINANT odróżniają funkcję od budowy. WH-ADDED-SIXTH-FIGURES rozróżnia funkcyjną prymę i liczby nad basem. Nie scalano odmiennych profili w jeden zestaw zakazów; brak niezależnej recenzji i testów silnika.

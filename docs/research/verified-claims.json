@@ -15554,12 +15554,17 @@
     },
     {
       "id": "WH-FIGURED-BASS-BASIC",
-      "statement": "W szkolnej konwencji bas bez cyfry lub z oznaczeniem 5/3 albo 5 reprezentuje postać zasadniczą; znak chromatyczny bez cyfry modyfikuje tercję nad basem, liczba 1 (8), 3 albo 5 w nawiasie wskazuje pozycję.",
+      "statement": "W szkolnej konwencji bas bez cyfry lub z oznaczeniem 5/3 albo 5 reprezentuje postać zasadniczą; znak chromatyczny bez cyfry modyfikuje tercję nad basem, liczba 1 (8), 3 albo 5 w nawiasie wskazuje pozycję. Pierwszy przewrót ma skrót 6, drugi 6/4.",
       "scope": "Zapis autora, nie uniwersalna praktyka wszystkich edycji historycznych.",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
           "locator": "druk. s. 25 (PDF 13)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 32 (PDF 17): 6 i 6/4",
           "access": "direct-read"
         }
       ],
@@ -15737,6 +15742,549 @@
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
           "locator": "druk. s. 39 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SEQUENCE-VARIANTS",
+      "statement": "W progresji niemodulującej Wesołowski dopuszcza w praktyce zmiany melodyczne i rytmiczne w kolejnych powtórzeniach wzoru.",
+      "scope": "Rozróżniać ćwiczenie ścisłego powtarzania od opisanych modyfikacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 40 (PDF 21)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-II-SUBSTITUTE",
+      "statement": "Molowy II stopień może zastępować durową S, a zmniejszony II stopień molową S; w kadencji autor preferuje pierwszy przewrót i zdwojoną tercję, zaś sekstę zastępującą kwintę S prowadzi na tercję dominanty w dół.",
+      "scope": "Profil rozdziału III; autor podaje inną terminologię dla tej struktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 42–44 (PDF 22–23)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-III-FUNCTION",
+      "statement": "III stopień może być zastępstwem D lub T; Wesołowski odczytuje go jako D, gdy następuje forma T, a jako T, gdy jest rozwiązaniem D.",
+      "scope": "W tym modelu i kontekście; nie klasyfikować izolowanego trójdźwięku wyłącznie na tej podstawie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 42 (PDF 22)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-VI-FUNCTION",
+      "statement": "VI stopień może reprezentować T lub S; po D autor rozpoznaje toniczne zastępstwo VI, a w odpowiednim otoczeniu przed D lub jej formą — subdominantowe.",
+      "scope": "W obrębie przedstawionych modeli, nie dowód wyłączający inne funkcje VI.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 42–43 (PDF 22)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-TERTIAN-LINK",
+      "statement": "Akordy o prymach w stosunku tercji można łączyć zachowując dwa wspólne dźwięki lub wykorzystując ruch przeciwny.",
+      "scope": "W obrębie trójdźwięków głównych i pobocznych omawianych na s.43.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 43 (PDF 22)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SECONDARY-DOUBLING",
+      "statement": "W trójdźwiękach pobocznych autor najczęściej dwoi prymę, ale zdwojenie tercji może podkreślać charakter zastępstwa; dopuszcza zdwojenie innych składników z osobnymi wyjątkami.",
+      "scope": "Nie stosować bez sprawdzenia dźwięku prowadzącego i funkcji; por. s.45.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 43–45 (PDF 22–23)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-III-MINOR",
+      "statement": "III stopień harmonicznego moll jest zwiększony i pełni w omawianym ujęciu funkcję D III, natomiast III stopień eolskiego moll jest durowy i może pełnić funkcję T III lub D III molowej; w zwiększonym D III nie dwoi się kwinty będącej dźwiękiem prowadzącym.",
+      "scope": "Rozróżniać strukturalną jakość akordu i oznaczenie funkcji autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 45 (PDF 23)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-NOTATION",
+      "statement": "Wesołowski podaje dla D7 cyfrowanie zasadniczej postaci 7, pierwszego przewrotu 6/5, drugiego 4/3, trzeciego 2 (z rozbudowanymi wariantami oraz znakami chromatycznymi zależnie od tonacji).",
+      "scope": "Cyfry odnoszą się do basu, nie do prymy; nie kopiować symboli funkcyjnych jako uniwersalnej notacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 48 (PDF 25)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-OMISSION",
+      "statement": "Niepełna D7 z prymą, bez kwinty i z podwojoną prymą rozwiązuje się w modelu regularnym na pełną T, natomiast pełna D7 bez przewrotu na niepełną T.",
+      "scope": "Warunek regularnego rozwiązania autora; nieregularne rozwiązania osobno na s.54–55.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 48 (PDF 25)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SECONDARY-DOMINANT-SYMBOL",
+      "statement": "Dominantę wtrąconą autor oznacza w nawiasie przed akordem odniesienia; gdy rozwiązanie jest inne, wskazuje oczekiwany akord w nawiasie kwadratowym, a rzeczywisty zapisuje osobno.",
+      "scope": "Konwencja autora, nie dowolna interpretacja wszystkich nawiasów w basie cyfrowanym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 47 (PDF 24)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-SEQUENCE",
+      "statement": "Progresję modulującą Wesołowski przedstawia jako kolejne powtórzenia wzoru harmonicznego w innych tonacjach o określonym przesunięciu w górę lub w dół.",
+      "scope": "Nie wystarcza samo przesunięcie klas wysokości bez rozpoznania modelu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 48 (PDF 25)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-NEAPOLITAN",
+      "statement": "Durowy trójdźwięk na obniżonym II stopniu autor nazywa neapolitańskim; w harmonii klasycznej najczęściej używa pierwszego przewrotu ze zdwojoną tercją, w romantycznej wskazuje także postać zasadniczą.",
+      "scope": "Właściwości i preferencje w systemie autora, nie bezwzględny zakaz innych zastosowań.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 51 (PDF 26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-NEAPOLITAN-CADENCES",
+      "statement": "Wesołowski wyróżnia z udziałem neapolitańskiej S trzy przebiegi: doskonały z D i T, plagalny bezpośrednio do T oraz zwodniczy z D i VI stopniem o funkcji T.",
+      "scope": "Terminologia podręcznika, wymaga kontekstu zakończenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 51 (PDF 26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-LOWERED-VI-MAJOR",
+      "statement": "W dur na obniżonym VI stopniu autor rozróżnia trójdźwięk durowy i zwiększony, a jego oznaczenie oraz analiza zależą od funkcji tonicznej lub subdominantowej.",
+      "scope": "Struktura i funkcja to odrębne parametry; postać zwiększona należy do harmonicznego dur.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 51 (PDF 26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-RAISED-VI-MINOR",
+      "statement": "Zmniejszony trójdźwięk na podwyższonym VI stopniu moll doryckiego pełni u autora rolę S; jego podwyższony stopień prowadzi na tercję D, a dwojona może być tercja lub kwinta.",
+      "scope": "Zakres opisanego modelu s.52; nie klasyfikować tak wszystkich zmniejszonych trójdźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 52 (PDF 27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-ROOT-IRREGULAR",
+      "statement": "W nieregularnym rozwiązaniu D7 autor dopuszcza prowadzenie prymy w basie na tercję molowej T; septyma D7 idzie wtedy o sekundę w górę.",
+      "scope": "Jeden z wariantów s.55; obowiązuje WH-D7-LIMIT.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 55 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PARALLELISM",
+      "statement": "Wesołowski określa paralelizm jako powtórzenie dłuższego wzoru przesuniętego o interwał, najczęściej jednokrotne i z możliwymi zmianami.",
+      "scope": "Terminologia autora; odróżnić od równoległego ruchu dwóch głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 56 (PDF 29)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-ROOTLESS",
+      "statement": "D7 bez prymy ma strukturę trójdźwięku zmniejszonego na VII stopniu; najczęściej autor używa jej z kwintą funkcyjnej D w basie, w czterogłosie dwoi kwintę jako składnik niedysonujący; wskazuje też rzadkie zdwojenie septymy.",
+      "scope": "Oznaczenie przewrotu odniesione do domyślnej prymy D, nie do strukturalnej prymy VII.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 58–59 (PDF 30)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-ROOTLESS-DECEPTIVE",
+      "statement": "Przy zwodniczym rozwiązaniu D7 bez prymy na toniczny VI stopień kwinta D w basie może skoczyć na prymę docelowego akordu.",
+      "scope": "Wyjątek od sekundowego rozwiązania kwinty w typowym basie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 59 (PDF 30)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D9-FOUR-VOICE",
+      "statement": "W czterogłosowej D9 z zachowaną prymą autor pomija kwintę; nona leży nad prymą w odległości co najmniej nony, w regularnym rozwiązaniu schodzi sekundą na kwintę T.",
+      "scope": "Nie rozciągać na pełny pięciogłos, omówiony s.65.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 61–62 (PDF 31–32)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D9-INVERSION",
+      "statement": "W pierwszym i trzecim przewrocie czterogłosowej D9 autor przedstawia układ z prymą w tenorze, noną w sopranie i odpowiednio tercją albo septymą w basie; pozostały składnik w alcie.",
+      "scope": "Profil s.62 przy zachowanej prymie i pominiętej kwincie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 62 (PDF 32)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB13"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D9-FIVE-VOICE",
+      "statement": "W pięciogłosie i większej obsadzie autor dopuszcza pełną D9 z kwintą; przy kwincie w basie prowadzi ją w górę na tercję T, a kwintę w wyższym głosie rozwiązuje według opisanych warunków.",
+      "scope": "Nie stosować zakazu drugiego przewrotu czterogłosowej D9 do tej obsady.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 65 (PDF 33)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D9-ROOTLESS-FIFTH",
+      "statement": "W D9 bez prymy nie obowiązuje warunek odległości nony od nieobecnej prymy. Gdy kwinta funkcyjna leży poniżej nony, zwykle idzie w górę na tercję T, zapobiegając równoległym kwintom; ponad noną możliwy jest ruch w dół lub skok na kwintę T.",
+      "scope": "Profil s.68, zachować faktyczne rejestry i kontekst.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 68 (PDF 35)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D9-ROOTLESS-SYMMETRY",
+      "statement": "D9 bez prymy z małą noną jest czterodźwiękiem małotercjowym; autor wyróżnia trzy zbiory równoważnych klas wysokości i różne interpretacje prymy oraz funkcji dzięki enharmonii.",
+      "scope": "Dotyczy brzmieniowej równoważności w stroju fortepianowym, nie identyczności pisowni.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 68 (PDF 35)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB14"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-VII-ROLE",
+      "statement": "Zmniejszony trójdźwięk VII stopnia może u Wesołowskiego oznaczać D7 bez prymy, D VII prowadzącą do III lub S VII w kadencji plagalnej; w ostatnim przypadku autor wymaga kwinty trójdźwięku w basie i jej zdwojenia w czterogłosie.",
+      "scope": "Odrębne role zależne od kontekstu; nie jedna funkcja zbioru.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 70–71 (PDF 36)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ADDED-SIXTH",
+      "statement": "Trójdźwięk z dodaną sekstą autor w ujęciu funkcyjnym odróżnia od czterodźwięku septymowego m.in. przez typowe rozwiązanie na akord z prymą o kwintę wyżej (kwartę niżej); seksta w typowym rozwiązaniu idzie sekundą w górę.",
+      "scope": "Autor opisuje wyjątki, np. rozwiązanie na tercję wyżej i skok; nie oceniać na podstawie samej struktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 73–74 (PDF 37–38)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-ADDED-SIXTH-FIGURES",
+      "statement": "W systemie basu cyfrowanego trójdźwięk z dodaną sekstą może być notowany jak akord septymowy; dodana seksta może być opóźniona septymą lub podwyższoną kwintą.",
+      "scope": "Wymaga rozróżnienia funkcji, struktury i opóźnienia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 74 (PDF 38)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB15"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+      "statement": "Wesołowski przedstawia trzy modele rozwiązania akordów septymowych i nonowych: na akord o kwintę niższy, sekundę wyższy lub tercję niższy.",
+      "scope": "Klasyfikacja omawianych przebiegów tonalnych, nie wyczerpująca lista repertuaru.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 76–79 (PDF 39–40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SEVENTH-NINTH-APPARENT",
+      "statement": "Akordy septymowe i nonowe, które nie mają jednocześnie wielkiej tercji i małej septymy właściwej dominancie, nazywa autor w tym modelu dominantami pozornymi przy odpowiedniej relacji do celu.",
+      "scope": "Zależne od deklarowanej relacji dominantowej; nie klasyfikować wszystkich innych septymowych struktur automatycznie jako D.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 77 (PDF 39)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SEVENTH-THIRD-LOWER",
+      "statement": "Przy modelowym rozwiązaniu akordu septymowego na akord o tercję niższy autor prowadzi septymę sekundą w dół, tercję zatrzymuje, prymę zatrzymuje lub prowadzi do nowej prymy; w nonowym przypadku może być konieczny odmienny ruch septymy.",
+      "scope": "Warunki s.79 i przykł.91; nie uniwersalna reguła wszystkich akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 79 (PDF 40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-VII-SEVENTH-SUBDOMINANT",
+      "statement": "Czterodźwięk VII stopnia może zostać odczytany jako septymowa S VII, rozwiązywana na D w wielkiej kadencji doskonałej lub na T w kadencji plagalnej; autor przedstawia również wyjątkowy skok septymy na prymę T.",
+      "scope": "Interpretacja funkcyjna autora; odróżnić od D9 bez prymy i D VII z septymą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 79 (PDF 40)",
           "access": "direct-read"
         }
       ],

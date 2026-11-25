@@ -4593,6 +4593,147 @@
       "expected": {
         "middleRole": "zamienny"
       }
+    },
+    {
+      "id": "WHB08",
+      "domain": "harmony",
+      "input": {
+        "key": "D harmonic minor",
+        "degree": 3
+      },
+      "expected": {
+        "pitches": [
+          "F",
+          "A",
+          "C#"
+        ],
+        "quality": "augmented",
+        "forbiddenDoubledMember": 5
+      }
+    },
+    {
+      "id": "WHB09",
+      "domain": "harmony",
+      "input": {
+        "inversions": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "convention": "Wesolowski-1997"
+      },
+      "expected": {
+        "figures": [
+          "7",
+          "6/5",
+          "4/3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "WHB10",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "chord": [
+          "C",
+          "C",
+          "E",
+          "Bb"
+        ],
+        "resolution": "regular"
+      },
+      "expected": {
+        "targetComplete": true
+      }
+    },
+    {
+      "id": "WHB11",
+      "domain": "harmony",
+      "input": {
+        "key": "E minor",
+        "profile": "classical-school"
+      },
+      "expected": {
+        "triad": [
+          "F",
+          "A",
+          "C"
+        ],
+        "preferredBass": "A",
+        "doubledMember": 3
+      }
+    },
+    {
+      "id": "WHB12",
+      "domain": "harmony",
+      "input": {
+        "key": "D minor",
+        "variant": "dorian-minor",
+        "degree": 6
+      },
+      "expected": {
+        "triad": [
+          "B",
+          "D",
+          "F"
+        ],
+        "quality": "diminished",
+        "raisedSixthTarget": "C#"
+      }
+    },
+    {
+      "id": "WHB13",
+      "domain": "harmony",
+      "input": {
+        "root": "C",
+        "functionalInversion": 3,
+        "voiceCount": 4,
+        "rootPresent": true
+      },
+      "expected": {
+        "bassMember": 7,
+        "tenorMember": 1,
+        "altoMember": 3,
+        "sopranoMember": 9
+      }
+    },
+    {
+      "id": "WHB14",
+      "domain": "harmony",
+      "input": {
+        "intervals": [
+          0,
+          3,
+          6,
+          9
+        ],
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "uniquePitchClassSets": 3
+      }
+    },
+    {
+      "id": "WHB15",
+      "domain": "harmony",
+      "input": {
+        "context": "added-sixth",
+        "functionalRoot": "F",
+        "notes": [
+          "F",
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      "expected": {
+        "structuralRoot": "D",
+        "functionalRoot": "F",
+        "sameCollectionAsSeventhChord": true
+      }
     }
   ]
 }

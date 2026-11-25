@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 883,
-    "fixtures": 238,
+    "claims": 914,
+    "fixtures": 246,
     "competencies": 73,
     "partial": 58
   },
@@ -830,7 +830,38 @@
       "WH-DOUBLE-SUSPENSION-T-S",
       "WH-SINGLE-SUSPENSION",
       "WH-NONCHORD-FIVE",
-      "WH-SEQUENCE-NONMOD"
+      "WH-SEQUENCE-NONMOD",
+      "WH-SEQUENCE-VARIANTS",
+      "WH-II-SUBSTITUTE",
+      "WH-III-FUNCTION",
+      "WH-VI-FUNCTION",
+      "WH-TERTIAN-LINK",
+      "WH-SECONDARY-DOUBLING",
+      "WH-III-MINOR",
+      "WH-D7-NOTATION",
+      "WH-D7-OMISSION",
+      "WH-SECONDARY-DOMINANT-SYMBOL",
+      "WH-MOD-SEQUENCE",
+      "WH-NEAPOLITAN",
+      "WH-NEAPOLITAN-CADENCES",
+      "WH-LOWERED-VI-MAJOR",
+      "WH-RAISED-VI-MINOR",
+      "WH-D7-ROOT-IRREGULAR",
+      "WH-PARALLELISM",
+      "WH-D7-ROOTLESS",
+      "WH-D7-ROOTLESS-DECEPTIVE",
+      "WH-D9-FOUR-VOICE",
+      "WH-D9-INVERSION",
+      "WH-D9-FIVE-VOICE",
+      "WH-D9-ROOTLESS-FIFTH",
+      "WH-D9-ROOTLESS-SYMMETRY",
+      "WH-VII-ROLE",
+      "WH-ADDED-SIXTH",
+      "WH-ADDED-SIXTH-FIGURES",
+      "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+      "WH-SEVENTH-NINTH-APPARENT",
+      "WH-SEVENTH-THIRD-LOWER",
+      "WH-VII-SEVENTH-SUBDOMINANT"
     ],
     "CHOM-FORM1-1983-UPLOAD": [
       "CHOM-FORM",
@@ -1893,8 +1924,18 @@
         "TAR-TONICIZATION-TARGET",
         "TAR-VII-NATURAL-MINOR",
         "TRIAD-MAIN",
+        "WH-ADDED-SIXTH",
         "WH-CHOPIN-CHORD",
-        "WH-POSITION-LAYOUT"
+        "WH-D7-NOTATION",
+        "WH-D7-ROOTLESS",
+        "WH-D9-ROOTLESS-SYMMETRY",
+        "WH-II-SUBSTITUTE",
+        "WH-III-MINOR",
+        "WH-LOWERED-VI-MAJOR",
+        "WH-NEAPOLITAN",
+        "WH-POSITION-LAYOUT",
+        "WH-SEVENTH-NINTH-APPARENT",
+        "WH-VII-ROLE"
       ]
     },
     "II-HAR-02": {
@@ -2055,6 +2096,7 @@
         "TAR-SVI-VOICE",
         "TAR-THIRD-TO-THIRD",
         "TAR-VOICE-LEAP",
+        "WH-ADDED-SIXTH",
         "WH-BASS-LEAPS",
         "WH-CHROMATIC-SAME-VOICE",
         "WH-CLOSE-FIFTH",
@@ -2062,19 +2104,34 @@
         "WH-D7-EXCEPTION",
         "WH-D7-FIFTH",
         "WH-D7-LIMIT",
+        "WH-D7-OMISSION",
+        "WH-D7-ROOT-IRREGULAR",
+        "WH-D7-ROOTLESS",
+        "WH-D7-ROOTLESS-DECEPTIVE",
         "WH-D7-SEVENTH",
+        "WH-D9-FIVE-VOICE",
+        "WH-D9-FOUR-VOICE",
+        "WH-D9-INVERSION",
+        "WH-D9-ROOTLESS-FIFTH",
         "WH-DOUBLING",
         "WH-FREE-D-T-INCOMPLETE",
         "WH-FREE-FIFTH-COMMON",
         "WH-FREE-FIFTH-NO-COMMON",
         "WH-FREE-SECOND-ALTERNATIVE",
         "WH-FREE-SECOND-TWO-PLUS-TWO",
+        "WH-II-SUBSTITUTE",
+        "WH-III-MINOR",
         "WH-INVERSION-DOUBLING",
         "WH-INVERSION-SPACING",
         "WH-POSITION-LAYOUT",
+        "WH-RAISED-VI-MINOR",
         "WH-SATB-ORDER",
         "WH-SATB-SPACING-BASIC",
         "WH-SECOND-INVERSION-CONTEXT",
+        "WH-SECONDARY-DOUBLING",
+        "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+        "WH-SEVENTH-THIRD-LOWER",
+        "WH-TERTIAN-LINK",
         "WH-TRIAD-DOUBLING-BASIC",
         "WH-VOICING-CONSTRUCTION"
       ]
@@ -2139,9 +2196,15 @@
         "TAR-VI-ROLE-CHANGE",
         "WH-CADENCE-AEOLIAN",
         "WH-CADENTIAL-64-CONTEXT",
+        "WH-MOD-SEQUENCE",
+        "WH-NEAPOLITAN-CADENCES",
+        "WH-PARALLELISM",
         "WH-PERIOD-CADENCES",
         "WH-SECOND-INVERSION-CONTEXT",
-        "WH-SEQUENCE-NONMOD"
+        "WH-SEQUENCE-NONMOD",
+        "WH-SEQUENCE-VARIANTS",
+        "WH-SEVENTH-NINTH-ROOT-MOTIONS",
+        "WH-VII-SEVENTH-SUBDOMINANT"
       ]
     },
     "II-HAR-04": {
@@ -2206,7 +2269,9 @@
         "TAR-SECONDARY-SOPRANO-CLUES",
         "TAR-SEQUENCE-PRACTICE",
         "TAR-SYNCOPATED-HARMONY",
+        "WH-ADDED-SIXTH-FIGURES",
         "WH-CONTINUO",
+        "WH-D7-NOTATION",
         "WH-FIGURED-BASS-BASIC",
         "WH-FUNCTION-REPEAT-MARK",
         "WH-HARMONIZE-INITIAL",
@@ -2218,6 +2283,7 @@
         "WH-PIANO-TEXTURE",
         "WH-PRACTICE",
         "WH-REPEAT-POSITION",
+        "WH-SECONDARY-DOMINANT-SYMBOL",
         "WH-VOICING-CONSTRUCTION"
       ]
     },
@@ -2332,6 +2398,7 @@
         "TAR-SUSP-PREP",
         "TAR-SUSP-TRANSFER",
         "TAR-WEAK-DURATION",
+        "WH-ADDED-SIXTH-FIGURES",
         "WH-CADENTIAL-64-CONTEXT",
         "WH-CHROMATIC-SAME-VOICE",
         "WH-DOUBLE-SUSPENSION-T-S",
@@ -2441,10 +2508,15 @@
         "TAR-VII-NATURAL-MINOR",
         "WES-KEY-SIGNATURE-CONTEXT",
         "WH-D7-CHAIN",
+        "WH-D9-ROOTLESS-SYMMETRY",
         "WH-EXT-TONALITY",
         "WH-MOD-CAD",
+        "WH-MOD-SEQUENCE",
         "WH-MOD-TYPES",
-        "WH-PEDAGOGY-ADVANCED"
+        "WH-NEAPOLITAN",
+        "WH-PEDAGOGY-ADVANCED",
+        "WH-RAISED-VI-MINOR",
+        "WH-SECONDARY-DOMINANT-SYMBOL"
       ]
     },
     "II-HAR-07": {
@@ -2546,9 +2618,15 @@
         "TAR-TIII-CONTEXT",
         "TAR-VI-ROLE-CHANGE",
         "WH-DOUBLING",
+        "WH-III-FUNCTION",
+        "WH-LOWERED-VI-MAJOR",
         "WH-PEDAGOGY-ADVANCED",
         "WH-PRACTICE",
-        "WH-SEQUENCE-NONMOD"
+        "WH-SEQUENCE-NONMOD",
+        "WH-SEVENTH-NINTH-APPARENT",
+        "WH-VI-FUNCTION",
+        "WH-VII-ROLE",
+        "WH-VII-SEVENTH-SUBDOMINANT"
       ]
     },
     "II-HIS-01": {
@@ -12338,6 +12416,348 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "WH-SEQUENCE-VARIANTS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-II-SUBSTITUTE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-III-FUNCTION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-VI-FUNCTION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-TERTIAN-LINK": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-SECONDARY-DOUBLING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-III-MINOR": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [
+        "WHB08"
+      ],
+      "releaseApproved": false
+    },
+    "WH-D7-NOTATION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "WHB09"
+      ],
+      "releaseApproved": false
+    },
+    "WH-D7-OMISSION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [
+        "WHB10"
+      ],
+      "releaseApproved": false
+    },
+    "WH-SECONDARY-DOMINANT-SYMBOL": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-SEQUENCE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-NEAPOLITAN": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "WHB11"
+      ],
+      "releaseApproved": false
+    },
+    "WH-NEAPOLITAN-CADENCES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-LOWERED-VI-MAJOR": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-RAISED-VI-MINOR": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "WHB12"
+      ],
+      "releaseApproved": false
+    },
+    "WH-D7-ROOT-IRREGULAR": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-PARALLELISM": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-ROOTLESS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-ROOTLESS-DECEPTIVE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D9-FOUR-VOICE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D9-INVERSION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [
+        "WHB13"
+      ],
+      "releaseApproved": false
+    },
+    "WH-D9-FIVE-VOICE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D9-ROOTLESS-FIFTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D9-ROOTLESS-SYMMETRY": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "WHB14"
+      ],
+      "releaseApproved": false
+    },
+    "WH-VII-ROLE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ADDED-SIXTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-ADDED-SIXTH-FIGURES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "WHB15"
+      ],
+      "releaseApproved": false
+    },
+    "WH-SEVENTH-NINTH-ROOT-MOTIONS": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-SEVENTH-NINTH-APPARENT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-SEVENTH-THIRD-LOWER": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-VII-SEVENTH-SUBDOMINANT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -12963,6 +13383,30 @@
     ],
     "WHB07": [
       "WH-NONCHORD-FIVE"
+    ],
+    "WHB08": [
+      "WH-III-MINOR"
+    ],
+    "WHB09": [
+      "WH-D7-NOTATION"
+    ],
+    "WHB10": [
+      "WH-D7-OMISSION"
+    ],
+    "WHB11": [
+      "WH-NEAPOLITAN"
+    ],
+    "WHB12": [
+      "WH-RAISED-VI-MINOR"
+    ],
+    "WHB13": [
+      "WH-D9-INVERSION"
+    ],
+    "WHB14": [
+      "WH-D9-ROOTLESS-SYMMETRY"
+    ],
+    "WHB15": [
+      "WH-ADDED-SIXTH-FIGURES"
     ]
   }
 }
