@@ -15247,7 +15247,7 @@
     {
       "id": "WH-FUNCTION-REPEAT-MARK",
       "statement": "Dwie kropki w szkolnym zapisie funkcyjnym autora oznaczają powtórzenie poprzedniej funkcji.",
-      "scope": "Konwencja zapisu podręcznika, nie pauza ani znak końca powtórzenia.",
+      "scope": "Konwencja zapisu podręcznika, nie pauza ani znak końca powtórzenia. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15259,12 +15259,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E01"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-CLOSE-FIFTH",
       "statement": "W łączeniu zasadniczych trójdźwięków triady o prymach w stosunku kwinty drogą najbliższą bas przechodzi na następną prymę, wspólny dźwięk górnego głosu pozostaje, pozostałe dwa idą sekundami; układ się nie zmienia.",
-      "scope": "Profil ścisły dla pełnych trójdźwięków z podwojoną prymą.",
+      "scope": "Profil ścisły dla pełnych trójdźwięków z podwojoną prymą. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15278,7 +15286,15 @@
         "WHB03"
       ],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E01"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-REPEAT-POSITION",
@@ -15504,7 +15520,7 @@
     {
       "id": "WH-CHROMATIC-SAME-VOICE",
       "statement": "W omawianym modelu zmian odmian moll Wesołowski prowadzi chromatyczną zmianę tercji subdominanty lub dominanty w tym samym głosie, unikając ukośnego brzmienia półtonu.",
-      "scope": "Zasada profilu szkolnego, późniejsze swobody należy rozpatrywać odrębnie.",
+      "scope": "Zasada profilu szkolnego, późniejsze swobody należy rozpatrywać odrębnie. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15516,12 +15532,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E02"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-FREE-SECOND-ALTERNATIVE",
       "statement": "Drugi sposób swobodnego łączenia trójdźwięków w stosunku sekundy polega na ruchu basu sekundą oraz ruchu trzech pozostałych głosów przeciwnie do basu na dalsze składniki, z dodatkowymi ograniczeniami układu przy wskazanym skoku septymy.",
-      "scope": "Nie utożsamiać z drogą najbliższą; przykł.29 i opis s.24.",
+      "scope": "Nie utożsamiać z drogą najbliższą; przykł.29 i opis s.24. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15533,12 +15557,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E02"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-CADENCE-AEOLIAN",
       "statement": "W modelu eolskiego moll autor nazywa zakończenie molową D–molową T kadencją eolską; rozróżnia też kadencję frygijską na końcu myśli od zawieszenia poprzednika.",
-      "scope": "Terminologia autora; uwagi historyczne o skalach i kadencjach wymagają osobnego źródła.",
+      "scope": "Terminologia autora; uwagi historyczne o skalach i kadencjach wymagają osobnego źródła. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15550,7 +15582,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E02"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-FIGURED-BASS-BASIC",
@@ -15596,7 +15636,7 @@
     {
       "id": "WH-INVERSION-SPACING",
       "statement": "W przewrotach autor dopuszcza oktawę między sopranem i altem pod warunkiem zbliżenia dolnych głosów, a między altem i tenorem przy odstępach sopran–alt i bas–tenor do kwarty; podaje też wyjątek decymy w bas–tenor przy pierwszym przewrocie.",
-      "scope": "Konkretny model s.29, w tym wyjątek przykł.35b; nie zwykły limit oktawy niezależny od układu.",
+      "scope": "Konkretny model s.29, w tym wyjątek przykł.35b; nie zwykły limit oktawy niezależny od układu. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15608,12 +15648,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E03"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-INVERSION-DOUBLING",
       "statement": "W trójdźwiękach w przewrotach autor dwoi prymę lub kwintę, w drugim przewrocie preferuje kwintę; na tym etapie ogranicza rzadkie zdwojenie tercji do S durowej lub molowej, dla lepszego prowadzenia głosów.",
-      "scope": "Profil rozdziału II, nie pełna teoria zdwojeń.",
+      "scope": "Profil rozdziału II, nie pełna teoria zdwojeń. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15625,7 +15673,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E03"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-SECOND-INVERSION-CONTEXT",
@@ -15839,7 +15895,7 @@
     {
       "id": "WH-SECONDARY-DOUBLING",
       "statement": "W trójdźwiękach pobocznych autor najczęściej dwoi prymę, ale zdwojenie tercji może podkreślać charakter zastępstwa; dopuszcza zdwojenie innych składników z osobnymi wyjątkami.",
-      "scope": "Nie stosować bez sprawdzenia dźwięku prowadzącego i funkcji; por. s.45.",
+      "scope": "Nie stosować bez sprawdzenia dźwięku prowadzącego i funkcji; por. s.45. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15851,12 +15907,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E04"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-III-MINOR",
       "statement": "III stopień harmonicznego moll jest zwiększony i pełni w omawianym ujęciu funkcję D III, natomiast III stopień eolskiego moll jest durowy i może pełnić funkcję T III lub D III molowej; w zwiększonym D III nie dwoi się kwinty będącej dźwiękiem prowadzącym.",
-      "scope": "Rozróżniać strukturalną jakość akordu i oznaczenie funkcji autora.",
+      "scope": "Rozróżniać strukturalną jakość akordu i oznaczenie funkcji autora. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15870,7 +15934,15 @@
         "WHB08"
       ],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E04"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-D7-NOTATION",
@@ -15947,7 +16019,7 @@
     {
       "id": "WH-NEAPOLITAN",
       "statement": "Durowy trójdźwięk na obniżonym II stopniu autor nazywa neapolitańskim; w harmonii klasycznej najczęściej używa pierwszego przewrotu ze zdwojoną tercją, w romantycznej wskazuje także postać zasadniczą.",
-      "scope": "Właściwości i preferencje w systemie autora, nie bezwzględny zakaz innych zastosowań.",
+      "scope": "Właściwości i preferencje w systemie autora, nie bezwzględny zakaz innych zastosowań. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15961,12 +16033,20 @@
         "WHB11"
       ],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E05"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-NEAPOLITAN-CADENCES",
       "statement": "Wesołowski wyróżnia z udziałem neapolitańskiej S trzy przebiegi: doskonały z D i T, plagalny bezpośrednio do T oraz zwodniczy z D i VI stopniem o funkcji T.",
-      "scope": "Terminologia podręcznika, wymaga kontekstu zakończenia.",
+      "scope": "Terminologia podręcznika, wymaga kontekstu zakończenia. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15978,12 +16058,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E05"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-LOWERED-VI-MAJOR",
       "statement": "W dur na obniżonym VI stopniu autor rozróżnia trójdźwięk durowy i zwiększony, a jego oznaczenie oraz analiza zależą od funkcji tonicznej lub subdominantowej.",
-      "scope": "Struktura i funkcja to odrębne parametry; postać zwiększona należy do harmonicznego dur.",
+      "scope": "Struktura i funkcja to odrębne parametry; postać zwiększona należy do harmonicznego dur. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -15995,12 +16083,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E05"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-RAISED-VI-MINOR",
       "statement": "Zmniejszony trójdźwięk na podwyższonym VI stopniu moll doryckiego pełni u autora rolę S; jego podwyższony stopień prowadzi na tercję D, a dwojona może być tercja lub kwinta.",
-      "scope": "Zakres opisanego modelu s.52; nie klasyfikować tak wszystkich zmniejszonych trójdźwięków.",
+      "scope": "Zakres opisanego modelu s.52; nie klasyfikować tak wszystkich zmniejszonych trójdźwięków. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16014,7 +16110,15 @@
         "WHB12"
       ],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E06"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-D7-ROOT-IRREGULAR",
@@ -16176,7 +16280,7 @@
     {
       "id": "WH-VII-ROLE",
       "statement": "Zmniejszony trójdźwięk VII stopnia może u Wesołowskiego oznaczać D7 bez prymy, D VII prowadzącą do III lub S VII w kadencji plagalnej; w ostatnim przypadku autor wymaga kwinty trójdźwięku w basie i jej zdwojenia w czterogłosie.",
-      "scope": "Odrębne role zależne od kontekstu; nie jedna funkcja zbioru.",
+      "scope": "Odrębne role zależne od kontekstu; nie jedna funkcja zbioru. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16188,7 +16292,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E08"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-ADDED-SIXTH",
@@ -16229,7 +16341,7 @@
     {
       "id": "WH-SEVENTH-NINTH-ROOT-MOTIONS",
       "statement": "Wesołowski przedstawia trzy modele rozwiązania akordów septymowych i nonowych: na akord o kwintę niższy, sekundę wyższy lub tercję niższy.",
-      "scope": "Klasyfikacja omawianych przebiegów tonalnych, nie wyczerpująca lista repertuaru.",
+      "scope": "Klasyfikacja omawianych przebiegów tonalnych, nie wyczerpująca lista repertuaru. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16241,7 +16353,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E09"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-SEVENTH-NINTH-APPARENT",
@@ -16331,11 +16451,16 @@
     {
       "id": "WH-CONTINUO-RHYTHM",
       "statement": "Przy realizacji ruchliwego basu cyfrowanego należy rozpoznać, czy kolejna nuta zmienia akord, czy stanowi figurację przy zachowanej harmonii; zmiana może nastąpić tylko na pierwszą nutę grupy.",
-      "scope": "Errata PDF 102 poprawia odsyłacze na s.85 i zadanie 109; nie kopiować błędnego zapisu.",
+      "scope": "Errata PDF 102 poprawia odsyłacze na s.85 i zadanie 109; nie kopiować błędnego zapisu. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
           "locator": "druk. s. 85–86 (PDF 43–44)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "errata PDF 102, druk. s.85: korekta odsyłaczy i zad.109",
           "access": "direct-read"
         }
       ],
@@ -16343,7 +16468,16 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E13",
+          "WH-E14"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-CONTINUO-SIXTH-CHAIN",
@@ -16399,11 +16533,16 @@
     {
       "id": "WH-FIGURATION-DEFINITION",
       "statement": "Figuracja melodyczna polega na wprowadzaniu dźwięków obcych przez rozdrobnienie wartości rytmicznych; może również wykorzystywać dodatkowe składniki istniejącego akordu.",
-      "scope": "Przykł.98–99; brakujący fragment przykł.98 w erracie PDF 103.",
+      "scope": "Przykł.98–99; brakujący fragment przykł.98 w erracie PDF 103. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
           "locator": "druk. s. 91–92 (PDF 46–47)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "errata PDF 102–103, druk. s.91: przykł.98, t.2 oraz brakujący fragment",
           "access": "direct-read"
         }
       ],
@@ -16411,7 +16550,16 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E17",
+          "WH-E19"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-FIGURATION-CONTOUR",
@@ -16467,7 +16615,7 @@
     {
       "id": "WH-FIGURATION-HARMONIC-RHYTHM",
       "statement": "Autor zestawia częstsze zmiany funkcji w modelu chorałowym z dłuższym trwaniem akordu w muzyce klasycznej; rytm melodii i rytm harmoniczny mogą być różne.",
-      "scope": "Przykł.100–101; opis stylu, nie schemat obowiązkowy.",
+      "scope": "Przykł.100–101; opis stylu, nie schemat obowiązkowy. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16479,12 +16627,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E18"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-FIGURATION-ANALYSIS",
       "statement": "Przed harmonizowaniem melodii figurowanej wyznacza się zmiany akordów i dźwięki obce; nuta podwyższona może być prowadzącą tercją dominanty wtrąconej lub dźwiękiem obcym.",
-      "scope": "Możliwe różne interpretacje; nie rozstrzygać samą alteracją.",
+      "scope": "Możliwe różne interpretacje; nie rozstrzygać samą alteracją. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16496,7 +16652,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E18"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-FIGURATION-COMPLEMENT",
@@ -16815,7 +16979,7 @@
     {
       "id": "WH-FREE-VOICE-CONTEXT",
       "statement": "Autor przedstawia odstępstwa repertuarowe: oktawy przeciw­równoległe, wynikające z figuracji lub przesunięć akordów oraz kwinty przy różnych relacjach prym.",
-      "scope": "Nie znosi ograniczeń ćwiczeń ścisłych.",
+      "scope": "Nie znosi ograniczeń ćwiczeń ścisłych. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16827,12 +16991,21 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E22",
+          "WH-E23"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-MOZART-FIFTHS",
       "statement": "Autor wiąże nazwę kwint mozartowskich z połączeniem alterowanej molowej subdominanty septymowej z dominantą.",
-      "scope": "Przykł.151a, nie zgoda na wszystkie kwinty równoległe.",
+      "scope": "Przykł.151a, nie zgoda na wszystkie kwinty równoległe. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16844,7 +17017,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E23"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-MIXED-FIFTHS-REPERTOIRE",
@@ -16953,7 +17134,7 @@
     {
       "id": "WH-MOD-COMPOUND-KEYS",
       "statement": "Droga modulacji złożonej przebiega przez tonacje pośrednie, niekiedy krótko zaznaczone wychyleniem przez dominantę lub subdominantę i tonikę.",
-      "scope": "Nie każdy akord pośredniczący stanowi nową tonację.",
+      "scope": "Nie każdy akord pośredniczący stanowi nową tonację. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16965,12 +17146,20 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E25"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-MOD-CHROMATIC-METHODS",
       "statement": "Akord wejściowy modulacji chromatycznej można osiągnąć przez zmianę jednego lub kilku składników akordu wyjściowego lub chromatyczne połączenie różnych akordów, często w relacji tercji.",
-      "scope": "Sama chromatyka nie dowodzi utrwalenia tonacji.",
+      "scope": "Sama chromatyka nie dowodzi utrwalenia tonacji. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -16982,7 +17171,16 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E24",
+          "WH-E26"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-ENH-ALL-SPELLING",
@@ -17144,7 +17342,7 @@
     {
       "id": "WH-TONAL-EXTENSIONS",
       "statement": "Autor ilustruje rozszerzenia harmonii chromatycznymi i enharmonicznymi modulacjami, alteracjami oraz swobodnymi rozwiązaniami akordów dysonansowych.",
-      "scope": "Opis stylów autora; szczegółowe tezy chronologiczne wymagają innych źródeł.",
+      "scope": "Opis stylów autora; szczegółowe tezy chronologiczne wymagają innych źródeł. Na cytowanej stronie występuje pozycja erraty; przed użyciem konkretnego zapisu nutowego sprawdzić poprawkę wskazaną w sources.json (errataReview).",
       "sourceRefs": [
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
@@ -17156,7 +17354,15 @@
       "checkedAt": "2026-11-25",
       "fixtures": [],
       "teacherReview": null,
-      "releaseApproved": false
+      "releaseApproved": false,
+      "errataReview": {
+        "sourceId": "WES-HAR-1997-UPLOAD",
+        "entryIds": [
+          "WH-E27"
+        ],
+        "status": "page-overlap-not-proof-of-rule-error",
+        "useCorrectedExamplesOnly": true
+      }
     },
     {
       "id": "WH-TONAL-AMBIGUITY",

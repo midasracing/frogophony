@@ -28,3 +28,6 @@ Do czasu rejestru rzeczywistych recenzji i kontroli runtime checker odrzuca każ
 
 ## Pierwszeństwo źródeł polskich
 Przed rozstrzyganiem wątpliwości merytorycznej i terminologicznej użyć [polskiej biblioteki referencyjnej](polish-reference-library.md). W polskiej teorii szkolnej i terminologii pierwszeństwo ma odpowiednia polska literatura specjalistyczna, odczytana w konkretnym miejscu. Jeśli dostęp jest ograniczony, nie udawać lektury; znaleźć wiarygodną polską alternatywę lub wstrzymać treść. Anglojęzyczne źródła są pomocnicze, z wyjątkiem standardów technicznych i jawnie oznaczonych konwencji. Nie przypisywać książkom stwierdzeń z samego katalogu.
+
+## Erraty wydawnicze
+Przed użyciem źródła sprawdź, czy w jego rekordzie w database/sources.json istnieje errata. Poprawka wydawnicza ma pierwszeństwo przed pierwotnym drukiem. Dla wpisów errataReview w verified-claims.json sprawdź wskazane pozycje przed użyciem konkretnego zapisu; zbieżność stron nie oznacza automatycznie błędu reguły. Nie używać pierwotnego przykładu bez kolacji z poprawką; fragmenty ucięte lub nieczytelne pozostają zablokowane. Nie rekonstruować nut z pamięci. Dla nowych podręczników sprawdzić końcowe strony, wkładki i dostępne erraty przed zatwierdzeniem materiału.

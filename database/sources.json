@@ -1148,9 +1148,409 @@
       "type": "theory",
       "url": "https://www.amuz.lodz.pl/index.php/pl/home/wydawnictwo/oferta-publikacje?catid=19&id=685%3Anauka-harmonii&view=article",
       "status": "verified-partial",
-      "note": "URL katalogowy; rzeczywiste źródło to PDF użytkownika. Franciszek Wesołowski, Nauka harmonii, Akademia Muzyczna w Łodzi, wyd. I, 1997, ISBN 83-901135-1-1. 104 strony PDF, 18019107 bajtów, skan bez tekstu. Odczyt kart tytułowych, spisu i przedmowy oraz wybranych stron druk. 46–47,54–55,82–83,122–123,135–137 po obróceniu obrazów. Nie przeczytano wszystkich stron ani nut; nie kopiować książki. 2026-11-25: ciągła lektura PDF 1–20, druk. do s.39, obrócone obrazy oryginału. Bez niezależnego rozwiązania wszystkich przykładów. Dalsza ciągła lektura PDF 21–40, druk. s.40–79: akordy poboczne, dominanty i cztero- oraz pięciodźwięki. 2026-11-25: pierwsza ciągła lektura 104/104 stron PDF zakończona, w tym 100 ćwiczeń i errata PDF 102–103. Errata koryguje także wcześniejsze zadania, oznaczenia i odsyłacze. Pełna kolacja nut i rozwiązania zadań pozostają otwarte.",
+      "note": "URL katalogowy; rzeczywiste źródło to PDF użytkownika. Franciszek Wesołowski, Nauka harmonii, Akademia Muzyczna w Łodzi, wyd. I, 1997, ISBN 83-901135-1-1. 104 strony PDF, 18019107 bajtów, skan bez tekstu. Odczyt kart tytułowych, spisu i przedmowy oraz wybranych stron druk. 46–47,54–55,82–83,122–123,135–137 po obróceniu obrazów. Nie przeczytano wszystkich stron ani nut; nie kopiować książki. 2026-11-25: ciągła lektura PDF 1–20, druk. do s.39, obrócone obrazy oryginału. Bez niezależnego rozwiązania wszystkich przykładów. Dalsza ciągła lektura PDF 21–40, druk. s.40–79: akordy poboczne, dominanty i cztero- oraz pięciodźwięki. 2026-11-25: pierwsza ciągła lektura 104/104 stron PDF zakończona, w tym 100 ćwiczeń i errata PDF 102–103. Errata koryguje także wcześniejsze zadania, oznaczenia i odsyłacze. Pełna kolacja nut i rozwiązania zadań pozostają otwarte. Zindeksowano 43 widocznych pozycji erraty (w tym dwie tekstowe). Prawa krawędź pierwszej strony erraty jest ucięta; kilka lokalizatorów nie powtarza numeru strony. Nie deklarować pełnej kolacji.",
       "accessKind": "user-upload",
-      "fileName": "ilide.info-pr_a5602f6fc173dca146dc08f71ceb1e2a.pdf"
+      "fileName": "ilide.info-pr_a5602f6fc173dca146dc08f71ceb1e2a.pdf",
+      "errata": {
+        "pdfPages": [
+          102,
+          103
+        ],
+        "checkedAt": "2026-11-25",
+        "status": "locator-indexed-partial-collation",
+        "rule": "Errata ma pierwszeństwo przed pierwotnym drukiem. Nie wykorzystywać wskazanych przykładów i zadań bez kolacji oryginału z poprawką; nieczytelne/ucięte fragmenty wymagają kompletnego egzemplarza. Rejestr obejmuje widoczne pozycje, nie jest transkrypcją nut.",
+        "entries": [
+          {
+            "id": "WH-E01",
+            "errataPdfPage": 102,
+            "printedPage": 11,
+            "target": "zadanie 3, t.5",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E02",
+            "errataPdfPage": 102,
+            "printedPage": 24,
+            "target": "zadanie 21, t.3–4",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E03",
+            "errataPdfPage": 102,
+            "printedPage": 29,
+            "target": "przykład 34, t.5 i 9",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E04",
+            "errataPdfPage": 102,
+            "printedPage": 45,
+            "target": "zadanie 48, t.5",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E05",
+            "errataPdfPage": 102,
+            "printedPage": 51,
+            "target": "przykład 63 (dalsze oznaczenie ucięte)",
+            "kind": "notation-cropped",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E06",
+            "errataPdfPage": 102,
+            "printedPage": 52,
+            "target": "przykład 66, t.9",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E07",
+            "errataPdfPage": 102,
+            "printedPage": 69,
+            "target": "zadanie 90, t.5",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E08",
+            "errataPdfPage": 102,
+            "printedPage": 71,
+            "target": "przykład 82, t.4",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E09",
+            "errataPdfPage": 102,
+            "printedPage": 78,
+            "target": "zadanie 100, t.4",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E10",
+            "errataPdfPage": 102,
+            "printedPage": 81,
+            "target": "zadanie 104 (prawa krawędź ucięta)",
+            "kind": "notation-cropped",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E11",
+            "errataPdfPage": 102,
+            "printedPage": 84,
+            "target": "zadanie 107: tytuł chorału",
+            "kind": "text",
+            "status": "text-correction-recorded",
+            "correction": "Christ lag im Todesbanden.",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E12",
+            "errataPdfPage": 102,
+            "printedPage": 84,
+            "target": "zadanie 107, t.8",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E13",
+            "errataPdfPage": 102,
+            "printedPage": 85,
+            "target": "wiersze 6 i 7",
+            "kind": "text",
+            "status": "text-correction-recorded",
+            "correction": "W wierszu 6 usunąć odsyłacz do przykładu 96a; w wierszu 7 odsyłacz ma prowadzić do przykładu 96.",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E14",
+            "errataPdfPage": 102,
+            "printedPage": 85,
+            "target": "zadanie 109",
+            "kind": "replacement-score",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E15",
+            "errataPdfPage": 102,
+            "printedPage": 87,
+            "target": "zadanie 113, t.4",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E16",
+            "errataPdfPage": 102,
+            "printedPage": null,
+            "target": "zadanie 115, t.2 (strona niepowtórzona w erracie)",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E17",
+            "errataPdfPage": 102,
+            "printedPage": 91,
+            "target": "przykład 98, t.2",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E18",
+            "errataPdfPage": 102,
+            "printedPage": 96,
+            "target": "przykład 102, t.1–2 (prawa krawędź ucięta)",
+            "kind": "notation-cropped",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E19",
+            "errataPdfPage": 103,
+            "printedPage": 91,
+            "target": "brakujący fragment przykładu 98",
+            "kind": "missing-score",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E20",
+            "errataPdfPage": 103,
+            "printedPage": 99,
+            "target": "zadanie 135, t.10",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E21",
+            "errataPdfPage": 103,
+            "printedPage": 107,
+            "target": "przykład 109, t.3",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E22",
+            "errataPdfPage": 103,
+            "printedPage": 127,
+            "target": "przykład 144, t.2",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E23",
+            "errataPdfPage": 103,
+            "printedPage": 130,
+            "target": "przykład 150, t.2",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E24",
+            "errataPdfPage": 103,
+            "printedPage": 145,
+            "target": "przykład 165b, t.1",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E25",
+            "errataPdfPage": 103,
+            "printedPage": 144,
+            "target": "przykład 163, t.7",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E26",
+            "errataPdfPage": 103,
+            "printedPage": 146,
+            "target": "przykład 166, t.2",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E27",
+            "errataPdfPage": 103,
+            "printedPage": 164,
+            "target": "przykład 195, b, t.1",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E28",
+            "errataPdfPage": 103,
+            "printedPage": 176,
+            "target": "ćwiczenie 21, t.3",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E29",
+            "errataPdfPage": 103,
+            "printedPage": 181,
+            "target": "ćwiczenie 39, t.1–2",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E30",
+            "errataPdfPage": 103,
+            "printedPage": null,
+            "target": "ćwiczenie 40, t.1–2 (strona niepowtórzona w erracie)",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E31",
+            "errataPdfPage": 103,
+            "printedPage": 178,
+            "target": "ćwiczenie 29, t.3",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E32",
+            "errataPdfPage": 103,
+            "printedPage": 183,
+            "target": "ćwiczenie 48, t.9",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E33",
+            "errataPdfPage": 103,
+            "printedPage": 184,
+            "target": "ćwiczenie 49, t.5",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E34",
+            "errataPdfPage": 103,
+            "printedPage": 186,
+            "target": "ćwiczenie 57, t.1–2",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E35",
+            "errataPdfPage": 103,
+            "printedPage": 187,
+            "target": "ćwiczenie 62, t.4",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E36",
+            "errataPdfPage": 103,
+            "printedPage": 188,
+            "target": "ćwiczenie 65, t.5",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E37",
+            "errataPdfPage": 103,
+            "printedPage": null,
+            "target": "ćwiczenie 67, t.7 (strona niepowtórzona w erracie)",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E38",
+            "errataPdfPage": 103,
+            "printedPage": null,
+            "target": "ćwiczenie 68, t.7 (strona niepowtórzona w erracie)",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E39",
+            "errataPdfPage": 103,
+            "printedPage": 189,
+            "target": "ćwiczenie 70, t.3 i 6",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E40",
+            "errataPdfPage": 103,
+            "printedPage": null,
+            "target": "ćwiczenie 71, t.3 (strona niepowtórzona w erracie)",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E41",
+            "errataPdfPage": 103,
+            "printedPage": 190,
+            "target": "ćwiczenie 72, t.5",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E42",
+            "errataPdfPage": 103,
+            "printedPage": 191,
+            "target": "ćwiczenie 74, t.12",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          },
+          {
+            "id": "WH-E43",
+            "errataPdfPage": 103,
+            "printedPage": 196,
+            "target": "ćwiczenie 83, t.1",
+            "kind": "notation",
+            "status": "score-collation-required",
+            "useOriginalUncorrected": false
+          }
+        ]
+      }
     },
     {
       "id": "DROB-1986-UPLOAD",

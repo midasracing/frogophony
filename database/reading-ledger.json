@@ -2246,7 +2246,7 @@
         "WH-EXERCISE-FORMATS",
         "WH-EXERCISE-ALTERNATIVE-BASS"
       ],
-      "remaining": "Odczyt tekstu i przegląd wszystkich kolejnych obróconych obrazów PDF 41–104, druk.80–201, errata PDF 102–103 oraz końcowa pusta rozkładówka PDF 104. Skan dwustronicowy. Pierwsza lektura dostępnego egzemplarza zakończona. Nie rozwiązano niezależnie każdego zadania, nie odczytano każdej nuty ani nie przeprowadzono pełnej kolacji erraty. Errata zawiera m.in. brakujący fragment przykł.98 (s.91), korekty odsyłaczy i zad.109 (s.85) oraz poprawki do wcześniejszych przykładów i zadań. Przed użyciem konkretnego przykładu sprawdzić obie rozkładówki erraty i oryginał w pełnej rozdzielczości.",
+      "remaining": "Odczyt tekstu i przegląd wszystkich kolejnych obróconych obrazów PDF 41–104, druk.80–201, errata PDF 102–103 oraz końcowa pusta rozkładówka PDF 104. Skan dwustronicowy. Pierwsza lektura dostępnego egzemplarza zakończona. Nie rozwiązano niezależnie każdego zadania, nie odczytano każdej nuty ani nie przeprowadzono pełnej kolacji erraty. Errata zawiera m.in. brakujący fragment przykł.98 (s.91), korekty odsyłaczy i zad.109 (s.85) oraz poprawki do wcześniejszych przykładów i zadań. Przed użyciem konkretnego przykładu sprawdzić obie rozkładówki erraty i oryginał w pełnej rozdzielczości. Ponowny odczyt obu stron erraty w powiększeniu: katalog widocznych pozycji i flagi rekordów w sources.json i verified-claims.json. Brak pełnej kolacji nut.",
       "exerciseGroups": [
         {
           "first": 1,
@@ -2308,7 +2308,14 @@
       "errataPdfPages": [
         102,
         103
-      ]
+      ],
+      "errataReview": {
+        "status": "locator-indexed-partial-collation",
+        "entryCount": 43,
+        "textCorrections": 2,
+        "affectedClaimCount": 24,
+        "sourceRegistry": "WES-HAR-1997-UPLOAD"
+      }
     }
   ]
 }
