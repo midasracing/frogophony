@@ -2445,6 +2445,188 @@
       "expected": {
         "doubledDominantComponent": 5
       }
+    },
+    {
+      "id": "TN01",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-strict",
+        "rootMidi": 55,
+        "ninthMidi": 57,
+        "quality": "major"
+      },
+      "expected": {
+        "validNinthSpacing": false
+      }
+    },
+    {
+      "id": "TN02",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-strict",
+        "rootMidi": 55,
+        "ninthMidi": 69,
+        "quality": "major"
+      },
+      "expected": {
+        "validNinthSpacing": true
+      }
+    },
+    {
+      "id": "TN03",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-strict",
+        "voices": 4,
+        "rootPresent": true
+      },
+      "expected": {
+        "includedMembers": [
+          1,
+          3,
+          7,
+          9
+        ],
+        "omittedMembers": [
+          5
+        ]
+      }
+    },
+    {
+      "id": "TN04",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-strict",
+        "voices": 4,
+        "rootPresent": true,
+        "fifthPresent": false
+      },
+      "expected": {
+        "allowedBassMembers": [
+          1,
+          3,
+          7
+        ],
+        "inversions": [
+          0,
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "id": "TN05",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "profile": "Targosz-strict",
+        "dominantMemberToResolve": 9
+      },
+      "expected": {
+        "scaleDegreeFrom": 6,
+        "scaleDegreeTo": 5,
+        "direction": "down"
+      }
+    },
+    {
+      "id": "TN06",
+      "domain": "harmony",
+      "input": {
+        "degree": 6,
+        "keyMode": "major",
+        "context": null
+      },
+      "expected": {
+        "possibleFunctions": [
+          "T",
+          "S"
+        ],
+        "unique": false
+      }
+    },
+    {
+      "id": "TN07",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "structuralRoot": "G",
+        "bass": "Bb",
+        "pitchClasses": [
+          7,
+          10,
+          2
+        ]
+      },
+      "expected": {
+        "structuralInversion": 1,
+        "functionalRoot": "Bb",
+        "replacedMember": 5,
+        "replacingMember": 6
+      }
+    },
+    {
+      "id": "TN08",
+      "domain": "harmony",
+      "input": {
+        "key": "D minor",
+        "profile": "Targosz"
+      },
+      "expected": {
+        "structuralRoot": "Eb",
+        "triad": [
+          "Eb",
+          "G",
+          "Bb"
+        ],
+        "typicalBass": "G"
+      }
+    },
+    {
+      "id": "TN09",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "profile": "Targosz-model",
+        "dominantRoot": "C"
+      },
+      "expected": {
+        "bassTarget": "D",
+        "bassSemitones": 2,
+        "targetQuality": "minor",
+        "doubledMember": 3
+      }
+    },
+    {
+      "id": "TN10",
+      "domain": "harmony",
+      "input": {
+        "key": "D harmonic minor",
+        "profile": "Targosz-model",
+        "dominantRoot": "A"
+      },
+      "expected": {
+        "bassTarget": "Bb",
+        "bassSemitones": 1,
+        "targetQuality": "major",
+        "doubledMember": 3
+      }
+    },
+    {
+      "id": "TN11",
+      "domain": "harmony",
+      "input": {
+        "key": "G major",
+        "borrowedFrom": "parallel minor"
+      },
+      "expected": {
+        "targetTriad": [
+          "Eb",
+          "G",
+          "Bb"
+        ],
+        "targetDegree": "bVI",
+        "targetQuality": "major"
+      }
     }
   ]
 }

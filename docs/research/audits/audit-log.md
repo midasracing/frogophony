@@ -140,3 +140,6 @@ Przejrzano wszystkie obrazy stron dostępnych w pliku. Dodano 34 twierdzeń i 15
 
 ### Kontrola oryginału Targosza s. 155–157
 Na s. 156 akapit przed przykładem 184 podaje tercję pod septymą, lecz ramka na tej samej stronie i s. 155 podają septymę pod tercją. Przykłady 183–184 potwierdzają tę drugą wersję. To sprzeczność w druku, nie artefakt OCR. Zachowano oba odczyty w uwagach, przyjęto roboczo regułę ramkową i wydzielono wyjątek przykładu 185; bez zatwierdzenia wydawniczego.
+
+## Targosz — ciągła lektura 171–200
+28 nowych twierdzeń i 11 autorskich przypadków oczekiwanych. Rozróżniono D9 z prymą i bez prymy, warunki położenia nony, różne prowadzenie kwinty, interpretację II i VI stopnia, akord neapolitański i rozwiązanie zwodnicze. Nie przenosimy bezkrytycznie ograniczeń szkolnego profilu na inne style. Hipotezy historycznej genezy akordu neapolitańskiego z przypisu s.194 nie uznajemy za potwierdzony fakt. Reguły s.193 ograniczono kontekstem i wyjątkami s.192. Sprawdzono tekst i render każdej strony w zakresie, nie przeprowadzono pełnej transkrypcji ani rozwiązania zadań. Kontrola odwołań i statusów przed zapisem; testy silnika i recenzja niezależna nadal niewykonane.

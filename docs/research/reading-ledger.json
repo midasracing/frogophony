@@ -1607,6 +1607,47 @@
         "TAR-S6-CADENCE"
       ],
       "remaining": "Tekst s. 147–170; obrazy s. 147–150 i 155–157 sprawdzone bezpośrednio. Pozostałe ilustracje s. 151–154 i 158–170 wymagają kontroli; rzeczywista sprzeczność druku s. 156 odnotowana. Następny zakres od s. 171. Nie rozwiązano wszystkich zadań."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          171,
+          200
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-D9-SPACING",
+        "TAR-D9-OMISSION",
+        "TAR-D9-ROOT-RES",
+        "TAR-D9-INV",
+        "TAR-D9-ROOT-MOTION",
+        "TAR-D9-DELAY",
+        "TAR-D9-REPEAT",
+        "TAR-D9-CONTEXT",
+        "TAR-D9-ROOTLESS-FIFTH",
+        "TAR-D9-ROOTLESS-FIFTH-ABOVE",
+        "TAR-D9-ROOTLESS-INV",
+        "TAR-D9-ROOTLESS-NINTH-BASS",
+        "TAR-D9-SUSPENSION",
+        "TAR-SUBSTITUTE-MAP",
+        "TAR-FUNCTION-RETROSPECTIVE",
+        "TAR-S6-REPLACE",
+        "TAR-S6-REPLACE-DOUBLING",
+        "TAR-S6-REPLACE-VOICE",
+        "TAR-S6-REPLACE-FOLLOW",
+        "TAR-S6-COMPARE",
+        "TAR-S6-MINOR",
+        "TAR-NEAPOLITAN",
+        "TAR-NEAPOLITAN-RES",
+        "TAR-DECEPTIVE-BASE",
+        "TAR-DECEPTIVE-TRIAD",
+        "TAR-DECEPTIVE-TONIC-SIXTH",
+        "TAR-DECEPTIVE-MIXTURE",
+        "TAR-SIXTH-FUNCTION"
+      ],
+      "remaining": "Odczyt tekstu PDF 171–200 i kontrola układu wszystkich 30 stron na renderach oryginału. Nie przepisano ani nie rozwiązano niezależnie każdego zadania. Pełne partie pozostają pending-full-review. Następna partia 201–210."
     }
   ]
 }

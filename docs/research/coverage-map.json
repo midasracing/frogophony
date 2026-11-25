@@ -844,7 +844,14 @@
         "TAR-SECOND-INV-AMBIGUITY",
         "TAR-D7-DISSONANCES",
         "TAR-S6-DISSONANCES",
-        "TAR-S6-ROOT-AMBIGUITY"
+        "TAR-S6-ROOT-AMBIGUITY",
+        "TAR-D9-OMISSION",
+        "TAR-D9-ROOTLESS-INV",
+        "TAR-SUBSTITUTE-MAP",
+        "TAR-S6-REPLACE",
+        "TAR-S6-MINOR",
+        "TAR-NEAPOLITAN",
+        "TAR-SIXTH-FUNCTION"
       ],
       "status": "partial"
     },
@@ -908,7 +915,25 @@
         "TAR-ROOTLESS-D7-DOUBLING",
         "TAR-ROOTLESS-D7-RES",
         "TAR-S6-T-RES",
-        "TAR-S6-D-RES"
+        "TAR-S6-D-RES",
+        "TAR-D9-SPACING",
+        "TAR-D9-OMISSION",
+        "TAR-D9-ROOT-RES",
+        "TAR-D9-INV",
+        "TAR-D9-ROOT-MOTION",
+        "TAR-D9-DELAY",
+        "TAR-D9-REPEAT",
+        "TAR-D9-ROOTLESS-FIFTH",
+        "TAR-D9-ROOTLESS-FIFTH-ABOVE",
+        "TAR-D9-ROOTLESS-INV",
+        "TAR-D9-SUSPENSION",
+        "TAR-S6-REPLACE-DOUBLING",
+        "TAR-S6-REPLACE-VOICE",
+        "TAR-S6-REPLACE-FOLLOW",
+        "TAR-S6-COMPARE",
+        "TAR-NEAPOLITAN-RES",
+        "TAR-DECEPTIVE-BASE",
+        "TAR-DECEPTIVE-TRIAD"
       ],
       "status": "partial"
     },
@@ -932,7 +957,11 @@
         "TAR-D7-INV-RES",
         "TAR-S6-T-RES",
         "TAR-S6-D-RES",
-        "TAR-S6-CADENCE"
+        "TAR-S6-CADENCE",
+        "TAR-S6-REPLACE-FOLLOW",
+        "TAR-DECEPTIVE-BASE",
+        "TAR-DECEPTIVE-TONIC-SIXTH",
+        "TAR-DECEPTIVE-MIXTURE"
       ],
       "status": "partial"
     },
@@ -954,7 +983,8 @@
         "TAR-EIGHTH-PAIR",
         "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIRST-INV-SAME-COMPONENT",
-        "TAR-FIRST-INV-PROCEDURE"
+        "TAR-FIRST-INV-PROCEDURE",
+        "TAR-S6-COMPARE"
       ],
       "status": "partial"
     },
@@ -992,7 +1022,11 @@
         "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIRST-INV-BASS-SUSP",
         "TAR-SECOND-INV-COMBINED",
-        "TAR-D7-REPEAT"
+        "TAR-D7-REPEAT",
+        "TAR-D9-DELAY",
+        "TAR-D9-REPEAT",
+        "TAR-D9-CONTEXT",
+        "TAR-D9-SUSPENSION"
       ],
       "status": "partial"
     },
@@ -1009,7 +1043,10 @@
         "WH-MOD-TYPES",
         "WES-KEY-SIGNATURE-CONTEXT",
         "TAR-ALTER-DIRECTION",
-        "TAR-CROSS-RELATION"
+        "TAR-CROSS-RELATION",
+        "TAR-NEAPOLITAN",
+        "TAR-NEAPOLITAN-RES",
+        "TAR-DECEPTIVE-MIXTURE"
       ],
       "status": "partial"
     },
@@ -1024,7 +1061,13 @@
         "TAR-SECOND-INV-AMBIGUITY",
         "TAR-SECOND-INV-PEDAL",
         "TAR-S6-ROOT-AMBIGUITY",
-        "TAR-S6-CADENCE"
+        "TAR-S6-CADENCE",
+        "TAR-D9-CONTEXT",
+        "TAR-D9-ROOTLESS-NINTH-BASS",
+        "TAR-SUBSTITUTE-MAP",
+        "TAR-FUNCTION-RETROSPECTIVE",
+        "TAR-DECEPTIVE-TONIC-SIXTH",
+        "TAR-SIXTH-FUNCTION"
       ],
       "status": "partial"
     },

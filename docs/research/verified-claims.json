@@ -8761,6 +8761,502 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-SPACING",
+      "statement": "W ścisłym modelu Targosza nona dominanty z zachowaną prymą musi leżeć nad nią co najmniej w odległości nony.",
+      "scope": "Warunek szkolnego profilu D9; nie zakaz wszystkich ciasnych voicingów jazzowych ani innych stylów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.173",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN01",
+        "TN02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-OMISSION",
+      "statement": "W czterogłosowej dominancie nonowej z prymą pomija się kwintę, zachowując prymę, tercję, septymę i nonę.",
+      "scope": "Model autora, nie jedyna realizacja wszystkich pięciodźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.173–174, przykł. 208",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOT-RES",
+      "statement": "W ścisłym rozwiązaniu D9 bez kwinty w postaci zasadniczej na tonikę bas przechodzi z prymy na prymę, tercja idzie o sekundę w górę, septyma i nona sekundami w dół.",
+      "scope": "Czterogłosowy model bez dodatkowych opóźnień; wynik to pełna tonika.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.174, przykł. 209",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-INV",
+      "statement": "D9 bez kwinty z zachowaną prymą ma w profilu autora dostępny pierwszy i trzeci przewrót; w obu nona znajduje się w sopranie, pryma w tenorze.",
+      "scope": "Wynika z warunków położenia nony i odległości głosów; nie rozciągać na wielogłos ani D9 bez prymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.174–175, przykł. 210",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOT-MOTION",
+      "statement": "W rozwiązaniu D9 w przewrocie pryma może pozostać jako dźwięk wspólny; w trzecim przewrocie może też skoczyć na prymę toniki, by uniknąć zdwojenia kwinty toniki zasadniczej.",
+      "scope": "Rozwiązania przykł. 211; zależy od przewrotu i układu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.175",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-DELAY",
+      "statement": "Rozwiązanie D9 na tonikę może zostać rozłożone w czasie przez przetrzymanie nony jako opóźnienia 6–5 w tonice.",
+      "scope": "Opóźnienie i zwykłe rozwiązanie to osobne dopuszczalne konstrukcje.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.176–177",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-REPEAT",
+      "statement": "Targosz dopuszcza przejście od D9 do D7 w obrębie powtarzanej funkcji, w tym jawne opóźnienie 9–8 i rozwiązanie melodycznej nony przy zmianie pozycji.",
+      "scope": "Nie przenosić bez zmian reguły zachowania septymy w powtarzanej D7.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.176",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-CONTEXT",
+      "statement": "Nona w głosie melodycznym może mieć charakter opóźnienia, a w innych kontekstach może być składnikiem zintegrowanego akordu nonowego.",
+      "scope": "Położenie w głosie melodycznym jest wskazówką, nie rozstrzygającym testem.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.176–177",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOTLESS-FIFTH",
+      "statement": "Gdy w D9 bez prymy kwinta leży poniżej nony, w modelowym rozwiązaniu na tonikę kwinta idzie sekundą w górę, aby uniknąć równoległych kwint; tercja idzie w górę, septyma i nona w dół.",
+      "scope": "W typowym układzie autora, nie ogólna reguła dowolnego czterodźwięku; przy małej nonie rozwiązuje się tryton.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.179–180, przykł. 217–219",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOTLESS-FIFTH-ABOVE",
+      "statement": "Jeżeli kwinta D9 bez prymy znajduje się ponad noną, może zejść sekundą, prowadząc do zdwojenia prymy toniki; autor przedstawia też rozwiązania ze zdwojeniem tercji.",
+      "scope": "Różne możliwe realizacje w ramach danego profilu; nie odrzucać automatycznie jednej z nich.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.181, przykł. 220",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOTLESS-INV",
+      "statement": "Po usunięciu prymy dominanty znika wymóg umieszczenia nony nad nią; w typowym rozwiązaniu autora D9 bez prymy na tercji prowadzi do toniki zasadniczej, na kwincie lub septymie do toniki w pierwszym przewrocie.",
+      "scope": "Numeracja przewrotów względem domyślnej prymy dominanty, nie względem autonomicznego czterodźwięku VII stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.181, przykł. 221",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOTLESS-NINTH-BASS",
+      "statement": "Zmniejszony czterodźwięk bez prymy dominanty z noną w basie może w kontekście przejścia na dominantę z podwójnym opóźnieniem otrzymać interpretację subdominantową.",
+      "scope": "Przykład analityczny Targosza; nie wnioskować funkcji wyłącznie z klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.182–183, przykł. 222–224",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-SUSPENSION",
+      "statement": "Opóźnienie 9–8 w dominancie może prowadzić od D9 bez kwinty do niepełnej D7, albo od D9 bez prymy do pełnej D7 w odpowiednim przewrocie; w basie może prowadzić do D7 zasadniczej.",
+      "scope": "Warianty z przykł. 225; numeracja odniesiona do dominanty.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.183",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUBSTITUTE-MAP",
+      "statement": "W koncepcji pokrewieństw tercjowych Targosza tonikę mogą zastępować VI i III stopień, subdominantę II i VI, dominantę III i VII.",
+      "scope": "Możliwość zależna od kontekstu i odmiany skali; w moll III stopień przy funkcji dominantowej może mieć postać zwiększoną, przy tonicznej durową.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.186–188, przykł. 227",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FUNCTION-RETROSPECTIVE",
+      "statement": "Funkcja akordu pobocznego może zostać rozstrzygnięta dopiero po usłyszeniu następnych akordów.",
+      "scope": "Nie wymuszać jednej odpowiedzi funkcyjnej dla izolowanego trójdźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.187–188",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-REPLACE",
+      "statement": "W modelu zastępczym Targosza pierwszy przewrót II stopnia może być rozumiany jako subdominanta z sekstą zamiast kwinty, a nie subdominanta z dodatkowym czwartym składnikiem.",
+      "scope": "Analiza funkcyjna autora; strukturalnie pozostaje trójdźwiękiem II stopnia w pierwszym przewrocie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.188–189, przykł. 228–229",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-REPLACE-DOUBLING",
+      "statement": "W omawianym profilu subdominanty z sekstą zamiast kwinty autor podwaja jej prymę funkcyjną, czyli IV stopień tonacji, i umieszcza ją w basie.",
+      "scope": "Dotyczy tego szczególnego modelu, nie wszystkich użyć II stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.189–190",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-REPLACE-VOICE",
+      "statement": "W połączeniu toniki z subdominantą z sekstą zamiast kwinty autor dopuszcza ruch prosty wszystkich głosów, o ile nie powstają równoległe kwinty; dopuszczalne są też inne sposoby połączenia.",
+      "scope": "Nie traktować ruchu prostego wszystkich głosów jako bezwarunkowo błędnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.189–191, przykł. 230–232",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-REPLACE-FOLLOW",
+      "statement": "Po subdominancie z sekstą zamiast kwinty autor najczęściej przewiduje dominantę; dopuszcza także przejście do subdominanty z dodaną sekstą.",
+      "scope": "Wskazówka danego etapu nauki; nie bezwzględny zakaz innych przebiegów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.191–192",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-COMPARE",
+      "statement": "W typowych połączeniach S–D Targosz odróżnia sekstę zastępującą kwintę (często schodzącą) od seksty dodanej (pozostającej lub wznoszącej się w odpowiednim modelu).",
+      "scope": "Autor pokazuje również wyjątki na s.192; nie klasyfikować tylko na podstawie ruchu jednego głosu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.191–193, przykł. 234–238",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-MINOR",
+      "statement": "Molowa subdominanta z sekstą zamiast kwinty w modelu autora daje zmniejszony trójdźwięk II stopnia w pierwszym przewrocie.",
+      "scope": "Także przy molowej subdominancie w harmonicznym dur; nie dotyczy wszystkich odmian moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.193",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-NEAPOLITAN",
+      "statement": "Akord neapolitański w omawianej funkcji jest durowym trójdźwiękiem na obniżonym II stopniu, zwykle w pierwszym przewrocie; Targosz ujmuje go jako molową subdominantę z obniżoną sekstą zamiast kwinty.",
+      "scope": "Nazwa i interpretacja w profilu autora; dalsze użycia i historia wymagają osobnej lektury.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.193–194",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-NEAPOLITAN-RES",
+      "statement": "W preferowanym połączeniu akordu neapolitańskiego z dominantą obniżony II stopień schodzi półtonem na opóźnienie 4–3 dominanty; autor omawia też skok tercji zmniejszonej na tercję dominanty.",
+      "scope": "Model zależny od układu i eliminowania skośnego brzmienia półtonu; nie jedyne historyczne użycie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.194, przykł. 239–240",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DECEPTIVE-BASE",
+      "statement": "W modelowym rozwiązaniu zwodniczym pełnej D7 zasadniczej na VI stopień bas idzie sekundą w górę, tercja i kwinta dominanty prowadzą do zdwojonej tercji akordu VI, a septyma schodzi na jego kwintę.",
+      "scope": "W naturalnym dur bas idzie cały ton, w omawianym harmonicznym moll półton; inne realizacje nie są wykluczone.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.195–197, przykł. 241–244",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN09",
+        "TN10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DECEPTIVE-TRIAD",
+      "statement": "Przy modelowym rozwiązaniu zwodniczym trójdźwięku dominantowego zasadniczego z podwojoną prymą dodatkowa pryma skacze na kwintę trójdźwięku VI stopnia.",
+      "scope": "Model autora, pozostałe głosy zgodnie z rozwiązaniem zwodniczym D7; nie zakaz innych układów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.197, przykł. 244",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DECEPTIVE-TONIC-SIXTH",
+      "statement": "Przy rozwiązaniu zwodniczym prowadzącym do układu VI stopnia z toniką w basie autor dopuszcza interpretację toniki z sekstą zamiast kwinty.",
+      "scope": "Funkcyjne znaczenie zależy od kontekstu i fundamentu słyszanego w basie; nie identyczne z każdym pierwszym przewrotem VI.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.198, przykł. 245–246",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DECEPTIVE-MIXTURE",
+      "statement": "W dur rozwiązanie zwodnicze może prowadzić do durowego trójdźwięku na obniżonym VI stopniu przejętego z jednoimiennego moll.",
+      "scope": "W omawianym profilu po takim akordzie następuje odmiana molowej subdominanty; dalsze możliwości autor zapowiada później.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.199, przykł. 247",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SIXTH-FUNCTION",
+      "statement": "VI stopień może reprezentować tonikę lub subdominantę; w ujęciu autora funkcję subdominantową często ujawnia dopiero następująca po nim dominanta.",
+      "scope": "Nie przypisywać akordowi VI stopnia zawsze funkcji tonicznej ani zawsze subdominantowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.195,200, przykł. 248–249",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }
