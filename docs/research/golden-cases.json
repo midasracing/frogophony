@@ -2161,6 +2161,89 @@
         ],
         "allowedInProfile": true
       }
+    },
+    {
+      "id": "TH08",
+      "domain": "harmony",
+      "input": {
+        "notes": [
+          "C4",
+          "F4",
+          "E4"
+        ],
+        "relativeMetricStrength": [
+          2,
+          1,
+          2
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "classification": "dźwięk zamienny",
+        "entry": "skok",
+        "exit": "sekunda w dół"
+      }
+    },
+    {
+      "id": "TH09",
+      "domain": "harmony",
+      "input": {
+        "notes": [
+          "C4",
+          "B3",
+          "D4"
+        ],
+        "relativeMetricStrength": [
+          2,
+          1,
+          2
+        ],
+        "chords": [
+          [
+            "C",
+            "E",
+            "G"
+          ],
+          [
+            "G",
+            "B",
+            "D"
+          ]
+        ]
+      },
+      "expected": {
+        "classification": "dźwięk oderwany",
+        "entry": "sekunda w dół",
+        "exit": "skok w górę"
+      }
+    },
+    {
+      "id": "TH10",
+      "domain": "harmony",
+      "input": {
+        "delayingDuration": 1,
+        "delayedDuration": 2,
+        "profile": "Targosz"
+      },
+      "expected": {
+        "passesDurationRule": false
+      }
+    },
+    {
+      "id": "TH11",
+      "domain": "harmony",
+      "input": {
+        "meter": "4/4",
+        "previousOffset": 1,
+        "nextOffset": 1.5
+      },
+      "expected": {
+        "relativeStrength": "next weaker"
+      }
     }
   ]
 }

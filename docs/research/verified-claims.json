@@ -7749,6 +7749,422 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-NONCHORD-TENSION",
+      "statement": "Dysonans lokalny wynikający z dźwięku obcego należy odróżniać od napięcia wynikającego z następstwa funkcji harmonicznych.",
+      "scope": "Klasyczna harmonia funkcyjna; analiza dwóch poziomów napięć.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 84–85",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-METRIC-RELATIVE",
+      "statement": "O zaliczeniu dźwięku obcego do akcentowanych lub nieakcentowanych decyduje względna siła metryczna miejsca, również w obrębie podziału miary.",
+      "scope": "Klasyfikacja Targosza; nie utożsamiać akcentu z pierwszą miarą taktu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 85, 103",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-CONCEPTUAL",
+      "statement": "Opóźnienie może dawać współbrzmienie fizycznie konsonansowe, lecz dysonans pojęciowy względem oczekiwanej struktury akordu.",
+      "scope": "Przykład 90 A; wymaga interpretacji harmonicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 86, przykł. 90 A",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-LOWER",
+      "statement": "Przy opóźnieniach dolnych preferowany jest półton, przy górnych dźwięk gamowłaściwy.",
+      "scope": "Preferencja w metodzie autora, nie bezwyjątkowy zakaz.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 86–87",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-FIGURES",
+      "statement": "Cyfry opóźnień odnoszą się do prymy akordu; przy opóźnieniu podwojonej prymy stosowane są oznaczenia 7–8 lub 9–8.",
+      "scope": "Oznaczenia funkcyjne, nie ogólna reguła basu cyfrowanego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 87",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-PREP",
+      "statement": "Opóźnienie przygotowane zachowuje dźwięk poprzedniego akordu; nieprzygotowane nie wymaga tego warunku.",
+      "scope": "Terminologia Targosza.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 88",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-DURATION",
+      "statement": "W ćwiczeniach autora nuta opóźniająca trwa co najmniej tyle co opóźniany składnik.",
+      "scope": "Reguła szkolna tej metody, nie uniwersalna zasada historyczna.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 88",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-INDIRECT",
+      "statement": "Rozwiązanie opóźnienia może być pośrednie: dźwięk obcy pozostaje przy zmianie funkcji i rozwiązuje się w nowej funkcji.",
+      "scope": "Zależne od kontekstu; przykład z noną dominanty stającą się sekstą toniki.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 89",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-DOUBLING",
+      "statement": "W tym etapie ćwiczeń nie opóźnia się składnika poniżej jego podwojenia; przewidziano szczególny przypadek równoczesnych opóźnień podwojonej prymy.",
+      "scope": "Reguła z wyjątkami pokazanymi w przykładach 96–98; dotyczy układu głosów, nie samej klasy wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 90–91, przykł. 96–98",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-MULTIPLE",
+      "statement": "Równoczesne opóźnienia dwóch lub trzech głosów mogą rozwiązywać się w różnych momentach; nie zwalniają od kontroli zakazanych równoległości.",
+      "scope": "Profil szkolny autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 90–91",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-D64",
+      "statement": "Podwójne opóźnienie 6–5 i 4–3 nad prymą dominanty tworzy jej charakterystyczną strukturę; autor dopuszcza powtórzenia i zmianę położenia przed rozwiązaniem.",
+      "scope": "Interpretacja funkcyjna Targosza, nie samodzielna tonika w drugim przewrocie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 91–92",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP-TRANSFER",
+      "statement": "W szczególnym przypadku podwójnego opóźnienia 6–5 i 4–3 dominanty rozwiązania mogą przejść do innych głosów.",
+      "scope": "Szczególny wyjątek opisany przez autora; nie generalizować na wszystkie opóźnienia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 92",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARM-AUDIT-BASS",
+      "statement": "Przy porównaniu możliwych harmonizacji autor zaleca zagrać melodię z basem fundamentalnym i ocenić słuchowo przebieg funkcji.",
+      "scope": "Metoda doboru harmonii, nie automatyczna reguła jedynej odpowiedzi.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 93–97, 111–115",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARM-REDUCE",
+      "statement": "Przed wyborem układów i połączeń akordów w sfigurowanym sopranie wyodrębnia się nuty akordowe; po opracowaniu szkieletu dodaje się dźwięki obce.",
+      "scope": "Procedura zadania szkolnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 98–99, 115–116",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-PASS-CONTEXT",
+      "statement": "Dźwięk przejściowy może łączyć nuty tego samego lub różnych akordów, również inne dźwięki obce; przejście chromatyczne może wypełniać sekundę wielką.",
+      "scope": "Nie wymaga zawsze dwóch nut akordowych jako bezpośrednich sąsiadów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 101–103",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-WEAK-DURATION",
+      "statement": "W tej metodzie nieakcentowany dźwięk obcy nie powinien być dłuższy od poprzedzającej go mocniejszej nuty.",
+      "scope": "Reguła szkolna; nie ogólny zakaz kompozytorski.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 103, 106–107",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-NEIGHBOR-COMMON",
+      "statement": "Dźwięk pomocniczy może ozdabiać wspólną nutę dwóch następujących po sobie funkcji, również współwystępować z dźwiękiem obcym w innym głosie.",
+      "scope": "Klasyfikacja zależna od ruchu melodycznego i metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 105–106",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CHANGING-TONE",
+      "statement": "Dźwięk zamienny jest metrycznie słabym dźwiękiem obcym osiąganym skokiem i rozwiązywanym sekundą, najczęściej w przeciwnym kierunku.",
+      "scope": "Polska terminologia Targosza; nie utożsamiać automatycznie z angielskimi nazwami figur.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 107",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ESCAPE-TONE",
+      "statement": "Dźwięk oderwany jest metrycznie słabym wychyleniem sekundowym od nuty akordowej, po którym następuje skok, zwykle w przeciwnym kierunku.",
+      "scope": "Według autora szczególnie dobrze działa między dwiema nutami akordowymi tworzącymi pochód sekundowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 107–108",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ESCAPE-SAME",
+      "statement": "W obrębie przetrzymywanego akordu autor dopuszcza dźwięk oderwany, gdy następną nutą jest opóźnienie.",
+      "scope": "Ograniczenie omawianej metody.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 108",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANTICIPATION-CHAIN",
+      "statement": "Ta sama wysokość może być najpierw antycypacją wobec jednej funkcji, a po zmianie funkcji opóźnieniem.",
+      "scope": "Klasyfikacja zdarzenia zależy od jego pozycji czasowej i funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 109–112",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HIDDEN-PARALLEL-NCT",
+      "statement": "Dźwięki obce wstawione pomiędzy dwa szkielety harmoniczne nie usuwają automatycznie równoległych oktaw w głosach skrajnych.",
+      "scope": "Weryfikacja połączeń w profilu Targosza obejmuje również szkielet harmoniczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 113",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-EIGHTH-PAIR",
+      "statement": "Dwie ósemki nie muszą zawierać dźwięku obcego; jeżeli obie są składnikami tej samej funkcji, mogą wymagać powtórzenia akordu.",
+      "scope": "Wniosek z zadania przykładowego, nie reguła nakazująca reartykulację w każdym stylu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 114",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURATION-TWO-METHODS",
+      "statement": "Figurację można ćwiczyć przez ozdobienie sopranu przed harmonizacją albo przez ozdobienie głosów istniejącego czterogłosu.",
+      "scope": "Dwa warianty zadania, oba wymagają kontroli poprawności i słuchowej oceny.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 117–121",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

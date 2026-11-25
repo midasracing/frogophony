@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 426,
-    "fixtures": 121,
+    "claims": 450,
+    "fixtures": 125,
     "competencies": 73,
     "partial": 58
   },
@@ -289,7 +289,31 @@
       "TAR-CROSS-RELATION",
       "TAR-DORIAN-S-RES",
       "TAR-MINOR-D-S",
-      "TAR-MAJOR-MINOR-S"
+      "TAR-MAJOR-MINOR-S",
+      "TAR-NONCHORD-TENSION",
+      "TAR-METRIC-RELATIVE",
+      "TAR-SUSP-CONCEPTUAL",
+      "TAR-SUSP-LOWER",
+      "TAR-SUSP-FIGURES",
+      "TAR-SUSP-PREP",
+      "TAR-SUSP-DURATION",
+      "TAR-SUSP-INDIRECT",
+      "TAR-SUSP-DOUBLING",
+      "TAR-SUSP-MULTIPLE",
+      "TAR-SUSP-D64",
+      "TAR-SUSP-TRANSFER",
+      "TAR-HARM-AUDIT-BASS",
+      "TAR-HARM-REDUCE",
+      "TAR-PASS-CONTEXT",
+      "TAR-WEAK-DURATION",
+      "TAR-NEIGHBOR-COMMON",
+      "TAR-CHANGING-TONE",
+      "TAR-ESCAPE-TONE",
+      "TAR-ESCAPE-SAME",
+      "TAR-ANTICIPATION-CHAIN",
+      "TAR-HIDDEN-PARALLEL-NCT",
+      "TAR-EIGHTH-PAIR",
+      "TAR-FIGURATION-TWO-METHODS"
     ],
     "WES-1986-TEXT": [
       "MINOR-HARM",
@@ -1378,6 +1402,7 @@
         "TAR-D7-RES",
         "TAR-FIFTH-CONTRARY",
         "TAR-FIFTH-NEAREST",
+        "TAR-HIDDEN-PARALLEL-NCT",
         "TAR-INCOMPLETE-TRIAD",
         "TAR-INNER-THIRDS",
         "TAR-REPEAT-CHANGE",
@@ -1388,6 +1413,8 @@
         "TAR-SECOND-EXTENDED",
         "TAR-SPACING",
         "TAR-STRICT-PROFILE",
+        "TAR-SUSP-DOUBLING",
+        "TAR-SUSP-MULTIPLE",
         "TAR-THIRD-TO-THIRD",
         "TAR-VOICE-LEAP",
         "WH-D7-EXCEPTION",
@@ -1406,6 +1433,7 @@
         "TAR-MAJOR-MINOR-S",
         "TAR-MINOR-D-S",
         "TAR-PEDAL",
+        "TAR-SUSP-D64",
         "TAR-SUSPENDED-CADENCE"
       ]
     },
@@ -1414,7 +1442,11 @@
       "claimIds": [
         "SIK-BASS6",
         "SIK-REPEAT",
+        "TAR-EIGHTH-PAIR",
+        "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIGURED",
+        "TAR-HARM-AUDIT-BASS",
+        "TAR-HARM-REDUCE",
         "TAR-HARMONIC-RHYTHM",
         "TAR-HARMONIZATION-CANDIDATES",
         "TAR-HARMONIZATION-PLAN",
@@ -1428,11 +1460,33 @@
       "status": "partial",
       "claimIds": [
         "TAR-ANTICIPATION",
+        "TAR-ANTICIPATION-CHAIN",
+        "TAR-CHANGING-TONE",
+        "TAR-ESCAPE-SAME",
+        "TAR-ESCAPE-TONE",
+        "TAR-FIGURATION-TWO-METHODS",
         "TAR-FOREIGN",
+        "TAR-HARM-REDUCE",
+        "TAR-HIDDEN-PARALLEL-NCT",
+        "TAR-METRIC-RELATIVE",
         "TAR-NEIGHBOR",
+        "TAR-NEIGHBOR-COMMON",
+        "TAR-NONCHORD-TENSION",
         "TAR-PASS",
+        "TAR-PASS-CONTEXT",
         "TAR-PEDAGOGY-THRESHOLDS",
         "TAR-SUSP",
+        "TAR-SUSP-CONCEPTUAL",
+        "TAR-SUSP-D64",
+        "TAR-SUSP-DOUBLING",
+        "TAR-SUSP-DURATION",
+        "TAR-SUSP-FIGURES",
+        "TAR-SUSP-INDIRECT",
+        "TAR-SUSP-LOWER",
+        "TAR-SUSP-MULTIPLE",
+        "TAR-SUSP-PREP",
+        "TAR-SUSP-TRANSFER",
+        "TAR-WEAK-DURATION",
         "WH-PEDAL"
       ]
     },
@@ -1456,6 +1510,7 @@
       "status": "partial",
       "claimIds": [
         "TAR-ANALYSIS",
+        "TAR-NONCHORD-TENSION",
         "TAR-PRACTICE",
         "WH-DOUBLING",
         "WH-PRACTICE"
@@ -6273,6 +6328,261 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "TAR-NONCHORD-TENSION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-METRIC-RELATIVE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TH11"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-CONCEPTUAL": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-LOWER": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-FIGURES": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-PREP": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-DURATION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TH10"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-INDIRECT": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-DOUBLING": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-MULTIPLE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-D64": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP-TRANSFER": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-HARM-AUDIT-BASS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-HARM-REDUCE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-PASS-CONTEXT": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-WEAK-DURATION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-NEIGHBOR-COMMON": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-CHANGING-TONE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TH08"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-ESCAPE-TONE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TH09"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-ESCAPE-SAME": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ANTICIPATION-CHAIN": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-HIDDEN-PARALLEL-NCT": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-EIGHTH-PAIR": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURATION-TWO-METHODS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -6547,6 +6857,18 @@
     ],
     "TH07": [
       "TAR-MINOR-D-S"
+    ],
+    "TH11": [
+      "TAR-METRIC-RELATIVE"
+    ],
+    "TH10": [
+      "TAR-SUSP-DURATION"
+    ],
+    "TH08": [
+      "TAR-CHANGING-TONE"
+    ],
+    "TH09": [
+      "TAR-ESCAPE-TONE"
     ]
   }
 }

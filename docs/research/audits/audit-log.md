@@ -128,3 +128,6 @@ Przejrzano wszystkie obrazy stron dostępnych w pliku. Dodano 34 twierdzeń i 15
 
 ## Targosz — lektura ciągła s.1–83
 34 nowych twierdzeń i 7 oryginalnych przypadków wzorcowych. Wprowadzenie oraz triada w postaci zasadniczej, metodyka harmonizacji, warianty połączeń, niepełność, odmiany skal. Oddzielono reguły pierwszego etapu (np. D–S) od późniejszych dopuszczeń (molowa D–S), zależności funkcyjne od akordów oraz sztywne ograniczenia szkolne od preferencji i praktyki repertuarowej. Dostępne obrazy s.23–26 i 34–80; nie rozwiązano wszystkich zadań ani nie sprawdzono każdej nuty. Dalsza lektura od s.84. Nie nadano zgody wydawniczej. Przypadki wzorcowe nie są wykonanymi testami silnika.
+
+## Targosz — lektura ciągła rozdziału III, s. 84–121
+24 nowe twierdzenia, 4 autorskie przypadki wzorcowe. Rozróżniono metrykę względną, opóźnienia przygotowane i nieprzygotowane, pośrednie rozwiązania, wyjątki dla D 6–5/4–3, dźwięki zamienne i oderwane oraz figurację. Przejrzano obrazy wszystkich stron rozdziału, bez deklarowania pełnego rozwiązania zadań. Nadal brak zatwierdzenia nauczycielskiego i testów silnika.

@@ -875,7 +875,10 @@
         "TAR-INCOMPLETE-TRIAD",
         "TAR-VOICE-LEAP",
         "TAR-ALL-VOICES",
-        "TAR-CROSS-RELATION"
+        "TAR-CROSS-RELATION",
+        "TAR-SUSP-DOUBLING",
+        "TAR-SUSP-MULTIPLE",
+        "TAR-HIDDEN-PARALLEL-NCT"
       ],
       "status": "partial"
     },
@@ -888,7 +891,8 @@
         "TAR-SUSPENDED-CADENCE",
         "TAR-PEDAL",
         "TAR-MINOR-D-S",
-        "TAR-MAJOR-MINOR-S"
+        "TAR-MAJOR-MINOR-S",
+        "TAR-SUSP-D64"
       ],
       "status": "partial"
     },
@@ -904,7 +908,11 @@
         "TAR-HARMONIZATION-CANDIDATES",
         "TAR-HARMONIZATION-PLAN",
         "TAR-HARMONIC-RHYTHM",
-        "TAR-SYNCOPATED-HARMONY"
+        "TAR-SYNCOPATED-HARMONY",
+        "TAR-HARM-AUDIT-BASS",
+        "TAR-HARM-REDUCE",
+        "TAR-EIGHTH-PAIR",
+        "TAR-FIGURATION-TWO-METHODS"
       ],
       "status": "partial"
     },
@@ -917,7 +925,29 @@
         "TAR-NEIGHBOR",
         "TAR-ANTICIPATION",
         "WH-PEDAL",
-        "TAR-PEDAGOGY-THRESHOLDS"
+        "TAR-PEDAGOGY-THRESHOLDS",
+        "TAR-NONCHORD-TENSION",
+        "TAR-METRIC-RELATIVE",
+        "TAR-SUSP-CONCEPTUAL",
+        "TAR-SUSP-LOWER",
+        "TAR-SUSP-FIGURES",
+        "TAR-SUSP-PREP",
+        "TAR-SUSP-DURATION",
+        "TAR-SUSP-INDIRECT",
+        "TAR-SUSP-DOUBLING",
+        "TAR-SUSP-MULTIPLE",
+        "TAR-SUSP-D64",
+        "TAR-SUSP-TRANSFER",
+        "TAR-HARM-REDUCE",
+        "TAR-PASS-CONTEXT",
+        "TAR-WEAK-DURATION",
+        "TAR-NEIGHBOR-COMMON",
+        "TAR-CHANGING-TONE",
+        "TAR-ESCAPE-TONE",
+        "TAR-ESCAPE-SAME",
+        "TAR-ANTICIPATION-CHAIN",
+        "TAR-HIDDEN-PARALLEL-NCT",
+        "TAR-FIGURATION-TWO-METHODS"
       ],
       "status": "partial"
     },
@@ -944,7 +974,8 @@
         "TAR-ANALYSIS",
         "WH-PRACTICE",
         "WH-DOUBLING",
-        "TAR-PRACTICE"
+        "TAR-PRACTICE",
+        "TAR-NONCHORD-TENSION"
       ],
       "status": "partial"
     },

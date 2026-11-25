@@ -1510,6 +1510,43 @@
         "TAR-MAJOR-MINOR-S"
       ],
       "remaining": "Odczyt kolejny tekstu s.1–83, obrazy s.23–26 i 34–80 udostępnione; obrazy s.81–83 nie pojawiły się w odpowiedzi, a wcześniejsze przykłady s.1–22,27–33 nie przeszły pełnej kontroli obrazu. Nie wykonano wszystkich zadań ani analizy nuta po nucie. Następny zakres 84–121 (dźwięki obce)."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          84,
+          121
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-NONCHORD-TENSION",
+        "TAR-METRIC-RELATIVE",
+        "TAR-SUSP-CONCEPTUAL",
+        "TAR-SUSP-LOWER",
+        "TAR-SUSP-FIGURES",
+        "TAR-SUSP-PREP",
+        "TAR-SUSP-DURATION",
+        "TAR-SUSP-INDIRECT",
+        "TAR-SUSP-DOUBLING",
+        "TAR-SUSP-MULTIPLE",
+        "TAR-SUSP-D64",
+        "TAR-SUSP-TRANSFER",
+        "TAR-HARM-AUDIT-BASS",
+        "TAR-HARM-REDUCE",
+        "TAR-PASS-CONTEXT",
+        "TAR-WEAK-DURATION",
+        "TAR-NEIGHBOR-COMMON",
+        "TAR-CHANGING-TONE",
+        "TAR-ESCAPE-TONE",
+        "TAR-ESCAPE-SAME",
+        "TAR-ANTICIPATION-CHAIN",
+        "TAR-HIDDEN-PARALLEL-NCT",
+        "TAR-EIGHTH-PAIR",
+        "TAR-FIGURATION-TWO-METHODS"
+      ],
+      "remaining": "Przejrzano tekst i obrazy wszystkich stron rozdziału III; nie rozwiązano każdego zadania i nie wykonano transkrypcji wszystkich przykładów. Następny zakres: od s. 122."
     }
   ]
 }
