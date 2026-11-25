@@ -1082,9 +1082,20 @@
       "type": "theory",
       "url": "https://www.arch.szymanowski.edu.pl/o-szkole/pion-muzyczny/sekcja-teorii-muzyki",
       "status": "verified-partial",
-      "note": "URL wskazuje wcześniejszy wykaz bibliograficzny, NIE miejsce odczytu. Źródło: PDF użytkownika, Józef Chomiński i Krystyna Wilkowska-Chomińska, Formy muzyczne t. I: Teoria formy. Małe formy instrumentalne, PWM 1983; Paweł Krzysztof Chomiński: dział urządzeń elektroakustycznych i elektronicznych. ISBN tomu 83-224-0176-0, serii 83-224-0224-4. 573 strony PDF, 11755618 bajtów. Odczyt kart tytułowych i spisu (PDF 1–8), tekstu druk. s.11–22,177–178,194–195,208–209,226–227,230–231,414–415,423–424,476–478,535–537. W tych rozdziałach numer drukowany = numer PDF + 1. Przykłady nutowe nie zostały w tej rundzie przeanalizowane; pełna lektura i kompletność wszystkich stron niepotwierdzona. 2026-11-25: rozpoczęto ciągłą lekturę PDF 1–9, 11–55, tekst i wybrane obrazy. PDF 10 bez odpowiedzi tekstowej i obrazowej; PDF 33–34 w kolejności druk.35,34. Nie ukończono lektury i kontroli erraty.",
+      "note": "URL wskazuje wcześniejszy wykaz bibliograficzny, NIE miejsce odczytu. Źródło: PDF użytkownika, Józef Chomiński i Krystyna Wilkowska-Chomińska, Formy muzyczne t. I: Teoria formy. Małe formy instrumentalne, PWM 1983; Paweł Krzysztof Chomiński: dział urządzeń elektroakustycznych i elektronicznych. ISBN tomu 83-224-0176-0, serii 83-224-0224-4. 573 strony PDF, 11755618 bajtów. Odczyt kart tytułowych i spisu (PDF 1–8), tekstu druk. s.11–22,177–178,194–195,208–209,226–227,230–231,414–415,423–424,476–478,535–537. W tych rozdziałach numer drukowany = numer PDF + 1. Przykłady nutowe nie zostały w tej rundzie przeanalizowane; pełna lektura i kompletność wszystkich stron niepotwierdzona. 2026-11-25: rozpoczęto ciągłą lekturę PDF 1–9, 11–55, tekst i wybrane obrazy. PDF 10 bez odpowiedzi tekstowej i obrazowej; PDF 33–34 w kolejności druk.35,34. Nie ukończono lektury i kontroli erraty. Dalszy odczyt tekstu PDF 56–109, bez pełnej kontroli ilustracji. Niespójność s.87 z definicją s.56 oznaczona do kontroli obrazu. Nie zamknięto erraty.",
       "accessKind": "user-upload",
-      "fileName": "ilide.info-chomiski-formy-muzyczne-t1-mae-formy-instrumentalne-pdf-pr_421f268dbe2333d62d50aaedf899cf37.pdf"
+      "fileName": "ilide.info-chomiski-formy-muzyczne-t1-mae-formy-instrumentalne-pdf-pr_421f268dbe2333d62d50aaedf899cf37.pdf",
+      "editionAudit": {
+        "flagged": [
+          {
+            "pdfPage": 86,
+            "printedPage": 87,
+            "target": "diastematyka wertykalna i horyzontalna",
+            "reason": "Tekst na s.87 zamienia przypisanie melodyki i akordyki względem definicji na s.28 i 56. Do reguł przyjęto definicję z s.56; potrzebna kontrola obrazu s.87, by rozróżnić błąd druku od błędu odczytu.",
+            "status": "blocked-pending-image-collation"
+          }
+        ]
+      }
     },
     {
       "id": "WES-1986-UPLOAD",

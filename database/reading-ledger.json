@@ -2582,6 +2582,48 @@
         "CHOM-DIASTEMATICS"
       ],
       "remaining": "Pierwsza partia: odczyt tekstu PDF 1–9 i 11–55; PDF 10 nie zwraca ani tekstu, ani obrazu. PDF 33–34 przedstawiają druk. s.35 i 34 w tej kolejności; sprawdzono obrazy 33,34,42. Nie odczytano każdej nuty ani wszystkich ilustracji. Spis obejmuje wyłącznie tom I, nie wszystkie pięć tomów. Końcowe strony indeksu pobrano częściowo, nie uznano braku erraty za potwierdzony. Następny zakres PDF 56. Nie uznawać tej partii za pełny audyt."
+    },
+    {
+      "sourceId": "CHOM-FORM1-1983-UPLOAD",
+      "ranges": [
+        [
+          56,
+          109
+        ]
+      ],
+      "status": "sequential-text-reading",
+      "claimIds": [
+        "CHOM-MEDIEVAL-MODES",
+        "CHOM-PSALM-TONE",
+        "CHOM-MODE-IDENTIFICATION",
+        "CHOM-SECULAR-MODE-VERSE",
+        "CHOM-TONI-FICTI",
+        "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+        "CHOM-MELODY-AMBITUS",
+        "CHOM-MELODY-RANGE-INSTRUMENT",
+        "CHOM-MELIC-STRUCTURE",
+        "CHOM-RHYTHM-SYMMETRY",
+        "CHOM-SYNCOPATION-FUNCTION",
+        "CHOM-HOQUET-POINTILLISM",
+        "CHOM-VERTICAL-MATERIAL",
+        "CHOM-PYTHAGOREAN-RATIOS",
+        "CHOM-DRONE-ORGANUM",
+        "CHOM-GYMEL",
+        "CHOM-SECONDARY-HARMONIC-PHENOMENA",
+        "CHOM-HARMONIC-SYMBOLISM",
+        "CHOM-FORM-CADENCE",
+        "CHOM-MODULATION-PATHS",
+        "CHOM-HARMONIC-COLOUR",
+        "CHOM-DRONE-OSTINATO-FUNCTION",
+        "CHOM-PARALLEL-CHORDS",
+        "CHOM-ADDED-NOTE-COLOUR",
+        "CHOM-WHOLE-TONE-HARMONY",
+        "CHOM-MULTITONAL-LAYERS",
+        "CHOM-QUARTAL-CONSTRUCTION",
+        "CHOM-CLUSTER-REGISTER",
+        "CHOM-OXY-BARYPHONIC"
+      ],
+      "remaining": "Odczyt dostępnego tekstu PDF 56–109, druk.57–110. Strony zawierające tylko nuty rozpoznane na podstawie podpisów; nie odczytano wszystkich obrazów ani nut. Niespójność terminologiczna na druk.87 z druk.56 wymaga sprawdzenia obrazu. Kolejny zakres PDF 110."
     }
   ]
 }

@@ -337,7 +337,16 @@
         "CHOM-MONO-POLYCHRONIA",
         "CHOM-POLYRHYTHM-POLYMETER",
         "CHOM-POLYCHRONIA-TIME",
-        "CHOM-DIASTEMATICS"
+        "CHOM-DIASTEMATICS",
+        "CHOM-MELODY-AMBITUS",
+        "CHOM-MELODY-RANGE-INSTRUMENT",
+        "CHOM-MELIC-STRUCTURE",
+        "CHOM-SYNCOPATION-FUNCTION",
+        "CHOM-VERTICAL-MATERIAL",
+        "CHOM-SECONDARY-HARMONIC-PHENOMENA",
+        "CHOM-HARMONIC-COLOUR",
+        "CHOM-CLUSTER-REGISTER",
+        "CHOM-OXY-BARYPHONIC"
       ],
       "status": "partial"
     },
@@ -363,7 +372,8 @@
         "ABC-EVOLUTION-TYPES",
         "ABC-POLYSERIAL",
         "ABC-ALEATORY",
-        "ABC-COLLAGE"
+        "ABC-COLLAGE",
+        "CHOM-RHYTHM-SYMMETRY"
       ],
       "status": "partial"
     },
@@ -392,7 +402,10 @@
         "CHOM-RHYTHMIC-CANON",
         "CHOM-NONRETROGRADABLE",
         "CHOM-MENSURAL-RETROGRADE",
-        "CHOM-ADDED-RHYTHMIC-VALUES"
+        "CHOM-ADDED-RHYTHMIC-VALUES",
+        "CHOM-HOQUET-POINTILLISM",
+        "CHOM-DRONE-OSTINATO-FUNCTION",
+        "CHOM-PARALLEL-CHORDS"
       ],
       "status": "partial"
     },
@@ -424,7 +437,8 @@
         "ABC-RONDO-OLD-FRENCH",
         "ABC-RONDO-CLASSICAL",
         "ABC-SONG-REFRAIN",
-        "ABC-SONG-THROUGH-COMPOSED"
+        "ABC-SONG-THROUGH-COMPOSED",
+        "CHOM-SYNCOPATION-FUNCTION"
       ],
       "status": "partial"
     },
@@ -477,7 +491,9 @@
         "ABC-CONCERTO-GROSSO",
         "ABC-CONCERTO-SOLO",
         "CHOM-RHYTHMIC-CANON",
-        "CHOM-COUNTERPOINT-SPECIES"
+        "CHOM-COUNTERPOINT-SPECIES",
+        "CHOM-DRONE-ORGANUM",
+        "CHOM-FORM-CADENCE"
       ],
       "status": "partial"
     },
@@ -547,7 +563,17 @@
         "CHOM-MENSURAL-DIVISIONS",
         "CHOM-MENSURAL-PROPORTIONS",
         "CHOM-ISORHYTHM-TALEA",
-        "CHOM-METRIC-Tactus"
+        "CHOM-METRIC-Tactus",
+        "CHOM-MEDIEVAL-MODES",
+        "CHOM-PSALM-TONE",
+        "CHOM-MODE-IDENTIFICATION",
+        "CHOM-SECULAR-MODE-VERSE",
+        "CHOM-TONI-FICTI",
+        "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+        "CHOM-HOQUET-POINTILLISM",
+        "CHOM-PYTHAGOREAN-RATIOS",
+        "CHOM-DRONE-ORGANUM",
+        "CHOM-GYMEL"
       ],
       "status": "partial"
     },
@@ -807,7 +833,8 @@
         "WES-CHROMATIC-TONE",
         "WES-KEY-ENHARMONY",
         "WES-MINOR-CHROMATIC-SPELL",
-        "SIK-ENHARMONIC-SPELLING-II"
+        "SIK-ENHARMONIC-SPELLING-II",
+        "CHOM-PYTHAGOREAN-RATIOS"
       ],
       "status": "partial"
     },
@@ -830,7 +857,10 @@
         "SIK-MODAL-GREEK-DISTINCT",
         "SIK-WHOLE-TONE-SETS-II",
         "SIK-CHROMATIC-VS-TWELVE-TONE",
-        "SIK-LYDIAN-CONTEXT"
+        "SIK-LYDIAN-CONTEXT",
+        "CHOM-MEDIEVAL-MODES",
+        "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+        "CHOM-WHOLE-TONE-HARMONY"
       ],
       "status": "partial"
     },
@@ -1071,7 +1101,11 @@
         "WH-SEVENTH-NINTH-APPARENT",
         "WH-CHOPIN-SIXTH",
         "WH-REDUCED-VOICE-DISSONANCE",
-        "WH-TONAL-SYSTEM-CRITERIA"
+        "WH-TONAL-SYSTEM-CRITERIA",
+        "CHOM-ADDED-NOTE-COLOUR",
+        "CHOM-WHOLE-TONE-HARMONY",
+        "CHOM-QUARTAL-CONSTRUCTION",
+        "CHOM-CLUSTER-REGISTER"
       ],
       "status": "partial"
     },
@@ -1357,7 +1391,8 @@
         "WH-PARALLELISM",
         "WH-SEVENTH-NINTH-ROOT-MOTIONS",
         "WH-VII-SEVENTH-SUBDOMINANT",
-        "WH-MOD-ENTRY-RESOLUTION"
+        "WH-MOD-ENTRY-RESOLUTION",
+        "CHOM-FORM-CADENCE"
       ],
       "status": "partial"
     },
@@ -1587,7 +1622,8 @@
         "WH-ALTERATION-SYMBOLS",
         "WH-ALTERATION-MULTIPLE",
         "WH-ALTERATION-BACK",
-        "WH-PEDAL-VARIANTS"
+        "WH-PEDAL-VARIANTS",
+        "CHOM-SECONDARY-HARMONIC-PHENOMENA"
       ],
       "status": "partial"
     },
@@ -1715,7 +1751,8 @@
         "WH-ENH-FLAT-FIFTH",
         "WH-ENH-AUG-DOUBLING",
         "WH-ENH-NOTATED-VS-SOUNDING",
-        "WH-MOD-SHIFT"
+        "WH-MOD-SHIFT",
+        "CHOM-MODULATION-PATHS"
       ],
       "status": "partial"
     },
@@ -1839,7 +1876,14 @@
         "WH-TONAL-SYSTEM-CRITERIA",
         "WH-TONAL-EXTENSIONS",
         "WH-TONAL-AMBIGUITY",
-        "WH-POLYTONALITY"
+        "WH-POLYTONALITY",
+        "CHOM-TONI-FICTI",
+        "CHOM-HARMONIC-SYMBOLISM",
+        "CHOM-HARMONIC-COLOUR",
+        "CHOM-DRONE-OSTINATO-FUNCTION",
+        "CHOM-PARALLEL-CHORDS",
+        "CHOM-ADDED-NOTE-COLOUR",
+        "CHOM-MULTITONAL-LAYERS"
       ],
       "status": "partial"
     },

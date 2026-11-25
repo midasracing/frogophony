@@ -190,3 +190,6 @@ Ponowny odczyt PDF 102–103 w powiększeniu. Zindeksowano 43 widocznych pozycji
 
 ## Chomińscy, Formy muzyczne t.I — PDF 1–9, 11–55
 31 nowych twierdzeń i 6 autorskich przypadków oczekiwanych. Odczyt tekstu i wybranych obrazów; PDF 10 nie zwrócił treści, PDF 33–34 odwrócone względem numeracji drukowanej. Rozdzielono terminologię historyczną od współczesnej i technikę lokalną od formy całości; nie uznano historycznych tez autorów ani konkretnych nut za niezależnie zweryfikowane. Nie zamknięto kontroli erraty. Dalszy odczyt od PDF 56; brak niezależnej recenzji i testów muzycznych.
+
+## Chomińscy t.I — PDF 56–109
+29 nowych twierdzeń, 5 własnych przypadków oczekiwanych. Odczyt tekstu o modalności, melodyce i harmonice. Oznaczono sprzeczne przyporządkowanie diastematyki na druk.87 względem druk.28 i 56, do kontroli obrazu. Nie przepisano nut ani nie rozstrzygnięto historycznych sporów na podstawie jednego źródła. Terminologia modulacji autorów odmienna od ścisłych profili harmonii Sikorskiego i Wesołowskiego. Nie uznawać wszystkich stron za sprawdzone wizualnie. Dalszy odczyt PDF 110.

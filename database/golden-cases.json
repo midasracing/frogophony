@@ -5319,6 +5319,83 @@
           }
         ]
       }
+    },
+    {
+      "id": "CHF07",
+      "domain": "forms",
+      "input": {
+        "modeFamilies": 4,
+        "formsPerFamily": 2
+      },
+      "expected": {
+        "modeCount": 8
+      }
+    },
+    {
+      "id": "CHF08",
+      "domain": "forms",
+      "input": {
+        "finalisKnown": true,
+        "ambitusKnown": false,
+        "tenorKnown": false
+      },
+      "expected": {
+        "uniqueModeGuaranteed": false
+      }
+    },
+    {
+      "id": "CHF09",
+      "domain": "forms",
+      "input": {
+        "steps": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "distinctTransposedSets": 2
+      }
+    },
+    {
+      "id": "CHF10",
+      "domain": "forms",
+      "input": {
+        "notes": [
+          "C",
+          "F",
+          "Bb"
+        ],
+        "adjacentIntervals": [
+          "P4",
+          "P4"
+        ]
+      },
+      "expected": {
+        "construction": "pure-quartal"
+      }
+    },
+    {
+      "id": "CHF11",
+      "domain": "forms",
+      "input": {
+        "lengthRatio": [
+          2,
+          3
+        ],
+        "sameStringConditions": true
+      },
+      "expected": {
+        "frequencyRatio": [
+          3,
+          2
+        ],
+        "interval": "P5"
+      }
     }
   ]
 }

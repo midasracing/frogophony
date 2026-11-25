@@ -20555,6 +20555,509 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MEDIEVAL-MODES",
+      "statement": "Autorzy przedstawiają osiem modi kościelnych jako cztery pary protus, deuterus, tritus i tetrardus, każdą z postacią autentyczną i plagalną.",
+      "scope": "Historyczna systematyka, nie utożsamiać z siedmioma współczesnymi rotacjami skali durowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 57 (PDF 56)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PSALM-TONE",
+      "statement": "W opisanym modelu tonu psalmowego pierwsza część zawiera initium, tenor i mediantae, druga initium, tenor i terminatio; tenor pełni rolę recytacyjną.",
+      "scope": "Model przytoczony przez autorów, nie identyczny przebieg każdej praktyki liturgicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 58 (PDF 57)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MODE-IDENTIFICATION",
+      "statement": "Rozpoznanie modus w chorale wymaga uwzględnienia ambitusu i tenoru, który może być recytacyjny lub melizmatyczny; sama nuta końcowa nie zawsze rozstrzyga.",
+      "scope": "Nie przypisywać jednoznacznego modus wyłącznie z finalis.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 59 (PDF 58)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SECULAR-MODE-VERSE",
+      "statement": "W analizie średniowiecznej pieśni świeckiej autorzy zwracają uwagę na współdziałanie formy poetyckiej, zakończeń wersów i porządku modalnego.",
+      "scope": "Uogólnienia historyczne pozostają przypisane autorom; nie każde zakończenie wersu przypada na finalis.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 60–61 (PDF 59–60)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TONI-FICTI",
+      "statement": "Autorzy opisują toni ficti jako dźwięki podwyższone lub obniżone w obrębie muzyki modalnej; podobieństwo zmienionego materiału do dur lub moll nie przesądza o harmonice funkcyjnej.",
+      "scope": "Nie klasyfikować średniowiecznej muzyki tylko na podstawie zbioru dźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 62 (PDF 61)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+      "statement": "Autorzy opisują siedem modi Messiaena o ograniczonych możliwościach transpozycji, z powtarzalnymi grupami interwałowymi w obrębie dwunastostopniowego materiału.",
+      "scope": "Liczba różnych zbiorów uwzględnia wyjściową postać; nie wyprowadzać pełnych tabel z nieczytelnego OCR.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 65–66 (PDF 64–65)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MELODY-AMBITUS",
+      "statement": "W typologii autorów melodyka wąskozakresowa ma rozpiętość najwyżej kwinty i przewagę sekund; szerokozakresowa wykorzystuje znaczną część lub pełną skalę środka wykonawczego.",
+      "scope": "Opis typów, nie bezwzględny klasyfikator wszystkich melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 67 (PDF 66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MELODY-RANGE-INSTRUMENT",
+      "statement": "Autorzy wiążą możliwości konstrukcyjne melodii z zakresem głosu lub instrumentu i jego właściwościami technicznymi; melodyka wokalna może współdziałać z tekstem.",
+      "scope": "Nie utożsamiać ambitusu melodii z pełnym zakresem instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 66–67 (PDF 65–66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MELIC-STRUCTURE",
+      "statement": "Melika oznacza w tej systematyce strukturę interwałową melodii; autorzy rozpatrują m.in. materiał diatoniczny, chromatyczny i mikrotonowy.",
+      "scope": "Nie przenosić wartościujących ocen interwałów na wszystkie style.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 69 (PDF 68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RHYTHM-SYMMETRY",
+      "statement": "Regulacja periodyczna może sprzyjać symetrycznym frazom i zdaniom oraz hierarchii taktów mocnych i słabych; autorzy zaznaczają, że taka hierarchia nie występuje w każdej melodii.",
+      "scope": "Nie wymagać symetrii ani określonej liczby taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 73 (PDF 72)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SYNCOPATION-FUNCTION",
+      "statement": "Synkopa w ujęciu autorów może być czynnikiem konstrukcyjnym, np. w tańcu, albo środkiem dynamizującym przebieg muzyki.",
+      "scope": "Funkcję oceniać w kontekście, nie na podstawie samej wartości rytmicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 73 (PDF 72)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HOQUET-POINTILLISM",
+      "statement": "Autorzy zestawiają technikę hoquetową, w której przebieg śpiewu przerywają pauzy, z punktualizmem, rozczłonkowującym przebieg melodyczny na krótkie motywy lub pojedyncze dźwięki.",
+      "scope": "Analogia konstrukcyjna nie oznacza tożsamości historycznych technik.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 73–76 (PDF 72–75)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VERTICAL-MATERIAL",
+      "statement": "Układ wertykalny może zestawiać dźwięki o określonej, przybliżonej lub nieokreślonej wysokości; harmonika w węższym ujęciu dotyczy współbrzmień o ustalonej wysokości.",
+      "scope": "Zdarzenia perkusyjne nie muszą być akordami o klasach wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 78 (PDF 77)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PYTHAGOREAN-RATIOS",
+      "statement": "W historycznym modelu przytoczonym przez autorów proporcje długości struny 1:1, 1:2, 2:3 i 3:4 odpowiadają unisonowi, oktawie, kwincie i kwarcie.",
+      "scope": "Nie mylić proporcji długości struny z ilorazami częstotliwości; klasyfikacja konsonansów zależy od systemu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 78 (PDF 77)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-DRONE-ORGANUM",
+      "statement": "Autorzy omawiają wczesne układy wielogłosowe z dźwiękiem długotrwałym i aktywną melodycznie linią; w szkole paryskiej odróżniają technikę organalną od dyskantowej z rytmizowanym głosem podstawowym.",
+      "scope": "Opis modeli źródła, nie wszystkie historyczne utwory organalne.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 79–80 (PDF 78–79)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-GYMEL",
+      "statement": "Gymel (cantus gemellus) autorzy wiążą z równoległymi tercjami i sekstami oraz rozwojem techniki fauxbourdonu.",
+      "scope": "Geneza i chronologia to tezy historyczne książki, nie niezależnie potwierdzone fakty.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 82 (PDF 81)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SECONDARY-HARMONIC-PHENOMENA",
+      "statement": "Autorzy określają dźwięki przejściowe, zamienne i opóźnione jako elementy wtórnych zjawisk harmonicznych, współdziałających z zasadniczą akordyką.",
+      "scope": "Nie utożsamiać każdego dźwięku obcego z nową funkcją.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 84–85 (PDF 83–84)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HARMONIC-SYMBOLISM",
+      "statement": "Autorzy podkreślają, że symbole analizy harmonicznej są narzędziami przedstawiania relacji, a nie ich substytutem; stosują więcej niż jeden system oznaczeń.",
+      "scope": "Nie zamieniać symboli między szkołami bez sprawdzenia ich znaczenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 86–87 (PDF 85–86)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FORM-CADENCE",
+      "statement": "Autorzy rozpatrują kadencję jako regulator kolejnych poziomów formy; formę sonatową interpretują w ogólnym modelu jako rozbudowany przebieg kadencyjny, z modulacją ekspozycji i tendencją do tonalnego ujednolicenia w repryzie.",
+      "scope": "Model analityczny, nie definicja wszystkich form sonatowych ani pojedynczej kadencji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 89–91 (PDF 88–90)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MODULATION-PATHS",
+      "statement": "Autorzy wyróżniają bezpośrednie zestawienie tonacji, przejście bliską drogą oraz przejście okrężne z bardziej złożonymi zależnościami.",
+      "scope": "Terminologia form muzycznych; Wesołowski i Sikorski odróżniają przesunięcie od modulacji właściwej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 89 (PDF 88)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HARMONIC-COLOUR",
+      "statement": "W kolorystyce harmonicznej znaczenie brzmienia zależy także od faktury instrumentalnej i wokalnej, nie tylko od konstrukcji akordu.",
+      "scope": "Nie oceniać efektu kolorystycznego z samych klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 95 (PDF 94)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-DRONE-OSTINATO-FUNCTION",
+      "statement": "Bordun lub ostinato może zachowywać funkcję toniki lub dominanty, ale autorzy opisują także zastosowania kolorystyczne i warstwy o odmiennej organizacji tonalnej.",
+      "scope": "Nie każdy dźwięk stały jest toniką ani dowodem bitonalności.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 96–97 (PDF 95–96)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PARALLEL-CHORDS",
+      "statement": "Akordyka paralelna polega w ujęciu autorów na przesuwaniu zwartych układów wertykalnych na różne wysokości; może pozostawać w związku z harmoniką funkcyjną lub uzyskać znaczenie kolorystyczne.",
+      "scope": "Nie stosować ograniczeń ścisłego SATB do każdej techniki akordowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 97–98 (PDF 96–97)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ADDED-NOTE-COLOUR",
+      "statement": "Autorzy omawiają dodawanie dźwięku nad, pod lub wewnątrz tradycyjnego akordu jako sposób barwienia współbrzmienia sekundą; zestawiają funkcjonalną sekstę dodaną z jej użyciem kolorystycznym.",
+      "scope": "Rola zależy od faktury i kontekstu; nie każdy dodany dźwięk to opóźnienie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 99 (PDF 98)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-WHOLE-TONE-HARMONY",
+      "statement": "W opisie skali całotonowej autorzy wskazują możliwość budowania m.in. wielkich tercji i akordów całotonowych oraz tylko dwa różne zbiory transpozycyjne.",
+      "scope": "Dotyczy dwunastostopniowego stroju temperowanego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 103 (PDF 102)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MULTITONAL-LAYERS",
+      "statement": "Autorzy rozróżniają układy nakładających się tonacji: ostinatowy, akordowy oraz linearny, np. wykorzystujący imitację.",
+      "scope": "Nie wnioskować o dwóch tonacjach wyłącznie z nietypowego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 103 (PDF 102)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-QUARTAL-CONSTRUCTION",
+      "statement": "Autorzy dzielą akordy kwartowe na budowane z kwart czystych i mieszane, zawierające również kwartę zwiększoną lub kwintę zmniejszoną.",
+      "scope": "Model strukturalny, nie przypisywać każdemu akordowi kwartowemu jednej funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 104–105 (PDF 103–104)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CLUSTER-REGISTER",
+      "statement": "Autorzy opisują klaster jako nagromadzenie blisko położonych dźwięków, w omawianym przykładzie półtonów; przeciwstawiają mu szeroko rozstawione, izolowane brzmienia.",
+      "scope": "Nie ograniczać wszystkich klasterów do półtonów ani uzależniać klasyfikacji wyłącznie od zbioru klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 108–109 (PDF 107–108)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-OXY-BARYPHONIC",
+      "statement": "W terminologii autorów brzmienia oksyfoniczne związane są z wysokim rejestrem, baryfoniczne z niskim; ich zestawienie może tworzyć brzmienia przeciwstawne.",
+      "scope": "Opis kategorii kolorystycznych, nie obiektywny próg częstotliwości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 109–110 (PDF 108–109)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

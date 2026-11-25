@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 1148,
-    "fixtures": 285,
+    "claims": 1177,
+    "fixtures": 290,
     "competencies": 73,
     "partial": 58
   },
@@ -962,7 +962,36 @@
       "CHOM-POLYRHYTHM-POLYMETER",
       "CHOM-ADDED-RHYTHMIC-VALUES",
       "CHOM-POLYCHRONIA-TIME",
-      "CHOM-DIASTEMATICS"
+      "CHOM-DIASTEMATICS",
+      "CHOM-MEDIEVAL-MODES",
+      "CHOM-PSALM-TONE",
+      "CHOM-MODE-IDENTIFICATION",
+      "CHOM-SECULAR-MODE-VERSE",
+      "CHOM-TONI-FICTI",
+      "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+      "CHOM-MELODY-AMBITUS",
+      "CHOM-MELODY-RANGE-INSTRUMENT",
+      "CHOM-MELIC-STRUCTURE",
+      "CHOM-RHYTHM-SYMMETRY",
+      "CHOM-SYNCOPATION-FUNCTION",
+      "CHOM-HOQUET-POINTILLISM",
+      "CHOM-VERTICAL-MATERIAL",
+      "CHOM-PYTHAGOREAN-RATIOS",
+      "CHOM-DRONE-ORGANUM",
+      "CHOM-GYMEL",
+      "CHOM-SECONDARY-HARMONIC-PHENOMENA",
+      "CHOM-HARMONIC-SYMBOLISM",
+      "CHOM-FORM-CADENCE",
+      "CHOM-MODULATION-PATHS",
+      "CHOM-HARMONIC-COLOUR",
+      "CHOM-DRONE-OSTINATO-FUNCTION",
+      "CHOM-PARALLEL-CHORDS",
+      "CHOM-ADDED-NOTE-COLOUR",
+      "CHOM-WHOLE-TONE-HARMONY",
+      "CHOM-MULTITONAL-LAYERS",
+      "CHOM-QUARTAL-CONSTRUCTION",
+      "CHOM-CLUSTER-REGISTER",
+      "CHOM-OXY-BARYPHONIC"
     ],
     "WOJ-ABC-UPLOAD": [
       "CHOM-FORM",
@@ -1585,20 +1614,29 @@
         "ABC-VOCAL-TEXT-COLOUR",
         "ABC-VOCAL-TEXTURE",
         "CHOM-ARRANGEMENT-FORM",
+        "CHOM-CLUSTER-REGISTER",
         "CHOM-CONTINUO-DETERMINACY",
         "CHOM-DIASTEMATICS",
         "CHOM-FORM",
         "CHOM-FORM-REGULATOR-HIERARCHY",
+        "CHOM-HARMONIC-COLOUR",
         "CHOM-MATERIAL-IDENTITY",
+        "CHOM-MELIC-STRUCTURE",
+        "CHOM-MELODY-AMBITUS",
+        "CHOM-MELODY-RANGE-INSTRUMENT",
         "CHOM-MONO-POLYCHRONIA",
         "CHOM-NOTATION-DETERMINACY",
         "CHOM-OPEN-SYSTEM",
+        "CHOM-OXY-BARYPHONIC",
         "CHOM-POLYCHRONIA-TIME",
         "CHOM-POLYRHYTHM-POLYMETER",
+        "CHOM-SECONDARY-HARMONIC-PHENOMENA",
         "CHOM-SOUND-MATERIAL",
+        "CHOM-SYNCOPATION-FUNCTION",
         "CHOM-TECHNIQUE-ROLE",
         "CHOM-TIME-REGULATORS",
         "CHOM-TRANSMISSION",
+        "CHOM-VERTICAL-MATERIAL",
         "SIK-TEXTURE-TYPES",
         "TAR-ANALYSIS-PIPELINE",
         "WOJ-COLOUR",
@@ -1628,6 +1666,7 @@
         "CHOM-PERIOD",
         "CHOM-PERIOD-CAD",
         "CHOM-PHRASE",
+        "CHOM-RHYTHM-SYMMETRY",
         "TAR-ANALYSIS-CM-PRELUDE",
         "WH-PERIOD-CADENCES",
         "WOJ-PERIOD"
@@ -1648,11 +1687,14 @@
         "ABC-VARIATION-TYPES",
         "CHOM-ADDED-RHYTHMIC-VALUES",
         "CHOM-CANON",
+        "CHOM-DRONE-OSTINATO-FUNCTION",
         "CHOM-EVOL",
+        "CHOM-HOQUET-POINTILLISM",
         "CHOM-MATERIAL-IDENTITY",
         "CHOM-MENSURAL-RETROGRADE",
         "CHOM-MODAL-RESHAPING",
         "CHOM-NONRETROGRADABLE",
+        "CHOM-PARALLEL-CHORDS",
         "CHOM-RHYTHMIC-CANON",
         "CHOM-RHYTHMIC-PEDAL",
         "CHOM-TECHNIQUE-ROLE",
@@ -1687,6 +1729,7 @@
         "ABC-TERNARY-SIMPLE-COMPOUND",
         "ABC-WALTZ",
         "CHOM-RONDO",
+        "CHOM-SYNCOPATION-FUNCTION",
         "WOJ-DANCE",
         "WOJ-SONG",
         "WOJ-TERNARY"
@@ -1735,6 +1778,8 @@
         "ABC-VARIATION-PARAMETERS",
         "ABC-VARIATION-TYPES",
         "CHOM-COUNTERPOINT-SPECIES",
+        "CHOM-DRONE-ORGANUM",
+        "CHOM-FORM-CADENCE",
         "CHOM-FUGUE",
         "CHOM-FUGUE-NON3",
         "CHOM-RHYTHMIC-CANON",
@@ -1794,18 +1839,28 @@
         "ABC-VOCAL-FORM",
         "ABC-VOCAL-TEXT-COLOUR",
         "CHOM-CHANT-INTERPRETATION",
+        "CHOM-DRONE-ORGANUM",
         "CHOM-FORM",
         "CHOM-GENRE",
         "CHOM-GENRE-HISTORICAL-VARIABILITY",
+        "CHOM-GYMEL",
         "CHOM-HISTORICAL-CHANGE",
+        "CHOM-HOQUET-POINTILLISM",
         "CHOM-ISORHYTHM-TALEA",
+        "CHOM-MEDIEVAL-MODES",
         "CHOM-MENSURAL-DIVISIONS",
         "CHOM-MENSURAL-PROPORTIONS",
+        "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
         "CHOM-METRIC-Tactus",
         "CHOM-MODAL-BARLINES",
         "CHOM-MODAL-ORDO",
+        "CHOM-MODE-IDENTIFICATION",
+        "CHOM-PSALM-TONE",
+        "CHOM-PYTHAGOREAN-RATIOS",
         "CHOM-RHETORIC-FIGURES",
+        "CHOM-SECULAR-MODE-VERSE",
         "CHOM-STRUCT",
+        "CHOM-TONI-FICTI",
         "TAR-ANALYSIS",
         "TAR-ANALYSIS-C-PRELUDE",
         "TAR-ANALYSIS-CS-PRELUDE",
@@ -2041,6 +2096,7 @@
     "II-ZAS-04": {
       "status": "partial",
       "claimIds": [
+        "CHOM-PYTHAGOREAN-RATIOS",
         "DROB-PYTH",
         "PL-HB",
         "SIK-ENHARMONIC-SPELLING-II",
@@ -2062,6 +2118,9 @@
     "II-ZAS-05": {
       "status": "partial",
       "claimIds": [
+        "CHOM-MEDIEVAL-MODES",
+        "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+        "CHOM-WHOLE-TONE-HARMONY",
         "SIK-CHROMATIC-VS-TWELVE-TONE",
         "SIK-CHURCH-MODAL",
         "SIK-LYDIAN-CONTEXT",
@@ -2220,6 +2279,10 @@
     "II-HAR-01": {
       "status": "partial",
       "claimIds": [
+        "CHOM-ADDED-NOTE-COLOUR",
+        "CHOM-CLUSTER-REGISTER",
+        "CHOM-QUARTAL-CONSTRUCTION",
+        "CHOM-WHOLE-TONE-HARMONY",
         "MINOR-V",
         "SEV-QUAL",
         "SIK-AEOLIAN-MINOR",
@@ -2532,6 +2595,7 @@
       "status": "partial",
       "claimIds": [
         "CAD-NONI",
+        "CHOM-FORM-CADENCE",
         "SIK-AEOLIAN-MINOR",
         "SIK-CADENCE-CONTEXT",
         "SIK-CADENCE-PHRYGIAN",
@@ -2697,6 +2761,7 @@
     "II-HAR-05": {
       "status": "partial",
       "claimIds": [
+        "CHOM-SECONDARY-HARMONIC-PHENOMENA",
         "SIK-ALTER-BACK",
         "SIK-ALTER-CHAR-INTERVALS",
         "SIK-ALTER-CLASSIFICATION",
@@ -2831,6 +2896,7 @@
     "II-HAR-06": {
       "status": "partial",
       "claimIds": [
+        "CHOM-MODULATION-PATHS",
         "SIK-ALTER-CLASSIFICATION",
         "SIK-CHROM-MOD-ALL-VOICES",
         "SIK-CHROM-MOD-BETWEEN",
@@ -2958,6 +3024,13 @@
     "II-HAR-07": {
       "status": "partial",
       "claimIds": [
+        "CHOM-ADDED-NOTE-COLOUR",
+        "CHOM-DRONE-OSTINATO-FUNCTION",
+        "CHOM-HARMONIC-COLOUR",
+        "CHOM-HARMONIC-SYMBOLISM",
+        "CHOM-MULTITONAL-LAYERS",
+        "CHOM-PARALLEL-CHORDS",
+        "CHOM-TONI-FICTI",
         "SIK-ALTER-MELODIC-HARMONIC",
         "SIK-ALTER-S-D-SPELLING",
         "SIK-ALTER-SIMULTANEOUS-NATURAL",
@@ -15766,6 +15839,321 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "CHOM-MEDIEVAL-MODES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [
+        "CHF07"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-PSALM-TONE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MODE-IDENTIFICATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "CHF08"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-SECULAR-MODE-VERSE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TONI-FICTI": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MESSIAEN-LIMITED-TRANSPOSITION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MELODY-AMBITUS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MELODY-RANGE-INSTRUMENT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MELIC-STRUCTURE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RHYTHM-SYMMETRY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SYNCOPATION-FUNCTION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HOQUET-POINTILLISM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VERTICAL-MATERIAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PYTHAGOREAN-RATIOS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [
+        "CHF11"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-DRONE-ORGANUM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-GYMEL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SECONDARY-HARMONIC-PHENOMENA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HARMONIC-SYMBOLISM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FORM-CADENCE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MODULATION-PATHS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HARMONIC-COLOUR": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-DRONE-OSTINATO-FUNCTION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PARALLEL-CHORDS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ADDED-NOTE-COLOUR": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-WHOLE-TONE-HARMONY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [
+        "CHF09"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-MULTITONAL-LAYERS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-QUARTAL-CONSTRUCTION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01"
+      ],
+      "fixtureIds": [
+        "CHF10"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-CLUSTER-REGISTER": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-OXY-BARYPHONIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -16532,6 +16920,21 @@
     ],
     "CHF06": [
       "CHOM-MENSURAL-RETROGRADE"
+    ],
+    "CHF07": [
+      "CHOM-MEDIEVAL-MODES"
+    ],
+    "CHF08": [
+      "CHOM-MODE-IDENTIFICATION"
+    ],
+    "CHF11": [
+      "CHOM-PYTHAGOREAN-RATIOS"
+    ],
+    "CHF09": [
+      "CHOM-WHOLE-TONE-HARMONY"
+    ],
+    "CHF10": [
+      "CHOM-QUARTAL-CONSTRUCTION"
     ]
   }
 }
