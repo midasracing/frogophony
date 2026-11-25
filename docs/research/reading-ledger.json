@@ -1293,6 +1293,29 @@
         "WES-BEAM-METRIC"
       ],
       "remaining": "Drive extraction lists 178 pages vs original 179; page 2 blank not displayed, some images omitted. Pages 1–40 inspected sequentially, no note-by-note transcription of repertory examples. Full review batches remain pending until every page and figure is explicitly checked. Next sequential range 41–50."
+    },
+    {
+      "sourceId": "WES-1986-UPLOAD",
+      "ranges": [
+        [
+          41,
+          60
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "WES-DOT-GROUPING",
+        "WES-REST-TRIPLE",
+        "WES-METER-RESCALE",
+        "WES-VOCAL-BEAMS",
+        "WES-PLASTIC-NOTATION",
+        "WES-METER-HIERARCHY",
+        "WES-METER-EQUAL-DURATION",
+        "WES-METER-REGROUP",
+        "WES-RHYTHM-OPEN-TASK",
+        "WES-SYNCOPATION-TRIPLE"
+      ],
+      "remaining": "Images and textual instructions inspected; not every musical example individually transcribed. Next continuous range 61–70."
     }
   ]
 }

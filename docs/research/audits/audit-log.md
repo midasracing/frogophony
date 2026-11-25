@@ -113,3 +113,6 @@ Przeniesiono trzy raporty audytowe do audits/. Dane kanoniczne, identyfikatory t
 
 ## Lektura ciągła Wesołowskiego 1–40
 Odczyt z prywatnego Dysku Google, kolejno s.1–40, tekst i dostępne obrazy. Dodano 26 twierdzeń oraz 10 własnych przypadków wzorcowych. S.32 przykład 21:4 ma niekonsekwentne punkty siatki; poprawny model zerowy to 0,4,...,80 i 0,21,42,63 na 84 częściach. Nie uogólniono historycznego opisu praktyki barokowej, akustyki ani zasad składu nutowego. Odczyt Drive raportuje 178 stron zamiast 179 oryginału, wymaga uzgodnienia; brak części obrazów, nie zamknięto pełnej lektury. Kolejna partia 41–50. Przypadki nie są testami silnika.
+
+## Lektura ciągła Wesołowskiego 41–60
+Kontynuacja bez pomijania rozdziałów. 10 twierdzeń i 4 przypadki wzorcowe; reguły grupowania szkolnego odróżniono od pisowni plastycznej i zapisu wokalnego. Zapisano odrębność czasu i hierarchii akcentów. Obrazy przejrzano, nie przeprowadzono pełnego rozwiązania wszystkich zadań. Następne strony 61–70. Nie zmieniono statusów wydawniczych.

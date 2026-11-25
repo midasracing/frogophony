@@ -5180,6 +5180,184 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WES-DOT-GROUPING",
+      "statement": "W początkowych ćwiczeniach z grupowania w taktach prostych autor ogranicza użycie kropki do mocnej części danej grupy lub taktu, gdy inna pisownia zacierałaby podział metryczny.",
+      "scope": "Szkolna konwencja z §12; synkopa i pisownia plastyczna w dalszych rozdziałach stanowią wyjątki. Nie odrzucać wszystkich kropek na słabej części.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12 s.41–42",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-REST-TRIPLE",
+      "statement": "W omawianych taktach prostych trzyczęściowych autor zaleca zapis dwóch oddzielnych pauz dla ciszy na drugiej i trzeciej części.",
+      "scope": "Konwencja Wesołowskiego; dotyczy dwóch pełnych słabych jednostek, nie całotaktowej pauzy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12 s.41 przypis",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METER-RESCALE",
+      "statement": "Przepisanie rytmu do innego metrum z tą samą liczbą jednostek może wymagać proporcjonalnego przeskalowania wszystkich wartości nut i pauz.",
+      "scope": "Zachowuje stosunki rytmiczne, nie bezwzględny czas bez odpowiedniej zmiany tempa.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12 s.42 przykład 83",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-VOCAL-BEAMS",
+      "statement": "Wesołowski przedstawia zarówno tradycyjne wiązanie nut przypisanych do jednej sylaby, jak i wiązania według grup metrycznych w zapisie wokalnym.",
+      "scope": "Obie konwencje istnieją. W notacji metrycznej przyporządkowanie sylab musi być jednoznaczne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§13 s.43–44 przykłady 84–85",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-PLASTIC-NOTATION",
+      "statement": "Kompozytor może świadomie odstąpić od szkolnego grupowania, aby uwidocznić przebieg muzyczny lub poprawić czytelność; autor nazywa to pisownią plastyczną.",
+      "scope": "Nie utożsamiać z błędem rytmu. Przy imporcie partytury zachować zapis źródłowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§14 s.44–45 przykłady 86–87",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METER-HIERARCHY",
+      "statement": "W modelu taktu złożonego autora pierwsza mocna część jest silniejsza od kolejnych akcentów składowych.",
+      "scope": "Hierarchia metryczna, nie nakaz sztywnej różnicy głośności.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§15 s.48–50 przykłady 96–98",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METER-EQUAL-DURATION",
+      "statement": "Takty 3/4, 6/8 i 12/16 mają równą nominalną sumę wartości, lecz różne typowe podziały na jednostki i akcenty.",
+      "scope": "Model szkolny z §17. W repertuarze grupowanie może się zmieniać; same długości nie określają metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§17 s.52–53 przykłady 103–104",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METER-REGROUP",
+      "statement": "Zmiana metrum przy tej samej sumie wartości może wymagać rozdzielenia pauz i związania nut łukiem; często zmienia hierarchię akcentów bez zmiany czasów nut.",
+      "scope": "Odróżnić od przeskalowania wartości WES-METER-RESCALE.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§17 s.52–53",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-RHYTHM-OPEN-TASK",
+      "statement": "Autor stosuje zadania konstrukcyjne z podaną sumą wartości i liczbą nut lub pauz, a także korektę nieprawidłowego grupowania.",
+      "scope": "Metodyka; rozwiązania konstrukcyjne nie muszą być jedyne. Oceniać ograniczenia, nie identyczność z przykładem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.46–47,55–57 zadania",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR13"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-SYNCOPATION-TRIPLE",
+      "statement": "W konwencji autora synkopa w takcie prostym trójdzielnym może łączyć drugą i trzecią część, obie słabe.",
+      "scope": "Nie stosować jako jedynej definicji synkopy we wszystkich stylach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18 s.59–60 przykład 116",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR14"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

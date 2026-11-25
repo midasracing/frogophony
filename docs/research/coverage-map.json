@@ -98,7 +98,11 @@
         "WES-REST-MEASURE",
         "WES-DOT-SERIES",
         "WES-MEASURE-SUM",
-        "WES-METRIC-ACCENT"
+        "WES-METRIC-ACCENT",
+        "WES-REST-TRIPLE",
+        "WES-METER-HIERARCHY",
+        "WES-METER-EQUAL-DURATION",
+        "WES-SYNCOPATION-TRIPLE"
       ],
       "status": "partial"
     },
@@ -127,7 +131,8 @@
       "claimIds": [
         "CAD-NONI",
         "DK-DICTATION",
-        "DK-MEMORY"
+        "DK-MEMORY",
+        "WES-RHYTHM-OPEN-TASK"
       ],
       "status": "partial"
     },
@@ -473,7 +478,8 @@
     {
       "id": "II-SLUCH-07",
       "claimIds": [
-        "DK-DICTATION"
+        "DK-DICTATION",
+        "WES-RHYTHM-OPEN-TASK"
       ],
       "status": "partial"
     },
@@ -650,7 +656,16 @@
         "WES-MEASURE-SUM",
         "WES-ALLA-BREVE",
         "WES-RHYTHM-TYPES",
-        "WES-BEAM-METRIC"
+        "WES-BEAM-METRIC",
+        "WES-DOT-GROUPING",
+        "WES-REST-TRIPLE",
+        "WES-METER-RESCALE",
+        "WES-VOCAL-BEAMS",
+        "WES-PLASTIC-NOTATION",
+        "WES-METER-HIERARCHY",
+        "WES-METER-EQUAL-DURATION",
+        "WES-METER-REGROUP",
+        "WES-SYNCOPATION-TRIPLE"
       ],
       "status": "partial"
     },
@@ -676,7 +691,9 @@
         "XML-PITCH-STRUCT",
         "WES-UNISON-VOICES",
         "WES-CLEF-CHANGE",
-        "WES-STEM-SIDE"
+        "WES-STEM-SIDE",
+        "WES-VOCAL-BEAMS",
+        "WES-PLASTIC-NOTATION"
       ],
       "status": "partial"
     },
