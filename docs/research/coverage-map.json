@@ -173,7 +173,20 @@
     {
       "id": "I-WOM-03",
       "claimIds": [
-        "WES-SOUND"
+        "WES-SOUND",
+        "WOJ-ELEMENTS",
+        "WOJ-RHYTHM",
+        "WOJ-RHY-TYPES",
+        "WOJ-MELODY",
+        "WOJ-SYLLABLE",
+        "WOJ-COLOUR",
+        "WOJ-FAMILY",
+        "WOJ-REEDS",
+        "WOJ-STRINGS",
+        "WOJ-SATB",
+        "WOJ-TEXTURE",
+        "WOJ-HOMOPHONY",
+        "WOJ-CAPPELLA"
       ],
       "status": "partial"
     },
@@ -182,24 +195,36 @@
       "claimIds": [
         "CHOM-CANON",
         "CHOM-VARIATION",
-        "CHOM-RONDO"
+        "CHOM-RONDO",
+        "WOJ-TERNARY",
+        "WOJ-SONATAFORM",
+        "WOJ-SONG",
+        "WOJ-PASSION"
       ],
       "status": "partial"
     },
     {
       "id": "I-WOM-05",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WOJ-DANCE",
+        "WOJ-STYLIZATION",
+        "WOJ-FOLK"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-WOM-06",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WOJ-BAGPIPE",
+        "WOJ-FOLK-HORNS"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-WOM-07",
       "claimIds": [
-        "MOZART-K265"
+        "MOZART-K265",
+        "MOZART-K457-459"
       ],
       "status": "partial"
     },
@@ -211,7 +236,12 @@
     {
       "id": "II-FORM-01",
       "claimIds": [
-        "CHOM-FORM"
+        "CHOM-FORM",
+        "WOJ-RHY-TYPES",
+        "WOJ-COLOUR",
+        "WOJ-TEXTURE",
+        "WOJ-HOMOPHONY",
+        "WOJ-POLYPHONY"
       ],
       "status": "partial"
     },
@@ -223,7 +253,8 @@
         "CHOM-PERIOD",
         "CHOM-PERIOD-CAD",
         "CHOM-JUXT",
-        "CHOM-EVOL"
+        "CHOM-EVOL",
+        "WOJ-PERIOD"
       ],
       "status": "partial"
     },
@@ -232,14 +263,18 @@
       "claimIds": [
         "CHOM-EVOL",
         "CHOM-CANON",
-        "CHOM-VARIATION"
+        "CHOM-VARIATION",
+        "WOJ-POLYPHONY"
       ],
       "status": "partial"
     },
     {
       "id": "II-FORM-04",
       "claimIds": [
-        "CHOM-RONDO"
+        "CHOM-RONDO",
+        "WOJ-TERNARY",
+        "WOJ-DANCE",
+        "WOJ-SONG"
       ],
       "status": "partial"
     },
@@ -248,7 +283,10 @@
       "claimIds": [
         "CHOM-FUGUE",
         "CHOM-FUGUE-NON3",
-        "CHOM-VARIATION"
+        "CHOM-VARIATION",
+        "WOJ-SONATAFORM",
+        "WOJ-SONATARONDO",
+        "WOJ-SUITE"
       ],
       "status": "partial"
     },
@@ -360,7 +398,8 @@
         "CLEF-F",
         "WES-HARMONICS",
         "WES-SOUND",
-        "WES-C-CLEFS"
+        "WES-C-CLEFS",
+        "ACOUSTIC-DB"
       ],
       "status": "partial"
     },
@@ -454,7 +493,8 @@
       "claimIds": [
         "WES-ARTIC",
         "WES-TREMOLO",
-        "WES-TEMPO"
+        "WES-TEMPO",
+        "WOJ-PLAY"
       ],
       "status": "partial"
     },
@@ -579,7 +619,12 @@
       "claimIds": [
         "CHOM-FORM",
         "WES-DIATONIC",
-        "WES-TEMPO"
+        "WES-TEMPO",
+        "WOJ-ELEMENTS",
+        "WOJ-RHYTHM",
+        "WOJ-MELODY",
+        "WOJ-SYLLABLE",
+        "WOJ-TEXTURE"
       ],
       "status": "partial"
     },
@@ -588,14 +633,24 @@
       "claimIds": [
         "CHOM-MOTIF",
         "CHOM-PHRASE",
-        "CHOM-PERIOD"
+        "CHOM-PERIOD",
+        "WOJ-FAMILY",
+        "WOJ-REEDS",
+        "WOJ-STRINGS",
+        "WOJ-HARP",
+        "WOJ-SATB",
+        "WOJ-PERIOD"
       ],
       "status": "partial"
     },
     {
       "id": "II-NOM-03",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WOJ-PLAY",
+        "WOJ-BAGPIPE",
+        "WOJ-FOLK-HORNS"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-NOM-04",
@@ -604,8 +659,11 @@
     },
     {
       "id": "II-NOM-05",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WOJ-SUITE",
+        "WOJ-STYLIZATION"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-NOM-06",

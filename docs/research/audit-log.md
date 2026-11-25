@@ -86,3 +86,6 @@ Sprawdzono plik (573 strony), metadane wydania z kart tytułowych, spis i wybran
 
 ## Wesołowski — dostarczony PDF, kontrola źródła (2026-11-25)
 Sprawdzono plik i wybrane fragmenty/obrazy. Dodano 20 twierdzeń oraz 21 odwołań do wcześniejszych twierdzeń. Poprawiono PL-KEY-SAME: autor używa także jednoimienna w przedmowie. Rozróżniono chromatyzację regularną i nieregularną, rytmiczne ratio, kontekst artykulacji i założenia akustyczne. Nie przeanalizowano wszystkich stron, przykładów ani wyjątków; bez recenzji i zmian runtime. Nie kopiowano publikacji. 
+
+## Wójcik — pierwsza lektura Nauki o muzyce (2026-11-25)
+Sprawdzono 104-stronicowy PDF, kartę tytułową, spis, tekst i wybrane obrazy. Dodano 28 twierdzeń z książki, dwa twierdzenia korygujące (Mozarteum i PW), sześć dodatkowych odwołań do wcześniejszych twierdzeń. Uwaga na klasyfikacje szkolne i historyczne uogólnienia. Nie odczytano całej książki, nie analizowano kompletnych przykładów muzycznych; bez recenzji pedagogicznej i zmian runtime. Nie kopiowano PDF.

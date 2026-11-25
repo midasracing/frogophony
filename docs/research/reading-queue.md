@@ -41,3 +41,6 @@ CHOM-FORM1-1983-UPLOAD, t. I, PWM 1983, 573 strony PDF. Tekst i obrazy spisu dos
 
 ### Otrzymano Zasady muzyki Wesołowskiego (2026-11-25)
 WES-1986-UPLOAD: 179 stron, PDF z tekstem i obrazami. Nie prosić ponownie o egzemplarz. Mapa lektury i poprawki w wesolowski-reference.md. Nie przeczytano całej książki. Następne priorytety: Dzielska/Kaszycki, Wójcik ABC form, Wójcik Nauka o muzyce, Drobner.
+
+### Otrzymano Wójcik — Nauka o muzyce (2026-11-25)
+WOJ-NOM-2004-UPLOAD, wyd. III, 2004, 104 strony. Nie prosić ponownie o egzemplarz. Odczyt wybranych fragmentów, korekty w wojcik-nauka-reference.md. ABC form muzycznych pozostaje osobnym brakującym źródłem.

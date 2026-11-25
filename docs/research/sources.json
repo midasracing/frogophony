@@ -1094,6 +1094,36 @@
       "note": "URL katalogowy; źródło odczytu to PDF użytkownika. Franciszek Wesołowski, Zasady muzyki, PWM 1986, ISBN 83-224-0250-3, 179 stron, 11729176 bajtów, niezaszyfrowany. Numeracja PDF zgodna z drukowaną w sprawdzonych miejscach. Odczyt s.3–19,22,29–30,50–51,83–84,92–98,101–102,104–105,107–110,133–135,145–146,148–149,166–167; obrazy wybranych stron w tym przykł. 47,99,174–180,195,204–213,296–298. Warstwa OCR miejscami uszkodzona. Ten sam nakład co wcześniejsze linki, nie niezależny dowód. Nie przeczytano całości.",
       "accessKind": "user-upload",
       "fileName": "ilide.info-wesoowski-franciszek-zasady-muzyki-warszawa-1986-179-pr_0edd2c210345f5102b6722a9c18298bf.pdf"
+    },
+    {
+      "id": "WOJ-NOM-2004-UPLOAD",
+      "type": "theory",
+      "url": "https://pwm.sklep.pl/nauka-o-muzyce",
+      "status": "verified-partial",
+      "note": "URL katalogowy; odczyt z PDF użytkownika. Danuta Wójcik, Nauka o muzyce. Wiadomości wstępne, instrumenty, formy i polska muzyka ludowa, Musica Iagellonica, Kraków 2004 (karta tytułowa), wyd. III, copyright 2001, ISBN 83-7099-104-1. 104 strony PDF, 1175258 bajtów. Odczyt s.3–30,53–59,62–70,78–82,85–90,92–95,99–104 w dostępnych fragmentach; obrazy spisu, tabeli instrumentów, przykładów i schematów s.13–19,26,28–29,63–65,67,69–70. Nie przeczytano całej książki. Błędne KV 459 na s.17; nieścisłość jednostki natężenia s.20. Nie utożsamiać szkolnej klasyfikacji z uniwersalną taksonomią ani historycznych uogólnień z aktualnym stanem badań.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-nauka-o-muzyce-danuta-wojcik-pr_fa6290171f1cb44eacd71d76cddceb7d.pdf"
+    },
+    {
+      "id": "MOZARTEUM-K457",
+      "type": "reference",
+      "url": "https://kv.mozarteum.at/en/work/sonata-in-c-minor-for-clavier-5487",
+      "status": "verified-page",
+      "note": "Köchel-Verzeichnis, Internationale Stiftung Mozarteum; nagłówek i opis źródeł, środkowa część Adagio, ornamentacja."
+    },
+    {
+      "id": "MOZARTEUM-K459",
+      "type": "reference",
+      "url": "https://kv.mozarteum.at/en/work/concerto-in-f-5504",
+      "status": "verified-page",
+      "note": "Köchel-Verzeichnis, nagłówek i Music Key; koncert fortepianowy F-dur, nie sonata c-moll."
+    },
+    {
+      "id": "PW-ACOUSTIC-LEVEL",
+      "type": "reference",
+      "url": "https://ilf.fizyka.pw.edu.pl/podrecznik/3/5/13?type=standard",
+      "status": "verified-partial",
+      "note": "Multimedialny podręcznik fizyki Politechniki Warszawskiej, §5.13 Fale akustyczne, wzór 5.57 i część Głośność dźwięku. Natężenie W/m², poziom dB, głośność zależy również od częstotliwości."
     }
   ]
 }

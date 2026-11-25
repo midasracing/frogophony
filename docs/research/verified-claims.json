@@ -1713,6 +1713,11 @@
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 13–15 (PDF 12–14)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.56–57",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1781,6 +1786,11 @@
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 194 (PDF 193)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.62, schemat definicji",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1848,6 +1858,11 @@
         {
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 230–231 (PDF 229–230)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.67",
           "access": "direct-read"
         }
       ],
@@ -1933,6 +1948,11 @@
         {
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 535–537 (PDF 534–536)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.68",
           "access": "direct-read"
         }
       ],
@@ -2240,6 +2260,11 @@
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§53, s.148–149, przykład 296",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.23",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -2257,6 +2282,11 @@
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§53, s.149, przykład 298",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.23",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -2273,6 +2303,521 @@
         {
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§57, s.166–167",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-ELEMENTS",
+      "statement": "Wójcik grupuje elementy muzyczne w siedem kategorii: rytmika z metrum, melodyka, harmonika, dynamika, agogika, kolorystyka i artykulacja.",
+      "scope": "Klasyfikacja autora; nie jedyny możliwy wykaz, por. Wesołowski §57.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.12–13",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-RHYTHM",
+      "statement": "Rytmika określa relacje czasowe dźwięków; autorka odróżnia rytmikę swobodną, niezwiązaną ze stałym metrum, od ustalonej.",
+      "scope": "Nie oznacza braku rytmu ani pulsu w każdej muzyce swobodnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.13–14",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-RHY-TYPES",
+      "statement": "Rytmika okresowa powtarza wzór rytmiczny, zmienna urozmaica następstwo wartości, a motoryczna wykorzystuje drobne, jednolite wartości.",
+      "scope": "Typy opisowe mogą współwystępować; nie wymuszać jednej etykiety bez kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.14–15",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-MELODY",
+      "statement": "Melodyka kantylenowa ma charakter śpiewny; ornamentalna wykorzystuje zdobienia, figuracyjna m.in. szybkie pochody, pasaże i skoki.",
+      "scope": "Typy mogą się przenikać w muzyce wokalnej i instrumentalnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.15–18",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-SYLLABLE",
+      "statement": "W melodyce sylabicznej sylabie odpowiada jeden dźwięk, a melizmatycznej więcej niż jeden.",
+      "scope": "Zadanie powinno dostarczać tekst z przyporządkowaniem sylab do nut lub zrozumiały odsłuch.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.18",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-COLOUR",
+      "statement": "Kolorystyka wiąże się z barwą, zależną m.in. od obsady, rejestru i artykulacji.",
+      "scope": "Nie utożsamiać barwy wyłącznie z nazwą instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.22",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-PLAY",
+      "statement": "Arco oznacza grę smyczkiem, pizzicato szarpnięcie struny, a arpeggio kolejne wykonanie składników akordu.",
+      "scope": "W kontekście standardowych technik wykonawczych; szczegółowe techniki rozszerzone osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.23",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-FAMILY",
+      "statement": "Wójcik przedstawia trzy szkolne grupy instrumentów: strunowe, dęte i perkusyjne; perkusyjne dzieli m.in. na membranofony i idiofony.",
+      "scope": "Nie pełna klasyfikacja Hornbostela–Sachsa. Klawisze opisują mechanizm sterowania, nie zawsze źródło drgań.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.25–26, tabela",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-REEDS",
+      "statement": "W tabeli autorki klarnet i saksofon należą do dętych drewnianych pojedynczostroikowych, obój i fagot do podwójnostroikowych.",
+      "scope": "Rodzina nie wynika wyłącznie z materiału korpusu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.26, tabela",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-STRINGS",
+      "statement": "Standardowe strojenie czterostrunowych skrzypiec, altówki i wiolonczeli opiera się na kwintach; kontrabasu zwykle na kwartach.",
+      "scope": "Inne stroje i liczby strun możliwe.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.27–28",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-HARP",
+      "statement": "W harfie pedałowej o podwójnym działaniu każdy z siedmiu pedałów zmienia wysokość strun tej samej nazwy, dając trzy położenia oddalone o półton.",
+      "scope": "Nie uznawać podanej liczby strun za uniwersalną dla wszystkich modeli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.29–30",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-SATB",
+      "statement": "Typowa obsada czterogłosowego chóru mieszanego to sopran, alt, tenor i bas.",
+      "scope": "Nie narzucać sztywnej skali każdemu śpiewakowi ani minimalnej liczby chórzystów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.54",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-TEXTURE",
+      "statement": "Fakturę można rozpatrywać według sposobu wykorzystania środków wykonawczych oraz stosunku linii melodycznych do współbrzmień.",
+      "scope": "Dwa wymiary klasyfikacji, np. fortepianowa i homofoniczna mogą współistnieć.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.57",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-HOMOPHONY",
+      "statement": "W modelu homofonii omawianym przez autorkę jedna linia melodyczna jest wspierana akompaniamentem, ale nie musi znajdować się w najwyższym głosie.",
+      "scope": "Kontrprzykład na s.58: melodia w basie. Nie utożsamiać liczby głosów z fakturą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.57–58",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-POLYPHONY",
+      "statement": "W klasyfikacji Wójcik polifonia kontrastowa zestawia odmienne samodzielne linie melodyczne, a imitacyjna wykorzystuje naśladowanie materiału między głosami.",
+      "scope": "Nie wymagaj ścisłej identyczności wszystkich imitacji ani równych poziomów głośności głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.59",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-PERIOD",
+      "statement": "Wójcik rozpatruje okres według rozmiarów, symetrii zdań oraz ich materiału motywicznego; okresy niesymetryczne nie wymagają schematu 4+4.",
+      "scope": "Trzy niezależne osie klasyfikacji, przykłady liczby taktów typowe, nie wyczerpujące.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.62–65",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-TERNARY",
+      "statement": "W małej formie repryzowej aba w ujęciu autorki części są okresami, a w wielkiej ABA mogą stanowić grupy okresów; ostatnia część może być zmienionym powrotem pierwszej.",
+      "scope": "Konwencja Wójcik, nie każda forma trzyczęściowa wszystkich stylów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.65–66",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-SONATAFORM",
+      "statement": "Typowy model formy sonatowej obejmuje ekspozycję, przetworzenie i repryzę; wstęp i koda mogą go rozszerzać.",
+      "scope": "Nie wymuszać dwóch kontrastujących tematów ani dokładnego planu tonalnego w każdej sonacie; autorka wskazuje odmiany.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.78–79",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-SONATARONDO",
+      "statement": "Rondo sonatowe łączy powracający refren z zasadami formy sonatowej, w tym przetwarzaniem materiału; ABACABA jest przykładowym modelem.",
+      "scope": "Nie utożsamiać samego schematu literowego z rondem sonatowym bez analizy tonalnej i funkcjonalnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.79",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-SUITE",
+      "statement": "Model suity barokowej opisany przez Wójcik obejmuje allemande, courante, sarabandę i gigue; możliwe są dodatkowe części, wstęp lub zakończenie.",
+      "scope": "Typowy model historyczny, nie obowiązkowa kolejność każdej suity.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.80",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-DANCE",
+      "statement": "Polonez w omawianym wzorcu ma metrum 3/4 i umiarkowane tempo; kujawiak, mazur i oberek należą do tańców typu mazurowego o odmiennych charakterach i tempach.",
+      "scope": "Typowe cechy, nie wystarczają samodzielnie do rozpoznania utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.69–70, obrazy",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-STYLIZATION",
+      "statement": "Wójcik rozróżnia tańce użytkowe i stylizowane; mazurek artystyczny korzysta z wzorców kujawiaka, mazura i oberka w różnych kombinacjach.",
+      "scope": "Nie każdy mazurek musi zawierać wszystkie trzy wzorce.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.69–70",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-SONG",
+      "statement": "Pieśń zwrotkowa zachowuje opracowanie muzyczne kolejnych zwrotek; zwrotkowo-wariacyjna je modyfikuje, a przekomponowana rozwija odmienne opracowanie.",
+      "scope": "Szkolne modele, przypadki mieszane wymagają analizy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.85–86",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-CAPPELLA",
+      "statement": "A cappella oznacza wykonanie wokalne bez akompaniamentu instrumentalnego.",
+      "scope": "W kontekście pieśni chóralnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.86",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-PASSION",
+      "statement": "Pasja muzyczna dotyczy męki i śmierci Chrystusa; może wykorzystywać tekst ewangeliczny i inne teksty.",
+      "scope": "Nie narzucać obsady orkiestralnej ani narratora wszystkim historycznym pasjom.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.89–90",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-FOLK",
+      "statement": "Autorka wiąże folklor muzyczny z funkcjami obrzędowymi, pracą i zabawą oraz tradycją ustną.",
+      "scope": "Nie wykluczać autorstwa, notacji, współczesnej żywej tradycji ani innych środowisk.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.92–94,99",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-BAGPIPE",
+      "statement": "W opisanym typie dud worek gromadzi powietrze, przebierka prowadzi melodię, a bąk daje długotrwały dźwięk burdonowy.",
+      "scope": "Budowa różni się regionalnie, nie każdy typ posiada identyczne elementy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.102",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WOJ-FOLK-HORNS",
+      "statement": "Wójcik wymienia regionalne nazwy trąb pasterskich: trombity na Podhalu, bazuny na Pomorzu i ligawy m.in. na Kurpiach oraz Mazowszu.",
+      "scope": "Dalsza weryfikacja aktualnej terminologii muzealnej i regionalnych odmian potrzebna przed lekcją.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.102",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "MOZART-K457-459",
+      "statement": "Sonata fortepianowa c-moll Mozarta ma numer KV 457; KV 459 to koncert fortepianowy F-dur.",
+      "scope": "Korekta oznaczenia w Wójcik s.17; identyfikację konkretnych taktów sprawdzić w wydaniu krytycznym.",
+      "sourceRefs": [
+        {
+          "sourceId": "MOZARTEUM-K457",
+          "locator": "tytuł, opis środkowej części",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "MOZARTEUM-K459",
+          "locator": "tytuł, Music Key",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ACOUSTIC-DB",
+      "statement": "Natężenie dźwięku wyraża się w W/m², jego poziom w dB; odczuwana głośność zależy także od częstotliwości.",
+      "scope": "Nie utożsamiać poziomu natężenia z poziomem ciśnienia akustycznego ani oznaczeń piano/forte ze stałymi dB.",
+      "sourceRefs": [
+        {
+          "sourceId": "PW-ACOUSTIC-LEVEL",
+          "locator": "§5.13, wzór 5.57 i Głośność dźwięku",
           "access": "direct-read"
         }
       ],

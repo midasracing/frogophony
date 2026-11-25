@@ -46,3 +46,5 @@ TARGOSZ-2004-UPLOAD: dostępny egzemplarz użytkownika; pierwsza lektura oraz po
 CHOM-FORM1-1983-UPLOAD: otrzymany tom I Chomińskiego i Wilkowskiej-Chomińskiej. Używać w teorii i analizie form z dokładnym lokalizatorem; dalsza lektura oraz porównanie z Wójcik w kolejce.
 
 WES-1986-UPLOAD: właściwy PDF Wesołowskiego otrzymany od użytkownika; ma pierwszeństwo nad uszkodzonym OCR linków WES-1986-TEXT i WES-1986-ALT dla sprawdzonych fragmentów. Mapa: wesolowski-reference.md.
+
+WOJ-NOM-2004-UPLOAD: otrzymany egzemplarz Nauki o muzyce, mapa i konflikty w wojcik-nauka-reference.md; priorytetowe źródło wprowadzenia do form, instrumentów i folkloru, wymaga uzupełnienia nowszymi źródłami specjalistycznymi.
