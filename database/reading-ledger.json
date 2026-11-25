@@ -1195,10 +1195,22 @@
           "motyw-imitacja",
           "faktura-instrumentalna",
           "zespoly-kameralne-nazwy",
-          "a-cappella"
+          "a-cappella",
+          "neumy",
+          "akcent-rytmiczny",
+          "zjawiska-pokrewne-synkopie",
+          "oznaczenia-interwalow-wesolowski",
+          "interwaly-podwojnie-zmienione",
+          "stosunek-sekundowy-trytonu",
+          "tonacja-glowna",
+          "pentatonika-poltonowa",
+          "skale-greckie-poboczne",
+          "ozdobniki-zapis-a-realizacja",
+          "opus",
+          "harmonia-element-dziela"
         ],
         "status": "pierwsza-warstwa-wszystkich-rozdzialow-do-poglebienia",
-        "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury. Ponowny odczyt pełnego dostępnego tekstu s.15–34, pierwsze opracowanie rozdziałów II–III. Nie przeprowadzono indywidualnej kontroli ilustracji, historycznych przykładów wykonania ani nie wykonano generatorów. Część szczegółów ma bezpośrednie odwołania do podręcznika, ale wymaga jeszcze własnych rekordów atomowych przed wdrożeniem. Przegląd wszystkich 13 rozdziałów oraz dostępnego indeksu i okładki; ponowny odczyt rozdz. IV–XIII obejmował pełny dostępny tekst s.35–57 oraz obszerne fragmenty s.59–169 (odczyt ograniczony długością fragmentów). S.58 sprawdzono na obrazie; s.169 nie udało się pobrać obrazu. Nie jest to pełna kolacja każdej nuty, tabeli, terminu, wyjątku ani akapitu. Pozostają: pełny słownik s.75–82, tabele interwałów i znaków, szczegółowe grupowanie, historyczne ozdobniki i przykłady repertuarowe. Nie uznano braku osobnej erraty. Wykryto niespójności odczytu/druku na s.79 i 169, wymagają kolacji. Nie dopuszczono haseł do publikacji.",
+        "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury. Ponowny odczyt pełnego dostępnego tekstu s.15–34, pierwsze opracowanie rozdziałów II–III. Nie przeprowadzono indywidualnej kontroli ilustracji, historycznych przykładów wykonania ani nie wykonano generatorów. Część szczegółów ma bezpośrednie odwołania do podręcznika, ale wymaga jeszcze własnych rekordów atomowych przed wdrożeniem. Przegląd wszystkich 13 rozdziałów oraz dostępnego indeksu i okładki; ponowny odczyt rozdz. IV–XIII obejmował pełny dostępny tekst s.35–57 oraz obszerne fragmenty s.59–169 (odczyt ograniczony długością fragmentów). S.58 sprawdzono na obrazie; s.169 nie udało się pobrać obrazu. Nie jest to pełna kolacja każdej nuty, tabeli, terminu, wyjątku ani akapitu. Pozostają: pełny słownik s.75–82, tabele interwałów i znaków, szczegółowe grupowanie, historyczne ozdobniki i przykłady repertuarowe. Nie uznano braku osobnej erraty. Wykryto niespójności odczytu/druku na s.79 i 169, wymagają kolacji. Nie dopuszczono haseł do publikacji. Obraz PDF 169 odzyskano i potwierdzono niespójność oryginalnego druku; PDF 2 pusta. Przegląd miniatur wszystkich stron oraz mapowanie 58 paragrafów wykonane, nie pełna kolacja nut.",
         "metodyka": {
           "odwolanie": "przedmowa s.7–8; zadania s.14",
           "zasady": [
@@ -1314,7 +1326,7 @@
             89,
             104
           ],
-          "liczbaTerminow": 179,
+          "liczbaTerminow": 186,
           "liczbaInterwalow": 27,
           "liczbaRelacjiStopni": 42,
           "liczbaProjektowZadan": 42,
@@ -1385,6 +1397,19 @@
             "projektyZadan": 6,
             "uwagi": "Obraz s.169 niedostępny. Brak pełnej transkrypcji nut i testów silnika."
           }
+        },
+        "audytZakresu": {
+          "plik": "database/kompendium/wesolowski-pokrycie.json",
+          "paragrafy": 58,
+          "stronyMiniatur": 179,
+          "kolacjaSzczegolowa": [
+            2,
+            98,
+            99,
+            169
+          ],
+          "status": "pokrycie-tematyczne-sprawdzone",
+          "uwaga": "Wszystkie 58 paragrafów mają mapowanie; nie oznacza pełnej lektury każdego akapitu ani kolacji nut. Strona 2 pusta; s.169 błąd druku potwierdzony."
         }
       }
     },

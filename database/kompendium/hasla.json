@@ -2099,7 +2099,7 @@
         "równoimienność"
       ],
       "definicja": "Tonalność w omawianym systemie oznacza zależność dźwięków i współbrzmień od centralnego dźwięku; pokrewieństwo gam autor rozpatruje m.in. przez wspólny materiał.",
-      "omowienie": "Gamy naturalne tego samego trybu oddalone o kwintę mają sześć wspólnych klas wysokości. Stosunek mediantowy: druga tonika tercję wyżej; submediantowy: tercję niżej. Równoległe: różny tryb i wspólne znaki; równoimienne: wspólna tonika i różne tryby.",
+      "omowienie": "Gamy naturalne tego samego trybu oddalone o kwintę mają sześć wspólnych klas wysokości. Stosunek mediantowy: druga tonika tercję wyżej; submediantowy: tercję niżej. Równoległe: różny tryb i wspólne znaki; równoimienne: wspólna tonika i różne tryby. Autor obejmuje także odpowiedniki enharmoniczne relacji tercjowych oraz klasyfikuje stosunki sekundowe i trytonu jako niepokrewne (zob. stosunek-sekundowy-trytonu).",
       "przyklady": [
         "Przykład autorski lub model objaśniający: C-dur i a-moll są równoległe; C-dur i c-moll równoimienne."
       ],
@@ -2791,7 +2791,7 @@
         "Przykład autorski lub model objaśniający: Kwartet smyczkowy i kwintet fortepianowy różnią się typową obsadą o fortepian."
       ],
       "ograniczenia": [
-        "Nie narzucać jednego składu wszystkim kwartetom. W warstwie tekstowej s.169 kwintet dęty wymienia fortepian; nie przyjmować tego bez kontroli oryginału."
+        "Nazwy nie wyznaczają automatycznie obsady. Obraz oryginalnej s.169 potwierdza błędne wymienienie fortepianu w przykładzie kwintetu dętego; fragment zablokowany, bez zastępowania go niesprawdzonym w tej książce składem."
       ],
       "podstawa": [
         "WES-ENSEMBLE"
@@ -3907,8 +3907,7 @@
         "kwartola",
         "kwintola",
         "sekstola",
-        "septola",
-        "oktoła"
+        "septola"
       ],
       "definicja": "Grupa niemiarowa zajmuje czas grupy regularnej, którą zastępuje.",
       "omowienie": "W podziale dwójkowym autor omawia 3:2, 5–7:4, 9–15:8 oraz 17–31:16. Dla wartości trójdzielnej: 2:3, 4:3, 5:3, 7–11:6 i 13–23:12. Liczba nut rzeczywistych i liczba zastąpionych wartości tworzą proporcję, która określa mnożnik czasu.",
@@ -3916,7 +3915,7 @@
         "Model autorski: Pięć szesnastek w grupie 5:4 zajmuje czas jednej regularnej ćwierćnuty."
       ],
       "ograniczenia": [
-        "Sama cyfra nad grupą nie wystarcza bez informacji o zastępowanym podziale. Nie traktować katalogu jako wszystkich możliwych tuplets."
+        "Sama cyfra nad grupą nie wystarcza bez informacji o zastępowanym podziale. Nie traktować katalogu jako wszystkich możliwych grup niemiarowych."
       ],
       "podstawa": [
         "WES-TUPLET",
@@ -4203,7 +4202,7 @@
         "Model autorski: Czterech instrumentalistów grających odrębne partie może tworzyć kwartet."
       ],
       "ograniczenia": [
-        "Nazwy nie wyznaczają automatycznie obsady. Przykład kwintetu dętego z s.169 pozostaje zablokowany do kolacji obrazu."
+        "Nazwy nie wyznaczają automatycznie obsady. Obraz oryginalnej s.169 potwierdza błędne wymienienie fortepianu w przykładzie kwintetu dętego; fragment zablokowany, bez zastępowania go niesprawdzonym w tej książce składem."
       ],
       "podstawa": [
         "WES-ENSEMBLE"
@@ -4239,6 +4238,354 @@
         {
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§58, s.169"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "neumy",
+      "termin": "Neumy i wczesna notacja",
+      "aliasy": [
+        "notacja neumatyczna",
+        "chorał gregoriański"
+      ],
+      "definicja": "Neumy są znakami dawnego zapisu śpiewu, które początkowo nie wyznaczały precyzyjnie wysokości i czasu.",
+      "omowienie": "Autor opisuje przejście od znaków ponad tekstem bez linii do zapisu z liniami i czterolinią. Wspomina również notację literową starożytnej Grecji. Jest to skrót historyczny; dokładna chronologia wymaga źródeł historii notacji.",
+      "przyklady": [
+        "Model autorski: Porównaj zapis bez linii z zapisem, w którym linia stanowi punkt odniesienia wysokości."
+      ],
+      "ograniczenia": [
+        "Nie odczytywać neum jak współczesnych nut; nie automatyzować dat i szczegółów paleografii."
+      ],
+      "podstawa": [
+        "STAFF"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.15–17"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "akcent-rytmiczny",
+      "termin": "Akcent rytmiczny i metryczny",
+      "aliasy": [
+        "synkopa",
+        "akcent",
+        "punkt oparcia"
+      ],
+      "definicja": "Wesołowski odróżnia akcent wynikający z mocnej części metrum od akcentu rytmicznego pojawiającego się na słabej części.",
+      "omowienie": "Przedłużenie nuty ze słabej części może powodować dodatkowy akcent, mimo że wcześniejszy akcent metryczny pozostaje. Podkład harmoniczny może pomóc w rozpoznaniu właściwego metrum.",
+      "przyklady": [
+        "Model autorski: W 4/4 synkopa zaczynająca się na drugiej części nie usuwa automatycznie akcentu pierwszej."
+      ],
+      "ograniczenia": [
+        "Nie rozpoznawać metrum wyłącznie po głośności zdarzeń."
+      ],
+      "podstawa": [
+        "WES-SYNC-ACCENT",
+        "WES-METRIC-ACCENT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18, s.59–61"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zjawiska-pokrewne-synkopie",
+      "termin": "Zjawiska pokrewne synkopie",
+      "aliasy": [
+        "contra-tempo",
+        "hoquetus",
+        "akcent charakterystyczny",
+        "akcent grupowy"
+      ],
+      "definicja": "Autor odróżnia od synkopy kilka innych sposobów akcentowania słabych części.",
+      "omowienie": "Contra-tempo: dźwięki na słabych częściach przy pauzach na mocnych; akcent charakterystyczny: wyraziste zaakcentowanie, np. w tańcu; grupowy: dwójkowe grupowanie od słabej części; ponadto dłuższe wartości na słabych częściach. Historyczną nazwę hoquetus podaje w tym kontekście.",
+      "przyklady": [
+        "Model autorski: Pauza na mocnej i krótki dźwięk na słabej bez przedłużenia nie spełnia samej definicji synkopy autora."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać historycznej techniki hoquetus z każdym współczesnym offbeatem."
+      ],
+      "podstawa": [
+        "WES-OFFBEAT",
+        "WES-SYNC-ACCENT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18, s.63–64"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "oznaczenia-interwalow-wesolowski",
+      "termin": "Oznaczenia cyfrowe interwałów według Wesołowskiego",
+      "aliasy": [
+        "znaki < i >",
+        "interwały alterowane",
+        "profil autora"
+      ],
+      "definicja": "W tym podręczniku podstawą oznaczenia jest interwał od V stopnia naturalnego dur; większe oznacza się znakami <, mniejsze >.",
+      "omowienie": "Pryma, sekunda wielka, tercja wielka, kwarta czysta, kwinta czysta, seksta wielka, septyma mała i oktawa czysta mają oznaczenia bez dodatkowego znaku. Stąd septyma wielka to 7<, zmniejszona 7>, zwiększona 7<<. To konwencja autora, nie uniwersalny zapis jakości.",
+      "przyklady": [
+        "Model autorski: 7< oznacza septymę wielką w tym konkretnym profilu, nie zwiększoną."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać cyfrowej konwencji z symbolami używanymi w każdej szkole harmonii. Rozmiar sprawdzać niezależnie."
+      ],
+      "podstawa": [
+        "WES-INTERVAL-NUMBER",
+        "WES-DIATONIC-THIRDS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§28–29, s.86–89; §34, s.98–99"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwaly-podwojnie-zmienione",
+      "termin": "Interwały zwiększone i zmniejszone, w tym podwójne",
+      "aliasy": [
+        "sekunda zmniejszona",
+        "tercja podwójnie zwiększona",
+        "seksta podwójnie zmniejszona"
+      ],
+      "definicja": "Jakość interwału zależy od numeru diatonicznego i zmiany rozmiaru względem wzorca.",
+      "omowienie": "Tabela §34 obejmuje także sekundę zmniejszoną o zerowym rozmiarze temperowanym, prymę podwójnie zwiększoną, tercję i kwartę podwójnie zwiększoną oraz sekstę podwójnie zmniejszoną. Zestaw wartości w bazie wyprowadzono z pisowni i rozmiarów wzorcowych; rozbieżności druku oddzielono.",
+      "przyklady": [
+        "Model autorski: C–Deses to sekunda zmniejszona i 0 półtonów; Ces–Eis to tercja podwójnie zwiększona i 6 półtonów."
+      ],
+      "ograniczenia": [
+        "Nie wymagać rozróżnienia enharmonicznych jakości wyłącznie ze słuchu. Wiersz 31 tabeli ma rozbieżność wymiaru; nie kopiować go bez kontroli."
+      ],
+      "podstawa": [
+        "WES-INTERVAL-NUMBER",
+        "WES-SEMITONE-SPELL",
+        "WES-CHROMATIC-TONE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§34, s.98–99, przykł.188"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "stosunek-sekundowy-trytonu",
+      "termin": "Stosunek sekundowy i trytonu między tonacjami",
+      "aliasy": [
+        "tonacje niepokrewne",
+        "stosunek prymy zwiększonej",
+        "stosunek tercji zmniejszonej"
+      ],
+      "definicja": "W klasyfikacji autora tonacje oddalone o sekundę lub tryton uznawane są za niepokrewne.",
+      "omowienie": "Stosunek sekundowy obejmuje sekundę małą lub wielką, także odpowiedniki enharmoniczne prymy zwiększonej i tercji zmniejszonej. Stosunek trytonu dotyczy kwarty zwiększonej lub kwinty zmniejszonej. Autor zalicza odpowiedniki enharmoniczne tercji do relacji mediantowych.",
+      "przyklady": [
+        "Model autorski: C-dur i Des-dur: stosunek sekundy małej; C-dur i Fis-dur: stosunek trytonu."
+      ],
+      "ograniczenia": [
+        "Klasyfikacja szkolna autora, nie ogólna miara wszystkich możliwych relacji tonalnych i modulacji."
+      ],
+      "podstawa": [
+        "WES-THIRD-RELATION",
+        "WES-FIFTH-RELATION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§44, s.133–134"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tonacja-glowna",
+      "termin": "Tonacja główna i lokalna",
+      "aliasy": [
+        "tonika",
+        "zmiany centrum",
+        "oznaczenie utworu"
+      ],
+      "definicja": "Autor odróżnia główną tonację utworu od tonacji pojawiających się w jego odcinkach.",
+      "omowienie": "W szkolnym ujęciu główna obejmuje znaczną część utworu i jego zakończenie. W oznaczeniach skróconych autor używa wielkiej litery dla dur i małej dla moll. Przebieg prowadzących dźwięków i akordów może ujawniać lokalne centrum przy niezmienionych znakach przykluczowych.",
+      "przyklady": [
+        "Model autorski: Utwór rozpoczynający i kończący się w C-dur może zawierać odcinek w G-dur."
+      ],
+      "ograniczenia": [
+        "Nie narzucać tej definicji wszystkim formom otwartym i repertuarowi o niejednoznacznej tonalności."
+      ],
+      "podstawa": [
+        "WES-KEY-CONTEXT",
+        "PL-KEY-DETECT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§45, s.134–135"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pentatonika-poltonowa",
+      "termin": "Pentatonika półtonowa",
+      "aliasy": [
+        "hemitoniczna",
+        "ditoniczna"
+      ],
+      "definicja": "Wesołowski odróżnia pentatonikę zawierającą półtony od bezpółtonowej.",
+      "omowienie": "W opisie wymienia tercję wielką, odstępy całotonowe oraz jedną lub dwie sekundy małe; konkretny układ pokazuje na s.140 w zapisie nutowym. Zachowano rozróżnienie typów bez ekstrapolacji wszystkich możliwych skal.",
+      "przyklady": [
+        "Model autorski: Rozpoznawanie kategorii wymaga sprawdzenia obecności półtonów i liczby stopni."
+      ],
+      "ograniczenia": [
+        "Dokładne wzorce nutowe z s.140 wymagają osobnej transkrypcji i recenzji; nie generować ich na podstawie samej nazwy."
+      ],
+      "podstawa": [
+        "WES-PENTATONIC"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§48, s.139–140"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "skale-greckie-poboczne",
+      "termin": "Skale główne i poboczne w opisie skal greckich",
+      "aliasy": [
+        "hyperdorycka",
+        "hypodorycka",
+        "hyperfrygijska",
+        "hypofrygijska"
+      ],
+      "definicja": "W modelu historycznym autora skale greckie budowane są w dół; wyróżnia trzy skale główne i odpowiadające im poboczne.",
+      "omowienie": "Główne: dorycka, frygijska i lidyjska. Nazwę pobocznej położonej kwintę wyżej tworzy przedrostek hyper, a kwintę niżej hypo. To odrębny model od średniowiecznych skal autentycznych i plagalnych.",
+      "przyklady": [
+        "Model autorski: Porównaj znaczenie przedrostka hypo w dwóch osobno opisanych systemach."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać nazw greckich z nowoczesnymi wzorcami modalnymi. Nie ustalać historycznych częstotliwości z samej nazwy."
+      ],
+      "podstawa": [
+        "WES-GREEK-GENERA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§49–50, s.141–142"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "ozdobniki-zapis-a-realizacja",
+      "termin": "Zapis ozdobnika a jego wykonanie",
+      "aliasy": [
+        "appoggiatura",
+        "acciaccatura",
+        "gruppetto",
+        "trylik"
+      ],
+      "definicja": "Ozdobnik jest pojedynczym dźwiękiem lub grupą dźwięków wzbogacających właściwą linię melodyczną.",
+      "omowienie": "Autor wyróżnia przednutki, mordenty, obiegniki i tryle; w przypisie wskazuje niejednoznaczność skrótów i przytacza zalecenie wypisywania realizacji, z wyjątkiem skrótu trylu z określonym początkiem i zakończeniem. W opisie dawnej praktyki górny mordent bywa nazywany trylikiem.",
+      "przyklady": [
+        "Model autorski: Znak trylu nie wyznacza sam wszystkich chwil rozpoczęcia dźwięków."
+      ],
+      "ograniczenia": [
+        "Zalecenie zapisu dotyczy przytoczonej metodyki, nie zakazu ozdobników w partyturach. Nie ujednolicać wszystkich historycznych realizacji."
+      ],
+      "podstawa": [
+        "WES-GRACE-LONG",
+        "WES-GRACE-SHORT",
+        "WES-MORDENT",
+        "WES-TRILL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.153,157"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "opus",
+      "termin": "Opus i numer utworu",
+      "aliasy": [
+        "op.",
+        "nr",
+        "oznaczenie dzieła"
+      ],
+      "definicja": "Opus jest określeniem numeru dzieła lub grupy dzieł, używanym do bliższej identyfikacji utworu.",
+      "omowienie": "Autor opisuje numerację kompozytora lub wydawcy i łączenie numeru opus z numerem utworu w jego obrębie. Przykładowy zapis wskazuje także tonację.",
+      "przyklady": [
+        "Model autorski: Mazurek cis-moll op. 50 nr 3 zawiera nazwę, tonację, numer opus i numer utworu w zbiorze."
+      ],
+      "ograniczenia": [
+        "Numer opus nie musi być ścisłą datą powstania ani uniwersalnym identyfikatorem. Historyczny komentarz autora nie jest aktualną statystyką."
+      ],
+      "podstawa": [
+        "WES-KEY-CONTEXT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, przypis s.166"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "harmonia-element-dziela",
+      "termin": "Harmonia jako element dzieła muzycznego",
+      "aliasy": [
+        "współbrzmienie",
+        "czynnik harmoniczny",
+        "faktura"
+      ],
+      "definicja": "W ujęciu autora czynnik harmoniczny wyraża się współbrzmieniami dźwięków i jest widoczny przy równoczesnym prowadzeniu głosów.",
+      "omowienie": "Autor rozpatruje go zarówno w polifonii, gdzie współbrzmienia wynikają z przebiegu samodzielnych linii, jak w homofonii, gdzie akompaniament wspiera główną melodię.",
+      "przyklady": [
+        "Model autorski: Dwie równoczesne linie mogą tworzyć współbrzmienia, nawet gdy nie występuje trójdźwięk."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać pojęcia czynnika harmonicznego z definicją akordu co najmniej trójdźwiękowego ani z pełną teorią harmonii."
+      ],
+      "podstawa": [
+        "WES-TEXTURE",
+        "WES-TERTIAN"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.167–168"
         }
       ],
       "status": "do-recenzji",

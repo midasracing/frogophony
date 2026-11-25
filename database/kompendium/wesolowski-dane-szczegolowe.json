@@ -2338,6 +2338,97 @@
         ],
         "status": "do-recenzji",
         "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con gusto",
+        "znaczenie": "ze smakiem",
+        "kategoria": "charakter wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, przypis s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "alla marcia",
+        "znaczenie": "w charakterze marsza",
+        "kategoria": "charakter wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "alla polacca",
+        "znaczenie": "na sposób polski",
+        "kategoria": "charakter wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "alla turca",
+        "znaczenie": "na sposób turecki",
+        "kategoria": "charakter wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "appoggiatura",
+        "znaczenie": "przednutka długa",
+        "kategoria": "ozdobnik",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§55, s.153"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "gruppetto",
+        "znaczenie": "obiegnik",
+        "kategoria": "ozdobnik",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§55, s.153"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "Pralltrill",
+        "znaczenie": "trylik, dawna nazwa górnego mordentu w przytoczonej konwencji",
+        "kategoria": "ozdobnik",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§55, przypis s.157"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
       }
     ]
   },
@@ -2876,6 +2967,539 @@
         "numer": 7,
         "jakosc": "mała",
         "poltony": 10
+      }
+    ],
+    "chromatyczne": [
+      {
+        "nrTabeliAutora": 1,
+        "numer": 1,
+        "nazwa": "pryma",
+        "jakosc": "czysta",
+        "poltony": 0,
+        "oznaczenieAutora": "1",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 2,
+        "numer": 1,
+        "nazwa": "pryma",
+        "jakosc": "zwiększona",
+        "poltony": 1,
+        "oznaczenieAutora": "1<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 3,
+        "numer": 2,
+        "nazwa": "sekunda",
+        "jakosc": "mała",
+        "poltony": 1,
+        "oznaczenieAutora": "2>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 4,
+        "numer": 2,
+        "nazwa": "sekunda",
+        "jakosc": "wielka",
+        "poltony": 2,
+        "oznaczenieAutora": "2",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 5,
+        "numer": 2,
+        "nazwa": "sekunda",
+        "jakosc": "zwiększona",
+        "poltony": 3,
+        "oznaczenieAutora": "2<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 6,
+        "numer": 2,
+        "nazwa": "sekunda",
+        "jakosc": "zmniejszona",
+        "poltony": 0,
+        "oznaczenieAutora": "2>>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 7,
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "mała",
+        "poltony": 3,
+        "oznaczenieAutora": "3>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 8,
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "wielka",
+        "poltony": 4,
+        "oznaczenieAutora": "3",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false,
+        "uwaga": "Nie używać dosłownej kolumny nazw lub wymiaru z druku bez kolacji; dane liczbowe są wyprowadzeniem."
+      },
+      {
+        "nrTabeliAutora": 9,
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "zwiększona",
+        "poltony": 5,
+        "oznaczenieAutora": "3<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false,
+        "uwaga": "Nie używać dosłownej kolumny nazw lub wymiaru z druku bez kolacji; dane liczbowe są wyprowadzeniem."
+      },
+      {
+        "nrTabeliAutora": 10,
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "zmniejszona",
+        "poltony": 2,
+        "oznaczenieAutora": "3>>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 11,
+        "numer": 4,
+        "nazwa": "kwarta",
+        "jakosc": "czysta",
+        "poltony": 5,
+        "oznaczenieAutora": "4",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.98, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 12,
+        "numer": 4,
+        "nazwa": "kwarta",
+        "jakosc": "zwiększona",
+        "poltony": 6,
+        "oznaczenieAutora": "4<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 13,
+        "numer": 4,
+        "nazwa": "kwarta",
+        "jakosc": "zmniejszona",
+        "poltony": 4,
+        "oznaczenieAutora": "4>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 14,
+        "numer": 5,
+        "nazwa": "kwinta",
+        "jakosc": "czysta",
+        "poltony": 7,
+        "oznaczenieAutora": "5",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false,
+        "uwaga": "Nie używać dosłownej kolumny nazw lub wymiaru z druku bez kolacji; dane liczbowe są wyprowadzeniem."
+      },
+      {
+        "nrTabeliAutora": 15,
+        "numer": 5,
+        "nazwa": "kwinta",
+        "jakosc": "zmniejszona",
+        "poltony": 6,
+        "oznaczenieAutora": "5>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 16,
+        "numer": 5,
+        "nazwa": "kwinta",
+        "jakosc": "zwiększona",
+        "poltony": 8,
+        "oznaczenieAutora": "5<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 17,
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "mała",
+        "poltony": 8,
+        "oznaczenieAutora": "6>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 18,
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "wielka",
+        "poltony": 9,
+        "oznaczenieAutora": "6",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 19,
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "zwiększona",
+        "poltony": 10,
+        "oznaczenieAutora": "6<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 20,
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "zmniejszona",
+        "poltony": 7,
+        "oznaczenieAutora": "6>>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 21,
+        "numer": 7,
+        "nazwa": "septyma",
+        "jakosc": "mała",
+        "poltony": 10,
+        "oznaczenieAutora": "7",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 22,
+        "numer": 7,
+        "nazwa": "septyma",
+        "jakosc": "wielka",
+        "poltony": 11,
+        "oznaczenieAutora": "7<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 23,
+        "numer": 7,
+        "nazwa": "septyma",
+        "jakosc": "zmniejszona",
+        "poltony": 9,
+        "oznaczenieAutora": "7>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 24,
+        "numer": 7,
+        "nazwa": "septyma",
+        "jakosc": "zwiększona",
+        "poltony": 12,
+        "oznaczenieAutora": "7<<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 25,
+        "numer": 8,
+        "nazwa": "oktawa",
+        "jakosc": "czysta",
+        "poltony": 12,
+        "oznaczenieAutora": "8",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 26,
+        "numer": 8,
+        "nazwa": "oktawa",
+        "jakosc": "zwiększona",
+        "poltony": 13,
+        "oznaczenieAutora": "8<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 27,
+        "numer": 8,
+        "nazwa": "oktawa",
+        "jakosc": "zmniejszona",
+        "poltony": 11,
+        "oznaczenieAutora": "8>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 28,
+        "numer": 1,
+        "nazwa": "pryma",
+        "jakosc": "podwójnie zwiększona",
+        "poltony": 2,
+        "oznaczenieAutora": "1<<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 29,
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "podwójnie zwiększona",
+        "poltony": 6,
+        "oznaczenieAutora": "3<<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 30,
+        "numer": 4,
+        "nazwa": "kwarta",
+        "jakosc": "podwójnie zwiększona",
+        "poltony": 7,
+        "oznaczenieAutora": "4<<",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "nrTabeliAutora": 31,
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "podwójnie zmniejszona",
+        "poltony": 6,
+        "oznaczenieAutora": "6>>>",
+        "pochodzenie": "rozmiar obliczony z jakości i numeru, sprawdzony z tabelą §34",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§34, s.99, przykł.188"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false,
+        "uwaga": "Nie używać dosłownej kolumny nazw lub wymiaru z druku bez kolacji; dane liczbowe są wyprowadzeniem."
       }
     ]
   },
@@ -3996,9 +4620,27 @@
     },
     {
       "strona": 169,
-      "status": "do-kolacji-obrazu",
-      "opis": "Warstwa tekstowa wymienia fortepian jako składnik kwintetu dętego. Nie używać tego zestawienia w zadaniach. Obraz nie został zwrócony.",
-      "dowod": "tekst strony 169"
+      "status": "potwierdzona-niescislosc-druku",
+      "opis": "Oryginalny druk zawiera fortepian w przykładzie kwintetu dętego. Zablokowano ten skład; nie jest to błąd OCR. Standardową obsadę należy oprzeć na osobnym źródle instrumentoznawczym.",
+      "dowod": "obraz PDF 169 odtworzony bezpośrednio z pliku"
+    },
+    {
+      "strona": 98,
+      "status": "niejednoznaczna-kolumna-druku",
+      "opis": "W wierszach tercji wielkiej i zwiększonej kolumna nazw nut jest trudna do jednoznacznego odczytania; nie kopiować odczytu OCR c–c i c–cis. Wartości wyprowadzone z jakości interwałów.",
+      "dowod": "obraz PDF 98"
+    },
+    {
+      "strona": 99,
+      "status": "potwierdzona-niescislosc-druku",
+      "opis": "Wiersz 14 (kwinta czysta) podaje e–g, choć grafika 188 i nazwa wskazują kwintę. Wiersz 31 wymaga kontroli wymiaru: cisis–as daje sześć półtonów, zgodnie z jakością seksty podwójnie zmniejszonej; drukowana kolumna wygląda na 3 i pół tonu. Nie importować tych kolumn jako danych obliczeniowych.",
+      "dowod": "obraz PDF 99 i obliczenie z pisowni"
+    },
+    {
+      "strona": 134,
+      "status": "niezgodny-przyklad-literowy",
+      "opis": "W wykazie stosunku sekundowego pojawia się G–D; ten przykład nie odpowiada definicji sekundy. Zachowano definicję i nie importowano tego przykładu.",
+      "dowod": "tekst i obraz PDF 134"
     }
   ],
   "notacjaIRytm": {

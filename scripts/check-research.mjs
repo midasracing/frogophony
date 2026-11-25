@@ -64,3 +64,15 @@ if(ae.dopuszczoneDoPublikacji!==false||!validRefs(ae.odwolania)||ae.szeregHarmon
 for(const [i,q] of ae.szeregHarmoniczny.entries())if(q.numerSkladowej!==i+1||q.czestotliwoscPrzy440Hz!==440*(i+1)||!validRefs(q.odwolania))aeErrors.push('Invalid harmonic');
 for(const [i,q] of ae.oktawyA.entries())if(q.czestotliwoscAHz!==440*2**(i-4)||!validRefs(q.odwolania))aeErrors.push('Invalid octave');
 if(aeErrors.length){console.error(aeErrors.join('\n'));process.exitCode=1;}else console.log('Acoustic model arithmetic checked.');
+
+const wa=read('kompendium/wesolowski-pokrycie.json'), waErr=[];
+if(wa.paragrafy.length!==58||wa.strony.length!==179||wa.dopuszczoneDoPublikacji!==false)waErr.push('Nieprawidłowe metadane audytu');
+for(const [i,q] of wa.paragrafy.entries())if(q.paragraf!==i+1||q.hasla.some(id=>!hasloIds.has(id)))waErr.push('Nieprawidłowe pokrycie paragrafu '+q.paragraf);
+const chrom=szczegoly.interwaly.chromatyczne, ib=[0,2,4,5,7,9,11,12];
+if(chrom.length!==31||new Set(chrom.map(q=>q.nrTabeliAutora)).size!==31)waErr.push('Brak pozycji tabeli chromatycznej');
+for(const q of chrom){const diff=q.poltony-ib[q.numer-1], qual=[1,4,5,8].includes(q.numer)?({0:'czysta',1:'zwiększona',2:'podwójnie zwiększona','-1':'zmniejszona','-2':'podwójnie zmniejszona'})[diff]:({0:'wielka','-1':'mała',1:'zwiększona',2:'podwójnie zwiększona','-2':'zmniejszona','-3':'podwójnie zmniejszona'})[diff];if(qual!==q.jakosc||!validRefs(q.odwolania))waErr.push('Rozbieżność interwału '+q.nrTabeliAutora);}
+const pitch=new Map(), chromNatural=[0,2,4,5,7,9,11], pc=n=>(n%12+12)%12;
+for(const [i,q] of szczegoly.chromatyka.nazwy.entries())for(const [name,delta] of [[q.naturalna,0],[q.obnizenie,-1],[q.podwojneObnizenie,-2],[q.podwyzszenie,1],[q.podwojnePodwyzszenie,2]])pitch.set(name,chromNatural[i]+delta);
+for(const g of st.gamy){const root=pitch.get(g.tonacja.split('-')[0].toLowerCase());if(root===undefined||g.dzwieki.some((n,i)=>!pitch.has(n)||pc(pitch.get(n)-root)!==pc(g.poltonyOdDolnejToniki[i])))waErr.push('Niezgodność nazw gamy '+g.tonacja);}
+for(const q of st.trojdzwięki){const root=pitch.get(q.skladniki[0]);if(root===undefined||q.skladniki.some((n,i)=>!pitch.has(n)||pc(pitch.get(n)-root)!==pc(q.odleglosciOdPrymy[i])))waErr.push('Niezgodność nazw trójdźwięku '+q.tonacja);}
+if(waErr.length){console.error(waErr.join('\n'));process.exitCode=1;}else console.log('Sprawdzono mapę 58 paragrafów, 31 interwałów chromatycznych i zgodność nazw z wysokościami gam oraz akordów.');

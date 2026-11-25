@@ -21,3 +21,5 @@ Język merytoryczny: polski (pl-PL). Zachować techniczne identyfikatory i nazwy
 Przeczytaj [politykę źródłową](../docs/research/source-policy.md) i [politykę jakości](../docs/research/quality-policy.md). Notatki referencyjne są w [docs/research](../docs/research/README.md), historia korekt w [docs/archive/audits](../docs/archive/audits/). Uruchom `npm run check:research` i `npm run check:structure`. Prywatne skany pozostają poza Git.
 
 Dalsze dane wyprowadzone z podręcznika: [skale i tonacje Wesołowskiego](kompendium/wesolowski-skale-i-tonacje.json). To dane do projektowania ćwiczeń, nie zatwierdzone lekcje.
+
+Mapa pokrycia 58 paragrafów i rejestr przeglądu stron: [Wesołowski — pokrycie](kompendium/wesolowski-pokrycie.json). Nie jest świadectwem pełnej kolacji zapisu nutowego.

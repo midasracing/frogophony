@@ -1,0 +1,2120 @@
+{
+  "wersja": 1,
+  "jezyk": "pl-PL",
+  "zrodlo": "WES-1986-UPLOAD",
+  "status": "audyt-zakresu-i-wybranych-danych",
+  "dopuszczoneDoPublikacji": false,
+  "opis": "Porównanie 58 paragrafów spisu treści z hasłami bazy, przegląd miniatur wszystkich 179 stron oryginalnego PDF i szczegółowa kolacja wybranych tabel. Nie deklaruje analizy każdej nuty ani każdej pozycji indeksu.",
+  "paragrafy": [
+    {
+      "paragraf": 1,
+      "stronaPoczatkowa": 9,
+      "temat": "Powstawanie dźwięku",
+      "hasla": [
+        "zrodlo-dzwieku",
+        "osrodek-akustyczny",
+        "drganie-okres-amplituda"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 2,
+      "stronaPoczatkowa": 11,
+      "temat": "Szereg alikwotów",
+      "hasla": [
+        "szereg-harmoniczny",
+        "ton-podstawowy-alikwoty",
+        "rezonans",
+        "szmery"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 3,
+      "stronaPoczatkowa": 12,
+      "temat": "Cechy dźwięku",
+      "hasla": [
+        "cechy-dzwieku",
+        "kamerton",
+        "poglos",
+        "barwa-dzwieku"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 4,
+      "stronaPoczatkowa": 15,
+      "temat": "Oktawa i notacja",
+      "hasla": [
+        "material-dzwiekowy",
+        "nazwy-dzwiekow",
+        "nuta-pieciolinia",
+        "neumy",
+        "akolada"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 5,
+      "stronaPoczatkowa": 18,
+      "temat": "Klucze",
+      "hasla": [
+        "klucze-muzyczne",
+        "klucze-dawne",
+        "zapis-tenoru",
+        "zmiana-klucza"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 6,
+      "stronaPoczatkowa": 21,
+      "temat": "Oktawy i przenośnik",
+      "hasla": [
+        "oktawy-nazwy",
+        "przenosnik-oktawowy"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 7,
+      "stronaPoczatkowa": 23,
+      "temat": "Rytm",
+      "hasla": [
+        "rytm-muzyczny"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 8,
+      "stronaPoczatkowa": 23,
+      "temat": "Wartości nut i pauz",
+      "hasla": [
+        "wartosci-rytmiczne",
+        "budowa-nuty",
+        "pauzy",
+        "brevis"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 9,
+      "stronaPoczatkowa": 26,
+      "temat": "Przedłużanie wartości",
+      "hasla": [
+        "kropki-przedluzajace",
+        "luk-laczacy",
+        "fermata"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 10,
+      "stronaPoczatkowa": 29,
+      "temat": "Podział nieregularny",
+      "hasla": [
+        "grupy-niemiarowe",
+        "grupy-niemiarowe-proporcja",
+        "siatka-rytmiczna"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 11,
+      "stronaPoczatkowa": 35,
+      "temat": "Metrum i takt",
+      "hasla": [
+        "metrum-i-takt",
+        "klasyfikacja-taktow"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 12,
+      "stronaPoczatkowa": 37,
+      "temat": "Grupowanie w taktach prostych",
+      "hasla": [
+        "grupowanie-nut",
+        "przedluzanie-w-takcie-prostym",
+        "rodzaje-rytmu"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 13,
+      "stronaPoczatkowa": 42,
+      "temat": "Notacja wokalna",
+      "hasla": [
+        "notacja-wokalna"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 14,
+      "stronaPoczatkowa": 44,
+      "temat": "Pisownia plastyczna",
+      "hasla": [
+        "pisownia-plastyczna"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 15,
+      "stronaPoczatkowa": 48,
+      "temat": "Takty złożone regularne",
+      "hasla": [
+        "klasyfikacja-taktow"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 16,
+      "stronaPoczatkowa": 50,
+      "temat": "Grupowanie w taktach złożonych",
+      "hasla": [
+        "takt-zlozony-grupowanie"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 17,
+      "stronaPoczatkowa": 52,
+      "temat": "Przekształcanie taktów",
+      "hasla": [
+        "przeksztalcanie-taktow"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 18,
+      "stronaPoczatkowa": 59,
+      "temat": "Synkopa",
+      "hasla": [
+        "synkopa",
+        "pisownia-synkopy",
+        "akcent-rytmiczny",
+        "zjawiska-pokrewne-synkopie"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 19,
+      "stronaPoczatkowa": 66,
+      "temat": "Zmiana metrum",
+      "hasla": [
+        "zmienne-metrum",
+        "takty-nieregularne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 20,
+      "stronaPoczatkowa": 70,
+      "temat": "Polirytmia i polimetria",
+      "hasla": [
+        "polirytmia-polimetria"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 21,
+      "stronaPoczatkowa": 73,
+      "temat": "Przedtakt i ataktowość",
+      "hasla": [
+        "przedtakt-ataktowosc"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 22,
+      "stronaPoczatkowa": 75,
+      "temat": "Tempo",
+      "hasla": [
+        "tempo-i-metronom",
+        "oznaczenia-tempa",
+        "zmiany-tempa"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 23,
+      "stronaPoczatkowa": 78,
+      "temat": "Taktowanie",
+      "hasla": [
+        "taktowanie"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 24,
+      "stronaPoczatkowa": 79,
+      "temat": "Dynamika",
+      "hasla": [
+        "dynamika",
+        "oznaczenia-wykonawcze"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 25,
+      "stronaPoczatkowa": 83,
+      "temat": "System temperowany",
+      "hasla": [
+        "system-temperowany"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 26,
+      "stronaPoczatkowa": 83,
+      "temat": "Półton i cały ton",
+      "hasla": [
+        "system-temperowany",
+        "poltony",
+        "cale-tony"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 27,
+      "stronaPoczatkowa": 84,
+      "temat": "Gama C-dur i tonacja",
+      "hasla": [
+        "skala-gama-tonacja",
+        "stopnie-gamy"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 28,
+      "stronaPoczatkowa": 85,
+      "temat": "Interwał",
+      "hasla": [
+        "interwal-numer-jakosc",
+        "interwaly-zlozone",
+        "oznaczenia-interwalow-wesolowski"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 29,
+      "stronaPoczatkowa": 87,
+      "temat": "Rozmiary interwałów",
+      "hasla": [
+        "rozklad-interwalow",
+        "interwaly-diatoniczne-dur"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 30,
+      "stronaPoczatkowa": 89,
+      "temat": "Przewroty",
+      "hasla": [
+        "przewroty-interwalow"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 31,
+      "stronaPoczatkowa": 90,
+      "temat": "Interwał melodyczny i harmoniczny",
+      "hasla": [
+        "interwaly-melodyczne-harmoniczne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 32,
+      "stronaPoczatkowa": 92,
+      "temat": "Diatonika i chromatyka",
+      "hasla": [
+        "diatonika-chromatyka",
+        "znaki-chromatyczne",
+        "zasieg-alteracji",
+        "zmiana-znakow-przykluczowych"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 33,
+      "stronaPoczatkowa": 96,
+      "temat": "Enharmonia",
+      "hasla": [
+        "enharmonia"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 34,
+      "stronaPoczatkowa": 98,
+      "temat": "Półtony i całe tony",
+      "hasla": [
+        "poltony",
+        "cale-tony",
+        "interwaly-podwojnie-zmienione"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 35,
+      "stronaPoczatkowa": 101,
+      "temat": "Odmiany dur",
+      "hasla": [
+        "gama-durowa-harmoniczna",
+        "chromatyzacja-dur",
+        "interwaly-dur-harmoniczny"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 36,
+      "stronaPoczatkowa": 103,
+      "temat": "Konsonanse i dysonanse",
+      "hasla": [
+        "konsonans-dysonans",
+        "ruch-glosow-dysonans"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 37,
+      "stronaPoczatkowa": 104,
+      "temat": "Akordy",
+      "hasla": [
+        "akordy-tercjowe",
+        "trojdzwieki",
+        "triada-harmoniczna",
+        "dominanta-nonowa"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 38,
+      "stronaPoczatkowa": 107,
+      "temat": "Odmiany moll",
+      "hasla": [
+        "odmiany-moll",
+        "trojdzwieki-moll-harmoniczna"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 39,
+      "stronaPoczatkowa": 112,
+      "temat": "Zasady budowy gam",
+      "hasla": [
+        "tetrachord-dur",
+        "gamy-krzyzykowe-bemolowe",
+        "metodyka-integracja"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 40,
+      "stronaPoczatkowa": 116,
+      "temat": "Gamy krzyżykowe",
+      "hasla": [
+        "gamy-krzyzykowe-bemolowe",
+        "gamy-teoretyczne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 41,
+      "stronaPoczatkowa": 123,
+      "temat": "Gamy bemolowe",
+      "hasla": [
+        "gamy-krzyzykowe-bemolowe",
+        "gamy-teoretyczne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 42,
+      "stronaPoczatkowa": 126,
+      "temat": "Enharmonia gam",
+      "hasla": [
+        "enharmonia-gam"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 43,
+      "stronaPoczatkowa": 128,
+      "temat": "Chromatyczny moll",
+      "hasla": [
+        "chromatyzacja-moll"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 44,
+      "stronaPoczatkowa": 133,
+      "temat": "Pokrewieństwo tonacji",
+      "hasla": [
+        "pokrewienstwo-tonacji",
+        "tonacje-rownoimienne",
+        "stosunek-sekundowy-trytonu"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 45,
+      "stronaPoczatkowa": 134,
+      "temat": "Rozpoznawanie tonacji",
+      "hasla": [
+        "rozpoznawanie-tonacji",
+        "tonacja-glowna"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 46,
+      "stronaPoczatkowa": 136,
+      "temat": "Transpozycja",
+      "hasla": [
+        "transpozycja",
+        "transpozycja-metody"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 47,
+      "stronaPoczatkowa": 139,
+      "temat": "Wprowadzenie do skal",
+      "hasla": [
+        "skala-gama-tonacja",
+        "skale-koscielne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 48,
+      "stronaPoczatkowa": 139,
+      "temat": "Pentatonika",
+      "hasla": [
+        "pentatonika",
+        "pentatonika-centralna",
+        "pentatonika-poltonowa"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 49,
+      "stronaPoczatkowa": 141,
+      "temat": "Skale greckie",
+      "hasla": [
+        "tetrachordy-greckie",
+        "skale-greckie-poboczne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 50,
+      "stronaPoczatkowa": 141,
+      "temat": "Skale średniowieczne",
+      "hasla": [
+        "skale-koscielne",
+        "repercussa-finalis",
+        "modele-modalne"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 51,
+      "stronaPoczatkowa": 144,
+      "temat": "Skale z dwiema sekundami zwiększonymi i góralska",
+      "hasla": [
+        "skale-dwie-sekundy-zwiekszone",
+        "dwie-sekundy-zwiekszone-modele"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 52,
+      "stronaPoczatkowa": 145,
+      "temat": "Całotonowa i dwunastodźwiękowa",
+      "hasla": [
+        "skala-calotonowa-dwunastodzwiekowa"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 53,
+      "stronaPoczatkowa": 148,
+      "temat": "Artykulacja",
+      "hasla": [
+        "artykulacja",
+        "staccato-legato",
+        "glissando-portamento",
+        "tremolo-arpeggio",
+        "techniki-smyczkowe"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 54,
+      "stronaPoczatkowa": 152,
+      "temat": "Frazowanie",
+      "hasla": [
+        "frazowanie"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 55,
+      "stronaPoczatkowa": 153,
+      "temat": "Ozdobniki",
+      "hasla": [
+        "przednutki",
+        "mordent",
+        "obiegnik",
+        "tryl",
+        "ozdobniki-zapis-a-realizacja"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 56,
+      "stronaPoczatkowa": 162,
+      "temat": "Skróty pisowni",
+      "hasla": [
+        "repetycje",
+        "nawigacja-utworu",
+        "da-capo-senza",
+        "skroty-powtorzen"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 57,
+      "stronaPoczatkowa": 166,
+      "temat": "Elementy dzieła",
+      "hasla": [
+        "elementy-dziela",
+        "melodyka",
+        "faktura-polifonia-homofonia",
+        "harmonia-element-dziela",
+        "opus"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    },
+    {
+      "paragraf": 58,
+      "stronaPoczatkowa": 169,
+      "temat": "Podział muzyki",
+      "hasla": [
+        "podzial-muzyki-obsada",
+        "zespoly-kameralne-nazwy",
+        "a-cappella"
+      ],
+      "status": "pokrycie-tematyczne-nie-pelna-kolacja"
+    }
+  ],
+  "strony": [
+    {
+      "stronaPDF": 1,
+      "typ": "metryka",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 2,
+      "typ": "pusta",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": true,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 3,
+      "typ": "metryka",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 4,
+      "typ": "metryka",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 5,
+      "typ": "spis-tresci",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 6,
+      "typ": "spis-tresci",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 7,
+      "typ": "przedmowa",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 8,
+      "typ": "przedmowa",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 9,
+      "typ": "tresc",
+      "rozdzial": 1,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 10,
+      "typ": "tresc",
+      "rozdzial": 1,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 11,
+      "typ": "tresc",
+      "rozdzial": 1,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 12,
+      "typ": "tresc",
+      "rozdzial": 1,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 13,
+      "typ": "tresc",
+      "rozdzial": 1,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 14,
+      "typ": "tresc",
+      "rozdzial": 1,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 15,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 16,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 17,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 18,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 19,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 20,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 21,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 22,
+      "typ": "tresc",
+      "rozdzial": 2,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 23,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 24,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 25,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 26,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 27,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 28,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 29,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 30,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 31,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 32,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 33,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 34,
+      "typ": "tresc",
+      "rozdzial": 3,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 35,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 36,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 37,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 38,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 39,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 40,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 41,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 42,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 43,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 44,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 45,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 46,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 47,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 48,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 49,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 50,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 51,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 52,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 53,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 54,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 55,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 56,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 57,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 58,
+      "typ": "tresc",
+      "rozdzial": 4,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 59,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 60,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 61,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 62,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 63,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 64,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 65,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 66,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 67,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 68,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 69,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 70,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 71,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 72,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 73,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 74,
+      "typ": "tresc",
+      "rozdzial": 5,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 75,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 76,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 77,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 78,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 79,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 80,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 81,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 82,
+      "typ": "tresc",
+      "rozdzial": 6,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 83,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 84,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 85,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 86,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 87,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 88,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 89,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 90,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 91,
+      "typ": "tresc",
+      "rozdzial": 7,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 92,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 93,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 94,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 95,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 96,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 97,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 98,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": true,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 99,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": true,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 100,
+      "typ": "tresc",
+      "rozdzial": 8,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 101,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 102,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 103,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 104,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 105,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 106,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 107,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 108,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 109,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 110,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 111,
+      "typ": "tresc",
+      "rozdzial": 9,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 112,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 113,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 114,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 115,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 116,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 117,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 118,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 119,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 120,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 121,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 122,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 123,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 124,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 125,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 126,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 127,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 128,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 129,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 130,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 131,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 132,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 133,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 134,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 135,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 136,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 137,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 138,
+      "typ": "tresc",
+      "rozdzial": 10,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 139,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 140,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 141,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 142,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 143,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 144,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 145,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 146,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 147,
+      "typ": "tresc",
+      "rozdzial": 11,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 148,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 149,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 150,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 151,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 152,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 153,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 154,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 155,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 156,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 157,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 158,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 159,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 160,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 161,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 162,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 163,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 164,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 165,
+      "typ": "tresc",
+      "rozdzial": 12,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": "Strona z dominującym materiałem graficznym; tekst maszynowy nie wystarcza."
+    },
+    {
+      "stronaPDF": 166,
+      "typ": "tresc",
+      "rozdzial": 13,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 167,
+      "typ": "tresc",
+      "rozdzial": 13,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 168,
+      "typ": "tresc",
+      "rozdzial": 13,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 169,
+      "typ": "tresc",
+      "rozdzial": 13,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": true,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 170,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 171,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 172,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 173,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 174,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 175,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 176,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 177,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 178,
+      "typ": "indeks",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    },
+    {
+      "stronaPDF": 179,
+      "typ": "okladka",
+      "rozdzial": null,
+      "przegladMiniatury": true,
+      "kolacjaSzczegolowa": false,
+      "uwaga": null
+    }
+  ],
+  "luki": [
+    {
+      "temat": "Pełna kontrola przykładów nutowych",
+      "strony": "9–165",
+      "status": "otwarta"
+    },
+    {
+      "temat": "Pełna kontrola wszystkich ćwiczeń graficznych i wariantów odpowiedzi",
+      "strony": "14–165",
+      "status": "otwarta"
+    },
+    {
+      "temat": "Wzorce pentatoniki półtonowej",
+      "strony": "140",
+      "status": "do-kolacji-nut"
+    },
+    {
+      "temat": "Niezależna recenzja merytoryczna i testy zapisu oraz dźwięku",
+      "status": "otwarta"
+    }
+  ],
+  "wyniki": {
+    "liczbaParagrafow": 58,
+    "liczbaStronPrzegladu": 179,
+    "noweHasla": 12,
+    "interwalyChromatyczne": 31,
+    "uwagi": [
+      {
+        "strona": 79,
+        "status": "potwierdzona-sprzecznosc-druku",
+        "opis": "Akapit podaje cztery mniejsze ruchy na każdy z czterech głównych w takcie dwunastoczęściowym; schemat na tej samej stronie ma dwanaście numerowanych ruchów i cztery grupy po trzy. Nie tworzyć zadania z błędnego zdania.",
+        "dowod": "obraz strony 79"
+      },
+      {
+        "strona": 89,
+        "status": "skorygowana-interpretacja",
+        "opis": "Przypis nie zawiera błędu autora VI zamiast V: cytuje nieprawidłowe sformułowanie jako przykład i następnie je poprawia. Tabela wskazuje tercje wielkie I–III, IV–VI, V–VII.",
+        "dowod": "obraz i tekst strony 89"
+      },
+      {
+        "strona": 104,
+        "status": "ograniczenie-regul",
+        "opis": "Tabela dopuszcza rozwiązania nietypowe; septyma jako cel kwinty zwiększonej ma przypis o zasadniczym niepraktykowaniu. Kwarta zmniejszona na sekundę nie jest konsonansem. Nie generować z tych komórek bez recenzji.",
+        "dowod": "obraz i tekst strony 104"
+      },
+      {
+        "strona": 169,
+        "status": "potwierdzona-niescislosc-druku",
+        "opis": "Oryginalny druk zawiera fortepian w przykładzie kwintetu dętego. Zablokowano ten skład; nie jest to błąd OCR. Standardową obsadę należy oprzeć na osobnym źródle instrumentoznawczym.",
+        "dowod": "obraz PDF 169 odtworzony bezpośrednio z pliku"
+      },
+      {
+        "strona": 98,
+        "status": "niejednoznaczna-kolumna-druku",
+        "opis": "W wierszach tercji wielkiej i zwiększonej kolumna nazw nut jest trudna do jednoznacznego odczytania; nie kopiować odczytu OCR c–c i c–cis. Wartości wyprowadzone z jakości interwałów.",
+        "dowod": "obraz PDF 98"
+      },
+      {
+        "strona": 99,
+        "status": "potwierdzona-niescislosc-druku",
+        "opis": "Wiersz 14 (kwinta czysta) podaje e–g, choć grafika 188 i nazwa wskazują kwintę. Wiersz 31 wymaga kontroli wymiaru: cisis–as daje sześć półtonów, zgodnie z jakością seksty podwójnie zmniejszonej; drukowana kolumna wygląda na 3 i pół tonu. Nie importować tych kolumn jako danych obliczeniowych.",
+        "dowod": "obraz PDF 99 i obliczenie z pisowni"
+      },
+      {
+        "strona": 134,
+        "status": "niezgodny-przyklad-literowy",
+        "opis": "W wykazie stosunku sekundowego pojawia się G–D; ten przykład nie odpowiada definicji sekundy. Zachowano definicję i nie importowano tego przykładu.",
+        "dowod": "tekst i obraz PDF 134"
+      }
+    ]
+  }
+}
