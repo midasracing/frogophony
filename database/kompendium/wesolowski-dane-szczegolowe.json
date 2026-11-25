@@ -3712,6 +3712,157 @@
       ],
       "status": "projekt-do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "klucze-pozycja",
+      "haslo": "klucze-muzyczne",
+      "polecenie": "Odczytaj literę, sylabę i oktawę nuty z podanego klucza.",
+      "parametry": [
+        "klucz",
+        "pozycja",
+        "alteracja opcjonalna"
+      ],
+      "zasadyOceny": "Użyj tablicy pozycji i jawnego rejestru; nie odczytuj klucza tenorowego transponującego bez kontekstu.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4–6, s.16–22"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "klucze-przepisanie",
+      "haslo": "zmiana-klucza",
+      "polecenie": "Przepisz własną nutę do innego klucza z zachowaniem wysokości.",
+      "parametry": [
+        "klucz początkowy",
+        "pozycja",
+        "klucz docelowy",
+        "oktawa"
+      ],
+      "zasadyOceny": "Zachowaj wysokość i pisownię; sprawdź pozycję i linie dodane.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5–6, s.18–22"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "wartosc-nuty",
+      "haslo": "budowa-nuty",
+      "polecenie": "Rozpoznaj wartość nuty na podstawie główki, laski i liczby wiązań.",
+      "parametry": [
+        "główka",
+        "laska",
+        "chorągiewki lub wiązania"
+      ],
+      "zasadyOceny": "Oceniaj wartość nominalną, nie wykonawczą.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.23–25"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "kropki-ulamek",
+      "haslo": "kropki-przedluzajace",
+      "polecenie": "Oblicz zapisaną wartość rytmiczną po dodaniu kropek.",
+      "parametry": [
+        "wartość podstawowa",
+        "liczba kropek"
+      ],
+      "zasadyOceny": "Użyj dokładnych ułamków, nie wartości zaokrąglonych.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.26–28"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pauza-funkcja",
+      "haslo": "pauza-calotaktowa",
+      "polecenie": "Rozróżnij pauzę całonutową o konkretnej wartości od oznaczenia ciszy całotaktowej.",
+      "parametry": [
+        "metrum",
+        "funkcja znaku"
+      ],
+      "zasadyOceny": "Całotaktową licz jako sumę taktu, a zwykłą całonutową jako całą nutę.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.25–26"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "fermata-funkcja",
+      "haslo": "fermata-kontekst",
+      "polecenie": "Wyjaśnij znaczenie fermaty nad danym elementem zapisu.",
+      "parametry": [
+        "element",
+        "położenie",
+        "dodatkowy tekst"
+      ],
+      "zasadyOceny": "Nie wymagaj dokładnego czasu bez jawnego modelu wykonawczego.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.28–29"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tuplet-proporcja",
+      "haslo": "grupy-niemiarowe-proporcja",
+      "polecenie": "Oblicz nominalny czas grupy i jednej jednostki po przeskalowaniu.",
+      "parametry": [
+        "liczba nut",
+        "liczba zastępowanych",
+        "wartość nominalna"
+      ],
+      "zasadyOceny": "Użyj mnożnika regularna/rzeczywista. Nie zgaduj proporcji z samej cyfry.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.29–31"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "polirytmia-siatka",
+      "haslo": "siatka-rytmiczna",
+      "polecenie": "Rozmieść początki dwóch równych podziałów na wspólnej siatce.",
+      "parametry": [
+        "liczebność A",
+        "liczebność B",
+        "wspólny odcinek"
+      ],
+      "zasadyOceny": "NWW i całkowite kroki; numerowanie od zera. Nie traktuj punktu końca jako dodatkowego początku nuty.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.31–32"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ],
   "audyt": [
@@ -3739,5 +3890,2895 @@
       "opis": "Warstwa tekstowa wymienia fortepian jako składnik kwintetu dętego. Nie używać tego zestawienia w zadaniach. Obraz nie został zwrócony.",
       "dowod": "tekst strony 169"
     }
-  ]
+  ],
+  "notacjaIRytm": {
+    "odwolania": [
+      {
+        "sourceId": "WES-1986-UPLOAD",
+        "locator": "§4–10, s.15–34"
+      }
+    ],
+    "status": "do-recenzji",
+    "dopuszczoneDoPublikacji": false,
+    "klucze": [
+      {
+        "id": "G1",
+        "nazwa": "dyszkantowy",
+        "rodzina": "G",
+        "linia": 1,
+        "anchor": 11,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "G2",
+        "nazwa": "skrzypcowy (wiolinowy)",
+        "rodzina": "G",
+        "linia": 2,
+        "anchor": 11,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "C1",
+        "nazwa": "sopranowy",
+        "rodzina": "C",
+        "linia": 1,
+        "anchor": 7,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "C2",
+        "nazwa": "mezzosopranowy",
+        "rodzina": "C",
+        "linia": 2,
+        "anchor": 7,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "C3",
+        "nazwa": "altowy",
+        "rodzina": "C",
+        "linia": 3,
+        "anchor": 7,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "C4",
+        "nazwa": "tenorowy",
+        "rodzina": "C",
+        "linia": 4,
+        "anchor": 7,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "F3",
+        "nazwa": "barytonowy",
+        "rodzina": "F",
+        "linia": 3,
+        "anchor": 3,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "F4",
+        "nazwa": "basowy",
+        "rodzina": "F",
+        "linia": 4,
+        "anchor": 3,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      },
+      {
+        "id": "F5",
+        "nazwa": "subbasowy",
+        "rodzina": "F",
+        "linia": 5,
+        "anchor": 3,
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§5, s.18–20"
+          }
+        ]
+      }
+    ],
+    "pozycje": [
+      {
+        "klucz": "G1",
+        "pozycja": -4,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": -3,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": -2,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": -1,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 0,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 1,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 2,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 3,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 4,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 5,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 6,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 7,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 8,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 9,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 10,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 3,
+        "nazwaOktawy": "trzykreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 11,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 3,
+        "nazwaOktawy": "trzykreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "G1",
+        "pozycja": 12,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 3,
+        "nazwaOktawy": "trzykreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": -4,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": -3,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": -2,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": -1,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 0,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 1,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 2,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 3,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 4,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 5,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 6,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 7,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 8,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 9,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 10,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 11,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "G2",
+        "pozycja": 12,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 3,
+        "nazwaOktawy": "trzykreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": -4,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": -3,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": -2,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": -1,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 0,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 1,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 2,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 3,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 4,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 5,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 6,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 7,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 8,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 9,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 10,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 11,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C1",
+        "pozycja": 12,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": -4,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": -3,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": -2,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": -1,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 0,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 1,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 2,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 3,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 4,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 5,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 6,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 7,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 8,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 9,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 10,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 11,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C2",
+        "pozycja": 12,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": -4,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": -3,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": -2,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": -1,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 0,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 1,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 2,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 3,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 4,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 5,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 6,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 7,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 8,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 9,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 10,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 11,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C3",
+        "pozycja": 12,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 2,
+        "nazwaOktawy": "dwukreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": -4,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": -3,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": -2,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": -1,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 0,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 1,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 2,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 3,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 4,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 5,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 6,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 7,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 8,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 9,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 10,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 11,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "C4",
+        "pozycja": 12,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": -4,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": -3,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": -2,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": -1,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 0,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 1,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 2,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 3,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 4,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 5,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 6,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 7,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 8,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 9,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 10,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 11,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "F3",
+        "pozycja": 12,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": -4,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": -3,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": -2,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": -1,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 0,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 1,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 2,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 3,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 4,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 5,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 6,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 7,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 8,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 9,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 10,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 11,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "F4",
+        "pozycja": 12,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": -4,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": -2,
+        "nazwaOktawy": "kontra",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": -3,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": -2,
+        "nazwaOktawy": "kontra",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": -2,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia dodana dolna"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": -1,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole poniżej pięciolinii"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 0,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 1,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 2,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 3,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 4,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": -1,
+        "nazwaOktawy": "wielka",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 5,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 6,
+        "litera": "d",
+        "sylaba": "re",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 7,
+        "litera": "e",
+        "sylaba": "mi",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 8,
+        "litera": "f",
+        "sylaba": "fa",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 9,
+        "litera": "g",
+        "sylaba": "sol",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 10,
+        "litera": "a",
+        "sylaba": "la",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "linia dodana górna"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 11,
+        "litera": "h",
+        "sylaba": "si",
+        "oktawa": 0,
+        "nazwaOktawy": "mała",
+        "nazwaPozycji": "pole powyżej pięciolinii"
+      },
+      {
+        "klucz": "F5",
+        "pozycja": 12,
+        "litera": "c",
+        "sylaba": "do",
+        "oktawa": 1,
+        "nazwaOktawy": "razkreślna",
+        "nazwaPozycji": "linia dodana górna"
+      }
+    ],
+    "wartosci": [
+      {
+        "nazwa": "cała nuta",
+        "wartoscCalejNuty": [
+          1,
+          1
+        ],
+        "glowka": "pusta",
+        "laska": false,
+        "choragiewki": 0,
+        "wiazania": 0
+      },
+      {
+        "nazwa": "półnuta",
+        "wartoscCalejNuty": [
+          1,
+          2
+        ],
+        "glowka": "pusta",
+        "laska": true,
+        "choragiewki": 0,
+        "wiazania": 0
+      },
+      {
+        "nazwa": "ćwierćnuta",
+        "wartoscCalejNuty": [
+          1,
+          4
+        ],
+        "glowka": "pełna",
+        "laska": true,
+        "choragiewki": 0,
+        "wiazania": 0
+      },
+      {
+        "nazwa": "ósemka",
+        "wartoscCalejNuty": [
+          1,
+          8
+        ],
+        "glowka": "pełna",
+        "laska": true,
+        "choragiewki": 1,
+        "wiazania": 1
+      },
+      {
+        "nazwa": "szesnastka",
+        "wartoscCalejNuty": [
+          1,
+          16
+        ],
+        "glowka": "pełna",
+        "laska": true,
+        "choragiewki": 2,
+        "wiazania": 2
+      },
+      {
+        "nazwa": "trzydziestodwójka",
+        "wartoscCalejNuty": [
+          1,
+          32
+        ],
+        "glowka": "pełna",
+        "laska": true,
+        "choragiewki": 3,
+        "wiazania": 3
+      },
+      {
+        "nazwa": "sześćdziesięcioczwórka",
+        "wartoscCalejNuty": [
+          1,
+          64
+        ],
+        "glowka": "pełna",
+        "laska": true,
+        "choragiewki": 4,
+        "wiazania": 4
+      }
+    ],
+    "kropki": [
+      {
+        "wartosc": "cała nuta",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          1
+        ]
+      },
+      {
+        "wartosc": "cała nuta",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          2
+        ]
+      },
+      {
+        "wartosc": "cała nuta",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          4
+        ]
+      },
+      {
+        "wartosc": "cała nuta",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          8
+        ]
+      },
+      {
+        "wartosc": "półnuta",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          2
+        ]
+      },
+      {
+        "wartosc": "półnuta",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          4
+        ]
+      },
+      {
+        "wartosc": "półnuta",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          8
+        ]
+      },
+      {
+        "wartosc": "półnuta",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          16
+        ]
+      },
+      {
+        "wartosc": "ćwierćnuta",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          4
+        ]
+      },
+      {
+        "wartosc": "ćwierćnuta",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          8
+        ]
+      },
+      {
+        "wartosc": "ćwierćnuta",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          16
+        ]
+      },
+      {
+        "wartosc": "ćwierćnuta",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          32
+        ]
+      },
+      {
+        "wartosc": "ósemka",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          8
+        ]
+      },
+      {
+        "wartosc": "ósemka",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          16
+        ]
+      },
+      {
+        "wartosc": "ósemka",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          32
+        ]
+      },
+      {
+        "wartosc": "ósemka",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          64
+        ]
+      },
+      {
+        "wartosc": "szesnastka",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          16
+        ]
+      },
+      {
+        "wartosc": "szesnastka",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          32
+        ]
+      },
+      {
+        "wartosc": "szesnastka",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          64
+        ]
+      },
+      {
+        "wartosc": "szesnastka",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          128
+        ]
+      },
+      {
+        "wartosc": "trzydziestodwójka",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          32
+        ]
+      },
+      {
+        "wartosc": "trzydziestodwójka",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          64
+        ]
+      },
+      {
+        "wartosc": "trzydziestodwójka",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          128
+        ]
+      },
+      {
+        "wartosc": "trzydziestodwójka",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          256
+        ]
+      },
+      {
+        "wartosc": "sześćdziesięcioczwórka",
+        "kropki": 0,
+        "ulamekCalejNuty": [
+          1,
+          64
+        ]
+      },
+      {
+        "wartosc": "sześćdziesięcioczwórka",
+        "kropki": 1,
+        "ulamekCalejNuty": [
+          3,
+          128
+        ]
+      },
+      {
+        "wartosc": "sześćdziesięcioczwórka",
+        "kropki": 2,
+        "ulamekCalejNuty": [
+          7,
+          256
+        ]
+      },
+      {
+        "wartosc": "sześćdziesięcioczwórka",
+        "kropki": 3,
+        "ulamekCalejNuty": [
+          15,
+          512
+        ]
+      }
+    ],
+    "proporcjeNiemiarowe": [
+      {
+        "liczbaNut": 3,
+        "zastepuje": 2,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          2,
+          3
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 5,
+        "zastepuje": 4,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          4,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 6,
+        "zastepuje": 4,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          2,
+          3
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 7,
+        "zastepuje": 4,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          4,
+          7
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 9,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          9
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 10,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          4,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 11,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          11
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 12,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          2,
+          3
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 13,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          13
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 14,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          4,
+          7
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 15,
+        "zastepuje": 8,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          15
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 17,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          17
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 18,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          9
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 19,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          19
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 20,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          4,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 21,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          21
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 22,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          11
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 23,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          23
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 24,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          2,
+          3
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 25,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          25
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 26,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          13
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 27,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          27
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 28,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          4,
+          7
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 29,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          29
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 30,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          8,
+          15
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 31,
+        "zastepuje": 16,
+        "podzial": "dwójkowy",
+        "mnoznikCzasu": [
+          16,
+          31
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 2,
+        "zastepuje": 3,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          2
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 4,
+        "zastepuje": 3,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          4
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 5,
+        "zastepuje": 3,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 7,
+        "zastepuje": 6,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          6,
+          7
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 8,
+        "zastepuje": 6,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          4
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 9,
+        "zastepuje": 6,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          2,
+          3
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 10,
+        "zastepuje": 6,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 11,
+        "zastepuje": 6,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          6,
+          11
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 13,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          12,
+          13
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 14,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          6,
+          7
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 15,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          4,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 16,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          4
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 17,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          12,
+          17
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 18,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          2,
+          3
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 19,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          12,
+          19
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 20,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          3,
+          5
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 21,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          4,
+          7
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 22,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          6,
+          11
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      },
+      {
+        "liczbaNut": 23,
+        "zastepuje": 12,
+        "podzial": "trójkowy",
+        "mnoznikCzasu": [
+          12,
+          23
+        ],
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§10, s.29–31"
+          }
+        ]
+      }
+    ],
+    "siatkiRytmiczne": [
+      {
+        "liczebnosci": [
+          2,
+          3
+        ],
+        "siatka": 6,
+        "poczatkiA": [
+          0,
+          3
+        ],
+        "poczatkiB": [
+          0,
+          2,
+          4
+        ],
+        "koniec": 6,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          3,
+          4
+        ],
+        "siatka": 12,
+        "poczatkiA": [
+          0,
+          4,
+          8
+        ],
+        "poczatkiB": [
+          0,
+          3,
+          6,
+          9
+        ],
+        "koniec": 12,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          4,
+          21
+        ],
+        "siatka": 84,
+        "poczatkiA": [
+          0,
+          21,
+          42,
+          63
+        ],
+        "poczatkiB": [
+          0,
+          4,
+          8,
+          12,
+          16,
+          20,
+          24,
+          28,
+          32,
+          36,
+          40,
+          44,
+          48,
+          52,
+          56,
+          60,
+          64,
+          68,
+          72,
+          76,
+          80
+        ],
+        "koniec": 84,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          3,
+          5
+        ],
+        "siatka": 15,
+        "poczatkiA": [
+          0,
+          5,
+          10
+        ],
+        "poczatkiB": [
+          0,
+          3,
+          6,
+          9,
+          12
+        ],
+        "koniec": 15,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          4,
+          5
+        ],
+        "siatka": 20,
+        "poczatkiA": [
+          0,
+          5,
+          10,
+          15
+        ],
+        "poczatkiB": [
+          0,
+          4,
+          8,
+          12,
+          16
+        ],
+        "koniec": 20,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          3,
+          7
+        ],
+        "siatka": 21,
+        "poczatkiA": [
+          0,
+          7,
+          14
+        ],
+        "poczatkiB": [
+          0,
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ],
+        "koniec": 21,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          4,
+          7
+        ],
+        "siatka": 28,
+        "poczatkiA": [
+          0,
+          7,
+          14,
+          21
+        ],
+        "poczatkiB": [
+          0,
+          4,
+          8,
+          12,
+          16,
+          20,
+          24
+        ],
+        "koniec": 28,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          5,
+          6
+        ],
+        "siatka": 30,
+        "poczatkiA": [
+          0,
+          6,
+          12,
+          18,
+          24
+        ],
+        "poczatkiB": [
+          0,
+          5,
+          10,
+          15,
+          20,
+          25
+        ],
+        "koniec": 30,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          5,
+          7
+        ],
+        "siatka": 35,
+        "poczatkiA": [
+          0,
+          7,
+          14,
+          21,
+          28
+        ],
+        "poczatkiB": [
+          0,
+          5,
+          10,
+          15,
+          20,
+          25,
+          30
+        ],
+        "koniec": 35,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          6,
+          7
+        ],
+        "siatka": 42,
+        "poczatkiA": [
+          0,
+          7,
+          14,
+          21,
+          28,
+          35
+        ],
+        "poczatkiB": [
+          0,
+          6,
+          12,
+          18,
+          24,
+          30,
+          36
+        ],
+        "koniec": 42,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          8,
+          9
+        ],
+        "siatka": 72,
+        "poczatkiA": [
+          0,
+          9,
+          18,
+          27,
+          36,
+          45,
+          54,
+          63
+        ],
+        "poczatkiB": [
+          0,
+          8,
+          16,
+          24,
+          32,
+          40,
+          48,
+          56,
+          64
+        ],
+        "koniec": 72,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          3,
+          8
+        ],
+        "siatka": 24,
+        "poczatkiA": [
+          0,
+          8,
+          16
+        ],
+        "poczatkiB": [
+          0,
+          3,
+          6,
+          9,
+          12,
+          15,
+          18,
+          21
+        ],
+        "koniec": 24,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          2,
+          5
+        ],
+        "siatka": 10,
+        "poczatkiA": [
+          0,
+          5
+        ],
+        "poczatkiB": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ],
+        "koniec": 10,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          2,
+          7
+        ],
+        "siatka": 14,
+        "poczatkiA": [
+          0,
+          7
+        ],
+        "poczatkiB": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "koniec": 14,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          6,
+          9
+        ],
+        "siatka": 18,
+        "poczatkiA": [
+          0,
+          3,
+          6,
+          9,
+          12,
+          15
+        ],
+        "poczatkiB": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16
+        ],
+        "koniec": 18,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      },
+      {
+        "liczebnosci": [
+          5,
+          10
+        ],
+        "siatka": 10,
+        "poczatkiA": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ],
+        "poczatkiB": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "koniec": 10,
+        "pochodzenie": "autorskie wyprowadzenie metodą wspólnej wielokrotności"
+      }
+    ],
+    "uwagi": [
+      "Pozycje są autorskim wyprowadzeniem z punktów kluczowych: 0 to dolna linia, 8 górna, kolejne liczby oznaczają kolejne kroki diatoniczne; oktawa 0 to mała. Brak znaków przykluczowych i przygodnych.",
+      "Tablice liczbowe nie są kopiami partytur. Proporcje dotyczą określonych podziałów autora, nie wszystkich możliwych oznaczeń.",
+      "Przy przykładzie 56 na s.32 tekst i diagram mieszają numerowanie od zera i od jedynki; użyto spójnego numerowania od zera. Historycznego wykonania zestawień trójek z dwójkami nie automatyzowano."
+    ]
+  }
 }

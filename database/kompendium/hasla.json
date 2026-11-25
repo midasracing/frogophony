@@ -3640,6 +3640,324 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "akolada",
+      "termin": "Akolada i układ pięciolinii",
+      "aliasy": [
+        "klamra",
+        "system wielopięcioliniowy"
+      ],
+      "definicja": "Klamra łączy pięciolinie należące do wspólnego układu zapisu.",
+      "omowienie": "Autor omawia m.in. dwie pięciolinie fortepianu i harfy, trzy organów oraz różne liczby systemów chóru i orkiestry. Liczba pięciolinii zależy od obsady i notacji.",
+      "przyklady": [
+        "Model autorski: Dwie pięciolinie fortepianu mogą być połączone wspólną klamrą."
+      ],
+      "ograniczenia": [
+        "Nie klasyfikować obsady wyłącznie po liczbie pięciolinii ani utożsamiać wszystkich kształtów klamer."
+      ],
+      "podstawa": [
+        "STAFF"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.17"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "solmizacja-stala",
+      "termin": "Nazwy sylabowe i literowe",
+      "aliasy": [
+        "do",
+        "re",
+        "mi",
+        "fa",
+        "sol",
+        "la",
+        "si"
+      ],
+      "definicja": "W zastosowanym systemie solmizacji stałej sylaby odpowiadają siedmiu literom szeregu podstawowego.",
+      "omowienie": "C–D–E–F–G–A–H odpowiada do–re–mi–fa–sol–la–si. Nazwa powtarza się w kolejnych oktawach; oktawę oznacza się osobno.",
+      "przyklady": [
+        "Model autorski: G naturalne odpowiada sylabie sol niezależnie od jego funkcji tonalnej."
+      ],
+      "ograniczenia": [
+        "Nie stosować automatycznie systemu ruchomego do ani wymyślać sylab alterowanych."
+      ],
+      "podstawa": [
+        "SOLM-FIXED"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.16–17"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zmiana-klucza",
+      "termin": "Zmiana klucza i zapowiedź na końcu systemu",
+      "aliasy": [
+        "klucz",
+        "wysokość",
+        "zapowiedź"
+      ],
+      "definicja": "Nowy klucz zmienia interpretację położenia nut od miejsca, w którym zaczyna obowiązywać.",
+      "omowienie": "Autor opisuje umieszczanie nowego klucza przed odnośną nutą lub grupą. Zmiana na początku kolejnej pięciolinii może być zapowiedziana na końcu poprzedniej.",
+      "przyklady": [
+        "Model autorski: Ta sama główka na trzeciej linii w kluczu G i C altowym ma inną wysokość."
+      ],
+      "ograniczenia": [
+        "Zapowiedź jest znakiem informacyjnym; nie naliczać podwójnego przesunięcia. Przepisanie melodii do innego klucza z zachowaniem wysokości jest odrębną operacją."
+      ],
+      "podstawa": [
+        "WES-CLEF-CHANGE",
+        "WES-CLEF-ANCHOR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.18–21"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "budowa-nuty",
+      "termin": "Główka, laska, chorągiewka i wiązanie",
+      "aliasy": [
+        "ogonek",
+        "wartość nutowa"
+      ],
+      "definicja": "Kształt nuty określa jej nominalną wartość czasową w omawianej notacji.",
+      "omowienie": "Cała nuta ma samą główkę; półnuta pustą główkę i laskę; ćwierćnuta pełną główkę i laskę; od ósemki dochodzą chorągiewki lub odpowiadające im wiązania. Dla pojedynczych główek laska w górę znajduje się z prawej, w dół z lewej.",
+      "przyklady": [
+        "Model autorski: Szesnastka ma dwa wiązania w grupie albo dwie chorągiewki w zapisie pojedynczym."
+      ],
+      "ograniczenia": [
+        "Nie odczytywać czasu wykonania z samej liczby wiązań bez informacji o grupie niemiarowej."
+      ],
+      "podstawa": [
+        "WES-FLAGS-BEAMS",
+        "WES-DURATION-BINARY",
+        "WES-STEM-SIDE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.23–25"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "brevis",
+      "termin": "Brevis",
+      "aliasy": [
+        "dwie całe nuty",
+        "historyczna wartość rytmiczna"
+      ],
+      "definicja": "Wartość historyczna odpowiadająca w modelu autora dwóm całym nutom.",
+      "omowienie": "Wesołowski wskazuje jej obecność w starszych wydaniach i omawia dwa warianty zapisu. W bazie oddzielamy tę wartość od podstawowej tabeli podziału dwójkowego.",
+      "przyklady": [
+        "Model autorski: Brevis odpowiada czterem półnutom w tym modelu."
+      ],
+      "ograniczenia": [
+        "Nie odtwarzać innych mensuralnych proporcji z tej jednej wartości."
+      ],
+      "podstawa": [
+        "WES-DURATION-BINARY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, przypis s.24"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pauza-calotaktowa",
+      "termin": "Pauza całotaktowa i całonutowa",
+      "aliasy": [
+        "cisza w takcie",
+        "wartość pauzy"
+      ],
+      "definicja": "Znak całonutowy może mieć funkcję oznaczenia całego taktu ciszy, niezależnie od nominalnej wartości całej nuty.",
+      "omowienie": "Wesołowski rozróżnia dokładne wartości pauz i konwencję całotaktową. Znak całotaktowy umieszcza się centralnie w takcie, inne pauzy na miejscu początku ciszy.",
+      "przyklady": [
+        "Model autorski: W 3/4 pauza całotaktowa obejmuje trzy ćwierćnuty ciszy, nie cztery."
+      ],
+      "ograniczenia": [
+        "W danych rozróżniać typ pauzy od jej glifu; specjalne zapisy wydawnicze wymagają sprawdzenia."
+      ],
+      "podstawa": [
+        "WES-REST-MEASURE",
+        "WES-DURATION-BINARY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.25–26"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pauza-wielotaktowa",
+      "termin": "Pauza wielotaktowa i pauza generalna",
+      "aliasy": [
+        "P.G.",
+        "cisza",
+        "liczba taktów"
+      ],
+      "definicja": "Pauza wielotaktowa oznacza ciszę przez podaną liczbę pełnych taktów; pauza generalna odnosi się do całego zespołu.",
+      "omowienie": "Liczba nad oznaczeniem wielotaktowym określa liczbę taktów. Skrót P.G. oznacza jednoczesną przerwę wszystkich głosów, której wykonawczy czas zależy od dyrygenta lub wykonawcy.",
+      "przyklady": [
+        "Model autorski: Trzy takty ciszy przy stałym 2/4 odpowiadają sześciu ćwierćnutom zapisanego czasu."
+      ],
+      "ograniczenia": [
+        "Nie przypisywać P.G. stałego czasu ani utożsamiać jej z pauzą wielotaktową."
+      ],
+      "podstawa": [
+        "WES-MULTIREST",
+        "WES-FERMATA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.25–26"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "kropki-rozmieszczenie",
+      "termin": "Rozmieszczanie kropek przedłużających",
+      "aliasy": [
+        "ortografia nut",
+        "wielogłos"
+      ],
+      "definicja": "Kropka przedłużająca znajduje się z prawej strony główki i nie jest znakiem artykulacyjnym.",
+      "omowienie": "Dla nuty na polu leży na jej wysokości; przy nucie na linii w jednogłosie autor wskazuje położenie nieco wyżej. W wielogłosie opisuje odrębne położenie względem linii według kierunku lasek.",
+      "przyklady": [
+        "Model autorski: Kropka rytmiczna przy główce na linii nie jest umieszczana na tej linii w omawianym jednogłosowym profilu."
+      ],
+      "ograniczenia": [
+        "Nie rozwiązywać kolizji akordów bez silnika notacji; nie mylić z kropką staccato."
+      ],
+      "podstawa": [
+        "WES-DOT-SERIES",
+        "WES-STEM-SIDE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.27–28"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "fermata-kontekst",
+      "termin": "Fermata nad nutą, pauzą lub kreską",
+      "aliasy": [
+        "fermata lunga",
+        "corta",
+        "breve"
+      ],
+      "definicja": "Fermata pozostawia wykonawcy decyzję o przedłużeniu lub zatrzymaniu przebiegu.",
+      "omowienie": "Może dotyczyć dźwięku, pauzy, a nad kreską taktową oznacza przerwę pomiędzy taktami. Dodatki lunga oraz corta lub breve sugerują długość względną. Autor wspomina rzadki znak między dwiema nutami odnoszący się do obu.",
+      "przyklady": [
+        "Model autorski: Fermata nad pauzą oznacza przedłużenie ciszy, nie dźwięku."
+      ],
+      "ograniczenia": [
+        "Nie ustalać obowiązkowego mnożnika czasu; rozmieszczenie w wielogłosie zależy od zapisu."
+      ],
+      "podstawa": [
+        "WES-FERMATA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.28–29"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "grupy-niemiarowe-proporcja",
+      "termin": "Proporcje grup niemiarowych",
+      "aliasy": [
+        "triola",
+        "duola",
+        "kwartola",
+        "kwintola",
+        "sekstola",
+        "septola",
+        "oktoła"
+      ],
+      "definicja": "Grupa niemiarowa zajmuje czas grupy regularnej, którą zastępuje.",
+      "omowienie": "W podziale dwójkowym autor omawia 3:2, 5–7:4, 9–15:8 oraz 17–31:16. Dla wartości trójdzielnej: 2:3, 4:3, 5:3, 7–11:6 i 13–23:12. Liczba nut rzeczywistych i liczba zastąpionych wartości tworzą proporcję, która określa mnożnik czasu.",
+      "przyklady": [
+        "Model autorski: Pięć szesnastek w grupie 5:4 zajmuje czas jednej regularnej ćwierćnuty."
+      ],
+      "ograniczenia": [
+        "Sama cyfra nad grupą nie wystarcza bez informacji o zastępowanym podziale. Nie traktować katalogu jako wszystkich możliwych tuplets."
+      ],
+      "podstawa": [
+        "WES-TUPLET",
+        "WES-DUPLET",
+        "WES-TUPLET-RATIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.29–31"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "siatka-rytmiczna",
+      "termin": "Wspólna siatka równych podziałów",
+      "aliasy": [
+        "najmniejsza wspólna wielokrotność",
+        "polirytmia"
+      ],
+      "definicja": "Wspólną siatkę dwóch równych podziałów odcinka wyznacza najmniejsza wspólna wielokrotność liczebności.",
+      "omowienie": "Przy numerowaniu od zera podział na a i b daje początki co NWW/a i NWW/b jednostek. Autor używa wspólnej wielokrotności do porównywania grup regularnych i niemiarowych.",
+      "przyklady": [
+        "Model autorski: 2:3 daje siatkę sześciu części: początki [0,3] i [0,2,4]."
+      ],
+      "ograniczenia": [
+        "To model równych odcinków o wspólnym początku i końcu, nie automatyczny opis historycznego wykonania. W s.32 odróżniać obliczenie od niespójnej numeracji drukowanej."
+      ],
+      "podstawa": [
+        "WES-POLYRHYTHM-GRID"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.31–33"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }

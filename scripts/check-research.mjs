@@ -50,3 +50,11 @@ for(const g of st.gamy){const d=g.poltonyOdDolnejToniki;if(!validRefs(g.odwolani
 if(new Set(st.gamy.map(g=>[g.tonacja,g.odmiana,g.kierunek].join(':'))).size!==st.gamy.length)se.push('Duplicate scale');
 for(const q of st.trojdzwięki){const p=q.odleglosciOdPrymy;const jakosc=({'4,3':'durowy','3,4':'molowy','3,3':'zmniejszony','4,4':'zwiększony'})[[p[1],p[2]-p[1]].join(',')];if(!validRefs(q.odwolania)||jakosc!==q.jakosc||q.skladniki.length!==3)se.push('Invalid triad');}
 if(se.length){console.error(se.join('\n'));process.exitCode=1;}else console.log('Scale and chord data structure checked; music review still required.');
+
+const nr=szczegoly.notacjaIRytm, ne=[];
+if(nr.dopuszczoneDoPublikacji!==false||nr.klucze.length!==9||nr.pozycje.length!==153||nr.kropki.length!==28||!validRefs(nr.odwolania))ne.push('Invalid notation metadata');
+const lit=['c','d','e','f','g','a','h'];
+for(const c of nr.klucze){for(let p=-4;p<=12;p++){const q=nr.pozycje.filter(x=>x.klucz===c.id&&x.pozycja===p), v=c.anchor+p-2*(c.linia-1);if(q.length!==1||q[0].litera!==lit[(v%7+7)%7]||q[0].oktawa!==Math.floor(v/7))ne.push('Invalid staff position');}}
+for(const r of nr.proporcjeNiemiarowe)if(r.mnoznikCzasu[0]*r.liczbaNut!==r.mnoznikCzasu[1]*r.zastepuje||!validRefs(r.odwolania))ne.push('Invalid tuplet ratio');
+for(const g of nr.siatkiRytmiczne){const [a,b]=g.liczebnosci;if(g.koniec!==g.siatka||g.poczatkiA.length!==a||g.poczatkiB.length!==b||g.poczatkiA.some((x,i)=>!Number.isInteger(x)||x!==i*g.siatka/a)||g.poczatkiB.some((x,i)=>!Number.isInteger(x)||x!==i*g.siatka/b))ne.push('Invalid rhythm grid');}
+if(ne.length){console.error(ne.join('\n'));process.exitCode=1;}else console.log('Notation and rhythm derived data checked; rendering and audio untested.');
