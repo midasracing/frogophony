@@ -34,7 +34,9 @@
         "TRI-INV",
         "SEV-QUAL",
         "PL-HARM-V79",
-        "SIK-D7-INV"
+        "SIK-D7-INV",
+        "TAR-D7",
+        "TAR-D7-RES"
       ],
       "status": "partial"
     },
@@ -57,7 +59,8 @@
         "TRIAD-MAIN",
         "CAD-NONI",
         "PL-TRANSPOSE",
-        "SIK-TRIAD"
+        "SIK-TRIAD",
+        "TAR-CADENCE"
       ],
       "status": "partial"
     },
@@ -217,8 +220,10 @@
     },
     {
       "id": "II-FORM-06",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "TAR-ANALYSIS"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-SLUCH-01",
@@ -247,7 +252,12 @@
         "SEV-QUAL",
         "SEV-INV",
         "PL-HARM-V79",
-        "SIK-D7-INV"
+        "SIK-D7-INV",
+        "TAR-D7",
+        "TAR-D7-ROOTLESS",
+        "TAR-S6",
+        "TAR-D9",
+        "TAR-D9-ROOTLESS"
       ],
       "status": "partial"
     },
@@ -256,7 +266,8 @@
       "claimIds": [
         "MAJOR-PATTERN",
         "MINOR-MEL",
-        "PL-KEY-DETECT"
+        "PL-KEY-DETECT",
+        "TAR-DOR-S"
       ],
       "status": "partial"
     },
@@ -265,7 +276,10 @@
       "claimIds": [
         "TRIAD-MAIN",
         "CAD-NONI",
-        "SIK-FUNCTION"
+        "SIK-FUNCTION",
+        "TAR-FUNCTION",
+        "TAR-DEGREES",
+        "TAR-MOD"
       ],
       "status": "partial"
     },
@@ -328,7 +342,8 @@
       "id": "II-ZAS-04",
       "claimIds": [
         "TRITONE-AUDIO",
-        "PL-HB"
+        "PL-HB",
+        "TAR-ENH"
       ],
       "status": "partial"
     },
@@ -353,7 +368,9 @@
         "SEV-INV",
         "SEV-QUAL",
         "PL-HARM-V79",
-        "SIK-D7-INV"
+        "SIK-D7-INV",
+        "TAR-D7",
+        "TAR-D7-RES"
       ],
       "status": "partial"
     },
@@ -395,7 +412,15 @@
         "MINOR-V",
         "SEV-QUAL",
         "SIK-TRIAD",
-        "SIK-FUNCTION"
+        "SIK-FUNCTION",
+        "TAR-FUNCTION",
+        "TAR-DOR-S",
+        "TAR-D7",
+        "TAR-D7-ROOTLESS",
+        "TAR-S6",
+        "TAR-D9",
+        "TAR-D9-ROOTLESS",
+        "TAR-DEGREES"
       ],
       "status": "partial"
     },
@@ -410,14 +435,17 @@
         "SIK-STRICT5",
         "SIK-STRICT2",
         "SIK-REPEAT",
-        "SIK-DOUBLING"
+        "SIK-DOUBLING",
+        "TAR-STRICT-PROFILE",
+        "TAR-D7-RES"
       ],
       "status": "partial"
     },
     {
       "id": "II-HAR-03",
       "claimIds": [
-        "CAD-NONI"
+        "CAD-NONI",
+        "TAR-CADENCE"
       ],
       "status": "partial"
     },
@@ -425,24 +453,38 @@
       "id": "II-HAR-04",
       "claimIds": [
         "SIK-REPEAT",
-        "SIK-BASS6"
+        "SIK-BASS6",
+        "TAR-FIGURED"
       ],
       "status": "partial"
     },
     {
       "id": "II-HAR-05",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "TAR-FOREIGN",
+        "TAR-SUSP",
+        "TAR-PASS",
+        "TAR-NEIGHBOR",
+        "TAR-ANTICIPATION"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-HAR-06",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "TAR-MOD",
+        "TAR-MOD-DIAT",
+        "TAR-SECONDARY",
+        "TAR-ALTER"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-HAR-07",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "TAR-ANALYSIS"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-HIS-01",

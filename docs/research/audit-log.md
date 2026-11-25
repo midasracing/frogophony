@@ -77,3 +77,6 @@ Bezpośrednie otwarcie SIK-HAR-ILIDE zakończyło się błędem dostępu. Zapisa
 
 ## Sikorski — pierwsza lektura dostarczonego PDF (2026-11-25)
 Plik otwarto programowo (499 stron) oraz sprawdzono obrazy pierwszych rozdziałów, granicę tomów i wybrane dalsze strony. Wykryto duplikat 9–10 i zniekształcenie renderowania dalszych stron; ekstrakcja osadzonych JPEG pozwala czytać tekst. Dodano 13 twierdzeń z precyzyjnymi lokalizatorami i 3 dodatkowe potwierdzenia istniejących. W szczególności odróżniono pozycję, postać, układ, ruchy i ograniczenia ścisłego łączenia akordów od swobodnego. Część II tylko identyfikacja i przegląd struktury, nie przeczytana. Bez kopii podręcznika, bez zmian runtime ani zatwierdzenia pedagogicznego.
+
+## Targosz — pierwsza lektura i porównanie (2026-11-25)
+Otrzymano 387-stronicowy PDF wyd. II, PWM 2004. Odczytano wskazane fragmenty, porównano z Sikorskim i dodano 23 nowych twierdzeń oraz 7 dodatkowych odwołań. Zapisano różnice metodyczne w harmony-profiles.md. Nie ukończono lektury ani nie przeprowadzono recenzji lub testów silników. Nie kopiowano PDF. Zakres pokrycia jest częściowy; nie zwiększać statusów releaseApproved.

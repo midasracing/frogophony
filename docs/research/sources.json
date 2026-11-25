@@ -1067,6 +1067,15 @@
       "note": "Źródło odczytu: PDF użytkownika ilide.info-k-sikorski-harmonia-i-i-ii-pr_aaf88189877d7f9ef302b83841d83125.pdf, 499 stron, 111689734 bajtów; URL jest odnośnikiem katalogowym, nie miejscem odczytu. Część I od przedmowy, brak kart tytułowych, duplikat PDF 9–10; część II od PDF 181, karta tytułowa PDF 182 PWM 1979. Odczyt obrazów PDF 1–68 oraz 100, kontrola granicy 178–201 i wybranych dalszych miniatur. Od okolic PDF 100 renderery mogą zniekształcać obraz, ale osadzone JPEG są czytelne. Nie sprawdzono całej zawartości ani kompletności każdej strony; nie publikować skanów.",
       "accessKind": "user-upload",
       "fileName": "ilide.info-k-sikorski-harmonia-i-i-ii-pr_aaf88189877d7f9ef302b83841d83125.pdf"
+    },
+    {
+      "id": "TARGOSZ-2004-UPLOAD",
+      "type": "theory",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/podstawy-harmonii-funkcyjnej%2Cjacek-targosz%2C2223%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "URL katalogowy, źródło odczytu to PDF użytkownika. Jacek Targosz, Podstawy harmonii funkcyjnej, PWM, wyd. II, 2004, ISBN 83-224-0843-9, 387 stron PDF, 19496410 bajtów. Karty tytułowe PDF 3–4. Odczytano wstęp i spis 5–18, 28–31, 35–38, 77–79 wraz z obrazami oraz wybrane fragmenty warstwy tekstowej 84,86,101,105,109,122,138,147–149,162,165,172,179,186,188,245,262–265,284–285,316,349,354,367,387. OCR miejscami zniekształca symbole, przykłady nie przepisane. Nie przeczytano całości. Powiązany metodycznie z Sikorskim, nie w pełni niezależny.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-targosz-j-podstawy-harmonii-funkcyjnej-krakow-2004-s-297-pr_e3d75284619be19e80d509316612f6fa.pdf"
     }
   ]
 }

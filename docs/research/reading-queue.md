@@ -32,3 +32,6 @@ Alternatywny link do Sikorskiego SIK-HAR-ILIDE: bezpośrednie otwarcie niedostę
 
 ### Otrzymano Sikorskiego (2026-11-25)
 SIK-HAR-UPLOAD: 499 stron PDF, dostęp do osadzonych skanów. Część I PDF 1–180 (brak początku wydania), część II PDF 181–499, karta tytułowa PWM 1979. Nie prosić o ponowny upload; brak roku części I i pełny audyt pozostają do sprawdzenia. Odczyt podstaw §1–21 i wybranej s.110; dalsza lektura D7, D9, funkcje poboczne, modulacje, figuracja, alteracje i druga część. Standardowe renderowanie niektórych stron uszkodzone, korzystać z oryginalnych osadzonych obrazów. Nie publikować książki w repo.
+
+### Otrzymano Targosza 2026-11-25
+TARGOSZ-2004-UPLOAD: wyd. II, PWM 2004, 387 stron, tekst i obrazy. Nie prosić ponownie o egzemplarz. Odczyt fragmentaryczny zlokalizowany w rejestrze; dalsza lektura szczegółowych rozwiązań i symboliki, nie przepisywać OCR znaków. Kolejne P0: PDF Wesołowskiego; następnie Dzielska/Kaszycki i Wójcik.

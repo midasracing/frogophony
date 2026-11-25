@@ -274,6 +274,11 @@
           "sourceId": "SIK-HAR-UPLOAD",
           "locator": "Cz. I §5, s.19 (PDF 8)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 78 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -303,6 +308,11 @@
           "sourceId": "WES-1986-TEXT",
           "locator": "§38, s.110",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 79 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -327,6 +337,11 @@
         {
           "sourceId": "WES-1986-TEXT",
           "locator": "§38, s.109–110",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 78–79 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
         }
       ],
@@ -961,6 +976,11 @@
           "sourceId": "SIK-HAR-UPLOAD",
           "locator": "Część I §6, s.20–21 (PDF 9–11)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 31 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1012,6 +1032,11 @@
           "sourceId": "SIK-HAR-UPLOAD",
           "locator": "Część I §9, s.27; §17, s.63 (PDF 17,53)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 35–36 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1028,6 +1053,11 @@
         {
           "sourceId": "SIK-HAR-UPLOAD",
           "locator": "Część I §9, s.27–28 (PDF 17–18)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 38 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
         }
       ],
@@ -1131,6 +1161,11 @@
           "sourceId": "SIK-HAR-UPLOAD",
           "locator": "Część I §17, s.64–65 (PDF 54–55)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 35, 122, 138 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1164,6 +1199,397 @@
         {
           "sourceId": "SIK-HAR-UPLOAD",
           "locator": "Część I s.110 (PDF 100)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FUNCTION",
+      "statement": "Funkcja harmoniczna opisuje relację akordu do innych akordów, a nie wyłącznie jego skład dźwiękowy.",
+      "scope": "Model funkcyjny dur-moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 28–31 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CADENCE",
+      "statement": "W terminologii autora D–T to kadencja doskonała (autentyczna), S–T kościelna (plagalna), S–D–T wielka doskonała.",
+      "scope": "Zwroty kończące cząstkę formalną; nie utożsamiać z angielskim perfect authentic cadence, które może mieć dodatkowe warunki.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 30 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-STRICT-PROFILE",
+      "statement": "Autor celowo nie wydziela ścisłego i swobodnego łączenia trójdźwięków w postaci zasadniczej; zakazuje równoległych oktaw i kwint, także z udziałem kwinty zmniejszonej, oraz ukrytych oktaw i kwint między głosami skrajnymi.",
+      "scope": "Deklaracja metodyczna Targosza, nie uniwersalny zakaz; szczegółowy algorytm wymaga lektury kolejnych rozdziałów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 8 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DOR-S",
+      "statement": "W moll doryckim trójdźwięk IV stopnia staje się durowy z powodu podwyższenia VI stopnia.",
+      "scope": "Konstrukcja triady w tej odmianie skali.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 79 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FOREIGN",
+      "statement": "Dźwięk melodii może nie być składnikiem aktualnego akordu; zmiany harmonii mogą następować wolniej niż zmiany melodii.",
+      "scope": "Podstawy figuracji i rytmu harmonicznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 84 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SUSP",
+      "statement": "Opóźnienie w ujęciu autora zastępuje składnik akordu sąsiednim dźwiękiem, który w trakcie trwania akordu rozwiązuje się sekundą na brakujący składnik.",
+      "scope": "Szkolna konwencja Targosza obejmuje opóźnienie z góry i dołu; nie utożsamiać automatycznie z węższą angielską definicją suspension.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 86 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-PASS",
+      "statement": "Dźwięk przejściowy w modelu autora jest metrycznie słabszy od poprzedniego i wypełnia odległość ruchem sekundowym.",
+      "scope": "Diatoniczne i chromatyczne przykłady; nie uniwersalna klasyfikacja innych szkół analizy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 101 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-NEIGHBOR",
+      "statement": "Dźwięk pomocniczy wychodzi sekundą od nuty wyjściowej i wraca na nią; w ujęciu autora jest metrycznie słabszy od nuty wyjściowej.",
+      "scope": "Szkolna figuracja.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 105 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANTICIPATION",
+      "statement": "Antycypacja jest metrycznie słabym dźwiękiem obcym, powtórzonym na kolejnej mocnej części jako składnik akordu lub opóźnienie.",
+      "scope": "Definicja Targosza.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 109 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7",
+      "statement": "Dominanta septymowa składa się z trójdźwięku durowego i septymy małej względem prymy.",
+      "scope": "Typowa struktura D7 w harmonii funkcyjnej; sama struktura nie dowodzi funkcji w każdym kontekście.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 147–148 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-RES",
+      "statement": "W podstawowym rozwiązaniu D7 na T tercja dominanty idzie półtonem w górę, septyma sekundą w dół (małą w dur, wielką w moll).",
+      "scope": "Regularne D7–T w modelu autora; inne rozwiązania i wyjątki osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 149 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D7-ROOTLESS",
+      "statement": "Po usunięciu prymy D7 pozostaje struktura trójdźwięku zmniejszonego na VII stopniu, lecz autor zachowuje interpretację dominantową, gdy kontekst ją uzasadnia.",
+      "scope": "Nie utożsamiać wszystkich trójdźwięków zmniejszonych z D7 bez prymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 162 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6",
+      "statement": "Subdominanta z sekstą w ujęciu autora powstaje przez dodanie seksty wielkiej do trójdźwięku durowego lub molowego.",
+      "scope": "Struktura charakterystyczna funkcji S; nie sekstakord.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 165 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9",
+      "statement": "Dominanta nonowa rozszerza D7 o nonę; w dur naturalnym jest ona wielka, w dur harmonicznym może być mała, w omawianym moll harmonicznym mała.",
+      "scope": "Zakres szkolny rozdziału V, nie wszystkie akordy jazzowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 172 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D9-ROOTLESS",
+      "statement": "D9 bez prymy ma strukturę czterodźwięku na wpół zmniejszonego przy nonie wielkiej albo zmniejszonego przy nonie małej.",
+      "scope": "Interpretacja funkcyjna wymaga kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 179 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DEGREES",
+      "statement": "Akordy na II, III, VI i VII stopniu należą do stopni pobocznych; autor rozróżnia ich użycie zastępcze i samodzielne.",
+      "scope": "Model Targosza; nie redukować oceny do numeru stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 186,188 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED",
+      "statement": "Cyfry basu cyfrowanego oznaczają interwały względem brzmiącego basu, a nie prymy akordu.",
+      "scope": "Rozróżnić notację szkolną i historyczną.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 245 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD",
+      "statement": "Modulacja oznacza przejęcie funkcji toniki przez inny akord; w ćwiczeniu autor wyróżnia ustalenie tonacji wyjściowej, przejście i utrwalenie docelowej.",
+      "scope": "Model modulacji funkcyjnej, odróżnić chwilowe wychylenie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 262 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-DIAT",
+      "statement": "W diatonicznej modulacji bezpośredniej akord wspólny zmienia interpretację funkcyjną między tonacjami; modulacja pośrednia wykorzystuje dodatkowe przejścia.",
+      "scope": "Konwencja autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 265 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY",
+      "statement": "Dominanta wtrącona ma odniesienie do akordu pełniącego chwilowo rolę toniki; nie musi powstać przez chromatyczne przekształcenie poprzedniego akordu pozornego.",
+      "scope": "Model autora, odróżnić od trwałej modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 284–285 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER",
+      "statement": "Autor odróżnia alterację pozorną (akord jest gamowłaściwy w innej tonacji) od rzeczywistej (struktura nie jest gamowłaściwa w żadnej tonacji w rozpatrywanym systemie).",
+      "scope": "Klasyfikacja Targosza, nie ogólna definicja wszystkich chromatyzmów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 316 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH",
+      "statement": "W stroju równomiernie temperowanym różnie zapisane dźwięki, akordy i tonacje mogą brzmieć identycznie.",
+      "scope": "Odróżnić równoważność brzmieniową od funkcji; nie przyjmować bezwarunkowo dalszych twierdzeń o historycznym strojeniu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 349 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS",
+      "statement": "Analiza harmoniczna obejmuje wydzielenie przebiegu akordowego z faktury, z uwzględnieniem dźwięków obcych, a następnie związki harmonii z innymi elementami utworu.",
+      "scope": "Zadania analityczne wymagają kontekstu i rubryki, nie jednej etykiety.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 367 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
         }
       ],
