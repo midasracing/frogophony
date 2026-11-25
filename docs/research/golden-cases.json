@@ -3451,7 +3451,7 @@
         ]
       },
       "expected": {
-        "structuralFunctionalRoot": "G",
+        "functionalRootBeforeAlteration": "G",
         "raisedRoot": "G#",
         "destination": "A"
       }
@@ -3470,8 +3470,16 @@
       },
       "expected": {
         "possibleInterpretations": [
-          "altered-S",
-          "secondary-D7-flat5-to-D"
+          {
+            "function": "altered-S",
+            "functionalRootBeforeAlteration": "G"
+          },
+          {
+            "function": "secondary-D7-flat5",
+            "root": "E",
+            "targetRoot": "A",
+            "targetGlobalFunction": "D"
+          }
         ],
         "unique": false
       }
