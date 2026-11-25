@@ -1,0 +1,386 @@
+[
+  {
+    "chunk_id": 12,
+    "path": "js/12-e3b3a191.js",
+    "groups": [
+      "course-sections",
+      "exercise-session",
+      "landing"
+    ],
+    "bytes": 9989,
+    "sha256": "1b78323ee0130dcb844046b5f9be19bae5c65b3e4640aa74bee757cea5da32d0"
+  },
+  {
+    "chunk_id": 1327,
+    "path": "css/1327-5b8c700a.css",
+    "groups": [
+      "course-sections",
+      "exercise-session"
+    ],
+    "bytes": 19739,
+    "sha256": "b8a316af7e77812c407fc70bf20282d4a450385733685e745c5c35fcc96f14a3"
+  },
+  {
+    "chunk_id": 1327,
+    "path": "js/1327-d235bd54.js",
+    "groups": [
+      "course-sections",
+      "exercise-session"
+    ],
+    "bytes": 34047,
+    "sha256": "ab8d6dffd5129be586466e2aed5cd9b1944174a648cb67e3f2fcc20a56f50b8b"
+  },
+  {
+    "chunk_id": 1560,
+    "path": "js/1560-ec235e7c.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 69536,
+    "sha256": "cc7dd45bf57f6cf5aeeab14344cbf9e4191fe985b2a36c79be754cf094efea02"
+  },
+  {
+    "chunk_id": 1976,
+    "path": "js/1976-3fb99f62.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 8198,
+    "sha256": "10e4baa2565e18028c40e95e3cd9982022bb1811a177869c5446e69f2e005b08"
+  },
+  {
+    "chunk_id": 2039,
+    "path": "js/2039-adeb1f21.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 12302,
+    "sha256": "a6ad88932207dde3815d222d911093bdf18f3257a51f7f67471b5b6aa946d9c1"
+  },
+  {
+    "chunk_id": 2751,
+    "path": "js/2751-c11d41e3.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 8442,
+    "sha256": "bae0e87bf95d52998e85bcbe9a1a96cd0ceb8d2cb3c4aeb5cf36d0bfed14dc11"
+  },
+  {
+    "chunk_id": 2837,
+    "path": "js/2837-0a97c589.js",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 26430,
+    "sha256": "03f3a2f15b33c4c8aa4a1015da24f478cdc2499438770821423221e1fb734287"
+  },
+  {
+    "chunk_id": 3406,
+    "path": "css/3406-2fbeaccb.css",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 60526,
+    "sha256": "adc6434791b7773756d8db1211927b8dff97245f0d9dcbedf9690ecc4cead5bd"
+  },
+  {
+    "chunk_id": 3406,
+    "path": "js/3406-15d8ead2.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 142184,
+    "sha256": "add215c43c9728992ff7810726abd929acbba0cdbda4034ca55fd899133e3581"
+  },
+  {
+    "chunk_id": 4626,
+    "path": "css/4626-a5d3cf32.css",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 11009,
+    "sha256": "0a7f1be872c81804ad5b505f84197dd6897b93fd4410623ae1c1cbbb9806e8ce"
+  },
+  {
+    "chunk_id": 4626,
+    "path": "js/4626-0ef20208.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 20060,
+    "sha256": "08f6806578f4036b5c2b41c4962ca99699fa98ec220739ea4a09b87c449f34b5"
+  },
+  {
+    "chunk_id": 4769,
+    "path": "css/4769-628e48ee.css",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 11228,
+    "sha256": "16e3f533c774467427ee060f254fde6e2eac32349e4fb835cfd44e2ef039c611"
+  },
+  {
+    "chunk_id": 4769,
+    "path": "js/4769-5ca3b089.js",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 22985,
+    "sha256": "8732c723bce4edfad5567ea84cb65e9488ab5ae2d3ad4a69b7868e8119b74db6"
+  },
+  {
+    "chunk_id": 5314,
+    "path": "js/5314-33cb86aa.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 165539,
+    "sha256": "91be8fcfa3366a08bf1075e07281aee2baf35654087f1aa826b22e919371fd5b"
+  },
+  {
+    "chunk_id": 6228,
+    "path": "js/6228-131d323e.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 264651,
+    "sha256": "502046c97a6bc14a3920f5b68349d4a6b2d4e8f185fad3b9a59b86d305b250b6"
+  },
+  {
+    "chunk_id": 6358,
+    "path": "js/6358-3bfe6c20.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 291794,
+    "sha256": "41771939872944e32d914231780d82f3a8301b4f6def12c6e78475d2113c3209"
+  },
+  {
+    "chunk_id": 6628,
+    "path": "js/6628-8f48f50c.js",
+    "groups": [
+      "course-sections",
+      "exercise-session"
+    ],
+    "bytes": 16543,
+    "sha256": "796ebd8b7c96d5a8d0cfb1a0d807e0cc8a5c0dc3b344a6b6a79b72a7ca1beaeb"
+  },
+  {
+    "chunk_id": 6706,
+    "path": "js/6706-5a0ff698.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 8642,
+    "sha256": "db1979799122ef960a253b1089efb1e0aa554db3d071dfcc2a4796b113c77262"
+  },
+  {
+    "chunk_id": 6743,
+    "path": "js/6743-8d1e0be7.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 16760,
+    "sha256": "04f9dec2588499f76c145f5f114d4c316d87d8b8c2d3089807d3bba4997e4641"
+  },
+  {
+    "chunk_id": 7424,
+    "path": "css/homePage-64ed3757.css",
+    "groups": [
+      "landing"
+    ],
+    "bytes": 1909,
+    "sha256": "a9df9d9b6c3b1529f481df7b01d0ef0c4d89cef7ff9ca9fc90adfcea9ace8e17"
+  },
+  {
+    "chunk_id": 7424,
+    "path": "js/homePage-4be75ad9.js",
+    "groups": [
+      "landing"
+    ],
+    "bytes": 2569,
+    "sha256": "9276b370ce354a55c54d0be45f22bd718c30ca5d6a400f4a7ddffde930b6e3d7"
+  },
+  {
+    "chunk_id": 7497,
+    "path": "js/7497-f39a33c8.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 7435,
+    "sha256": "2bb1f7a3de57588c9926c8261600a8af093afe7ec99aa593df6cec68c52c6fb7"
+  },
+  {
+    "chunk_id": 7501,
+    "path": "css/7501-91dd5d9e.css",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 19320,
+    "sha256": "71437ff7e264652aea848873208a2265d9d15cb6e9029b2fc09d736dc8ce68fd"
+  },
+  {
+    "chunk_id": 7501,
+    "path": "js/7501-92fb0288.js",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 14886,
+    "sha256": "1cbef9ec84d4b61de22bb1b29eafc7d81ecaf59179ad76905f61917157c69a5d"
+  },
+  {
+    "chunk_id": 7507,
+    "path": "js/session-a04d9575.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 2207,
+    "sha256": "697d5a66923922cc6a05f3f4e647580a86e5349da7da46f35677a98ceb69d6fd"
+  },
+  {
+    "chunk_id": 7581,
+    "path": "js/7581-23749748.js",
+    "groups": [
+      "course-path",
+      "exercise-session"
+    ],
+    "bytes": 198904,
+    "sha256": "c3789a01e0a277262eadebd3e0007634c47299c9011669bb523021ffe36df562"
+  },
+  {
+    "chunk_id": 7660,
+    "path": "css/path-4f5df80c.css",
+    "groups": [
+      "course-path"
+    ],
+    "bytes": 37021,
+    "sha256": "807517a895f9df49ff3ef9ddc6aa23ec48b8f0a5ae73afa603b9f020da962d43"
+  },
+  {
+    "chunk_id": 7660,
+    "path": "js/path-7557091b.js",
+    "groups": [
+      "course-path"
+    ],
+    "bytes": 97196,
+    "sha256": "cc81d81eeea9d011e6e59bf7d65573508c494e6488951f8f051eebaf871a668b"
+  },
+  {
+    "chunk_id": 7668,
+    "path": "css/7668-39900faa.css",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 10982,
+    "sha256": "4c6e56f98fef588f85824dd3167412c8364d511e4dae99310df38944e6bbea4e"
+  },
+  {
+    "chunk_id": 7668,
+    "path": "js/7668-f150ac20.js",
+    "groups": [
+      "course-sections",
+      "landing"
+    ],
+    "bytes": 24332,
+    "sha256": "fbaa9478f5e59524c6639169e5e5e197a08720c27f3ab81299e2dbd6da827317"
+  },
+  {
+    "chunk_id": 7981,
+    "path": "js/7981-9863c38d.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 9146,
+    "sha256": "ee8019f97796dd188f88e4139c88df806dc01b88e999c46655a484ca5e3fb036"
+  },
+  {
+    "chunk_id": 8106,
+    "path": "js/8106-2450d00b.js",
+    "groups": [
+      "course-sections",
+      "exercise-session",
+      "landing"
+    ],
+    "bytes": 12687,
+    "sha256": "23b2da0697c1dc18f6a18b71ff95e02c47d382692090aac64bf80586ef160254"
+  },
+  {
+    "chunk_id": 8833,
+    "path": "css/pathSections-489cb443.css",
+    "groups": [
+      "course-sections"
+    ],
+    "bytes": 17480,
+    "sha256": "928000280c191b78f9a454ddb066d030b4dfb564150364c0357116f1ddd51181"
+  },
+  {
+    "chunk_id": 8833,
+    "path": "js/pathSections-626d935a.js",
+    "groups": [
+      "course-sections"
+    ],
+    "bytes": 37227,
+    "sha256": "248e2953bfd10fe8dcd78e6336d33e51da30866b1c755769bdc5ce7ae164f48e"
+  },
+  {
+    "chunk_id": 8876,
+    "path": "css/8876-b6404503.css",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 95525,
+    "sha256": "dd959a24f9624d9e2db111173ac9a21a5574dede96b5a56da28165656002176b"
+  },
+  {
+    "chunk_id": 8876,
+    "path": "js/8876-4fa96fd8.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 406606,
+    "sha256": "661f93d79eb647d8fb6b1a823a27aeb1f997ddd0bbf04f7df685dafae9487b11"
+  },
+  {
+    "chunk_id": 8929,
+    "path": "js/8929-cbfb6f5d.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 10788,
+    "sha256": "08208b5c96ab2fba9f328a08ea862939f8c22f520f208789c46163a8f32d86ee"
+  },
+  {
+    "chunk_id": 9031,
+    "path": "js/9031-45aaa835.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 7460,
+    "sha256": "fa069a0754f7d31d174b451debaa6fcda95cddb0ec72ce0c34ca493c84560611"
+  },
+  {
+    "chunk_id": 9257,
+    "path": "css/9257-0716b83d.css",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 77964,
+    "sha256": "efeaf6773c5045664850f2082a238b0c8c829ef8751f73463fbc87c82d635edb"
+  },
+  {
+    "chunk_id": 9257,
+    "path": "js/9257-fcc5321a.js",
+    "groups": [
+      "exercise-session"
+    ],
+    "bytes": 189246,
+    "sha256": "dd92144b2d56d8e52d0879b3217bc079b832138615c5d6e9d56809e7ffa9c839"
+  }
+]
