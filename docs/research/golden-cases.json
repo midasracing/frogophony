@@ -4445,6 +4445,154 @@
           3
         ]
       }
+    },
+    {
+      "id": "WHB01",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "triad": "T",
+        "inversion": 0,
+        "voices": 4,
+        "profile": "Wesolowski-1997-initial"
+      },
+      "expected": {
+        "memberMultiset": [
+          1,
+          1,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "id": "WHB02",
+      "domain": "harmony",
+      "input": {
+        "chord": [
+          "F",
+          "A",
+          "C"
+        ],
+        "bass": "F3",
+        "upper": [
+          "A3",
+          "C4",
+          "F4"
+        ]
+      },
+      "expected": {
+        "sopranoMember": 1,
+        "position": 1,
+        "layout": "close",
+        "inversion": 0
+      }
+    },
+    {
+      "id": "WHB03",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "source": [
+          "F",
+          "A",
+          "C"
+        ],
+        "target": [
+          "Bb",
+          "D",
+          "F"
+        ],
+        "profile": "closest"
+      },
+      "expected": {
+        "sharedPitch": "F",
+        "retainVoice": true,
+        "retainLayout": true
+      }
+    },
+    {
+      "id": "WHB04",
+      "domain": "harmony",
+      "input": {
+        "bass": "D",
+        "figure": "6",
+        "profile": "Wesolowski-1997"
+      },
+      "expected": {
+        "intervalsAboveBass": [
+          3,
+          6
+        ],
+        "structuralInversion": 1
+      }
+    },
+    {
+      "id": "WHB05",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "bass": "C",
+        "upper": [
+          "F",
+          "A",
+          "C"
+        ],
+        "context": "cadential-dominant-suspension"
+      },
+      "expected": {
+        "functionalRoot": "C",
+        "structuralRoot": "F",
+        "suspensions": [
+          [
+            4,
+            3
+          ],
+          [
+            6,
+            5
+          ]
+        ],
+        "doubledFunctionalMember": 1
+      }
+    },
+    {
+      "id": "WHB06",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "G4",
+          "F4",
+          "C4"
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "middleRole": "oderwany"
+      }
+    },
+    {
+      "id": "WHB07",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "C4",
+          "F4",
+          "E4"
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "middleRole": "zamienny"
+      }
     }
   ]
 }

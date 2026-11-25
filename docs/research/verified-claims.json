@@ -15137,6 +15137,614 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WH-PEDAGOGY-ADVANCED",
+      "statement": "W przedmowie Wesołowski różnicuje akcenty kształcenia: na studiach większy nacisk na własne konstrukcje, harmonizowanie melodii figurowanych, bas cyfrowany i niecyfrowany, modulację, różne obsady i analizę.",
+      "scope": "Opis założeń podręcznika z 1997, nie obecne wymagania rekrutacyjne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 5 (PDF 3)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SATB-ORDER",
+      "statement": "W początkowych zadaniach na chór mieszany autor zachowuje kolejność sopran–alt–tenor–bas; dopuszcza wspólną wysokość dwóch głosów, lecz nie krzyżowanie.",
+      "scope": "Profil początkowy, nie zakaz skrzyżowań we wszystkich późniejszych fakturach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 7 (PDF 4)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SATB-SPACING-BASIC",
+      "statement": "W początkowym profilu autor dopuszcza między sopranem i altem oraz altem i tenorem odległość do seksty, między tenorem i basem do duodecymy; przy dużym odstępie dolnym zaleca zbliżyć górne głosy.",
+      "scope": "Przewroty i inne obsady mają osobne warunki na s.29 i w dalszych rozdziałach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 8 (PDF 5)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-TRIAD-DOUBLING-BASIC",
+      "statement": "W pierwszych ćwiczeniach z trójdźwiękami bez przewrotu w czterogłosie Wesołowski dwoi wyłącznie prymę.",
+      "scope": "Ograniczenie etapu nauki; s.30 ponownie wskazuje jego tymczasowy charakter.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 9 (PDF 5)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-POSITION-LAYOUT",
+      "statement": "Pozycję akordu określa składnik w sopranie, układ skupiony lub rozległy zależy od rozłożenia trzech górnych głosów, bez uwzględniania odstępu bas–tenor.",
+      "scope": "Model czterogłosowej triady; nie zastępować pojęcia pozycji pojęciem przewrotu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 9 (PDF 5)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-VOICING-CONSTRUCTION",
+      "statement": "Przy konstruowaniu początkowego czterogłosu autor wpisuje najpierw prymę w basie i składnik wyznaczający pozycję w sopranie, następnie alt określający układ i tenor uzupełniający brakujący składnik, po czym sprawdza odległości.",
+      "scope": "Metoda dydaktyczna s.9–10, nie jedyny algorytm wszystkich układów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 9–10 (PDF 5–6)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FUNCTION-REPEAT-MARK",
+      "statement": "Dwie kropki w szkolnym zapisie funkcyjnym autora oznaczają powtórzenie poprzedniej funkcji.",
+      "scope": "Konwencja zapisu podręcznika, nie pauza ani znak końca powtórzenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 11 (PDF 6)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CLOSE-FIFTH",
+      "statement": "W łączeniu zasadniczych trójdźwięków triady o prymach w stosunku kwinty drogą najbliższą bas przechodzi na następną prymę, wspólny dźwięk górnego głosu pozostaje, pozostałe dwa idą sekundami; układ się nie zmienia.",
+      "scope": "Profil ścisły dla pełnych trójdźwięków z podwojoną prymą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 11 (PDF 6)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-REPEAT-POSITION",
+      "statement": "Przy zmianie dźwięku melodii w obrębie tej samej funkcji autor zmienia pozycję akordu; może wtedy także zmienić układ.",
+      "scope": "Dotyczy podanego modelu harmonizowania, nie każdej powtórzonej nuty.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 12 (PDF 7)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-BASS-LEAPS",
+      "statement": "Autor zaleca unikać dwóch kolejnych kwart lub kwint w tym samym kierunku w basie; w modelu początkowym septymę uważa za niewskazaną, odległość ponad oktawę za niedopuszczalną również jako sumę dwóch skoków w tym samym kierunku.",
+      "scope": "Zalecenie szkolne s.12; oddzielić niewskazane od zabronionego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 12 (PDF 7)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CLOSE-SECOND",
+      "statement": "W połączeniu zasadniczych trójdźwięków triady w stosunku sekundy drogą najbliższą bas idzie sekundą, pozostałe głosy przeciwnie do basu na najbliższe składniki; zdwojona pryma skacze tercją. Układ pozostaje ten sam.",
+      "scope": "Przy tym sposobie autor wyklucza unison tenoru z basem w wyjściowej subdominancie; swobodne warianty są osobne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 13 (PDF 7)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PERIOD-CADENCES",
+      "statement": "W modelu ośmiotaktowego okresu z dwoma zdaniami autor proponuje zawieszenie na D poprzednika oraz zakończenie następnika małą doskonałą D–T lub wielką doskonałą S–D–T; po niej może wystąpić plagalna S–T.",
+      "scope": "Przykład dydaktyczny, nie definicja długości każdego okresu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 14–15 (PDF 8)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MENTAL-CONSTRUCTION",
+      "statement": "W zadaniach tworzenia ośmiotaktów Wesołowski zaleca najpierw uformować przebieg według funkcji w wyobraźni, a następnie zagrać go z pamięci na fortepianie.",
+      "scope": "Zadanie twórcze; wymaga kryteriów ograniczeń zamiast jednej wzorcowej melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 14–15 (PDF 8)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-HARMONIZE-INITIAL",
+      "statement": "W pierwszym etapie harmonizacji triadą autor wymaga toniki na początku i końcu oraz D–T; przy powtórzeniu I lub V stopnia w melodii zaleca zmianę funkcji.",
+      "scope": "Zadeklarowany etap, ograniczony zasób akordów; nie reguła wszystkich melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 16 (PDF 9)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-HARMONIZE-LEAP",
+      "statement": "W początkowej harmonizacji skok między dwoma składnikami tego samego akordu prowadzi do powtórzenia funkcji ze zmianą pozycji; przy dużym skoku można zmienić układ, aby ograniczyć skoki pozostałych głosów.",
+      "scope": "Po wprowadzeniu swobodnych połączeń autor dopuszcza zmianę funkcji przy skoku tercji, kwarty lub kwinty (s.21).",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 16–21 (PDF 9–11)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-HARMONIZE-WORKFLOW",
+      "statement": "Autor rozdziela ustalenie funkcji melodii, wybór układu pierwszego akordu, oznaczenie składników, prowadzenie głosów, zaznaczenie kadencji oraz sprawdzenie przez grę na fortepianie.",
+      "scope": "Metodyka ćwiczenia pisemnego i praktycznego, nie automatyczne rozstrzygnięcie jednej odpowiedzi.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 16–17 (PDF 9)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FREE-FIFTH-COMMON",
+      "statement": "W swobodnym połączeniu trójdźwięków bez przewrotu o prymach w stosunku kwinty z zachowanym dźwiękiem wspólnym autor prowadzi tercję sopranu albo tenoru na tercję następnego akordu, drugi ruchomy głos sekundą; układ się zmienia.",
+      "scope": "W harmonicznym moll unika skoku kwinty zwiększonej w wokalistyce, dopuszcza kwartę zmniejszoną; model nie jest odwracalny w D–T.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 18–19 (PDF 10)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FREE-D-T-INCOMPLETE",
+      "statement": "W omawianym swobodnym D–T, aby nie prowadzić dźwięku prowadzącego skokiem na tercję T, autor dopuszcza tonikę bez kwinty z potrojoną prymą, rezygnując z zachowania wspólnego dźwięku.",
+      "scope": "Szczególny wariant § swobodne połączenia, nie ogólna zasada wszystkich rozwiązań D.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 19 (PDF 10)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FREE-FIFTH-NO-COMMON",
+      "statement": "W swobodnym połączeniu zasadniczych trójdźwięków w stosunku kwinty bez zachowania wspólnego dźwięku bas skacze kwartą, a trzy górne głosy poruszają się w kierunku przeciwnym.",
+      "scope": "Autor ilustruje ten model dla różnych pozycji przy tym samym układzie; zakazy równoległości zachowują ważność.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 20 (PDF 11)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-METRIC-HARMONY",
+      "statement": "W początkowej harmonizacji autor zabrania przeniesienia funkcji z części słabej na następną mocną, ale na s.22 dopuszcza wskazane przejścia z drugiej na trzecią część 4/4 oraz trzeciej na czwartą ósemkową część 6/8.",
+      "scope": "Konwencja szkolna z wyjątkami; nie uniwersalny zakaz synkopowania harmonii.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 21–22 (PDF 11–12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FREE-SECOND-TWO-PLUS-TWO",
+      "statement": "Pierwszy sposób swobodnego połączenia triady w stosunku sekundy u autora prowadzi prymę basową i tercję jednego z górnych głosów sekundami w ruchu równoległym, pozostałe dwa głosy przeciwnie na wolne składniki.",
+      "scope": "W S–D z przejściem tercji na tercję zmienia się układ; w harmonicznym moll sekunda zwiększona ogranicza użycie wokalne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 22–23 (PDF 12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CHROMATIC-SAME-VOICE",
+      "statement": "W omawianym modelu zmian odmian moll Wesołowski prowadzi chromatyczną zmianę tercji subdominanty lub dominanty w tym samym głosie, unikając ukośnego brzmienia półtonu.",
+      "scope": "Zasada profilu szkolnego, późniejsze swobody należy rozpatrywać odrębnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 23–24 (PDF 12–13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FREE-SECOND-ALTERNATIVE",
+      "statement": "Drugi sposób swobodnego łączenia trójdźwięków w stosunku sekundy polega na ruchu basu sekundą oraz ruchu trzech pozostałych głosów przeciwnie do basu na dalsze składniki, z dodatkowymi ograniczeniami układu przy wskazanym skoku septymy.",
+      "scope": "Nie utożsamiać z drogą najbliższą; przykł.29 i opis s.24.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 24 (PDF 13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CADENCE-AEOLIAN",
+      "statement": "W modelu eolskiego moll autor nazywa zakończenie molową D–molową T kadencją eolską; rozróżnia też kadencję frygijską na końcu myśli od zawieszenia poprzednika.",
+      "scope": "Terminologia autora; uwagi historyczne o skalach i kadencjach wymagają osobnego źródła.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 24–25 (PDF 13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-FIGURED-BASS-BASIC",
+      "statement": "W szkolnej konwencji bas bez cyfry lub z oznaczeniem 5/3 albo 5 reprezentuje postać zasadniczą; znak chromatyczny bez cyfry modyfikuje tercję nad basem, liczba 1 (8), 3 albo 5 w nawiasie wskazuje pozycję.",
+      "scope": "Zapis autora, nie uniwersalna praktyka wszystkich edycji historycznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 25 (PDF 13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PIANO-TEXTURE",
+      "statement": "Autor przedstawia różne fortepianowe realizacje jednego szkieletu harmonicznego, w tym powtarzane i rozłożone akordy, z melodią przeznaczoną dla instrumentu solowego lub głosu.",
+      "scope": "Rozróżnić fakturę i funkcję; nie kopiować przykł.31–32.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 26–27 (PDF 14)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-INVERSION-SPACING",
+      "statement": "W przewrotach autor dopuszcza oktawę między sopranem i altem pod warunkiem zbliżenia dolnych głosów, a między altem i tenorem przy odstępach sopran–alt i bas–tenor do kwarty; podaje też wyjątek decymy w bas–tenor przy pierwszym przewrocie.",
+      "scope": "Konkretny model s.29, w tym wyjątek przykł.35b; nie zwykły limit oktawy niezależny od układu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 29 (PDF 15)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-INVERSION-DOUBLING",
+      "statement": "W trójdźwiękach w przewrotach autor dwoi prymę lub kwintę, w drugim przewrocie preferuje kwintę; na tym etapie ogranicza rzadkie zdwojenie tercji do S durowej lub molowej, dla lepszego prowadzenia głosów.",
+      "scope": "Profil rozdziału II, nie pełna teoria zdwojeń.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 29–30 (PDF 15–16)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SECOND-INVERSION-CONTEXT",
+      "statement": "Autor dopuszcza drugi przewrót przy sekundowym wejściu i wyjściu basu, przy sąsiednim innym akordzie na tym samym basie albo przy sąsiedniej innej postaci tego samego akordu. Nie łączy dwóch trójdźwięków w drugim przewrocie.",
+      "scope": "W wielkiej kadencji doskonałej i zawieszonej S nie może wystąpić w drugim przewrocie; profil s.30.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 30 (PDF 16)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-NONCHORD-TWO-TYPES",
+      "statement": "Wesołowski dzieli dźwięki obce na pojawiające się równocześnie ze zmianą akordu (opóźnienia) i wprowadzane podczas trwania akordu.",
+      "scope": "Systematyka autora; dźwięk opóźniający może być diatoniczny albo chromatyczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 31 (PDF 16)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CADENTIAL-64-CONTEXT",
+      "statement": "Dominanta z podwójnym opóźnieniem 4–3 i 6–5 oraz T w drugim przewrocie mają ten sam materiał dźwiękowy, ale autor różnicuje ich miejsce, funkcję i zdwojenia. D z opóźnieniem ma prymę w basie i podwojoną prymę, a rozwiązanie przypada później w grupie metrycznej.",
+      "scope": "Konwencja szkolna s.32, także warianty swobodnych rozwiązań; nie identyfikować po samych wysokościach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 32 (PDF 17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-DOUBLE-SUSPENSION-T-S",
+      "statement": "Podwójne opóźnienia można w tym modelu stosować także w tonice i subdominancie z prymą w basie i zdwojoną prymą; dla molowej S autor pokazuje odmienne wielkości i możliwe rozwiązania opóźnienia seksty.",
+      "scope": "Zakres przykładów 43–44; nie rozszerzać na każdą wielokrotną strukturę.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 34 (PDF 18)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SINGLE-SUSPENSION",
+      "statement": "Każdy składnik trójdźwięku może zostać opóźniony sekundą z góry lub z dołu. Gdy składnik opóźniony współbrzmi ze swoim nieopóźnionym zdwojeniem, autor zaleca odległość co najmniej septymy i umieszczenie dźwięku opóźniającego wyżej.",
+      "scope": "Wskazówka brzmieniowa s.35, z zachowaniem warunku odległości także przy opóźnieniu w basie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 35 (PDF 18)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-NONCHORD-FIVE",
+      "statement": "W drugim rodzaju dźwięków obcych autor wyróżnia przejściowy (łączy dwa różne dźwięki akordowe), pomocniczy (sekundowe odchylenie i powrót), wyprzedzający (wcześniejsze wejście na dźwięk kolejnego akordu), oderwany (osiągnięty sekundą, opuszczony skokiem) i zamienny (osiągnięty skokiem, rozwiązany sekundą).",
+      "scope": "Nazewnictwo Wesołowskiego; klasyfikować z kontekstu, dopuszczać pośrednie rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 36–37 (PDF 19)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WHB06",
+        "WHB07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-SEQUENCE-NONMOD",
+      "statement": "W progresji niemodulującej kolejne powtórzenia wzoru odbywają się na innych stopniach gamy; autor poza wzorem zwykle nie oznacza funkcji, dopuszcza wynikające z powtórzenia zdwojenia składników wcześniej zabronionych i interwały zwiększone. W moll najczęściej wykorzystuje odmianę naturalną, z durową D w ostatnim powtórzeniu.",
+      "scope": "Profil progresji, nie ogólne zniesienie zakazów prowadzenia głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 39 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

@@ -2088,6 +2088,54 @@
         "SIK-TONALITY-CONTEXT-II"
       ],
       "remaining": "Odczyt kolejnych obrazów PDF 289–499 (cz.II druk.110–318, katalog i okładka), montaż po cztery strony. Przegląd tekstu i obrazów wszystkich dostępnych stron zakończony; nie przeprowadzono niezależnego rozwiązania każdego przykładu i zadania, kompletnej transkrypcji tabel §67 ani recenzji muzycznej. Brak rozdz. VI–VIII cz.I (§§34–44), po druk.190 do końca części I; zob. spis i indeks cz.II. Braki nie zostały uzupełnione z pamięci."
+    },
+    {
+      "sourceId": "WES-HAR-1997-UPLOAD",
+      "ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "WH-PEDAGOGY-ADVANCED",
+        "WH-SATB-ORDER",
+        "WH-SATB-SPACING-BASIC",
+        "WH-TRIAD-DOUBLING-BASIC",
+        "WH-POSITION-LAYOUT",
+        "WH-VOICING-CONSTRUCTION",
+        "WH-FUNCTION-REPEAT-MARK",
+        "WH-CLOSE-FIFTH",
+        "WH-REPEAT-POSITION",
+        "WH-BASS-LEAPS",
+        "WH-CLOSE-SECOND",
+        "WH-PERIOD-CADENCES",
+        "WH-MENTAL-CONSTRUCTION",
+        "WH-HARMONIZE-INITIAL",
+        "WH-HARMONIZE-LEAP",
+        "WH-HARMONIZE-WORKFLOW",
+        "WH-FREE-FIFTH-COMMON",
+        "WH-FREE-D-T-INCOMPLETE",
+        "WH-FREE-FIFTH-NO-COMMON",
+        "WH-METRIC-HARMONY",
+        "WH-FREE-SECOND-TWO-PLUS-TWO",
+        "WH-CHROMATIC-SAME-VOICE",
+        "WH-FREE-SECOND-ALTERNATIVE",
+        "WH-CADENCE-AEOLIAN",
+        "WH-FIGURED-BASS-BASIC",
+        "WH-PIANO-TEXTURE",
+        "WH-INVERSION-SPACING",
+        "WH-INVERSION-DOUBLING",
+        "WH-SECOND-INVERSION-CONTEXT",
+        "WH-NONCHORD-TWO-TYPES",
+        "WH-CADENTIAL-64-CONTEXT",
+        "WH-DOUBLE-SUSPENSION-T-S",
+        "WH-SINGLE-SUSPENSION",
+        "WH-NONCHORD-FIVE",
+        "WH-SEQUENCE-NONMOD"
+      ],
+      "remaining": "Obejrzano kolejno PDF 1–20 (karty tytułowe, spis, przedmowa i druk. s.7–39). Skan dwustronicowy bez tekstu, parzyste i nieparzyste strony wymagają przeciwnych obrotów. Nie odczytano każdej nuty i nie rozwiązano wszystkich zadań. Następna partia PDF 21 (druk.40–41)."
     }
   ]
 }

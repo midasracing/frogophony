@@ -333,7 +333,8 @@
         "ABC-MOTIF",
         "ABC-SENTENCE",
         "ABC-PERIOD-TYPES",
-        "TAR-ANALYSIS-CM-PRELUDE"
+        "TAR-ANALYSIS-CM-PRELUDE",
+        "WH-PERIOD-CADENCES"
       ],
       "status": "partial"
     },
@@ -915,7 +916,8 @@
         "SIK-ENH-DIM-SEVENTH-SETS",
         "SIK-ENH-AUG-TRIAD-SETS",
         "SIK-FIVE-VOICE-NINTH",
-        "SIK-EXTENDED-TERTIAN"
+        "SIK-EXTENDED-TERTIAN",
+        "WH-POSITION-LAYOUT"
       ],
       "status": "partial"
     },
@@ -1081,7 +1083,24 @@
         "SIK-FREE-HIDDEN-INTERVALS",
         "SIK-FREE-DISSONANT-RES",
         "SIK-FREE-SUBSTITUTE-IMPLIED",
-        "SIK-FREE-CROSS-RELATION"
+        "SIK-FREE-CROSS-RELATION",
+        "WH-SATB-ORDER",
+        "WH-SATB-SPACING-BASIC",
+        "WH-TRIAD-DOUBLING-BASIC",
+        "WH-POSITION-LAYOUT",
+        "WH-VOICING-CONSTRUCTION",
+        "WH-CLOSE-FIFTH",
+        "WH-BASS-LEAPS",
+        "WH-CLOSE-SECOND",
+        "WH-FREE-FIFTH-COMMON",
+        "WH-FREE-D-T-INCOMPLETE",
+        "WH-FREE-FIFTH-NO-COMMON",
+        "WH-FREE-SECOND-TWO-PLUS-TWO",
+        "WH-CHROMATIC-SAME-VOICE",
+        "WH-FREE-SECOND-ALTERNATIVE",
+        "WH-INVERSION-SPACING",
+        "WH-INVERSION-DOUBLING",
+        "WH-SECOND-INVERSION-CONTEXT"
       ],
       "status": "partial"
     },
@@ -1142,7 +1161,12 @@
         "SIK-VI-DECEPTIVE",
         "SIK-MOD-ENTRY-CADENCE",
         "SIK-MOD-SEQUENCE-ADVANCED",
-        "SIK-ENH-SEQUENCE-CYCLES"
+        "SIK-ENH-SEQUENCE-CYCLES",
+        "WH-PERIOD-CADENCES",
+        "WH-CADENCE-AEOLIAN",
+        "WH-SECOND-INVERSION-CONTEXT",
+        "WH-CADENTIAL-64-CONTEXT",
+        "WH-SEQUENCE-NONMOD"
       ],
       "status": "partial"
     },
@@ -1209,7 +1233,18 @@
         "SIK-HARMONIZE-FIGURED",
         "SIK-CHORD-FIGURATION",
         "SIK-MOD-EXTENDED",
-        "SIK-MODAL-HARMONIZATION"
+        "SIK-MODAL-HARMONIZATION",
+        "WH-PEDAGOGY-ADVANCED",
+        "WH-VOICING-CONSTRUCTION",
+        "WH-FUNCTION-REPEAT-MARK",
+        "WH-REPEAT-POSITION",
+        "WH-MENTAL-CONSTRUCTION",
+        "WH-HARMONIZE-INITIAL",
+        "WH-HARMONIZE-LEAP",
+        "WH-HARMONIZE-WORKFLOW",
+        "WH-METRIC-HARMONY",
+        "WH-FIGURED-BASS-BASIC",
+        "WH-PIANO-TEXTURE"
       ],
       "status": "partial"
     },
@@ -1324,7 +1359,13 @@
         "SIK-PEDAL-DEFINITION-II",
         "SIK-PEDAL-TYPICAL",
         "SIK-LARGER-VOICING-SUSP",
-        "SIK-EXTENDED-CHORD-ROLE"
+        "SIK-EXTENDED-CHORD-ROLE",
+        "WH-CHROMATIC-SAME-VOICE",
+        "WH-NONCHORD-TWO-TYPES",
+        "WH-CADENTIAL-64-CONTEXT",
+        "WH-DOUBLE-SUSPENSION-T-S",
+        "WH-SINGLE-SUSPENSION",
+        "WH-NONCHORD-FIVE"
       ],
       "status": "partial"
     },
@@ -1430,7 +1471,8 @@
         "SIK-ENH-AUG-TRIAD-SETS",
         "SIK-ENH-D7-AUG6",
         "SIK-ENH-MOD-BETWEEN",
-        "SIK-ENH-SEQUENCE-CYCLES"
+        "SIK-ENH-SEQUENCE-CYCLES",
+        "WH-PEDAGOGY-ADVANCED"
       ],
       "status": "partial"
     },
@@ -1533,7 +1575,9 @@
         "SIK-PHRYGIAN-CONTEXT",
         "SIK-MODAL-HARMONIC-AMBIGUITY",
         "SIK-TONALITY-TWO-AXES",
-        "SIK-TONALITY-CONTEXT-II"
+        "SIK-TONALITY-CONTEXT-II",
+        "WH-PEDAGOGY-ADVANCED",
+        "WH-SEQUENCE-NONMOD"
       ],
       "status": "partial"
     },
