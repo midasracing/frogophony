@@ -2804,6 +2804,327 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rozklad-interwalow",
+      "termin": "Rozkład interwałów na mniejsze odległości",
+      "aliasy": [
+        "składanie interwałów",
+        "rozmiary interwałów"
+      ],
+      "definicja": "Wesołowski zaleca w praktyce budować większe interwały przez składanie mniejszych, zamiast zawsze liczyć półtony.",
+      "omowienie": "Kwinta czysta może zostać złożona z tercji wielkiej i małej, seksta wielka z kwinty czystej i sekundy wielkiej, septyma wielka z kwinty czystej i tercji wielkiej. Nona to oktawa i sekunda. Przy składaniu numerów trzeba odjąć jeden za wspólny stopień.",
+      "przyklady": [
+        "Model autorski: C–E–G: dwie tercje obejmują łącznie kwintę czystą."
+      ],
+      "ograniczenia": [
+        "Nie sumować numerów bez uwzględnienia wspólnego stopnia; rozkład jest przykładem, nie jedyną metodą."
+      ],
+      "podstawa": [
+        "WES-INTERVAL-NUMBER",
+        "WES-COMPOUND"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§29, s.87–88"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwaly-diatoniczne-dur",
+      "termin": "Interwały na stopniach naturalnego dur",
+      "aliasy": [
+        "tryton",
+        "tercje diatoniczne",
+        "seksty",
+        "septymy"
+      ],
+      "definicja": "Wielkość interwału między stopniami naturalnej gamy durowej zależy od położenia półtonów.",
+      "omowienie": "Sekundy małe od III i VII; tercje wielkie od I, IV, V; kwarta zwiększona od IV; kwinta zmniejszona od VII; seksty małe od III, VI, VII; septymy wielkie od I i IV. Pozostałe interwały tych numerów mają odpowiednią zwykłą jakość (wielką, małą lub czystą). Pełną macierz stopni zapisano w danych szczegółowych.",
+      "przyklady": [
+        "Model autorski: W C-dur f–h to kwarta zwiększona, h–f następnej oktawy to kwinta zmniejszona."
+      ],
+      "ograniczenia": [
+        "S.89 przytacza błędne sformułowanie I, IV, VI właśnie po to, by je skorygować; nie jest to błąd tabeli."
+      ],
+      "podstawa": [
+        "WES-DIATONIC-TRITONES",
+        "WES-DIATONIC-THIRDS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§29, s.88–89"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przedluzanie-w-takcie-prostym",
+      "termin": "Rozszerzanie wartości w takcie prostym",
+      "aliasy": [
+        "rytm rozszerzony",
+        "kropka",
+        "łuk"
+      ],
+      "definicja": "W szkolnym profilu autora zapis dłuższych wartości powinien ujawniać mocne części i granice grup.",
+      "omowienie": "Mocna jednostka może objąć jedną lub więcej pełnych kolejnych części w prostym takcie. Jej rozszerzenie o połowę kolejnej można zapisać kropką; o ćwierć kolejnej lub mniej za pomocą łuku. Milczenie na drugiej i trzeciej części trójkowego autor zapisuje oddzielnymi pauzami.",
+      "przyklady": [
+        "Model autorski: W 3/4 dwie ćwierćnutowe pauzy na drugiej i trzeciej części zachowują widoczność obu części."
+      ],
+      "ograniczenia": [
+        "Reguły ćwiczeniowe; synkopa i pisownia plastyczna mają własne wyjątki."
+      ],
+      "podstawa": [
+        "WES-DOT-GROUPING",
+        "WES-REST-TRIPLE",
+        "WES-RHYTHM-TYPES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.40–41"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "takt-zlozony-grupowanie",
+      "termin": "Grupowanie w taktach złożonych regularnych",
+      "aliasy": [
+        "składowe takty proste",
+        "hierarchia akcentów"
+      ],
+      "definicja": "Według autora w rytmie rozdrobnionym trzeba wyraźnie ujawniać składowe takty proste.",
+      "omowienie": "Złożony takt dwójkowy może zawierać wydłużoną wartość od pierwszej mocnej części aż do pełnego taktu; autor omawia przykłady z jedną, dwiema i trzema kropkami. Dziewięciu jednakowych jednostek nie zapisuje się jedną zwykłą nutą z kropkami.",
+      "przyklady": [
+        "Model autorski: 9/8 nie da się wypełnić jedną standardową nutą z kropkami; całotaktowa pauza to odrębna konwencja."
+      ],
+      "ograniczenia": [
+        "Nie traktować każdego metrum z licznikiem podzielnym przez trzy tak samo; uwzględnić profil grupowania."
+      ],
+      "podstawa": [
+        "WES-METER-HIERARCHY",
+        "WES-BEAM-METRIC",
+        "WES-DOT-SERIES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§16, s.50–51"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zasieg-alteracji",
+      "termin": "Obowiązywanie znaków przygodnych",
+      "aliasy": [
+        "kasownik",
+        "podwójna alteracja",
+        "powtórzenie"
+      ],
+      "definicja": "W omawianej notacji znak przygodny działa również na kolejne nuty tej samej wysokości w tym samym takcie.",
+      "omowienie": "Krzyżyk i bemol określają alterację wobec naturalnej postaci litery. Przejście od podwójnego krzyżyka do pojedynczego autor zapisuje pojedynczym krzyżykiem. Dawna praktyka mogła użyć kasownika i krzyżyka razem.",
+      "przyklady": [
+        "Model autorski: fisis z następującym fis wymaga pojedynczego krzyżyka przy drugim dźwięku w profilu autora."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać działania w innej oktawie, na innej pięciolinii ani przez kreskę z regułą jednogłosową; osobna kolacja potrzebna."
+      ],
+      "podstawa": [
+        "WES-ACC-SCOPE",
+        "WES-DOUBLE-ACC",
+        "ACC-NATURAL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93–94"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zmiana-znakow-przykluczowych",
+      "termin": "Zmiany znaków przykluczowych według autora",
+      "aliasy": [
+        "kasowanie znaków",
+        "zmiana tonacji",
+        "przykluczowe"
+      ],
+      "definicja": "Autor rozróżnia pięć podstawowych zmian zestawu znaków przykluczowych.",
+      "omowienie": "Przy zwiększeniu liczby znaków tego samego rodzaju wpisuje się nowy zestaw, przy zmniejszeniu odwołuje zbyteczne znaki. Przy zmianie rodzaju kasuje dawne i zapisuje nowe; przejście do braku znaków wymaga odwołania poprzednich. Autor opisuje też odmienną praktykę kreski taktowej w wydaniach.",
+      "przyklady": [
+        "Model autorski: W przejściu z trzech krzyżyków do jednego można odwołać dwa zbędne i pozostawić fis jako znak przykluczowy."
+      ],
+      "ograniczenia": [
+        "Historyczna konwencja nie jest jedynym standardem edytorskim. Nie wymuszać kasowników bez zadania o konkretny profil."
+      ],
+      "podstawa": [
+        "WES-KEY-CANCEL",
+        "WES-ACC-SCOPE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.94–95"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "znaki-kolizje",
+      "termin": "Rozmieszczanie znaków przy współbrzmieniach",
+      "aliasy": [
+        "ortografia",
+        "kolizje",
+        "sekunda harmoniczna"
+      ],
+      "definicja": "Znaki chromatyczne należy rozmieszczać tak, aby nie nachodziły na siebie i były przypisane do właściwych nut.",
+      "omowienie": "W modelu autora dla septymy i większych interwałów znaki mogą leżeć pionowo jeden pod drugim. Przy mniejszych odległościach górny znak jest bliżej nuty. Przy trzech znakach w akordzie rozmieszczenie zależy od dostępnego miejsca.",
+      "przyklady": [
+        "Model autorski: Dwa znaki przy sekundzie harmonicznej: górny bliżej, dolny dalej od główki w omawianym modelu."
+      ],
+      "ograniczenia": [
+        "Silnik notacji musi uwzględniać rzeczywiste rozmiary glifów; nie stosować sztywnych odległości w pikselach."
+      ],
+      "podstawa": [
+        "WES-ACCIDENTAL-COLLISION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.96"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "ruch-glosow-dysonans",
+      "termin": "Ruch boczny i przeciwny w rozwiązywaniu dysonansu",
+      "aliasy": [
+        "ruch głosów",
+        "rozwiązania",
+        "dysonans harmoniczny"
+      ],
+      "definicja": "W ruchu bocznym jeden głos zachowuje wysokość, a drugi zmienia; w przeciwnym głosy poruszają się w różnych kierunkach.",
+      "omowienie": "Tabela autora obejmuje m.in. sekundę, septymę, tryton, tercję zmniejszoną i sekstę zwiększoną. W ruchu przeciwnym interwał zwiększony często rozszerza się o tercję, zmniejszony zwęża o tercję. Nie wszystkie komórki tabeli opisują konsonans końcowy ani zwyczajną praktykę.",
+      "przyklady": [
+        "Model autorski: H–F w C-dur może przejść na C–E w ruchu przeciwnym, przy właściwym rozmieszczeniu oktaw."
+      ],
+      "ograniczenia": [
+        "Nie używać całej tabeli jako bezwarunkowych reguł harmonii; konkretne rozwiązanie zależy od kontekstu i pisowni."
+      ],
+      "podstawa": [
+        "WES-DISSONANCE-RESOLVE",
+        "WES-CONSONANCE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§36, s.103–104"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwaly-dur-harmoniczny",
+      "termin": "Interwały charakterystyczne w harmonicznym dur",
+      "aliasy": [
+        "moll-dur",
+        "sekunda zwiększona",
+        "kwinta zwiększona"
+      ],
+      "definicja": "Obniżony VI stopień gamy harmonicznej durowej wpływa na charakterystyczne odległości.",
+      "omowienie": "W górę od VI: sekunda zwiększona do VII, kwarta zwiększona do II w następnej oktawie i kwinta zwiększona do III w następnej oktawie. Ich przewroty to odpowiednio septyma zmniejszona VII–VI, kwinta zmniejszona II–VI oraz kwarta zmniejszona III–VI.",
+      "przyklady": [
+        "Model autorski: W C-dur harmonicznej As–H, As–D, As–E w górę."
+      ],
+      "ograniczenia": [
+        "Przykłady wymagają jawnego rejestru i kierunku. Nie traktować listy jako pełnego katalogu wszystkich dysonansów."
+      ],
+      "podstawa": [
+        "WES-HARM-MAJOR-INTERVALS",
+        "WES-MAJOR-HARM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.101–102"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "dominanta-nonowa",
+      "termin": "Dominanta nonowa z noną małą i wielką",
+      "aliasy": [
+        "D9",
+        "D9>",
+        "akord pięciodźwiękowy"
+      ],
+      "definicja": "W modelu autora dominanta nonowa rozszerza dominantę septymową o nonę małą lub wielką nad prymą.",
+      "omowienie": "Pryma, tercja wielka, kwinta czysta, septyma mała i nona to struktura pełna. W minorze harmonicznym autor pokazuje nonę małą; w majorze omawia oba rozmiary. Oznaczenie D9> wskazuje małą nonę w jego konwencji.",
+      "przyklady": [
+        "Model autorski: C-dur: G–H–D–F–A (nona wielka), G–H–D–F–As (nona mała)."
+      ],
+      "ograniczenia": [
+        "Nie wyciągać reguł opuszczania składników ani rozwiązań wielogłosowych z samej definicji."
+      ],
+      "podstawa": [
+        "PL-HARM-V79",
+        "WES-TERTIAN",
+        "TAR-D7"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37–38, s.105–110"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "metodyka-integracja",
+      "termin": "Łączenie zagadnień w jednym zadaniu",
+      "aliasy": [
+        "metodyka",
+        "ćwiczenia przekrojowe"
+      ],
+      "definicja": "Wesołowski łączy budowanie gam i akordów z notacją, rytmiką, interpretacją oznaczeń i wykonywaniem na fortepianie.",
+      "omowienie": "Zadania s.119–122 łączą odmiany gam, określone klucze i metra, wartości nut, pauzy dopełniające oraz oznaczenia wykonawcze. Autor zleca także budowanie głosów od podanego basu według interwałów oraz transpozycje na fortepianie.",
+      "przyklady": [
+        "Model autorski: Autorski model zadania: zapisz e-moll harmoniczną w kluczu altowym, w 2/4, wybranym rytmem, a na końcu uzupełnij takt pauzą."
+      ],
+      "ograniczenia": [
+        "Sprawdzać kryteria osobno, nie narzucać jednego rozwiązania zadaniom otwartym; nie kopiować nut i pełnych zadań."
+      ],
+      "podstawa": [
+        "WES-RHYTHM-OPEN-TASK",
+        "WES-DEGREE-TRANSPOSE",
+        "MINOR-HARM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "zadania, s.119–122"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }

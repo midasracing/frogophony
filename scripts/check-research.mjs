@@ -25,3 +25,20 @@ return tests;}
 const [s,c,k,g,m,v]=['sources.json','official-curriculum.json','verified-claims.json','golden-cases.json','lesson-manifest.json','coverage-map.json'].map(read);
 const errors=check(s,c,k,g,m,v).concat(negatives(s,c,k,g,m,v).map(x=>'Negative case not rejected: '+x));
 if(errors.length){console.error(errors.join('\n'));process.exitCode=1;}else console.log('Research metadata OK; 7 negative tests rejected. No music/pedagogy certification.');
+
+// Kompendium: kontrola spójności, nie certyfikacja muzyczna.
+const hasla=read('kompendium/hasla.json'), szczegoly=read('kompendium/wesolowski-dane-szczegolowe.json');
+const claimIds=new Set(k.claims.map(q=>q.id)), sourceIds=new Set(s.sources.map(q=>q.id)), hasloIds=new Set(hasla.hasla.map(q=>q.id));
+const validRefs=xs=>Array.isArray(xs)&&xs.length>0&&xs.every(r=>sourceIds.has(r.sourceId)&&typeof r.locator==='string'&&r.locator.trim());
+const ce=[];
+if(hasla.jezyk!=='pl-PL'||szczegoly.jezyk!=='pl-PL'||hasloIds.size!==hasla.hasla.length||szczegoly.dopuszczoneDoPublikacji!==false)ce.push('Invalid compendium metadata');
+for(const q of hasla.hasla)if(!q.definicja||!q.omowienie||q.dopuszczoneDoPublikacji!==false||!validRefs(q.odwolania)||!Array.isArray(q.podstawa)||!q.podstawa.length||q.podstawa.some(id=>!claimIds.has(id)))ce.push('Invalid entry '+q.id);
+for(const q of szczegoly.slownik.terminy)if(!q.termin||!q.znaczenie||q.dopuszczoneDoPublikacji!==false||!validRefs(q.odwolania))ce.push('Invalid term '+q.termin);
+if(new Set(szczegoly.slownik.terminy.map(q=>q.termin.toLocaleLowerCase('pl'))).size!==szczegoly.slownik.terminy.length)ce.push('Duplicate term');
+for(const q of szczegoly.projektyZadan)if(!hasloIds.has(q.haslo)||!validRefs(q.odwolania)||q.dopuszczoneDoPublikacji!==false||!q.zasadyOceny)ce.push('Invalid exercise draft '+q.id);
+for(const q of szczegoly.rytm)if(!validRefs(q.odwolania)||q.podstawa.some(id=>!claimIds.has(id)))ce.push('Invalid rhythm rule '+q.id);
+const major=[0,2,4,5,7,9,11], scaleBase=[0,2,4,5,7,9,11,12];
+const matrix=szczegoly.interwaly.macierzNaturalnegoDur;
+if(matrix.length!==42||new Set(matrix.map(q=>q.stopienPoczatkowy+':'+q.numer)).size!==42)ce.push('Incomplete diatonic matrix');
+for(const q of matrix){const i=q.stopienPoczatkowy-1,j=i+q.numer-1,semi=major[j%7]+12*Math.floor(j/7)-major[i],delta=semi-scaleBase[q.numer-1];const quality=[4,5].includes(q.numer)?({0:'czysta',1:'zwiększona','-1':'zmniejszona'})[delta]:({0:'wielka','-1':'mała'})[delta];if(semi!==q.poltony||quality!==q.jakosc||q.stopienKoncowy!==j%7+1||q.przeniesienieOktawowe!==Math.floor(j/7))ce.push('Invalid diatonic interval');}
+if(ce.length){console.error(ce.join('\n'));process.exitCode=1;}else console.log('Compendium links and 42 diatonic relations checked; drafts remain blocked.');

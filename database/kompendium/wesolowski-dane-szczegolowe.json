@@ -1,0 +1,3549 @@
+{
+  "wersja": 1,
+  "jezyk": "pl-PL",
+  "zrodlo": "WES-1986-UPLOAD",
+  "status": "do-recenzji",
+  "dopuszczoneDoPublikacji": false,
+  "opis": "Odrębne dane maszynowe oparte na ponownym odczycie wybranych stron. Parafrazy po polsku, nie reprodukcja podręcznika. Macierz interwałów i modele ćwiczeń są autorskimi wyprowadzeniami ze źródła.",
+  "slownik": {
+    "uwagi": [
+      "Określenia są jakościowe, nie stanowią bezwzględnych zakresów BPM ani wartości MIDI.",
+      "Znaczenia dotyczą profilu Wesołowskiego z 1986 r.; warianty historyczne i kontekstowe pozostają odrębne.",
+      "Poprawiono oczywiste błędy OCR w pisowni terminów; wymowy nie rekonstruowano."
+    ],
+    "terminy": [
+      {
+        "termin": "largo",
+        "znaczenie": "bardzo wolno, szeroko",
+        "kategoria": "tempo wolne",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "larghetto",
+        "znaczenie": "nieco szybciej niż largo",
+        "kategoria": "tempo wolne",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "lento",
+        "znaczenie": "wolno",
+        "kategoria": "tempo wolne",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "adagio",
+        "znaczenie": "powoli",
+        "kategoria": "tempo wolne",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "grave",
+        "znaczenie": "wolno, z powagą i ciężarem",
+        "kategoria": "tempo wolne",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "andante",
+        "znaczenie": "spokojny ruch przypominający krok",
+        "kategoria": "tempo umiarkowane",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "andantino",
+        "znaczenie": "według autora trochę żywiej od andante",
+        "kategoria": "tempo umiarkowane",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "moderato",
+        "znaczenie": "w sposób umiarkowany",
+        "kategoria": "tempo umiarkowane",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "allegretto",
+        "znaczenie": "dość żywo, wolniej niż allegro",
+        "kategoria": "tempo umiarkowane",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.75"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "allegro",
+        "znaczenie": "szybko i ruchliwie",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "vivo",
+        "znaczenie": "żywo",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "vivace",
+        "znaczenie": "szybko, z ożywieniem",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "veloce",
+        "znaczenie": "szybko i lekko",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "presto",
+        "znaczenie": "szybko",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "vivacissimo",
+        "znaczenie": "szczególnie żywo",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "prestissimo",
+        "znaczenie": "bardzo szybko",
+        "kategoria": "tempo szybkie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "maestoso",
+        "znaczenie": "majestatycznie",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "molto",
+        "znaczenie": "bardzo",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "assai",
+        "znaczenie": "bardzo",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "doppio movimento",
+        "znaczenie": "dwukrotne tempo poprzedniego ruchu",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "meno",
+        "znaczenie": "mniej",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "meno mosso",
+        "znaczenie": "mniej ruchliwie niż poprzednio",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "non tanto",
+        "znaczenie": "nie za bardzo",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "non troppo",
+        "znaczenie": "bez nadmiaru",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "più",
+        "znaczenie": "bardziej",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "più mosso",
+        "znaczenie": "żywiej niż poprzednio",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "quasi",
+        "znaczenie": "prawie, jak gdyby",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sempre",
+        "znaczenie": "stale",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sostenuto",
+        "znaczenie": "z pewnym powstrzymaniem ruchu",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "un poco",
+        "znaczenie": "nieco",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ancora",
+        "znaczenie": "jeszcze",
+        "kategoria": "modyfikator tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "accelerando",
+        "znaczenie": "stopniowe zwiększanie tempa",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "affrettando",
+        "znaczenie": "przyspieszanie",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "animando",
+        "znaczenie": "ożywianie przebiegu",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "avvivando",
+        "znaczenie": "nadawanie większego ożywienia",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "stringendo",
+        "znaczenie": "zwiększanie szybkości ruchu",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "poco a poco stringendo",
+        "znaczenie": "stopniowe zwiększanie tempa",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sempre più mosso",
+        "znaczenie": "coraz bardziej ruchliwie",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "stretto",
+        "znaczenie": "w tym kontekście zacieśnianie ruchu i przyspieszanie",
+        "kategoria": "przyspieszanie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.76"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "allargando",
+        "znaczenie": "poszerzanie ruchu, ze zwolnieniem",
+        "kategoria": "zwalnianie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "rallentando",
+        "znaczenie": "zwalnianie tempa",
+        "kategoria": "zwalnianie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ritardando",
+        "znaczenie": "stopniowe opóźnianie ruchu",
+        "kategoria": "zwalnianie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ritenuto",
+        "znaczenie": "powstrzymywanie ruchu",
+        "kategoria": "zwalnianie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "stentando",
+        "znaczenie": "zwalnianie",
+        "kategoria": "zwalnianie",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "tempo primo",
+        "znaczenie": "tempo początkowe",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "a tempo",
+        "znaczenie": "powrót do wcześniejszego tempa",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "l’istesso tempo",
+        "znaczenie": "zachowanie tego samego tempa",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "come prima",
+        "znaczenie": "jak poprzednio, w pierwszym tempie",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "come sopra",
+        "znaczenie": "jak wyżej",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "tempo giusto",
+        "znaczenie": "właściwe tempo",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "rubato",
+        "znaczenie": "elastyczne rozłożenie czasu nut; autor opisuje kompensację w takcie lub frazie",
+        "kategoria": "utrzymanie lub przywrócenie tempa",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§22, s.77"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ppp",
+        "znaczenie": "możliwie najcichsze brzmienie",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "pp",
+        "znaczenie": "bardzo ciche brzmienie",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "p",
+        "znaczenie": "cicho",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "mp",
+        "znaczenie": "umiarkowanie cicho",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "mf",
+        "znaczenie": "umiarkowanie głośno",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "f",
+        "znaczenie": "głośno",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ff",
+        "znaczenie": "bardzo głośno",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "fff",
+        "znaczenie": "możliwie najgłośniejsze brzmienie",
+        "kategoria": "poziom dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.79"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "crescendo",
+        "znaczenie": "narastanie siły brzmienia",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "decrescendo",
+        "znaczenie": "zmniejszanie siły brzmienia",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "diminuendo",
+        "znaczenie": "stopniowe ściszanie",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "forzato",
+        "znaczenie": "miejscowe wzmocnienie oznaczonego dźwięku",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sforzato",
+        "znaczenie": "miejscowe zaakcentowanie",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sforzando",
+        "znaczenie": "wzmocnienie oznaczonego dźwięku",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "fp",
+        "znaczenie": "mocno, po czym natychmiast cicho",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "pf",
+        "znaczenie": "cicho, po czym nagle głośno",
+        "kategoria": "zmiana dynamiki",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "abbandono",
+        "znaczenie": "z pewną swobodą, jakby zaniedbując regularność rytmu",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "abbandonatamente",
+        "znaczenie": "niedbale, z luźnym traktowaniem rytmu",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "accarezzévole",
+        "znaczenie": "pieszczotliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "accentato",
+        "znaczenie": "z akcentem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "accentuato",
+        "znaczenie": "wyraźnie akcentując",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ad libitum",
+        "znaczenie": "według upodobania wykonawcy",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "a piacere",
+        "znaczenie": "według uznania",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "a due",
+        "znaczenie": "wspólne wykonanie partii przez dwa instrumenty",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "affettuoso",
+        "znaczenie": "serdecznie i z uczuciem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "agitato",
+        "znaczenie": "z niepokojem, burzliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con agitazione",
+        "znaczenie": "w sposób niespokojny",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "alla",
+        "znaczenie": "w stylu wskazanym przez dalsze słowa",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "allegramente",
+        "znaczenie": "ochoczo i żywo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "amabile",
+        "znaczenie": "mile",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "amoroso",
+        "znaczenie": "z miłością lub uczuciem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "animato",
+        "znaczenie": "z ożywieniem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "appassionato",
+        "znaczenie": "z pasją",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ardente",
+        "znaczenie": "z żarem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "brillante",
+        "znaczenie": "efektownie i błyskotliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "buffo",
+        "znaczenie": "komicznie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "burlesco",
+        "znaczenie": "żartobliwie, komicznie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "calando",
+        "znaczenie": "uspokajając ruch i brzmienie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "cantabile",
+        "znaczenie": "na sposób śpiewny",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "capriccioso",
+        "znaczenie": "kapryśnie, z humorem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "colla parte",
+        "znaczenie": "podążając za partią solową",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con amore",
+        "znaczenie": "z miłością i uczuciem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con anima",
+        "znaczenie": "z życiem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con bravura",
+        "znaczenie": "z brawurą i śmiałością",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.80"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con brio",
+        "znaczenie": "żywo i wesoło",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con calore",
+        "znaczenie": "z ciepłem i żarem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con dolcezza",
+        "znaczenie": "ze słodyczą",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con dolore",
+        "znaczenie": "z bólem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con espressione",
+        "znaczenie": "z wyrazem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con forza",
+        "znaczenie": "z siłą",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con fuoco",
+        "znaczenie": "ognisty charakter",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con grazia",
+        "znaczenie": "z wdziękiem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con melanconia",
+        "znaczenie": "ze smutkiem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con moto",
+        "znaczenie": "z ruchem, żywiej",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con passione",
+        "znaczenie": "namiętnie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con spirito",
+        "znaczenie": "z ożywieniem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con tenerezza",
+        "znaczenie": "z czułością",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "con vigore",
+        "znaczenie": "z energią",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "deciso",
+        "znaczenie": "zdecydowanie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "dolce",
+        "znaczenie": "łagodnie i słodko",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "dolcissimo",
+        "znaczenie": "szczególnie łagodnie, cicho",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "dolente",
+        "znaczenie": "z bólem lub żalem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "elegiaco",
+        "znaczenie": "żałośnie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "energico",
+        "znaczenie": "energicznie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "eroico",
+        "znaczenie": "bohatersko",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "espressivo",
+        "znaczenie": "wyraziście, z uczuciem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "feroce",
+        "znaczenie": "dziko",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "festivo",
+        "znaczenie": "uroczyście",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "fresco",
+        "znaczenie": "świeżo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "funebre",
+        "znaczenie": "w charakterze pogrzebowym",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "furioso",
+        "znaczenie": "gwałtownie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "giocoso",
+        "znaczenie": "wesoło, żartem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "grazioso",
+        "znaczenie": "z wdziękiem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "impetuoso",
+        "znaczenie": "burzliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "lamentoso",
+        "znaczenie": "na sposób lamentu",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "leggiero",
+        "znaczenie": "lekko",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "lugubre",
+        "znaczenie": "ponuro, żałobnie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "marcato",
+        "znaczenie": "wyraźnie zaznaczając",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "marciale",
+        "znaczenie": "w charakterze marsza",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "marziale",
+        "znaczenie": "wojowniczo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "mesto",
+        "znaczenie": "smutno",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "mezza voce",
+        "znaczenie": "półgłosem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "misterioso",
+        "znaczenie": "tajemniczo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "morendo",
+        "znaczenie": "zamierając",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "mormorando",
+        "znaczenie": "mrucząc; autor wiąże ze śpiewem przy zamkniętych ustach",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "obbligato",
+        "znaczenie": "obowiązkowo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "ossia",
+        "znaczenie": "alternatywny wariant",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "parlando",
+        "znaczenie": "na sposób mowy",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "pastorale",
+        "znaczenie": "sielsko, w charakterze wiejskim",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "patetico",
+        "znaczenie": "patetycznie, z namiętną powagą",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "perdendosi",
+        "znaczenie": "stopniowo zanikając",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.81"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "pesante",
+        "znaczenie": "ciężko",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "piena voce",
+        "znaczenie": "pełnym głosem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "pomposo",
+        "znaczenie": "okazale, z pompą",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "quieto",
+        "znaczenie": "spokojnie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "recitando",
+        "znaczenie": "jak opowiadanie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "recitativo",
+        "znaczenie": "partia o charakterze mowy i względnie swobodnej rytmice",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "religioso",
+        "znaczenie": "w charakterze religijnym",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "rigoroso",
+        "znaczenie": "ściśle i dokładnie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "risoluto",
+        "znaczenie": "stanowczo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "rustico",
+        "znaczenie": "w wiejskim charakterze",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "scherzando",
+        "znaczenie": "żartobliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "secco",
+        "znaczenie": "sucho",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "semplice",
+        "znaczenie": "prosto",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "segue",
+        "znaczenie": "kontynuacja w dotychczasowy sposób",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sensibile",
+        "znaczenie": "czule",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "senza",
+        "znaczenie": "bez wskazanego elementu",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "simile",
+        "znaczenie": "w podobny sposób",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "smorzando",
+        "znaczenie": "zamierając",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "solo",
+        "znaczenie": "partia lub wykonawca solowy",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "soli",
+        "znaczenie": "soliści",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sonoro",
+        "znaczenie": "dźwięcznie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "sotto voce",
+        "znaczenie": "przyciszonym głosem",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "spianato",
+        "znaczenie": "gładko i równo",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "strepitoso",
+        "znaczenie": "hałaśliwie, burzliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "subito",
+        "znaczenie": "nagle",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "tace",
+        "znaczenie": "milczeć",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "teneramente",
+        "znaczenie": "delikatnie, z czułością",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "tenuto",
+        "znaczenie": "z wytrzymaniem wartości",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "tranquillo",
+        "znaczenie": "spokojnie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "tutti",
+        "znaczenie": "cały zespół",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "una corda",
+        "znaczenie": "na fortepianie z użyciem lewego pedału; dosłownie jedna struna",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "unisono",
+        "znaczenie": "wspólne wykonanie tej samej melodii w tej samej oktawie w tym miejscu słownika",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "vibrato",
+        "znaczenie": "z wibracją",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "vigoroso",
+        "znaczenie": "silnie, śmiało",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "voce",
+        "znaczenie": "głos",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "voci",
+        "znaczenie": "głosy",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "termin": "zeloso",
+        "znaczenie": "żarliwie",
+        "kategoria": "charakter lub sposób wykonania",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§24, s.82"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      }
+    ]
+  },
+  "interwaly": {
+    "odwolania": [
+      {
+        "sourceId": "WES-1986-UPLOAD",
+        "locator": "§29–30, s.87–89"
+      }
+    ],
+    "uwagi": "Tabela ograniczona do rozmiarów podanych przez autora; oznaczenia cyfrowe są jego własną konwencją. Szczegółowe wartości półtonowe wyprowadzono z rozkładów. Macierz stopni jest obliczona ze wzorca naturalnego dur, sprawdzona według tabeli s.89.",
+    "rozmiary": [
+      {
+        "numer": 1,
+        "nazwa": "pryma",
+        "jakosc": "czysta",
+        "poltony": 0,
+        "oznaczenieAutora": "1"
+      },
+      {
+        "numer": 2,
+        "nazwa": "sekunda",
+        "jakosc": "mała",
+        "poltony": 1,
+        "oznaczenieAutora": "2>"
+      },
+      {
+        "numer": 2,
+        "nazwa": "sekunda",
+        "jakosc": "wielka",
+        "poltony": 2,
+        "oznaczenieAutora": "2"
+      },
+      {
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "mała",
+        "poltony": 3,
+        "oznaczenieAutora": "3>"
+      },
+      {
+        "numer": 3,
+        "nazwa": "tercja",
+        "jakosc": "wielka",
+        "poltony": 4,
+        "oznaczenieAutora": "3"
+      },
+      {
+        "numer": 4,
+        "nazwa": "kwarta",
+        "jakosc": "czysta",
+        "poltony": 5,
+        "oznaczenieAutora": "4"
+      },
+      {
+        "numer": 4,
+        "nazwa": "kwarta",
+        "jakosc": "zwiększona",
+        "poltony": 6,
+        "oznaczenieAutora": "4<"
+      },
+      {
+        "numer": 5,
+        "nazwa": "kwinta",
+        "jakosc": "zmniejszona",
+        "poltony": 6,
+        "oznaczenieAutora": "5>"
+      },
+      {
+        "numer": 5,
+        "nazwa": "kwinta",
+        "jakosc": "czysta",
+        "poltony": 7,
+        "oznaczenieAutora": "5"
+      },
+      {
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "mała",
+        "poltony": 8,
+        "oznaczenieAutora": "6>"
+      },
+      {
+        "numer": 6,
+        "nazwa": "seksta",
+        "jakosc": "wielka",
+        "poltony": 9,
+        "oznaczenieAutora": "6"
+      },
+      {
+        "numer": 7,
+        "nazwa": "septyma",
+        "jakosc": "mała",
+        "poltony": 10,
+        "oznaczenieAutora": "7"
+      },
+      {
+        "numer": 7,
+        "nazwa": "septyma",
+        "jakosc": "wielka",
+        "poltony": 11,
+        "oznaczenieAutora": "7<"
+      },
+      {
+        "numer": 8,
+        "nazwa": "oktawa",
+        "jakosc": "czysta",
+        "poltony": 12,
+        "oznaczenieAutora": "8"
+      },
+      {
+        "numer": 9,
+        "nazwa": "nona",
+        "jakosc": "mała",
+        "poltony": 13,
+        "oznaczenieAutora": "9>"
+      },
+      {
+        "numer": 9,
+        "nazwa": "nona",
+        "jakosc": "wielka",
+        "poltony": 14,
+        "oznaczenieAutora": "9"
+      },
+      {
+        "numer": 10,
+        "nazwa": "decyma",
+        "jakosc": "mała",
+        "poltony": 15,
+        "oznaczenieAutora": "10>"
+      },
+      {
+        "numer": 10,
+        "nazwa": "decyma",
+        "jakosc": "wielka",
+        "poltony": 16,
+        "oznaczenieAutora": "10"
+      },
+      {
+        "numer": 11,
+        "nazwa": "undecyma",
+        "jakosc": "czysta",
+        "poltony": 17,
+        "oznaczenieAutora": "11"
+      },
+      {
+        "numer": 11,
+        "nazwa": "undecyma",
+        "jakosc": "zwiększona",
+        "poltony": 18,
+        "oznaczenieAutora": "11<"
+      },
+      {
+        "numer": 12,
+        "nazwa": "duodecyma",
+        "jakosc": "zmniejszona",
+        "poltony": 18,
+        "oznaczenieAutora": "12>"
+      },
+      {
+        "numer": 12,
+        "nazwa": "duodecyma",
+        "jakosc": "czysta",
+        "poltony": 19,
+        "oznaczenieAutora": "12"
+      },
+      {
+        "numer": 13,
+        "nazwa": "tercdecyma",
+        "jakosc": "mała",
+        "poltony": 20,
+        "oznaczenieAutora": "13>"
+      },
+      {
+        "numer": 13,
+        "nazwa": "tercdecyma",
+        "jakosc": "wielka",
+        "poltony": 21,
+        "oznaczenieAutora": "13"
+      },
+      {
+        "numer": 14,
+        "nazwa": "kwartdecyma",
+        "jakosc": "mała",
+        "poltony": 22,
+        "oznaczenieAutora": "14"
+      },
+      {
+        "numer": 14,
+        "nazwa": "kwartdecyma",
+        "jakosc": "wielka",
+        "poltony": 23,
+        "oznaczenieAutora": "14<"
+      },
+      {
+        "numer": 15,
+        "nazwa": "kwintdecyma",
+        "jakosc": "czysta",
+        "poltony": 24,
+        "oznaczenieAutora": "15"
+      }
+    ],
+    "macierzNaturalnegoDur": [
+      {
+        "stopienPoczatkowy": 1,
+        "stopienKoncowy": 2,
+        "przeniesienieOktawowe": 0,
+        "numer": 2,
+        "jakosc": "wielka",
+        "poltony": 2
+      },
+      {
+        "stopienPoczatkowy": 1,
+        "stopienKoncowy": 3,
+        "przeniesienieOktawowe": 0,
+        "numer": 3,
+        "jakosc": "wielka",
+        "poltony": 4
+      },
+      {
+        "stopienPoczatkowy": 1,
+        "stopienKoncowy": 4,
+        "przeniesienieOktawowe": 0,
+        "numer": 4,
+        "jakosc": "czysta",
+        "poltony": 5
+      },
+      {
+        "stopienPoczatkowy": 1,
+        "stopienKoncowy": 5,
+        "przeniesienieOktawowe": 0,
+        "numer": 5,
+        "jakosc": "czysta",
+        "poltony": 7
+      },
+      {
+        "stopienPoczatkowy": 1,
+        "stopienKoncowy": 6,
+        "przeniesienieOktawowe": 0,
+        "numer": 6,
+        "jakosc": "wielka",
+        "poltony": 9
+      },
+      {
+        "stopienPoczatkowy": 1,
+        "stopienKoncowy": 7,
+        "przeniesienieOktawowe": 0,
+        "numer": 7,
+        "jakosc": "wielka",
+        "poltony": 11
+      },
+      {
+        "stopienPoczatkowy": 2,
+        "stopienKoncowy": 3,
+        "przeniesienieOktawowe": 0,
+        "numer": 2,
+        "jakosc": "wielka",
+        "poltony": 2
+      },
+      {
+        "stopienPoczatkowy": 2,
+        "stopienKoncowy": 4,
+        "przeniesienieOktawowe": 0,
+        "numer": 3,
+        "jakosc": "mała",
+        "poltony": 3
+      },
+      {
+        "stopienPoczatkowy": 2,
+        "stopienKoncowy": 5,
+        "przeniesienieOktawowe": 0,
+        "numer": 4,
+        "jakosc": "czysta",
+        "poltony": 5
+      },
+      {
+        "stopienPoczatkowy": 2,
+        "stopienKoncowy": 6,
+        "przeniesienieOktawowe": 0,
+        "numer": 5,
+        "jakosc": "czysta",
+        "poltony": 7
+      },
+      {
+        "stopienPoczatkowy": 2,
+        "stopienKoncowy": 7,
+        "przeniesienieOktawowe": 0,
+        "numer": 6,
+        "jakosc": "wielka",
+        "poltony": 9
+      },
+      {
+        "stopienPoczatkowy": 2,
+        "stopienKoncowy": 1,
+        "przeniesienieOktawowe": 1,
+        "numer": 7,
+        "jakosc": "mała",
+        "poltony": 10
+      },
+      {
+        "stopienPoczatkowy": 3,
+        "stopienKoncowy": 4,
+        "przeniesienieOktawowe": 0,
+        "numer": 2,
+        "jakosc": "mała",
+        "poltony": 1
+      },
+      {
+        "stopienPoczatkowy": 3,
+        "stopienKoncowy": 5,
+        "przeniesienieOktawowe": 0,
+        "numer": 3,
+        "jakosc": "mała",
+        "poltony": 3
+      },
+      {
+        "stopienPoczatkowy": 3,
+        "stopienKoncowy": 6,
+        "przeniesienieOktawowe": 0,
+        "numer": 4,
+        "jakosc": "czysta",
+        "poltony": 5
+      },
+      {
+        "stopienPoczatkowy": 3,
+        "stopienKoncowy": 7,
+        "przeniesienieOktawowe": 0,
+        "numer": 5,
+        "jakosc": "czysta",
+        "poltony": 7
+      },
+      {
+        "stopienPoczatkowy": 3,
+        "stopienKoncowy": 1,
+        "przeniesienieOktawowe": 1,
+        "numer": 6,
+        "jakosc": "mała",
+        "poltony": 8
+      },
+      {
+        "stopienPoczatkowy": 3,
+        "stopienKoncowy": 2,
+        "przeniesienieOktawowe": 1,
+        "numer": 7,
+        "jakosc": "mała",
+        "poltony": 10
+      },
+      {
+        "stopienPoczatkowy": 4,
+        "stopienKoncowy": 5,
+        "przeniesienieOktawowe": 0,
+        "numer": 2,
+        "jakosc": "wielka",
+        "poltony": 2
+      },
+      {
+        "stopienPoczatkowy": 4,
+        "stopienKoncowy": 6,
+        "przeniesienieOktawowe": 0,
+        "numer": 3,
+        "jakosc": "wielka",
+        "poltony": 4
+      },
+      {
+        "stopienPoczatkowy": 4,
+        "stopienKoncowy": 7,
+        "przeniesienieOktawowe": 0,
+        "numer": 4,
+        "jakosc": "zwiększona",
+        "poltony": 6
+      },
+      {
+        "stopienPoczatkowy": 4,
+        "stopienKoncowy": 1,
+        "przeniesienieOktawowe": 1,
+        "numer": 5,
+        "jakosc": "czysta",
+        "poltony": 7
+      },
+      {
+        "stopienPoczatkowy": 4,
+        "stopienKoncowy": 2,
+        "przeniesienieOktawowe": 1,
+        "numer": 6,
+        "jakosc": "wielka",
+        "poltony": 9
+      },
+      {
+        "stopienPoczatkowy": 4,
+        "stopienKoncowy": 3,
+        "przeniesienieOktawowe": 1,
+        "numer": 7,
+        "jakosc": "wielka",
+        "poltony": 11
+      },
+      {
+        "stopienPoczatkowy": 5,
+        "stopienKoncowy": 6,
+        "przeniesienieOktawowe": 0,
+        "numer": 2,
+        "jakosc": "wielka",
+        "poltony": 2
+      },
+      {
+        "stopienPoczatkowy": 5,
+        "stopienKoncowy": 7,
+        "przeniesienieOktawowe": 0,
+        "numer": 3,
+        "jakosc": "wielka",
+        "poltony": 4
+      },
+      {
+        "stopienPoczatkowy": 5,
+        "stopienKoncowy": 1,
+        "przeniesienieOktawowe": 1,
+        "numer": 4,
+        "jakosc": "czysta",
+        "poltony": 5
+      },
+      {
+        "stopienPoczatkowy": 5,
+        "stopienKoncowy": 2,
+        "przeniesienieOktawowe": 1,
+        "numer": 5,
+        "jakosc": "czysta",
+        "poltony": 7
+      },
+      {
+        "stopienPoczatkowy": 5,
+        "stopienKoncowy": 3,
+        "przeniesienieOktawowe": 1,
+        "numer": 6,
+        "jakosc": "wielka",
+        "poltony": 9
+      },
+      {
+        "stopienPoczatkowy": 5,
+        "stopienKoncowy": 4,
+        "przeniesienieOktawowe": 1,
+        "numer": 7,
+        "jakosc": "mała",
+        "poltony": 10
+      },
+      {
+        "stopienPoczatkowy": 6,
+        "stopienKoncowy": 7,
+        "przeniesienieOktawowe": 0,
+        "numer": 2,
+        "jakosc": "wielka",
+        "poltony": 2
+      },
+      {
+        "stopienPoczatkowy": 6,
+        "stopienKoncowy": 1,
+        "przeniesienieOktawowe": 1,
+        "numer": 3,
+        "jakosc": "mała",
+        "poltony": 3
+      },
+      {
+        "stopienPoczatkowy": 6,
+        "stopienKoncowy": 2,
+        "przeniesienieOktawowe": 1,
+        "numer": 4,
+        "jakosc": "czysta",
+        "poltony": 5
+      },
+      {
+        "stopienPoczatkowy": 6,
+        "stopienKoncowy": 3,
+        "przeniesienieOktawowe": 1,
+        "numer": 5,
+        "jakosc": "czysta",
+        "poltony": 7
+      },
+      {
+        "stopienPoczatkowy": 6,
+        "stopienKoncowy": 4,
+        "przeniesienieOktawowe": 1,
+        "numer": 6,
+        "jakosc": "mała",
+        "poltony": 8
+      },
+      {
+        "stopienPoczatkowy": 6,
+        "stopienKoncowy": 5,
+        "przeniesienieOktawowe": 1,
+        "numer": 7,
+        "jakosc": "mała",
+        "poltony": 10
+      },
+      {
+        "stopienPoczatkowy": 7,
+        "stopienKoncowy": 1,
+        "przeniesienieOktawowe": 1,
+        "numer": 2,
+        "jakosc": "mała",
+        "poltony": 1
+      },
+      {
+        "stopienPoczatkowy": 7,
+        "stopienKoncowy": 2,
+        "przeniesienieOktawowe": 1,
+        "numer": 3,
+        "jakosc": "mała",
+        "poltony": 3
+      },
+      {
+        "stopienPoczatkowy": 7,
+        "stopienKoncowy": 3,
+        "przeniesienieOktawowe": 1,
+        "numer": 4,
+        "jakosc": "czysta",
+        "poltony": 5
+      },
+      {
+        "stopienPoczatkowy": 7,
+        "stopienKoncowy": 4,
+        "przeniesienieOktawowe": 1,
+        "numer": 5,
+        "jakosc": "zmniejszona",
+        "poltony": 6
+      },
+      {
+        "stopienPoczatkowy": 7,
+        "stopienKoncowy": 5,
+        "przeniesienieOktawowe": 1,
+        "numer": 6,
+        "jakosc": "mała",
+        "poltony": 8
+      },
+      {
+        "stopienPoczatkowy": 7,
+        "stopienKoncowy": 6,
+        "przeniesienieOktawowe": 1,
+        "numer": 7,
+        "jakosc": "mała",
+        "poltony": 10
+      }
+    ]
+  },
+  "dysonanse": {
+    "odwolania": [
+      {
+        "sourceId": "WES-1986-UPLOAD",
+        "locator": "§36, s.103–104"
+      }
+    ],
+    "uwagi": "Cele z tabeli są kategoriami interwałowymi, nie automatycznie poprawnymi następstwami w harmonii funkcyjnej. Brak wartości oznacza brak pozycji w tabeli, nie zakaz.",
+    "tabela": [
+      {
+        "interwal": "sekunda",
+        "ruchPrzeciwny": "kwarta",
+        "ruchBoczny": "tercja",
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "septyma",
+        "ruchPrzeciwny": "kwinta",
+        "ruchBoczny": "seksta",
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "kwarta zwiększona",
+        "ruchPrzeciwny": "seksta",
+        "ruchBoczny": "tercja",
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "kwinta zmniejszona",
+        "ruchPrzeciwny": "tercja",
+        "ruchBoczny": "seksta",
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "kwarta zmniejszona",
+        "ruchPrzeciwny": "sekunda",
+        "ruchBoczny": "tercja mała",
+        "uwaga": "Rozwiązanie na sekundę nie jest przejściem do konsonansu; nie stosować bez dalszego kontekstu."
+      },
+      {
+        "interwal": "kwinta zwiększona",
+        "ruchPrzeciwny": "septyma",
+        "ruchBoczny": "seksta wielka",
+        "uwaga": "Rozwiązanie na septymę w ruchu przeciwnym autor oznacza jako zasadniczo niepraktykowane."
+      },
+      {
+        "interwal": "tercja zmniejszona",
+        "ruchPrzeciwny": "pryma",
+        "ruchBoczny": null,
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "seksta zwiększona",
+        "ruchPrzeciwny": "oktawa",
+        "ruchBoczny": null,
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "tercja zwiększona",
+        "ruchPrzeciwny": "kwinta",
+        "ruchBoczny": null,
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      },
+      {
+        "interwal": "seksta zmniejszona",
+        "ruchPrzeciwny": "kwarta",
+        "ruchBoczny": null,
+        "uwaga": "Nie są to wyczerpujące ani bezwarunkowe reguły."
+      }
+    ]
+  },
+  "rytm": [
+    {
+      "id": "metryczne-grupowanie",
+      "regula": "Grupy nut krótszych niż jednostka miarowa należy wiązać z uwzględnieniem granic jednostki. W gęstych grupach można zachować wspólne główne wiązanie i rozdzielić dalsze.",
+      "ograniczenie": "Nie narzucać jednego grawerowania, gdy źródło dopuszcza warianty.",
+      "podstawa": [
+        "WES-BEAM-METRIC"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.37–40"
+        }
+      ]
+    },
+    {
+      "id": "rozszerzenie-pelne",
+      "regula": "W rytmie rozszerzonym mocna część prostego taktu dwójkowego może objąć drugą część; w trójkowym może objąć jedną lub obie następne.",
+      "ograniczenie": "Dotyczy rozpoczęcia na mocnej części.",
+      "podstawa": [
+        "WES-RHYTHM-TYPES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.40"
+        }
+      ]
+    },
+    {
+      "id": "rozszerzenie-polowa",
+      "regula": "Rozszerzenie mocnej części o połowę następnej można wyrazić kropką.",
+      "ograniczenie": "Sprawdzać położenie względem grupy.",
+      "podstawa": [
+        "WES-DOT-GROUPING"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.40–41"
+        }
+      ]
+    },
+    {
+      "id": "rozszerzenie-cwiartka",
+      "regula": "Jeśli mocna jednostka zostaje przedłużona o ćwierć następnej lub mniej, szkolna pisownia autora wymaga łuku.",
+      "ograniczenie": "Nie jest to uniwersalny zakaz w repertuarze.",
+      "podstawa": [
+        "WES-DOT-GROUPING"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.40"
+        }
+      ]
+    },
+    {
+      "id": "pauzy-slabe-czesci",
+      "regula": "Ciszę obejmującą drugą i trzecią część prostego taktu trójkowego autor zapisuje dwiema pauzami.",
+      "ograniczenie": "Nie dotyczy całotaktowej pauzy.",
+      "podstawa": [
+        "WES-REST-TRIPLE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.41"
+        }
+      ]
+    },
+    {
+      "id": "grupowanie-zlozone",
+      "regula": "W takcie złożonym regularnym przy rozdrobnieniu wyodrębnia się jego składowe takty proste.",
+      "ograniczenie": "Profil klasyfikacji Wesołowskiego.",
+      "podstawa": [
+        "WES-BEAM-METRIC"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§16, s.50–51"
+        }
+      ]
+    },
+    {
+      "id": "suma-dziewieciu",
+      "regula": "Dziewięć jednostek o jednakowej podstawowej wartości nie mieści się w jednej zwykłej wartości nutowej z kropkami.",
+      "ograniczenie": "Nie dotyczy specjalnej pauzy całotaktowej ani innych niestandardowych zapisów.",
+      "podstawa": [
+        "WES-DOT-SERIES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§16, s.51"
+        }
+      ]
+    },
+    {
+      "id": "przeksztalcanie",
+      "regula": "Równoważna suma 3/4, 6/8, 12/16 nie gwarantuje tożsamego metrum. Przy przepisaniu można rozdzielać pauzy i wiązać nuty.",
+      "ograniczenie": "Kontrolować sumę wartości i pozycje akcentów niezależnie.",
+      "podstawa": [
+        "WES-METER-REGROUP"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§17, s.52–53"
+        }
+      ]
+    },
+    {
+      "id": "grupowanie-otwarte",
+      "regula": "W zadaniach konstrukcyjnych może istnieć wiele poprawnych odpowiedzi spełniających zadaną sumę, liczbę zdarzeń i czytelne grupowanie.",
+      "ograniczenie": "Nie oceniać przez zgodność z jednym ciągiem.",
+      "podstawa": [
+        "WES-RHYTHM-OPEN-TASK"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12–17, s.37–55"
+        }
+      ]
+    }
+  ],
+  "chromatyka": {
+    "odwolania": [
+      {
+        "sourceId": "WES-1986-UPLOAD",
+        "locator": "§32, s.93–96"
+      }
+    ],
+    "nazwy": [
+      {
+        "naturalna": "c",
+        "podwojneObnizenie": "ceses",
+        "obnizenie": "ces",
+        "podwyzszenie": "cis",
+        "podwojnePodwyzszenie": "cisis"
+      },
+      {
+        "naturalna": "d",
+        "podwojneObnizenie": "deses",
+        "obnizenie": "des",
+        "podwyzszenie": "dis",
+        "podwojnePodwyzszenie": "disis"
+      },
+      {
+        "naturalna": "e",
+        "podwojneObnizenie": "eses",
+        "obnizenie": "es",
+        "podwyzszenie": "eis",
+        "podwojnePodwyzszenie": "eisis"
+      },
+      {
+        "naturalna": "f",
+        "podwojneObnizenie": "feses",
+        "obnizenie": "fes",
+        "podwyzszenie": "fis",
+        "podwojnePodwyzszenie": "fisis"
+      },
+      {
+        "naturalna": "g",
+        "podwojneObnizenie": "geses",
+        "obnizenie": "ges",
+        "podwyzszenie": "gis",
+        "podwojnePodwyzszenie": "gisis"
+      },
+      {
+        "naturalna": "a",
+        "podwojneObnizenie": "asas",
+        "obnizenie": "as",
+        "podwyzszenie": "ais",
+        "podwojnePodwyzszenie": "aisis"
+      },
+      {
+        "naturalna": "h",
+        "podwojneObnizenie": "heses",
+        "obnizenie": "b",
+        "podwyzszenie": "his",
+        "podwojnePodwyzszenie": "hisis"
+      }
+    ],
+    "zmianyPrzykluczowe": [
+      {
+        "poprzednie": "brak znaków",
+        "nastepne": "krzyżyki lub bemole",
+        "dzialanie": "wpisać nowy zestaw"
+      },
+      {
+        "poprzednie": "mniej znaków jednego rodzaju",
+        "nastepne": "więcej znaków tego samego rodzaju",
+        "dzialanie": "wpisać nowy pełny zestaw"
+      },
+      {
+        "poprzednie": "więcej znaków jednego rodzaju",
+        "nastepne": "mniej znaków tego samego rodzaju",
+        "dzialanie": "odwołać niepotrzebne znaki, zapisać pozostałe"
+      },
+      {
+        "poprzednie": "krzyżyki",
+        "nastepne": "bemole lub odwrotnie",
+        "dzialanie": "odwołać poprzedni zestaw, wpisać nowy"
+      },
+      {
+        "poprzednie": "znaki przykluczowe",
+        "nastepne": "brak znaków",
+        "dzialanie": "odwołać poprzednie znaki"
+      }
+    ],
+    "uwagi": "Zapis znaków zgodny z historyczną konwencją autora, nie jedynym standardem edytorskim."
+  },
+  "projektyZadan": [
+    {
+      "id": "interwal-pisownia",
+      "haslo": "interwal-numer-jakosc",
+      "polecenie": "Zbuduj wskazany interwał od podanej nuty w oznaczonym kierunku.",
+      "parametry": [
+        "nuta z oktawą",
+        "numer interwału",
+        "jakość",
+        "kierunek",
+        "klucz"
+      ],
+      "zasadyOceny": "Sprawdzaj literę i oktawę oraz liczbę półtonów; w zapisie nie przyjmuj enharmonii zamiast właściwej pisowni.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§28–30, s.85–90"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwal-rozklad",
+      "haslo": "interwal-numer-jakosc",
+      "polecenie": "Podaj rozmiar interwału i przedstaw go jako sumę mniejszych interwałów.",
+      "parametry": [
+        "interwał",
+        "dopuszczalne składniki"
+      ],
+      "zasadyOceny": "Dopuść alternatywne poprawne rozkłady; kontroluj także łączny numer diatoniczny.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§29, s.87–88"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwal-stopnie",
+      "haslo": "stopnie-gamy",
+      "polecenie": "Rozpoznaj interwał w górę pomiędzy stopniami naturalnego dur.",
+      "parametry": [
+        "stopień początkowy",
+        "numer interwału",
+        "tonacja"
+      ],
+      "zasadyOceny": "Użyj tabeli stopni; uwzględnij przejście do następnej oktawy.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§29, s.89"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwal-przewrot",
+      "haslo": "przewroty-interwalow",
+      "polecenie": "Podaj nazwę przewrotu prostego interwału.",
+      "parametry": [
+        "numer",
+        "jakość"
+      ],
+      "zasadyOceny": "Suma numerów wynosi dziewięć, a wielkości temperowanych dwanaście półtonów.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§30, s.89–90"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwal-wieloglos",
+      "haslo": "interwaly-melodyczne-harmoniczne",
+      "polecenie": "Określ współbrzmienia między wskazanymi parami głosów.",
+      "parametry": [
+        "niezależne głosy",
+        "chwile współbrzmień",
+        "pary głosów"
+      ],
+      "zasadyOceny": "Nie sumuj czasu i wysokości głosów; analizuj każdą parę oddzielnie.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§31, s.90–91; §37, s.106"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "takt-konstrukcja",
+      "haslo": "metrum-i-takt",
+      "polecenie": "Ułóż pełny takt z ustaloną liczbą nut i pauz.",
+      "parametry": [
+        "metrum",
+        "liczba nut",
+        "liczba pauz",
+        "dopuszczalne wartości"
+      ],
+      "zasadyOceny": "Sprawdź sumę ułamków i liczby zdarzeń. Wiele rozwiązań dopuszczalnych; ortografia osobno.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12–17, s.37–55"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "takt-korekta",
+      "haslo": "grupowanie-nut",
+      "polecenie": "Popraw zapis bez zmiany czasów brzmienia.",
+      "parametry": [
+        "metrum",
+        "zdarzenia i momenty początku",
+        "profil grupowania"
+      ],
+      "zasadyOceny": "Zachowaj wysokości, początki i czasy; oceń grupowanie, nie identyczność z jedną partyturą.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.37–42"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "takt-przepisanie",
+      "haslo": "przeksztalcanie-taktow",
+      "polecenie": "Przepisz przebieg w metrum o tej samej sumie wartości.",
+      "parametry": [
+        "metrum wejściowe",
+        "metrum docelowe",
+        "zdarzenia"
+      ],
+      "zasadyOceny": "Zachowaj sumę i brzmienie, skontroluj nowe grupowanie i łuki.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§17, s.52–53"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "takt-skala-wartosci",
+      "haslo": "przeksztalcanie-taktow",
+      "polecenie": "Przeskaluj zapis do innej jednostki miarowej.",
+      "parametry": [
+        "stara jednostka",
+        "nowa jednostka",
+        "zdarzenia"
+      ],
+      "zasadyOceny": "Zachowaj proporcje. Bez określenia tempa nie oceniaj czasu w sekundach.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.42"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "gama-z-rytmem",
+      "haslo": "gamy-krzyzykowe-bemolowe",
+      "polecenie": "Zapisz gamę w podanej odmianie wraz z rytmem, kluczem i oznaczeniami.",
+      "parametry": [
+        "tonacja",
+        "odmiana",
+        "kierunek",
+        "oktawy",
+        "klucz",
+        "metrum",
+        "rytm",
+        "tempo",
+        "dynamika"
+      ],
+      "zasadyOceny": "Waliduj osobno wysokości, pisownię, długości taktów, grupowanie i oznaczenia.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "zadania, s.119–122"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "gama-chromatyczna",
+      "haslo": "chromatyzacja-dur",
+      "polecenie": "Zapisz gamę chromatyczną w określonym wariancie.",
+      "parametry": [
+        "tonacja durowa",
+        "kierunek",
+        "wariant",
+        "oktawa"
+      ],
+      "zasadyOceny": "Kontroluj kroki półtonowe i nazwy literowe, także wyjątki dla VI/VII i IV/V.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.102; zadania s.119"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "triada-tonacja",
+      "haslo": "triada-harmoniczna",
+      "polecenie": "Zbuduj akordy główne oraz wskazaną dominantę rozszerzoną.",
+      "parametry": [
+        "tonacja",
+        "odmiana gamy",
+        "funkcja",
+        "rodzaj nony"
+      ],
+      "zasadyOceny": "Kontroluj prymę, jakość i składniki; nie narzucaj reguł prowadzenia głosów z innych podręczników.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37–38, s.105–110"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "dysonans-kontekst",
+      "haslo": "konsonans-dysonans",
+      "polecenie": "Rozwiąż wskazany interwał w podanej tonacji i ruchu głosów.",
+      "parametry": [
+        "tonacja",
+        "odmiana",
+        "dźwięki z oktawą",
+        "rodzaj ruchu"
+      ],
+      "zasadyOceny": "Nie stosuj jednej odpowiedzi do całej tabeli. Zadanie musi podawać kontekst i dopuszczalne rozwiązania; nietypowe relacje zablokowane.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§36, s.103–104; zadania s.106,110"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "oznaczenie-po-polsku",
+      "haslo": "oznaczenia-wykonawcze",
+      "polecenie": "Objaśnij podany termin wykonawczy po polsku.",
+      "parametry": [
+        "termin",
+        "kontekst",
+        "epoka gdy istotna"
+      ],
+      "zasadyOceny": "Akceptuj poprawne parafrazy, nie wymuszaj jednej frazy. Nie utożsamiaj stretto agogicznego z techniką fugi.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22–24, s.75–82"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "metronom-czas",
+      "haslo": "tempo-i-metronom",
+      "polecenie": "Oblicz czas trwania podanej wartości przy ustalonej jednostce tempa.",
+      "parametry": [
+        "jednostka metronomiczna",
+        "liczba na minutę",
+        "wartość nuty"
+      ],
+      "zasadyOceny": "Czas równy 60/BPM pomnożone przez stosunek wartości do jednostki; nie stosuj do fermat bez dodatkowych warunków.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22, s.77"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "transpozycja-stopni",
+      "haslo": "transpozycja",
+      "polecenie": "Przenieś własny przebieg do innej tonacji o tym samym trybie i odmianie.",
+      "parametry": [
+        "melodia",
+        "tonacja początkowa",
+        "tonacja docelowa",
+        "klucz"
+      ],
+      "zasadyOceny": "Zachowaj interwały, stopnie oraz rytm; kontroluj pisownię i rejestr.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "zadania, s.120–122; §46"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "odczyt-oznaczen",
+      "haslo": "znaki-chromatyczne",
+      "polecenie": "Nazwij lub zapisz stopień z podanym znakiem chromatycznym.",
+      "parametry": [
+        "litera",
+        "alteracja",
+        "oktawa"
+      ],
+      "zasadyOceny": "Użyj polskiego słownika nazw; H/B rozróżniaj jawnie.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93–94"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zmiana-znakow",
+      "haslo": "znaki-przykluczowe-przygodne",
+      "polecenie": "Opisz zmianę zestawu znaków przykluczowych według wskazanego profilu.",
+      "parametry": [
+        "stary zestaw",
+        "nowy zestaw",
+        "profil wydania"
+      ],
+      "zasadyOceny": "Rozróżnij znaczenie znaków od sposobu kasowania. Nie stosuj podwójnych alteracji jako przykluczowych w tym profilu.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.94–95"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    }
+  ],
+  "audyt": [
+    {
+      "strona": 79,
+      "status": "potwierdzona-sprzecznosc-druku",
+      "opis": "Akapit podaje cztery mniejsze ruchy na każdy z czterech głównych w takcie dwunastoczęściowym; schemat na tej samej stronie ma dwanaście numerowanych ruchów i cztery grupy po trzy. Nie tworzyć zadania z błędnego zdania.",
+      "dowod": "obraz strony 79"
+    },
+    {
+      "strona": 89,
+      "status": "skorygowana-interpretacja",
+      "opis": "Przypis nie zawiera błędu autora VI zamiast V: cytuje nieprawidłowe sformułowanie jako przykład i następnie je poprawia. Tabela wskazuje tercje wielkie I–III, IV–VI, V–VII.",
+      "dowod": "obraz i tekst strony 89"
+    },
+    {
+      "strona": 104,
+      "status": "ograniczenie-regul",
+      "opis": "Tabela dopuszcza rozwiązania nietypowe; septyma jako cel kwinty zwiększonej ma przypis o zasadniczym niepraktykowaniu. Kwarta zmniejszona na sekundę nie jest konsonansem. Nie generować z tych komórek bez recenzji.",
+      "dowod": "obraz i tekst strony 104"
+    },
+    {
+      "strona": 169,
+      "status": "do-kolacji-obrazu",
+      "opis": "Warstwa tekstowa wymienia fortepian jako składnik kwintetu dętego. Nie używać tego zestawienia w zadaniach. Obraz nie został zwrócony.",
+      "dowod": "tekst strony 169"
+    }
+  ]
+}

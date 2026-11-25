@@ -14,6 +14,7 @@ Kanoniczna baza źródłowa poza pakietem strony. Twierdzenia sprawdzone ze źr�
 | [knowledge-index.json](knowledge-index.json) | Indeks pochodny |
 | [datasets/](datasets/) | Projekty schematów ćwiczeń i dane dziedzinowe |
 | [kompendium/hasla.json](kompendium/hasla.json) | Rozbudowane polskie hasła, przykłady i odsyłacze |
+| [kompendium/wesolowski-dane-szczegolowe.json](kompendium/wesolowski-dane-szczegolowe.json) | Słownik wykonawczy, tabele interwałów, reguły i projekty ćwiczeń Wesołowskiego |
 
 Język merytoryczny: polski (pl-PL). Zachować techniczne identyfikatory i nazwy oryginalne. Hasła kompendium są autorskimi opracowaniami, nie kopiami podręczników. Każde hasło wskazuje twierdzenia i konkretne strony. Brak źródła blokuje treść; nie uzupełniać z pamięci modelu.
 

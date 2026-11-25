@@ -1145,7 +1145,18 @@
           "konsonans-dysonans",
           "trojdzwieki",
           "odmiany-moll",
-          "tetrachord-dur"
+          "tetrachord-dur",
+          "rozklad-interwalow",
+          "interwaly-diatoniczne-dur",
+          "przedluzanie-w-takcie-prostym",
+          "takt-zlozony-grupowanie",
+          "zasieg-alteracji",
+          "zmiana-znakow-przykluczowych",
+          "znaki-kolizje",
+          "ruch-glosow-dysonans",
+          "interwaly-dur-harmoniczny",
+          "dominanta-nonowa",
+          "metodyka-integracja"
         ],
         "status": "pierwsza-warstwa-wszystkich-rozdzialow-do-poglebienia",
         "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury. Ponowny odczyt pełnego dostępnego tekstu s.15–34, pierwsze opracowanie rozdziałów II–III. Nie przeprowadzono indywidualnej kontroli ilustracji, historycznych przykładów wykonania ani nie wykonano generatorów. Część szczegółów ma bezpośrednie odwołania do podręcznika, ale wymaga jeszcze własnych rekordów atomowych przed wdrożeniem. Przegląd wszystkich 13 rozdziałów oraz dostępnego indeksu i okładki; ponowny odczyt rozdz. IV–XIII obejmował pełny dostępny tekst s.35–57 oraz obszerne fragmenty s.59–169 (odczyt ograniczony długością fragmentów). S.58 sprawdzono na obrazie; s.169 nie udało się pobrać obrazu. Nie jest to pełna kolacja każdej nuty, tabeli, terminu, wyjątku ani akapitu. Pozostają: pełny słownik s.75–82, tabele interwałów i znaków, szczegółowe grupowanie, historyczne ozdobniki i przykłady repertuarowe. Nie uznano braku osobnej erraty. Wykryto niespójności odczytu/druku na s.79 i 169, wymagają kolacji. Nie dopuszczono haseł do publikacji.",
@@ -1221,6 +1232,54 @@
             "Rozpoznawanie elementów dzieła i rodzaju obsady.",
             "Porównywanie typów faktury i melodyki."
           ]
+        },
+        "poglebienie": {
+          "plik": "database/kompendium/wesolowski-dane-szczegolowe.json",
+          "zakresyPonownegoOdczytu": [
+            [
+              37,
+              42
+            ],
+            [
+              50,
+              54
+            ],
+            [
+              75,
+              82
+            ],
+            [
+              87,
+              89
+            ],
+            [
+              93,
+              96
+            ],
+            [
+              101,
+              110
+            ],
+            [
+              119,
+              123
+            ],
+            [
+              169,
+              169
+            ]
+          ],
+          "obrazy": [
+            79,
+            87,
+            89,
+            104
+          ],
+          "liczbaTerminow": 179,
+          "liczbaInterwalow": 27,
+          "liczbaRelacjiStopni": 42,
+          "liczbaProjektowZadan": 18,
+          "uwagi": "Dalsza kolacja nut, pełnych tabel skal, ćwiczeń, indeksu i innych rozdziałów pozostaje otwarta. Nie uznawać projektów zadań za wykonane testy silnika."
         }
       }
     },
