@@ -8165,6 +8165,356 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-DOUBLING",
+      "statement": "W pierwszym przewrocie trójdźwięku Targosz w omawianym etapie dopuszcza podwojenie prymy lub kwinty, unikając podwojenia tercji; pozycja sopranu to pryma lub kwinta.",
+      "scope": "Profil szkolny omawianego etapu, nie bezwzględna reguła wszystkich trójdźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 122–123",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-SPACING",
+      "statement": "W pierwszym przewrocie sopran i alt mogą być oddalone najwyżej o oktawę; alt i tenor najwyżej o kwintę przy podwojonej prymie, a do oktawy przy podwojonej kwincie.",
+      "scope": "Ograniczenia Targosza dla omawianych rozkładów; oktawę między altem i tenorem tworzy podwojona kwinta.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 123, przykł. 143",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH13"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-TOP",
+      "statement": "Podwojenie składnika obecnego w sopranie jest w pierwszym przewrocie wskazówką brzmieniową, a nie obowiązkiem.",
+      "scope": "Preferencja autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 123",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-ROLE",
+      "statement": "Pierwszy przewrót toniki osłabia wrażenie zamknięcia, a pierwszego przewrotu subdominanty można użyć dla wzmocnienia jej ciążenia ku dominancie, zwłaszcza przy subdominancie molowej.",
+      "scope": "Opis funkcjonowania w harmonii klasycznej według Targosza, nie pomiar psychoakustyczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 126–127, 134",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-BASS",
+      "statement": "Prymy i tercje akordów triady dają basowi sześć stopni skali; brakujący stopień II może wystąpić jako dźwięk obcy.",
+      "scope": "Zakłada wyłącznie triadę w postaciach zasadniczych i pierwszych przewrotach.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 128",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-SAME-COMPONENT",
+      "statement": "Zmiana przewrotu pozwala harmonizować następstwo prym lub kwint w sopranie bez równoległych oktaw lub kwint z basem fundamentalnym.",
+      "scope": "Nie gwarantuje poprawności pozostałych głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 130–131",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DIRECT-PERFECT",
+      "statement": "W profilu autora zabronione są ukryte oktawy i kwinty między głosami skrajnymi: ruch prosty na te współbrzmienia przy skoku sopranu.",
+      "scope": "Nie mylić z zakazem równoległych oktaw i kwint ani z zakazem dowolnego ruchu prostego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 132",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH14"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-DIRECT-FIFTH",
+      "statement": "Targosz nie przyjmuje bezwyjątkowego zakazu osiągania ruchem prostym podwojonej kwinty w pierwszym przewrocie.",
+      "scope": "Autor zaznacza świadome odstępstwo sic; odróżnić od zakazanych ukrytych kwint głosów skrajnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 131–132",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-D-RES",
+      "statement": "Dominanta z tercją w basie zwykle przechodzi na tonikę z prymą w basie; po skoku do tercji toniki autor zaleca dalsze powtórzenie toniki na prymie.",
+      "scope": "Melodyczne rozwiązanie dźwięku prowadzącego w basie, według autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 133, przykł. 152",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-S-RES",
+      "statement": "Subdominanta z tercją w basie zasadniczo przechodzi na dominantę, choć prowadzenie melodii basu może uzasadnić następstwo toniki.",
+      "scope": "Tendencja w tej metodzie, nie zakaz S–T.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 133",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-BASS-SUSP",
+      "statement": "Po wprowadzeniu pierwszego przewrotu możliwe jest opóźnienie tercji w basie, ponieważ nie jest ona na tym etapie podwajana.",
+      "scope": "Reguła profilu z warunkami opisanymi dla opóźnień i podwojeń.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 133–134",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIRST-INV-PROCEDURE",
+      "statement": "Przy harmonizacji z przewrotami projektuje się funkcje i melodyczną linię basu, następnie prowadzi możliwie ekonomicznie głosy środkowe.",
+      "scope": "Metoda zadania; autor zaleca śpiewanie linii basu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 135–137",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-DOUBLING",
+      "statement": "Drugi przewrót trójdźwięku ma kwintę w basie; w omawianym etapie zwykle podwaja się kwintę. Targosz sygnalizuje późniejszy wyjątek podwojenia prymy.",
+      "scope": "Nie traktować podwojenia kwinty jako bezwyjątkowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 138",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-AMBIGUITY",
+      "statement": "Ten sam zbiór nut z tym samym basem może oznaczać drugi przewrót trójdźwięku lub podwójne opóźnienie 6–5/4–3 akordu z prymą o kwintę wyższą.",
+      "scope": "Wymaga kontekstu metrycznego i harmonicznego; np. C/G wobec G z opóźnieniami.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 139",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH15"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-METRIC",
+      "statement": "Dla odróżnienia drugiego przewrotu od podwójnego opóźnienia autor preferuje krótkie, metrycznie słabe, nieeksponowane użycie drugiego przewrotu.",
+      "scope": "Nie bezwyjątkowy zakaz mocnej części; przykład nuty pedałowej na s. 143.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 139–140, 143",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-PASSING",
+      "statement": "Przykładowy akord przejściowy w drugim przewrocie może łączyć postać zasadniczą toniki z jej pierwszym przewrotem, również w kierunku odwrotnym.",
+      "scope": "Model T–D z kwintą w basie–T z tercją w basie; głosy związane prowadzone przeciwnie, pozostałe według modelu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 140–141, przykł. 160–162",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-NEIGHBOR",
+      "statement": "Akord pomocniczy w drugim przewrocie może powstać przez wychylenie dwóch górnych głosów przy utrzymanym basie i powrót do pierwotnego trójdźwięku.",
+      "scope": "Model np. T–S w drugim przewrocie–T.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 141–142, przykł. 163–164",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-PEDAL",
+      "statement": "Przy nucie pedałowej lokalne akordy w drugim przewrocie mogą przypadać także na mocne części taktu i mieć wieloznaczną interpretację funkcyjną.",
+      "scope": "Wyjątek od podstawowej preferencji metrycznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 142–143, przykł. 165",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-ARPEGGIO",
+      "statement": "Drugi przewrót może powstać przy powtórzeniu tego samego akordu z basem poruszającym się po jego składnikach; górne głosy mogą pozostać bez ruchu.",
+      "scope": "Autor wymaga ostrożności przy osiąganiu podwojonej kwinty ruchem prostym.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 143–144, przykł. 166",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TH16"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECOND-INV-COMBINED",
+      "statement": "Autor dopuszcza łączenie schematów wejścia i wyjścia z drugiego przewrotu, o ile akord nie staje się eksponowany; dźwięki obce w nim stosuje ostrożnie.",
+      "scope": "Profil restrykcyjny Targosza, odmienny od niektórych innych podręczników.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s. 144–146",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

@@ -131,3 +131,6 @@ Przejrzano wszystkie obrazy stron dostępnych w pliku. Dodano 34 twierdzeń i 15
 
 ## Targosz — lektura ciągła rozdziału III, s. 84–121
 24 nowe twierdzenia, 4 autorskie przypadki wzorcowe. Rozróżniono metrykę względną, opóźnienia przygotowane i nieprzygotowane, pośrednie rozwiązania, wyjątki dla D 6–5/4–3, dźwięki zamienne i oderwane oraz figurację. Przejrzano obrazy wszystkich stron rozdziału, bez deklarowania pełnego rozwiązania zadań. Nadal brak zatwierdzenia nauczycielskiego i testów silnika.
+
+## Targosz — lektura ciągła rozdziału IV, s. 122–146
+20 nowych twierdzeń i 5 autorskich przypadków wzorcowych: pierwszy i drugi przewrót, odstępy, podwojenia, prowadzenie basu, ukryte kwinty i oktawy, rola metrum i nuty pedałowej oraz interpretacyjna wieloznaczność struktur 6/4. Przejrzano tekst i obrazy wszystkich stron, bez deklarowania rozwiązania wszystkich zadań. Wzorce nie stanowią wykonanych testów silnika.

@@ -1547,6 +1547,39 @@
         "TAR-FIGURATION-TWO-METHODS"
       ],
       "remaining": "Przejrzano tekst i obrazy wszystkich stron rozdziału III; nie rozwiązano każdego zadania i nie wykonano transkrypcji wszystkich przykładów. Następny zakres: od s. 122."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          122,
+          146
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-FIRST-INV-DOUBLING",
+        "TAR-FIRST-INV-SPACING",
+        "TAR-FIRST-INV-TOP",
+        "TAR-FIRST-INV-ROLE",
+        "TAR-FIRST-INV-BASS",
+        "TAR-FIRST-INV-SAME-COMPONENT",
+        "TAR-DIRECT-PERFECT",
+        "TAR-FIRST-INV-DIRECT-FIFTH",
+        "TAR-FIRST-INV-D-RES",
+        "TAR-FIRST-INV-S-RES",
+        "TAR-FIRST-INV-BASS-SUSP",
+        "TAR-FIRST-INV-PROCEDURE",
+        "TAR-SECOND-INV-DOUBLING",
+        "TAR-SECOND-INV-AMBIGUITY",
+        "TAR-SECOND-INV-METRIC",
+        "TAR-SECOND-INV-PASSING",
+        "TAR-SECOND-INV-NEIGHBOR",
+        "TAR-SECOND-INV-PEDAL",
+        "TAR-SECOND-INV-ARPEGGIO",
+        "TAR-SECOND-INV-COMBINED"
+      ],
+      "remaining": "Przejrzano tekst i obrazy wszystkich stron rozdziału IV; nie przepisano ani nie rozwiązano wszystkich przykładów i zadań. Następny zakres od s. 147."
     }
   ]
 }

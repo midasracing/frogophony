@@ -2244,6 +2244,117 @@
       "expected": {
         "relativeStrength": "next weaker"
       }
+    },
+    {
+      "id": "TH12",
+      "domain": "harmony",
+      "input": {
+        "root": "C",
+        "notesMidi": [
+          52,
+          55,
+          60,
+          67
+        ],
+        "profile": "Targosz"
+      },
+      "expected": {
+        "bassComponent": 3,
+        "doubledComponent": 5,
+        "passesDoublingRule": true
+      }
+    },
+    {
+      "id": "TH13",
+      "domain": "harmony",
+      "input": {
+        "root": "C",
+        "notesMidi": [
+          52,
+          60,
+          67,
+          72
+        ],
+        "profile": "Targosz"
+      },
+      "expected": {
+        "doubledComponent": 1,
+        "altoTenorIntervalSemitones": 7,
+        "passesUpperSpacingRule": true
+      }
+    },
+    {
+      "id": "TH14",
+      "domain": "harmony",
+      "input": {
+        "outerVoicesMidi": [
+          [
+            48,
+            64
+          ],
+          [
+            50,
+            69
+          ]
+        ],
+        "profile": "Targosz"
+      },
+      "expected": {
+        "sopranoLeap": true,
+        "sameDirection": true,
+        "destinationIntervalClass": 7,
+        "hiddenFifth": true
+      }
+    },
+    {
+      "id": "TH15",
+      "domain": "harmony",
+      "input": {
+        "notes": [
+          "G2",
+          "C3",
+          "E3",
+          "G3"
+        ],
+        "key": "C",
+        "context": null
+      },
+      "expected": {
+        "possibleInterpretations": [
+          "T5",
+          "D6–5/4–3"
+        ],
+        "uniqueWithoutContext": false
+      }
+    },
+    {
+      "id": "TH16",
+      "domain": "harmony",
+      "input": {
+        "root": "C",
+        "voicingsMidi": [
+          [
+            48,
+            55,
+            60,
+            64
+          ],
+          [
+            55,
+            55,
+            60,
+            64
+          ]
+        ]
+      },
+      "expected": {
+        "inversions": [
+          0,
+          2
+        ],
+        "sameUpperVoices": true,
+        "doubledFifth": true
+      }
     }
   ]
 }

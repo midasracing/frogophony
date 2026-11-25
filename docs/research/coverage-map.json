@@ -838,7 +838,9 @@
         "TAR-COMPONENT-NUMBER",
         "TAR-DORIAN-S-RES",
         "TAR-MINOR-D-S",
-        "TAR-MAJOR-MINOR-S"
+        "TAR-MAJOR-MINOR-S",
+        "TAR-FIRST-INV-ROLE",
+        "TAR-SECOND-INV-AMBIGUITY"
       ],
       "status": "partial"
     },
@@ -878,7 +880,21 @@
         "TAR-CROSS-RELATION",
         "TAR-SUSP-DOUBLING",
         "TAR-SUSP-MULTIPLE",
-        "TAR-HIDDEN-PARALLEL-NCT"
+        "TAR-HIDDEN-PARALLEL-NCT",
+        "TAR-FIRST-INV-DOUBLING",
+        "TAR-FIRST-INV-SPACING",
+        "TAR-FIRST-INV-TOP",
+        "TAR-FIRST-INV-BASS",
+        "TAR-FIRST-INV-SAME-COMPONENT",
+        "TAR-DIRECT-PERFECT",
+        "TAR-FIRST-INV-DIRECT-FIFTH",
+        "TAR-FIRST-INV-D-RES",
+        "TAR-SECOND-INV-DOUBLING",
+        "TAR-SECOND-INV-METRIC",
+        "TAR-SECOND-INV-PASSING",
+        "TAR-SECOND-INV-NEIGHBOR",
+        "TAR-SECOND-INV-ARPEGGIO",
+        "TAR-SECOND-INV-COMBINED"
       ],
       "status": "partial"
     },
@@ -892,7 +908,12 @@
         "TAR-PEDAL",
         "TAR-MINOR-D-S",
         "TAR-MAJOR-MINOR-S",
-        "TAR-SUSP-D64"
+        "TAR-SUSP-D64",
+        "TAR-FIRST-INV-ROLE",
+        "TAR-FIRST-INV-D-RES",
+        "TAR-FIRST-INV-S-RES",
+        "TAR-SECOND-INV-PASSING",
+        "TAR-SECOND-INV-PEDAL"
       ],
       "status": "partial"
     },
@@ -912,7 +933,9 @@
         "TAR-HARM-AUDIT-BASS",
         "TAR-HARM-REDUCE",
         "TAR-EIGHTH-PAIR",
-        "TAR-FIGURATION-TWO-METHODS"
+        "TAR-FIGURATION-TWO-METHODS",
+        "TAR-FIRST-INV-SAME-COMPONENT",
+        "TAR-FIRST-INV-PROCEDURE"
       ],
       "status": "partial"
     },
@@ -947,7 +970,9 @@
         "TAR-ESCAPE-SAME",
         "TAR-ANTICIPATION-CHAIN",
         "TAR-HIDDEN-PARALLEL-NCT",
-        "TAR-FIGURATION-TWO-METHODS"
+        "TAR-FIGURATION-TWO-METHODS",
+        "TAR-FIRST-INV-BASS-SUSP",
+        "TAR-SECOND-INV-COMBINED"
       ],
       "status": "partial"
     },
@@ -975,7 +1000,9 @@
         "WH-PRACTICE",
         "WH-DOUBLING",
         "TAR-PRACTICE",
-        "TAR-NONCHORD-TENSION"
+        "TAR-NONCHORD-TENSION",
+        "TAR-SECOND-INV-AMBIGUITY",
+        "TAR-SECOND-INV-PEDAL"
       ],
       "status": "partial"
     },
