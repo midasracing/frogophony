@@ -2975,6 +2975,238 @@
           4
         ]
       }
+    },
+    {
+      "id": "TN27",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "F",
+        "figures": [],
+        "key": "C major"
+      },
+      "expected": {
+        "nominalIntervals": [
+          3,
+          5
+        ],
+        "nominalPitchSpellings": [
+          "F",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "TN28",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "E",
+        "figures": [
+          6
+        ],
+        "key": "C major"
+      },
+      "expected": {
+        "nominalIntervals": [
+          3,
+          6
+        ],
+        "nominalPitchSpellings": [
+          "E",
+          "G",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "TN29",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "G",
+        "figures": [
+          6,
+          4
+        ],
+        "key": "C major"
+      },
+      "expected": {
+        "nominalIntervals": [
+          4,
+          6
+        ],
+        "nominalPitchSpellings": [
+          "G",
+          "C",
+          "E"
+        ],
+        "functionalAnalysisUnique": false
+      }
+    },
+    {
+      "id": "TN30",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "G",
+        "figures": [
+          7
+        ],
+        "key": "C major"
+      },
+      "expected": {
+        "nominalIntervals": [
+          3,
+          5,
+          7
+        ],
+        "nominalPitchSpellings": [
+          "G",
+          "B",
+          "D",
+          "F"
+        ],
+        "voicingCompletenessUnique": false
+      }
+    },
+    {
+      "id": "TN31",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "B",
+        "figures": [
+          6,
+          5
+        ],
+        "key": "C major",
+        "relation": "simultaneous"
+      },
+      "expected": {
+        "nominalIntervals": [
+          3,
+          5,
+          6
+        ],
+        "nominalPitchSpellings": [
+          "B",
+          "D",
+          "F",
+          "G"
+        ]
+      }
+    },
+    {
+      "id": "TN32",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "D",
+        "figures": [
+          4,
+          3
+        ],
+        "key": "C major",
+        "relation": "simultaneous"
+      },
+      "expected": {
+        "nominalIntervals": [
+          3,
+          4,
+          6
+        ],
+        "nominalPitchSpellings": [
+          "D",
+          "F",
+          "G",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "TN33",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "F",
+        "figures": [
+          2
+        ],
+        "key": "C major"
+      },
+      "expected": {
+        "nominalIntervals": [
+          2,
+          4,
+          6
+        ],
+        "nominalPitchSpellings": [
+          "F",
+          "G",
+          "B",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "TN34",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bass": "D",
+        "figures": [
+          {
+            "accidental": "#",
+            "interval": null
+          }
+        ],
+        "key": "C major"
+      },
+      "expected": {
+        "affectedInterval": 3,
+        "alteredPitch": "F#"
+      }
+    },
+    {
+      "id": "TN35",
+      "domain": "harmony",
+      "input": {
+        "bassMotion": [
+          "G3",
+          "F3"
+        ],
+        "upperVoice": [
+          "E4",
+          "D4"
+        ],
+        "key": "C major"
+      },
+      "expected": {
+        "figures": [
+          6,
+          6
+        ],
+        "upperVoiceMoves": true
+      }
+    },
+    {
+      "id": "TN36",
+      "domain": "harmony",
+      "input": {
+        "profile": "Targosz-school",
+        "bassMember": 7,
+        "figuresTopToBottom": [
+          10,
+          4,
+          2
+        ]
+      },
+      "expected": {
+        "preserveCompoundInterval": 10,
+        "dominantNinthInversion": 3
+      }
     }
   ]
 }

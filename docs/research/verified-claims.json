@@ -9950,6 +9950,349 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-SEQUENCE-CHAIN",
+      "statement": "W przykładzie opadającej progresji autor stosuje dwuelementowy wzór harmoniczny z trójdźwiękiem odniesienia i septymową dominantą pozorną; powtarzane w ten sam sposób połączenia tworzą łańcuch.",
+      "scope": "Łańcuch stanowi progresję, gdy sposób łączenia jest powtarzalny; nie każdy szereg akordów pokrewnych kwintowo jest progresją.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.241, przykł. 313",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SEQUENCE-PRACTICE",
+      "statement": "W ćwiczeniach instrumentalnych Targosz proponuje dłuższe progresje prowadzące do powrotu wyjściowej konfiguracji funkcyjno-akordowej w innej oktawie, z własnym zwrotem końcowym.",
+      "scope": "Zalecenie ćwiczeniowe, nie obowiązkowa długość progresji w utworach.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.241–243, zad.18",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-SEMANTICS",
+      "statement": "Bas cyfrowany opisuje wymagane współbrzmienia względem aktualnego basu, podczas gdy funkcję harmoniczną należy ustalić z przebiegu; interpretacja funkcyjna może wpływać na dobór zdwojenia i sposób łączenia.",
+      "scope": "Nie utożsamiać odczytania cyfr z pełną analizą funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.244–245",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-HISTORICAL",
+      "statement": "Autor rozróżnia ścisłą notację szkolną i historyczną notację continua, w której część cyfr może zostać pominięta, gdy wykonawca ma rozpoznać współbrzmienie z kontekstu.",
+      "scope": "Nie rozszerzać domyślnych skrótów szkolnych na każdą historyczną edycję; zachować zapis wejściowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.245, przykł.315",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-ROOT-TRIAD",
+      "statement": "W szkolnym modelu autora brak cyfr przy basie lub oznaczenie 5 albo 5/3 zwykle odpowiada trójdźwiękowi o tercji i kwincie nad basem; jakości interwałów wynikają z materiału tonalnego i znaków.",
+      "scope": "Dotyczy podstawowego modelu szkolnego; nie ustala jakości akordu ani konkretnego rejestru górnych głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.245–246, przykł.316",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN27"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-SIX",
+      "statement": "Cyfra 6 w zwykłym akordzie sekstowym zastępuje domyślną kwintę i pozostawia domyślną tercję; ten sam układ interwałów może otrzymać różne interpretacje funkcyjne.",
+      "scope": "Nie rozstrzyga automatycznie, czy funkcjonalna pryma leży w basie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.246, przykł.317",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN28"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-SIX-FOUR",
+      "statement": "W zwykłym akordzie kwart-sekstowym cyfry 6/4 wskazują kwartę i sekstę nad basem; taka struktura może też wynikać z podwójnego opóźnienia albo akordu bez prymy.",
+      "scope": "Nie oznaczać każdego 6/4 jako samodzielnego drugiego przewrotu toniki.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.246–247, przykł.318",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN29"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-SEVEN",
+      "statement": "W standardowym oznaczeniu septymowym 7 pomija się domyślnie tercję i kwintę, ale sam skrót nie rozstrzyga kompletności realizacji czterogłosowej; jawne 7/5 wskazuje obecność kwinty.",
+      "scope": "Niezależne pola: interwały implikowane, wymagane w danej realizacji i dopuszczalne pominięcia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.247, przykł.319",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN30"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-SIX-FIVE",
+      "statement": "W typowym akordzie kwint-sekstowym 6/5 współwystępują tercja, kwinta i seksta nad basem; tercja nie musi być wypisana.",
+      "scope": "Nie mylić układu pionowego 6/5 z następstwem czasowym 6–5. Możliwa struktura pierwszego przewrotu septymowego lub trójdźwięku z dodaną sekstą.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.248, przykł.320",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN31"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-FOUR-THREE",
+      "statement": "W zwykłym akordzie terc-kwartowym 4/3 domyślnie występuje też seksta; pełne oznaczenie może mieć postać 6/4/3.",
+      "scope": "To struktura współbrzmienia, nie jednoznaczne rozpoznanie funkcji; rozróżnić od czasowego opóźnienia 4–3.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.248, przykł.321",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN32"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-TWO",
+      "statement": "Cyfra 2 w zwykłym akordzie sekundowym wskazuje strukturę interwałów 2,4,6 nad basem; spotyka się także oznaczenie 4/2 i pełne 6/4/2.",
+      "scope": "W materiale historycznym cyfrowanie przejściowej septymy w basie może zostać pominięte; układ może mieć różną analizę funkcyjną.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.248–249, przykł.322–323",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN33"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-NINTH",
+      "statement": "Targosz przedstawia skrót 9/7 dla dominanty nonowej zasadniczej; w pierwszym przewrocie opisuje cyfry 7,5,6 zapisane od góry w tej kolejności.",
+      "scope": "To konwencja omawianego profilu, a nie ogólny standard wszystkich akordów dziewiątkowych. Nietypowa kolejność wynika z rozłożenia prymy i nony, nie sortować cyfr przed interpretacją.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.249, przykł.324",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-NINTH-INVERSION",
+      "statement": "W profilu autora trzeci przewrót akordu nonowego oznacza się 10/2 lub 10/4/2, uwidaczniając położenie nony; dla drugiego przewrotu w większej liczbie głosów pokazuje 12/4/3.",
+      "scope": "Złożonych interwałów i kolejności cyfr nie wolno bezwarunkowo redukować do prostych klas interwałowych. Dodatkowe domyślne składniki wymagają kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.250, przykł.325–326",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN36"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-ACCIDENTALS",
+      "statement": "Znak chromatyczny przy cyfrze dotyczy wskazanego interwału nad basem; znak bez cyfry dotyczy w omawianej notacji tercji. Jeżeli zmieniony składnik ma zwykle pomijaną cyfrę, trzeba ją wówczas uwidocznić.",
+      "scope": "Profil szkolny; znaki odnoszą się do wysokości wynikającej z kontekstu tonalnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.250–251",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN34"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+      "statement": "W historycznym continuo podwyższenie może być oznaczone przekreśleniem cyfry; autor pokazuje u Bacha także bemole przy cyfrach określające zmniejszony interwał, a nie koniecznie literalny znak przy nucie.",
+      "scope": "Wymaga profilu źródłowego i sprawdzenia konkretnego wydania; nie wdrażać jednej automatycznej interpretacji bemolu we wszystkich źródłach.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.250–251, przykł.327–329",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-NONCHORD",
+      "statement": "Dźwięki obce, w tym opóźnienia, są w basie cyfrowanym określane względem bieżącej wysokości basu, a w opisie funkcyjnym Targosza względem prymy akordu.",
+      "scope": "Przy przewrocie te same dźwięki mogą otrzymać odmienne oznaczenia liczbowe; przy zmianie basu ta sama cyfra nie musi oznaczać tej samej wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.251–253, przykł.330",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN35"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-BASS-LINES",
+      "statement": "W omawianej notacji pozioma kreska może nakazywać przetrzymanie harmonii lub dźwięku nad poruszającym się basem; ukośna kreska powiązana z cyfrą może wskazywać wyprzedzające wejście harmonii odniesionej do późniejszego basu.",
+      "scope": "Konkretna konwencja z przykł.331; odróżniać od kresek przekreślających cyfry oznaczających alterację.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.253, przykł.331",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-REALIZATION",
+      "statement": "Autor proponuje realizować bas cyfrowany przez rozwinięcie skróconych cyfr do pełnych zestawów interwałowych, ustalenie akordów, zaprojektowanie śpiewnej melodii sopranu i dopiero uzupełnienie głosów środkowych.",
+      "scope": "Etapy metodyczne; możliwy jest powrót do projektu sopranu, jeśli prowadzenie głosów jest niewykonalne.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.254–256, przykł.332–336",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FIGURED-CONTINUO-PRACTICE",
+      "statement": "Autor przedstawia dla ćwiczenia instrumentalnego uproszczoną akordową realizację partii continua, z basem w lewej ręce i trzema górnymi głosami w prawej.",
+      "scope": "Wariant dydaktyczny; nie jedyny możliwy sposób historycznej realizacji. Zapis ćwiczeniowy nie zastępuje kompetencji improwizacyjnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.256–258, przykł.337–338; zad.19–20, s.258–260",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

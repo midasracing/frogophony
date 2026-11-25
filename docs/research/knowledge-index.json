@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 551,
-    "fixtures": 160,
+    "claims": 570,
+    "fixtures": 170,
     "competencies": 73,
     "partial": 58
   },
@@ -414,7 +414,26 @@
       "TAR-SEQUENCE-DEFINITION",
       "TAR-SEQUENCE-TONAL",
       "TAR-SEQUENCE-EXACT",
-      "TAR-SEQUENCE-FOUR-VOICE"
+      "TAR-SEQUENCE-FOUR-VOICE",
+      "TAR-SEQUENCE-CHAIN",
+      "TAR-SEQUENCE-PRACTICE",
+      "TAR-FIGURED-SEMANTICS",
+      "TAR-FIGURED-HISTORICAL",
+      "TAR-FIGURED-ROOT-TRIAD",
+      "TAR-FIGURED-SIX",
+      "TAR-FIGURED-SIX-FOUR",
+      "TAR-FIGURED-SEVEN",
+      "TAR-FIGURED-SIX-FIVE",
+      "TAR-FIGURED-FOUR-THREE",
+      "TAR-FIGURED-TWO",
+      "TAR-FIGURED-NINTH",
+      "TAR-FIGURED-NINTH-INVERSION",
+      "TAR-FIGURED-ACCIDENTALS",
+      "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+      "TAR-FIGURED-NONCHORD",
+      "TAR-FIGURED-BASS-LINES",
+      "TAR-FIGURED-REALIZATION",
+      "TAR-FIGURED-CONTINUO-PRACTICE"
     ],
     "WES-1986-TEXT": [
       "MINOR-HARM",
@@ -1553,6 +1572,8 @@
         "TAR-ELLIPSIS-VOICE",
         "TAR-FIFTH-CONTRARY",
         "TAR-FIFTH-NEAREST",
+        "TAR-FIGURED-NINTH",
+        "TAR-FIGURED-NINTH-INVERSION",
         "TAR-FIRST-INV-BASS",
         "TAR-FIRST-INV-D-RES",
         "TAR-FIRST-INV-DIRECT-FIFTH",
@@ -1628,9 +1649,11 @@
         "TAR-S6-T-RES",
         "TAR-SECOND-INV-PASSING",
         "TAR-SECOND-INV-PEDAL",
+        "TAR-SEQUENCE-CHAIN",
         "TAR-SEQUENCE-DEFINITION",
         "TAR-SEQUENCE-EXACT",
         "TAR-SEQUENCE-FOUR-VOICE",
+        "TAR-SEQUENCE-PRACTICE",
         "TAR-SEQUENCE-TONAL",
         "TAR-SUSP-D64",
         "TAR-SUSPENDED-CADENCE",
@@ -1648,6 +1671,23 @@
         "TAR-ELLIPSIS-CONTINUATION",
         "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIGURED",
+        "TAR-FIGURED-ACCIDENTALS",
+        "TAR-FIGURED-BASS-LINES",
+        "TAR-FIGURED-CONTINUO-PRACTICE",
+        "TAR-FIGURED-FOUR-THREE",
+        "TAR-FIGURED-HISTORICAL",
+        "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+        "TAR-FIGURED-NINTH",
+        "TAR-FIGURED-NINTH-INVERSION",
+        "TAR-FIGURED-NONCHORD",
+        "TAR-FIGURED-REALIZATION",
+        "TAR-FIGURED-ROOT-TRIAD",
+        "TAR-FIGURED-SEMANTICS",
+        "TAR-FIGURED-SEVEN",
+        "TAR-FIGURED-SIX",
+        "TAR-FIGURED-SIX-FIVE",
+        "TAR-FIGURED-SIX-FOUR",
+        "TAR-FIGURED-TWO",
         "TAR-FIRST-INV-PROCEDURE",
         "TAR-FIRST-INV-SAME-COMPONENT",
         "TAR-HARM-AUDIT-BASS",
@@ -1660,6 +1700,7 @@
         "TAR-HARMONIZE-ORDER",
         "TAR-PRACTICE",
         "TAR-S6-COMPARE",
+        "TAR-SEQUENCE-PRACTICE",
         "TAR-SYNCOPATED-HARMONY",
         "WH-CONTINUO",
         "WH-PRACTICE"
@@ -1682,6 +1723,10 @@
         "TAR-ESCAPE-SAME",
         "TAR-ESCAPE-TONE",
         "TAR-FIGURATION-TWO-METHODS",
+        "TAR-FIGURED-BASS-LINES",
+        "TAR-FIGURED-FOUR-THREE",
+        "TAR-FIGURED-NONCHORD",
+        "TAR-FIGURED-SIX-FOUR",
         "TAR-FIRST-INV-BASS-SUSP",
         "TAR-FOREIGN",
         "TAR-HARM-REDUCE",
@@ -1754,6 +1799,9 @@
         "TAR-DEGREE-TRANSITION-TABLES",
         "TAR-ELLIPSIS",
         "TAR-ELLIPSIS-CONTINUATION",
+        "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+        "TAR-FIGURED-SEMANTICS",
+        "TAR-FIGURED-SIX",
         "TAR-FUNCTION-DUAL-RELATION",
         "TAR-FUNCTION-RETROSPECTIVE",
         "TAR-HARMONIC-RHYTHM-FORM",
@@ -7971,6 +8019,226 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "TAR-SEQUENCE-CHAIN": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SEQUENCE-PRACTICE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-SEMANTICS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-HISTORICAL": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-ROOT-TRIAD": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "TN27"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-SIX": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "TN28"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-SIX-FOUR": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TN29"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-SEVEN": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "TN30"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-SIX-FIVE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "TN31"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-FOUR-THREE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TN32"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-TWO": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "TN33"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-NINTH": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-NINTH-INVERSION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "TN36"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-ACCIDENTALS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [
+        "TN34"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-HISTORICAL-ACCIDENTALS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-NONCHORD": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [
+        "TN35"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-BASS-LINES": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-REALIZATION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED-CONTINUO-PRACTICE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -8362,6 +8630,36 @@
     ],
     "TN26": [
       "TAR-SEQUENCE-EXACT"
+    ],
+    "TN27": [
+      "TAR-FIGURED-ROOT-TRIAD"
+    ],
+    "TN28": [
+      "TAR-FIGURED-SIX"
+    ],
+    "TN29": [
+      "TAR-FIGURED-SIX-FOUR"
+    ],
+    "TN30": [
+      "TAR-FIGURED-SEVEN"
+    ],
+    "TN31": [
+      "TAR-FIGURED-SIX-FIVE"
+    ],
+    "TN32": [
+      "TAR-FIGURED-FOUR-THREE"
+    ],
+    "TN33": [
+      "TAR-FIGURED-TWO"
+    ],
+    "TN36": [
+      "TAR-FIGURED-NINTH-INVERSION"
+    ],
+    "TN34": [
+      "TAR-FIGURED-ACCIDENTALS"
+    ],
+    "TN35": [
+      "TAR-FIGURED-NONCHORD"
     ]
   }
 }

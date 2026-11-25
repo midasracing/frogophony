@@ -1713,6 +1713,38 @@
         "TAR-SEQUENCE-FOUR-VOICE"
       ],
       "remaining": "Tekst stron 221–240 odczytany z Drive; obrazy tych samych 20 stron z oryginalnego 387-stronicowego PDF obejrzane w montażach przeglądowych. Ekstrakcja Drive raportuje 382 strony: rozbieżność 5 stron do uzgodnienia na końcu książki. Tablice 228–230 i przykłady wymagają odrębnej kontroli wszystkich symboli i nut. Nie rozwiązano wszystkich zadań. Następna partia 241–250."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          241,
+          260
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-SEQUENCE-CHAIN",
+        "TAR-SEQUENCE-PRACTICE",
+        "TAR-FIGURED-SEMANTICS",
+        "TAR-FIGURED-HISTORICAL",
+        "TAR-FIGURED-ROOT-TRIAD",
+        "TAR-FIGURED-SIX",
+        "TAR-FIGURED-SIX-FOUR",
+        "TAR-FIGURED-SEVEN",
+        "TAR-FIGURED-SIX-FIVE",
+        "TAR-FIGURED-FOUR-THREE",
+        "TAR-FIGURED-TWO",
+        "TAR-FIGURED-NINTH",
+        "TAR-FIGURED-NINTH-INVERSION",
+        "TAR-FIGURED-ACCIDENTALS",
+        "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+        "TAR-FIGURED-NONCHORD",
+        "TAR-FIGURED-BASS-LINES",
+        "TAR-FIGURED-REALIZATION",
+        "TAR-FIGURED-CONTINUO-PRACTICE"
+      ],
+      "remaining": "Odczyt stron 241–260: tekst z Drive, montaż wszystkich 20 renderów z oryginału. PDF s.259 (same zadania nutowe) nie zwrócona w ekstrakcji Drive, sprawdzona na renderze. Cyfry s.249–250 sprawdzone w większej rozdzielczości. Nie rozwiązano wszystkich harmonizacji ani zadań continua; następna partia 261–270."
     }
   ]
 }

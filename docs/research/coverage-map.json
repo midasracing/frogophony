@@ -952,7 +952,9 @@
         "TAR-APPARENT-II-MINOR",
         "TAR-DIMINISHED-VOICING",
         "TAR-ELLIPSIS-VOICE",
-        "TAR-SEQUENCE-FOUR-VOICE"
+        "TAR-SEQUENCE-FOUR-VOICE",
+        "TAR-FIGURED-NINTH",
+        "TAR-FIGURED-NINTH-INVERSION"
       ],
       "status": "partial"
     },
@@ -991,7 +993,9 @@
         "TAR-SEQUENCE-DEFINITION",
         "TAR-SEQUENCE-TONAL",
         "TAR-SEQUENCE-EXACT",
-        "TAR-SEQUENCE-FOUR-VOICE"
+        "TAR-SEQUENCE-FOUR-VOICE",
+        "TAR-SEQUENCE-CHAIN",
+        "TAR-SEQUENCE-PRACTICE"
       ],
       "status": "partial"
     },
@@ -1020,7 +1024,25 @@
         "TAR-APPARENT-REFERENCE",
         "TAR-ELLIPSIS-CONTINUATION",
         "TAR-DEGREE-TRANSITION-TABLES",
-        "TAR-HARMONIZE-ALTERNATIVES"
+        "TAR-HARMONIZE-ALTERNATIVES",
+        "TAR-SEQUENCE-PRACTICE",
+        "TAR-FIGURED-SEMANTICS",
+        "TAR-FIGURED-HISTORICAL",
+        "TAR-FIGURED-ROOT-TRIAD",
+        "TAR-FIGURED-SIX",
+        "TAR-FIGURED-SIX-FOUR",
+        "TAR-FIGURED-SEVEN",
+        "TAR-FIGURED-SIX-FIVE",
+        "TAR-FIGURED-FOUR-THREE",
+        "TAR-FIGURED-TWO",
+        "TAR-FIGURED-NINTH",
+        "TAR-FIGURED-NINTH-INVERSION",
+        "TAR-FIGURED-ACCIDENTALS",
+        "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+        "TAR-FIGURED-NONCHORD",
+        "TAR-FIGURED-BASS-LINES",
+        "TAR-FIGURED-REALIZATION",
+        "TAR-FIGURED-CONTINUO-PRACTICE"
       ],
       "status": "partial"
     },
@@ -1065,7 +1087,11 @@
         "TAR-D9-SUSPENSION",
         "TAR-APPARENT-CHROMATIC",
         "TAR-ADDED-SIXTH-TIME",
-        "TAR-CHROMATIC-NONCHORD"
+        "TAR-CHROMATIC-NONCHORD",
+        "TAR-FIGURED-SIX-FOUR",
+        "TAR-FIGURED-FOUR-THREE",
+        "TAR-FIGURED-NONCHORD",
+        "TAR-FIGURED-BASS-LINES"
       ],
       "status": "partial"
     },
@@ -1130,7 +1156,10 @@
         "TAR-ADDED-SIXTH-TIME",
         "TAR-S6-SEVENTH-ANALYSIS",
         "TAR-DEGREE-TRANSITION-TABLES",
-        "TAR-FUNCTION-DUAL-RELATION"
+        "TAR-FUNCTION-DUAL-RELATION",
+        "TAR-FIGURED-SEMANTICS",
+        "TAR-FIGURED-SIX",
+        "TAR-FIGURED-HISTORICAL-ACCIDENTALS"
       ],
       "status": "partial"
     },

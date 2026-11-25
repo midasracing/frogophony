@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "status": "draft",
+  "releaseApproved": false,
+  "sourceId": "TARGOSZ-2004-UPLOAD",
+  "notation": "English letter pitch spelling in machine records; Polish display nomenclature remains separate. Figures in vertical order top to bottom; nominal intervals are above the current bass, not functional root. Not a historical continuo parser.",
+  "claimIds": [
+    "TAR-FIGURED",
+    "TAR-FIGURED-SEMANTICS",
+    "TAR-FIGURED-HISTORICAL"
+  ],
+  "patterns": [
+    {
+      "figures": [],
+      "nominalIntervals": [
+        3,
+        5
+      ],
+      "claimId": "TAR-FIGURED-ROOT-TRIAD",
+      "aliases": [
+        [
+          5
+        ],
+        [
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "figures": [
+        6
+      ],
+      "nominalIntervals": [
+        3,
+        6
+      ],
+      "claimId": "TAR-FIGURED-SIX",
+      "aliases": [
+        [
+          6,
+          3
+        ]
+      ]
+    },
+    {
+      "figures": [
+        6,
+        4
+      ],
+      "nominalIntervals": [
+        4,
+        6
+      ],
+      "claimId": "TAR-FIGURED-SIX-FOUR"
+    },
+    {
+      "figures": [
+        7
+      ],
+      "nominalIntervals": [
+        3,
+        5,
+        7
+      ],
+      "claimId": "TAR-FIGURED-SEVEN",
+      "voicingCompleteness": "not-determined-by-shorthand"
+    },
+    {
+      "figures": [
+        6,
+        5
+      ],
+      "nominalIntervals": [
+        3,
+        5,
+        6
+      ],
+      "claimId": "TAR-FIGURED-SIX-FIVE",
+      "aliases": [
+        [
+          6,
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "figures": [
+        4,
+        3
+      ],
+      "nominalIntervals": [
+        3,
+        4,
+        6
+      ],
+      "claimId": "TAR-FIGURED-FOUR-THREE",
+      "aliases": [
+        [
+          6,
+          4,
+          3
+        ]
+      ]
+    },
+    {
+      "figures": [
+        2
+      ],
+      "nominalIntervals": [
+        2,
+        4,
+        6
+      ],
+      "claimId": "TAR-FIGURED-TWO",
+      "aliases": [
+        [
+          4,
+          2
+        ],
+        [
+          6,
+          4,
+          2
+        ]
+      ]
+    }
+  ],
+  "specialPatterns": [
+    {
+      "figures": [
+        9,
+        7
+      ],
+      "claimId": "TAR-FIGURED-NINTH",
+      "profile": "Targosz-school",
+      "inversion": 0,
+      "autoExpand": false
+    },
+    {
+      "figures": [
+        7,
+        5,
+        6
+      ],
+      "claimId": "TAR-FIGURED-NINTH",
+      "profile": "Targosz-school",
+      "inversion": 1,
+      "autoExpand": false
+    },
+    {
+      "figures": [
+        10,
+        4,
+        2
+      ],
+      "aliases": [
+        [
+          10,
+          2
+        ]
+      ],
+      "claimId": "TAR-FIGURED-NINTH-INVERSION",
+      "profile": "Targosz-school",
+      "inversion": 3,
+      "autoExpand": false
+    },
+    {
+      "figures": [
+        12,
+        4,
+        3
+      ],
+      "claimId": "TAR-FIGURED-NINTH-INVERSION",
+      "profile": "Targosz-school",
+      "inversion": 2,
+      "autoExpand": false
+    }
+  ],
+  "limits": [
+    "No automatic functional classification.",
+    "Do not infer a unique register or voicing from nominal intervals.",
+    "Keep simultaneous stacks distinct from temporal suspensions.",
+    "Historical marks, bass changes, implied figures, and special ninth-chord figures require context and a validated renderer."
+  ]
+}
