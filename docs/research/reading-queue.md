@@ -53,3 +53,6 @@ WOJ-ABC-UPLOAD: 96 stron skanu, brak części początkowej i metadanych wydania,
 
 ### Otrzymano Wesołowskiego — Nauka harmonii (2026-11-25)
 WES-HAR-1997-UPLOAD, 104 strony skanu, wyd. I 1997. Czytelny po obrocie. Pierwsza lektura wybranych fragmentów; nie prosić ponownie o egzemplarz. Mapa i ustalenia w wesolowski-harmony-reference.md. Drobner pozostaje do przesłania.
+
+### Otrzymano Drobnera (2026-11-25)
+DROB-1986-UPLOAD, PWM 1986, rzeczywisty PDF 259 stron, podgląd Files 150; kończy się na druk. 258, bibliografia i indeks nieobecne. Nie prosić ponownie o książkę, chyba że potrzebna będzie wkładka skal lub brakujące końcowe strony. Lektura częściowa w drobner-reference.md. Wszystkie dziewięć zapowiedzianych plików otrzymano. Następne: audyt zebranej wiedzy, historia muzyki i pozostałe braki programu.

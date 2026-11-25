@@ -54,3 +54,5 @@ DK-EAR-1989-UPLOAD: otrzymany podręcznik Dzielskiej i Kaszyckiego, pierwszoplan
 WOJ-ABC-UPLOAD: egzemplarz ABC form muzycznych dostępny; wydanie nieustalone, mapa i porównanie z Chomińskim w wojcik-abc-reference.md.
 
 WES-HAR-1997-UPLOAD: dostarczony egzemplarz Nauki harmonii, wyd. I 1997. Uzupełnia Sikorskiego i Targosza, mapa w wesolowski-harmony-reference.md.
+
+DROB-1986-UPLOAD: otrzymany egzemplarz Instrumentoznawstwa i akustyki; podstawowe modele akustyczne i instrumentacyjne z ograniczeniami w drobner-reference.md. Nie traktować historycznych informacji jako aktualnych norm.

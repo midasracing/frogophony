@@ -38,3 +38,5 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Wójcik — ABC form muzycznych](wojcik-abc-reference.md): formy instrumentalne i wokalne, techniki XX w., zasady analizy.
 
 - [Wesołowski — Nauka harmonii](wesolowski-harmony-reference.md): wyjątki, praktyka, faktura i modulacje.
+
+- [Drobner — instrumentoznawstwo i akustyka](drobner-reference.md): strojenie, modele fizyczne, transpozycja i ograniczenia.

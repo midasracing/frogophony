@@ -28,7 +28,8 @@
         "PL-INV-QUALITY",
         "PL-INT-TIME",
         "WES-SEMITONE-SPELL",
-        "DK-INT-ANS"
+        "DK-INT-ANS",
+        "DROB-EAR"
       ],
       "status": "partial"
     },
@@ -82,7 +83,8 @@
         "PL-PICKUP",
         "WES-TUPLET",
         "WES-TEMPO",
-        "DK-RHY-METER"
+        "DK-RHY-METER",
+        "DROB-TEMPO"
       ],
       "status": "partial"
     },
@@ -207,7 +209,10 @@
         "WOJ-SATB",
         "WOJ-TEXTURE",
         "WOJ-HOMOPHONY",
-        "WOJ-CAPPELLA"
+        "WOJ-CAPPELLA",
+        "DROB-TAXONOMY",
+        "DROB-KEYBOARD",
+        "DROB-VIOLIN"
       ],
       "status": "partial"
     },
@@ -382,7 +387,8 @@
         "DK-INT-ANS",
         "DK-INT-DIFF",
         "DK-COMPLETE",
-        "DK-CHORD"
+        "DK-CHORD",
+        "DROB-EAR"
       ],
       "status": "partial"
     },
@@ -485,7 +491,18 @@
         "WES-HARMONICS",
         "WES-SOUND",
         "WES-C-CLEFS",
-        "ACOUSTIC-DB"
+        "ACOUSTIC-DB",
+        "DROB-PERIOD",
+        "DROB-AMPLITUDE",
+        "DROB-DAMP",
+        "DROB-WAVE",
+        "DROB-SPEED",
+        "DROB-BEATS",
+        "DROB-SPECTRUM",
+        "DROB-HARM",
+        "DROB-MISSING",
+        "DROB-STRING",
+        "DROB-PIPE"
       ],
       "status": "partial"
     },
@@ -495,7 +512,12 @@
         "MAJOR-PATTERN",
         "MINOR-NAT",
         "WES-12TET",
-        "WES-MAJOR-HARM"
+        "WES-MAJOR-HARM",
+        "DROB-RATIOS",
+        "DROB-PYTH",
+        "DROB-JUST",
+        "DROB-CENT",
+        "DROB-ET"
       ],
       "status": "partial"
     },
@@ -507,7 +529,9 @@
         "PL-KEY-REL",
         "PL-KEY-SAME",
         "PL-KEY-DETECT",
-        "PL-TRANSPOSE"
+        "PL-TRANSPOSE",
+        "DROB-PICCOLO",
+        "DROB-TRUMPET"
       ],
       "status": "partial"
     },
@@ -521,7 +545,8 @@
         "WES-ENHARMONY",
         "WES-SEMITONE-SPELL",
         "WES-CHROM-REG",
-        "WES-CHROM-IRREG"
+        "WES-CHROM-IRREG",
+        "DROB-PYTH"
       ],
       "status": "partial"
     },
@@ -540,7 +565,9 @@
         "TRI-QUAL",
         "MINOR-V",
         "PL-INV-QUALITY",
-        "WES-SEMITONE-SPELL"
+        "WES-SEMITONE-SPELL",
+        "DROB-BEATS",
+        "DROB-RATIOS"
       ],
       "status": "partial"
     },
@@ -580,7 +607,8 @@
         "WES-ARTIC",
         "WES-TREMOLO",
         "WES-TEMPO",
-        "WOJ-PLAY"
+        "WOJ-PLAY",
+        "DROB-TEMPO"
       ],
       "status": "partial"
     },
@@ -727,7 +755,8 @@
         "WOJ-SYLLABLE",
         "WOJ-TEXTURE",
         "ABC-TEXTURE",
-        "ABC-CONCERTO"
+        "ABC-CONCERTO",
+        "DROB-SPECTRUM"
       ],
       "status": "partial"
     },
@@ -742,7 +771,14 @@
         "WOJ-STRINGS",
         "WOJ-HARP",
         "WOJ-SATB",
-        "WOJ-PERIOD"
+        "WOJ-PERIOD",
+        "DROB-TAXONOMY",
+        "DROB-KEYBOARD",
+        "DROB-VIOLIN",
+        "DROB-PIPE",
+        "DROB-PICCOLO",
+        "DROB-TRUMPET",
+        "DROB-VALVES"
       ],
       "status": "partial"
     },
@@ -752,7 +788,9 @@
         "WOJ-PLAY",
         "WOJ-BAGPIPE",
         "WOJ-FOLK-HORNS",
-        "ABC-SONORISM"
+        "ABC-SONORISM",
+        "DROB-HARMONIC-NODE",
+        "DROB-HARMONIC-TOUCH"
       ],
       "status": "partial"
     },

@@ -2036,6 +2036,11 @@
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§2, s.11",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 23–24,40 (PDF 24–25,41)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -2069,6 +2074,11 @@
         {
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§25–26, s.83–84",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 108 (PDF 109)",
           "access": "direct-read"
         }
       ],
@@ -2368,6 +2378,11 @@
         {
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§57, s.166–167",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 21 (PDF 22)",
           "access": "direct-read"
         }
       ],
@@ -4047,6 +4062,469 @@
         {
           "sourceId": "WES-HAR-1997-UPLOAD",
           "locator": "druk. s. 135 (PDF 68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-PERIOD",
+      "statement": "Częstotliwość drgań okresowych jest odwrotnością okresu: f=1/T; jej jednostką jest Hz.",
+      "scope": "T w sekundach, f w Hz, ruch okresowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 11 (PDF 12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-AMPLITUDE",
+      "statement": "W opisie prostego ruchu harmonicznego amplituda jest maksymalnym wychyleniem od położenia równowagi.",
+      "scope": "Nie utożsamiać amplitudy przemieszczenia z amplitudą ciśnienia ani odczuwaną głośnością.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 11 (PDF 12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-DAMP",
+      "statement": "W omawianym modelu drgań tłumionych amplituda maleje wskutek strat energii.",
+      "scope": "Nie przyjmować niezmienności częstotliwości względem układu nietłumionego jako ogólnej reguły.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 13 (PDF 14)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-WAVE",
+      "statement": "Długość fali okresowej, częstotliwość i prędkość fazowa spełniają zależność v=λf.",
+      "scope": "Jednorodny ośrodek i dana składowa fali; λ w metrach.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 15 (PDF 16)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-SPEED",
+      "statement": "Prędkość dźwięku w powietrzu zależy od temperatury, a prędkości w różnych ośrodkach są różne.",
+      "scope": "Wartości tabeli są przybliżone dla wskazanych warunków; nie traktować 340 m/s jako uniwersalnej stałej.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 15–16 (PDF 16–17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-BEATS",
+      "statement": "Nałożenie dwóch tonów o bliskich częstotliwościach daje okresowe zmiany amplitudy, zwane dudnieniami.",
+      "scope": "Dwa stabilne tony sinusoidalne; przydatne do demonstracji strojenia, nie automatyczna miara każdego dysonansu.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 17–18, rys.10 (PDF 18–19)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-TEMPO",
+      "statement": "Czas wartości nutowej przy stałym tempie jest równy 60/BPM pomnożonym przez stosunek jej długości do jednostki metronomicznej.",
+      "scope": "Czas w sekundach, bez rubata; jednostka BPM jawna.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 21 (PDF 22)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-SPECTRUM",
+      "statement": "Widmo akustyczne opisuje składowe częstotliwościowe dźwięku; autor rozróżnia widma prążkowe, ciągłe i mieszane.",
+      "scope": "Widmo stacjonarne nie wyczerpuje barwy instrumentu ani zmian w czasie.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 22–25, rys.12 (PDF 23–26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-HARM",
+      "statement": "W modelu harmonicznym n-ta składowa ma częstotliwość n razy większą od podstawowej; nie wszystkie składowe muszą wystąpić.",
+      "scope": "Idealny szereg harmoniczny; rzeczywiste widma mogą być nieharmoniczne.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 23–24 (PDF 24–25)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-MISSING",
+      "statement": "Autor opisuje postrzeganie wysokości tonu z szeregu harmonicznego mimo braku lub małej intensywności składowej podstawowej.",
+      "scope": "Zjawisko brakującej podstawowej; nie traktować podanego wyjaśnienia tonami kombinacyjnymi jako wyłącznego mechanizmu.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 30 (PDF 31)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-EAR",
+      "statement": "Drobner rozróżnia słuch relatywny, odnoszący się do odległości między dźwiękami, od rozpoznawania bezwzględnej wysokości w słuchu absolutnym.",
+      "scope": "Nie przyjmować dawnych twierdzeń o częstości występowania, wrodzoności i ograniczeniach uczenia jako zweryfikowanych.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 27–28 (PDF 28–29)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-TAXONOMY",
+      "statement": "Drobner wyróżnia cztery grupy według źródła drgań: chordofony, aerofony, membranofony i idiofony.",
+      "scope": "Systematyka autora dla tradycyjnych instrumentów; nie utożsamiać z aktualnym kompletnym Hornbostel–Sachs, zwłaszcza w przypadku elektroniki i stroików swobodnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 32–33 (PDF 33–34)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-KEYBOARD",
+      "statement": "Klawesyn zaliczono do chordofonów szarpanych, a klawikord i fortepian do chordofonów uderzanych.",
+      "scope": "Tabela autora; klawiatura nie przesądza o sposobie wzbudzenia drgań.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 35 (PDF 36)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-STRING",
+      "statement": "Dla idealnej napiętej struny o stałym napięciu i przekroju częstotliwość podstawowa jest odwrotnie proporcjonalna do długości części drgającej.",
+      "scope": "Idealizacja; rzeczywiste struny mają dodatkowe właściwości.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 39–40 (PDF 40–41)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-HARMONIC-NODE",
+      "statement": "W idealnym modelu struny pobudzenie w węźle danej postaci drgań nie wzbudza tej postaci, a tłumienie w punkcie eliminuje postacie, które nie mają tam węzła.",
+      "scope": "Model praw Younga omawianych przez autora; rzeczywiste tłumienie nie jest idealne.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 40–41 (PDF 41–42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-VIOLIN",
+      "statement": "Standardowy strój czterech otwartych strun skrzypiec od najniższej to g, d1, a1, e2.",
+      "scope": "Polska notacja oktawowa; inne stroje możliwe.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 51 (PDF 52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-HARMONIC-TOUCH",
+      "statement": "Lekki dotyk struny w połowie długości umożliwia uzyskanie naturalnego flażoletu o oktawę wyższego od podstawowej.",
+      "scope": "Model idealnej struny; lekki dotyk nie jest pełnym skróceniem struny.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 63–65 (PDF 64–66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-RATIOS",
+      "statement": "Czyste interwały w opisanych systemach mają stosunki częstotliwości: oktawa 2:1, kwinta 3:2, kwarta 4:3, tercja wielka w systemie naturalnym 5:4.",
+      "scope": "Nie podstawiać tych stosunków zamiast interwałów 12-TET bez zmiany profilu stroju.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 103,105 (PDF 104,106)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-PYTH",
+      "statement": "W stroju pitagorejskim interwały buduje się przez składanie czystych kwint oraz redukcję oktawową; enharmoniczne pisownie nie muszą dawać identycznych wysokości.",
+      "scope": "Model teoretyczny, nie uogólnienie wszystkich historycznych strojów.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 103–104 (PDF 104–105)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-JUST",
+      "statement": "W przedstawionej gamie durowej stroju naturalnego występują całe tony 9:8 i 10:9 oraz półtony diatoniczne 16:15.",
+      "scope": "Konkretna tabela autora dla C-dur, nie jedyny system strojenia naturalnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 106 (PDF 107)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-CENT",
+      "statement": "Cent jest jedną tysięczną dwusetną oktawy; oktawa ma 1200 centów, a półton 12-TET 100 centów.",
+      "scope": "Miara logarytmiczna; zapis liczbowy przybliżeń w tabeli nie jest dokładną definicją.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 107 (PDF 108)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-ET",
+      "statement": "W 12-TET dwanaście równych kwint temperowanych odpowiada siedmiu oktawom; kwinta temperowana ma 700 centów.",
+      "scope": "Model idealny, nie historyczna identyfikacja stroju Bacha ani rzeczywiste rozciągnięte strojenie fortepianu.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 108 (PDF 109)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-PIPE",
+      "statement": "W idealnym modelu cylindrycznej piszczałki otwartej częstotliwość podstawowa odpowiada połowie długości fali w rurze, a jednostronnie zamkniętej ćwierci długości fali; ta ostatnia ma nieparzyste harmoniczne.",
+      "scope": "Ściślej: L=λ/2 i L=λ/4, bez poprawki końcowej; rzeczywiste instrumenty odbiegają od modelu.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 123–124, rys.112–114 (PDF 124–125)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC08",
+        "AC09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-PICCOLO",
+      "statement": "Partia typowej pikuliny in C zapisana jest oktawę poniżej brzmienia.",
+      "scope": "Nie dotyczy wszystkich historycznych odmian instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 139 (PDF 140)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-TRUMPET",
+      "statement": "Trąbka in B brzmi o sekundę wielką niżej od zapisu, trąbka in C nie transponuje.",
+      "scope": "Polskie B oznacza Bb; nie przyjmować historycznej tezy autora o rzadkości trąbki C ani bezwarunkowo pomijać znaków przykluczowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 165 (PDF 166)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "AC10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DROB-VALVES",
+      "statement": "Nominalne obniżenia trzech wentyli standardowej trąbki to: 1 o dwa półtony, 2 o jeden, 3 o trzy.",
+      "scope": "Kombinacje nominalne wymagają korekt intonacyjnych; nie modelować rzeczywistej akustyki jako dokładnej sumy półtonów.",
+      "sourceRefs": [
+        {
+          "sourceId": "DROB-1986-UPLOAD",
+          "locator": "druk. s. 164–165 (PDF 165–166)",
           "access": "direct-read"
         }
       ],

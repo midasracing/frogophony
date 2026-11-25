@@ -1237,6 +1237,133 @@
         "originalSemitones": 8,
         "invertedSemitones": 4
       }
+    },
+    {
+      "id": "AC01",
+      "domain": "acoustics",
+      "input": {
+        "periodSeconds": 0.0025
+      },
+      "expected": {
+        "frequencyHz": 400
+      }
+    },
+    {
+      "id": "AC02",
+      "domain": "acoustics",
+      "input": {
+        "frequencyHz": 440,
+        "speedMetersPerSecond": 343
+      },
+      "expected": {
+        "wavelengthMeters": 0.7795454545454545
+      }
+    },
+    {
+      "id": "AC03",
+      "domain": "acoustics",
+      "input": {
+        "bpm": 120,
+        "beatUnit": "quarter",
+        "noteValue": "dotted-half"
+      },
+      "expected": {
+        "seconds": 1.5
+      }
+    },
+    {
+      "id": "AC04",
+      "domain": "acoustics",
+      "input": {
+        "fundamentalHz": 220,
+        "harmonicNumber": 5
+      },
+      "expected": {
+        "frequencyHz": 1100
+      }
+    },
+    {
+      "id": "AC05",
+      "domain": "acoustics",
+      "input": {
+        "octaves": 1
+      },
+      "expected": {
+        "cents": 1200
+      }
+    },
+    {
+      "id": "AC06",
+      "domain": "acoustics",
+      "input": {
+        "referenceHz": 440,
+        "semitones": 7
+      },
+      "expected": {
+        "frequencyHz": 659.2551138257398,
+        "cents": 700
+      }
+    },
+    {
+      "id": "AC07",
+      "domain": "acoustics",
+      "input": {
+        "referenceHz": 440,
+        "ratio": [
+          3,
+          2
+        ]
+      },
+      "expected": {
+        "frequencyHz": 660,
+        "cents": 701.9550008653874
+      }
+    },
+    {
+      "id": "AC08",
+      "domain": "acoustics",
+      "input": {
+        "model": "ideal-open-cylinder",
+        "lengthMeters": 0.5,
+        "speedMetersPerSecond": 340
+      },
+      "expected": {
+        "fundamentalHz": 340
+      }
+    },
+    {
+      "id": "AC09",
+      "domain": "acoustics",
+      "input": {
+        "model": "ideal-closed-cylinder",
+        "lengthMeters": 0.5,
+        "speedMetersPerSecond": 340
+      },
+      "expected": {
+        "fundamentalHz": 170
+      }
+    },
+    {
+      "id": "AC10",
+      "domain": "acoustics",
+      "input": {
+        "instrument": "Bb trumpet",
+        "written": "C4"
+      },
+      "expected": {
+        "sounding": "Bb3"
+      }
+    },
+    {
+      "id": "AC11",
+      "domain": "acoustics",
+      "input": {
+        "instrument": "C piccolo",
+        "written": "C5"
+      },
+      "expected": {
+        "sounding": "C6"
+      }
     }
   ]
 }

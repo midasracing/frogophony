@@ -1151,6 +1151,15 @@
       "note": "URL katalogowy; rzeczywiste źródło to PDF użytkownika. Franciszek Wesołowski, Nauka harmonii, Akademia Muzyczna w Łodzi, wyd. I, 1997, ISBN 83-901135-1-1. 104 strony PDF, 18019107 bajtów, skan bez tekstu. Odczyt kart tytułowych, spisu i przedmowy oraz wybranych stron druk. 46–47,54–55,82–83,122–123,135–137 po obróceniu obrazów. Nie przeczytano wszystkich stron ani nut; nie kopiować książki.",
       "accessKind": "user-upload",
       "fileName": "ilide.info-pr_a5602f6fc173dca146dc08f71ceb1e2a.pdf"
+    },
+    {
+      "id": "DROB-1986-UPLOAD",
+      "type": "theory",
+      "url": "https://integro.ciniba.edu.pl/integro/191901503781/drobner-mieczyslaw/instrumentoznawstwo-i-akustyka",
+      "status": "verified-partial",
+      "note": "URL katalogowy, odczyt z PDF użytkownika. Mieczysław Drobner, Instrumentoznawstwo i akustyka, PWM 1986, ISBN 83-224-0259-7. Rzeczywisty plik 259 stron (50918447 bajtów), brak warstwy tekstowej w sprawdzonych stronach; podgląd Files ograniczony do 150 stron. PDF kończy się druk. s.258, brak bibliografii i indeksu ze spisu. Numer PDF = drukowana + 1 w sprawdzonych miejscach. Odczyt obrazów kart tytułowych, spisu, s.9–41,51–52,57–66,103–108,122–124,138–140,164–165, wybrane miniatury 174–175,208,252–258. Nie zweryfikowano całości. Przedmowa datowana 1959; historyczne praktyki instrumentacyjne, uproszczenia akustyczne i dawna psychoakustyka wymagają nowszej kontroli.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-mieczysaw-drobner-instrumentoznawstwo-i-akustyka-pdf-pr_e120a118649477b7bd74699edb5a7bf1.pdf"
     }
   ]
 }

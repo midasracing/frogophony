@@ -98,3 +98,6 @@ Zweryfikowano 96 stron PDF bez tekstu, odczytano obrazy wybranych stron, w tym f
 
 ## Nauka harmonii Wesołowskiego — pierwsza lektura (2026-11-25)
 Potwierdzono metadane i 104 strony skanu; odczytano spis, przedmowę i wybrane rozkładówki 24,28,42,62,68–69. Dodano 13 twierdzeń i 5 powiązań do wcześniejszych. Udokumentowano wyjątki rozwiązania D7, odrębność zdwojenia orkiestrowego, nutę stałą, historyczne cyfrowanie i klasyfikację modulacji. Bez pełnej lektury, recenzji i testów muzycznych; bez zmian runtime.
+
+## Drobner — pierwsza lektura (2026-11-25)
+Potwierdzono rzeczywiste 259 stron w pliku i rozbieżność z podglądem ograniczonym do 150. Odczyt wybranych stron obrazowych, w tym trąbki poza limitem podglądu. Dodano 26 twierdzeń, 3 potwierdzenia i 11 oczekiwanych przypadków. Zapisano ograniczenia historyczne i fizyczne, w szczególności dB a dynamika, klasyfikacja instrumentów, strojenie i transpozycja. Brak pełnej lektury, recenzji, testów audio i zmian runtime. Nie publikowano skanu.
