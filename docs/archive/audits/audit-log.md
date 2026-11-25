@@ -187,3 +187,6 @@ Ponowny odczyt PDF 102–103 w powiększeniu. Zindeksowano 43 widocznych pozycji
 
 ## Wójcik, Nauka o muzyce, wyd. III 2004 — cały tekst dostępnego podręcznika
 62 nowych rekordów, 12 autorskich przypadków oczekiwanych, 16 lokalizacji do kontroli. Cztery rozdziały tekstowe odczytane, obrazy tabel i wybranych przykładów sprawdzone; brak erraty w końcówce pliku, osobna errata nieustalona. Uwaga na klasyfikację klawesynu, instrumenty transponujące, dynamikę, opisy historyczne oraz wariantowość folkloru. Weryfikacja strukturalna przed zapisem; nie przeprowadzono niezależnej kontroli każdej nuty ani testów silnika muzycznego. Rozdział o formach jest adaptacją ABC, nie niezależnym źródłem. Nie wprowadzono nowych plików raportowych.
+
+## Chomińscy, Formy muzyczne t.I — PDF 1–9, 11–55
+31 nowych twierdzeń i 6 autorskich przypadków oczekiwanych. Odczyt tekstu i wybranych obrazów; PDF 10 nie zwrócił treści, PDF 33–34 odwrócone względem numeracji drukowanej. Rozdzielono terminologię historyczną od współczesnej i technikę lokalną od formy całości; nie uznano historycznych tez autorów ani konkretnych nut za niezależnie zweryfikowane. Nie zamknięto kontroli erraty. Dalszy odczyt od PDF 56; brak niezależnej recenzji i testów muzycznych.

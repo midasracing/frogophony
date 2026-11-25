@@ -2534,6 +2534,54 @@
           104
         ]
       ]
+    },
+    {
+      "sourceId": "CHOM-FORM1-1983-UPLOAD",
+      "ranges": [
+        [
+          1,
+          9
+        ],
+        [
+          11,
+          55
+        ]
+      ],
+      "status": "sequential-text-reading-selected-page-images",
+      "claimIds": [
+        "CHOM-FORM-REGULATOR-HIERARCHY",
+        "CHOM-MATERIAL-IDENTITY",
+        "CHOM-TRANSMISSION",
+        "CHOM-NOTATION-DETERMINACY",
+        "CHOM-CHANT-INTERPRETATION",
+        "CHOM-CONTINUO-DETERMINACY",
+        "CHOM-ARRANGEMENT-FORM",
+        "CHOM-HISTORICAL-CHANGE",
+        "CHOM-GENRE-HISTORICAL-VARIABILITY",
+        "CHOM-TECHNIQUE-ROLE",
+        "CHOM-RHETORIC-FIGURES",
+        "CHOM-SOUND-MATERIAL",
+        "CHOM-OPEN-SYSTEM",
+        "CHOM-TIME-REGULATORS",
+        "CHOM-MONO-POLYCHRONIA",
+        "CHOM-MODAL-ORDO",
+        "CHOM-MODAL-RESHAPING",
+        "CHOM-MODAL-BARLINES",
+        "CHOM-RHYTHMIC-PEDAL",
+        "CHOM-RHYTHMIC-CANON",
+        "CHOM-NONRETROGRADABLE",
+        "CHOM-MENSURAL-DIVISIONS",
+        "CHOM-MENSURAL-PROPORTIONS",
+        "CHOM-ISORHYTHM-TALEA",
+        "CHOM-MENSURAL-RETROGRADE",
+        "CHOM-COUNTERPOINT-SPECIES",
+        "CHOM-METRIC-Tactus",
+        "CHOM-POLYRHYTHM-POLYMETER",
+        "CHOM-ADDED-RHYTHMIC-VALUES",
+        "CHOM-POLYCHRONIA-TIME",
+        "CHOM-DIASTEMATICS"
+      ],
+      "remaining": "Pierwsza partia: odczyt tekstu PDF 1–9 i 11–55; PDF 10 nie zwraca ani tekstu, ani obrazu. PDF 33–34 przedstawiają druk. s.35 i 34 w tej kolejności; sprawdzono obrazy 33,34,42. Nie odczytano każdej nuty ani wszystkich ilustracji. Spis obejmuje wyłącznie tom I, nie wszystkie pięć tomów. Końcowe strony indeksu pobrano częściowo, nie uznano braku erraty za potwierdzony. Następny zakres PDF 56. Nie uznawać tej partii za pełny audyt."
     }
   ]
 }

@@ -20016,6 +20016,545 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FORM-REGULATOR-HIERARCHY",
+      "statement": "Autorzy wskazują, że regulatory kształtujące formę mogą być równorzędne lub podporządkowane jednemu dominującemu czynnikowi, np. rytmowi w tańcu albo brzmieniu w utworze sonorystycznym.",
+      "scope": "Hierarchię ustala się w konkretnym utworze; nie wystarcza nazwa gatunku.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 13–14 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MATERIAL-IDENTITY",
+      "statement": "Wspólny materiał dźwiękowy może otrzymywać różne struktury rytmiczne, melodyczne i formalne; autorzy ilustrują to przekształceniami cantus firmus i serii dodekafonicznej.",
+      "scope": "Tożsamość materiału nie dowodzi tożsamości słyszalnej melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 13 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TRANSMISSION",
+      "statement": "Autorzy rozróżniają trzy główne sposoby przekazywania utworów: słuchowy, pisemny i mechaniczny.",
+      "scope": "Systematyka książki z 1983 r., nie klasyfikacja wszystkich dzisiejszych technologii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 14 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-NOTATION-DETERMINACY",
+      "statement": "Autorzy wyróżniają cztery stopnie utrwalenia pisemnego: zapis pamięciowy, zapis wysokości bez ustalonych czasów trwania, zapis meliczno-rytmiczny bez dokładnej obsady i zapis z ustalonymi środkami wykonawczymi.",
+      "scope": "Nie dopowiadać danych wykonawczych, których dany rodzaj notacji nie określa.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 15 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CHANT-INTERPRETATION",
+      "statement": "W opisie rytmiki neumatycznej autorzy przytaczają konkurencyjne koncepcje: ekwalistyczną, menzuralną i modalną.",
+      "scope": "Stan dyskusji w historycznej publikacji; nie wybierać jednej interpretacji jako pewnej dla wszystkich neum.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 15–16 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CONTINUO-DETERMINACY",
+      "statement": "Zapis basso continuo nie wyznacza w pełni faktury realizacji; autorzy wiążą zakres swobody z obsadą i udziałem innych głosów.",
+      "scope": "Nie wymagać jednego układu głosów dla każdego basu cyfrowanego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 16 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ARRANGEMENT-FORM",
+      "statement": "Autorzy odróżniają wyciąg fortepianowy, pełniący funkcję zastępczą, od opracowania, które przez zmianę faktury i technikę wariacyjną może tworzyć odmienną wersję formalną.",
+      "scope": "Nie każda transkrypcja zmienia formę.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 17 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HISTORICAL-CHANGE",
+      "statement": "W systematyce autorów przemiany ewolucyjne obejmują genezę, rozwój i zanikanie form; metaboliczne oznaczają zasadniczą zmianę podstaw kształtowania.",
+      "scope": "Terminologia teoretyczna autorów, bez przyjmowania ich szczegółowych tez chronologicznych jako niezależnie sprawdzonych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 21–22 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-GENRE-HISTORICAL-VARIABILITY",
+      "statement": "Zachowanie nazwy gatunku nie oznacza zachowania jego struktury w różnych epokach; przykładem autorów jest motet średniowieczny, renesansowy i barokowy.",
+      "scope": "Rozpoznawanie gatunku wymaga kontekstu historycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 22 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TECHNIQUE-ROLE",
+      "statement": "Technika kompozytorska może być nadrzędną zasadą formy lub środkiem kształtującym jedynie jej część, np. technika fugowana w większym utworze.",
+      "scope": "Nie utożsamiać obecności imitacji lub wariacji z formą całego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 22–23 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RHETORIC-FIGURES",
+      "statement": "Autorzy omawiają ascensus i descensus jako figury związane ze wznoszeniem i opadaniem melodii, które w określonym kontekście historycznym otrzymywały znaczenie symboliczne.",
+      "scope": "Nie przypisywać każdemu ruchowi w górę lub w dół konkretnego znaczenia pozamuzycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 24 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SOUND-MATERIAL",
+      "statement": "Autorzy rozróżniają materiał o ustalonej i nieustalonej wysokości oraz skale równointerwałowe i różnointerwałowe.",
+      "scope": "Nie wymuszać określonej klasy wysokości dla wszystkich zdarzeń dźwiękowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 25–26 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-OPEN-SYSTEM",
+      "statement": "W ujęciu autorów systemy otwarte dopuszczają inne podziały oktawy niż typowe skale oraz materiał bez okresowości oktawowej; wysokość można określać częstotliwością lub centami.",
+      "scope": "Model teoretyczny, nie współczesny standard notacji; nie przypisywać automatycznie MIDI każdemu dźwiękowi.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 26–27 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TIME-REGULATORS",
+      "statement": "Autorzy rozróżniają metrykę wyznaczającą miary czasu, rytmikę dotyczącą przebiegu impulsów i agogikę dotyczącą szybkości ruchu.",
+      "scope": "Odrębne parametry analizy; ich funkcje mogą się nakładać.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 27–28 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MONO-POLYCHRONIA",
+      "statement": "Monochronia w systematyce autorów opiera się na ustalonych jednostkach metrycznych, natomiast polichronia posługuje się wartościami przybliżonymi lub nieustalonymi.",
+      "scope": "Terminologia Chomińskich, nie synonim polirytmii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 27–28 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MODAL-ORDO",
+      "statement": "W średniowiecznej rytmice modalnej ordo grupuje jedną lub więcej stóp; autorzy rozróżniają ordines izorytmiczne z jednakowych stóp i heterorytmiczne z różnych.",
+      "scope": "Nie utożsamiać ordo ze współczesnym taktem.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 28–29 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MODAL-RESHAPING",
+      "statement": "Powtarzany układ rytmiczny może inaczej grupować ten sam powracający materiał wysokościowy, tworząc odmienne motywy i frazy.",
+      "scope": "Opis procesu z przykładów średniowiecznych; nie przeprowadzono transkrypcji nut.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 29–30 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MODAL-BARLINES",
+      "statement": "Autorzy ostrzegają przed utożsamieniem znaków oddzielających ordines z nowożytnymi kreskami taktowymi, ponieważ taki zabieg może zmienić obraz formalny utworu.",
+      "scope": "Stanowisko metodologiczne autorów; sprawdzać oryginał notacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 30 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RHYTHMIC-PEDAL",
+      "statement": "Pedał rytmiczny oznacza w omawianym modelu powracający schemat rytmiczny niezależnie od zmian melodycznych i harmonicznych.",
+      "scope": "Nie utożsamiać z nutą pedałową o stałej wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 32 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RHYTHMIC-CANON",
+      "statement": "Kanon rytmiczny polega na przesunięciu tego samego schematu czasowego względem innych głosów, niezależnie od ich struktury melodyczno-harmonicznej.",
+      "scope": "Nie wymagać identycznego materiału wysokościowego w takim kanonie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 32 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-NONRETROGRADABLE",
+      "statement": "Autorzy opisują nieodwracalne struktury rytmiczne Messiaena, w których porządek od początku odpowiada porządkowi od końca.",
+      "scope": "Odczyt tekstu i przegląd przykładu; nie transkrybowano konkretnych wartości nutowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 32–35 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MENSURAL-DIVISIONS",
+      "statement": "W omawianym systemie menzuralnym modus maior dotyczy podziału maximy na longi, minor longi na breves, tempus brevis na semibreves, a prolatio semibrevis na minima. Podział może być trój- lub dwudzielny.",
+      "scope": "Historyczna nomenklatura i model źródła, nie wartości współczesnego zapisu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 36 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MENSURAL-PROPORTIONS",
+      "statement": "Autorzy opisują proporcje dupla, tripla i quadrupla jako zmniejszające wartości odpowiednio dwa, trzy i cztery razy, a subdupla, subtripla i subquadrupla jako zwiększające; sesquialtera zmniejsza wartości półtora raza.",
+      "scope": "Konwencja opisana w książce; nie stosować bez rozpoznania historycznej notacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 37–38 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ISORHYTHM-TALEA",
+      "statement": "Izorytmia w opisie menzuralnym wykorzystuje stały schemat rytmiczny talea, kształtujący materiał melodyczny.",
+      "scope": "Nie utożsamiać każdego rytmicznego powtórzenia z historyczną techniką izorytmiczną.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 39 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MENSURAL-RETROGRADE",
+      "statement": "Rak w omawianym kontekście menzuralnym polega na odczytaniu przebiegu od końca razem z rytmiką; autorzy opisują także sukcesywne i symultatywne zmiany tempus i prolatio.",
+      "scope": "Nie utożsamiać odwrócenia kolejności z inwersją interwałów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 40 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-COUNTERPOINT-SPECIES",
+      "statement": "Autorzy przedstawiają gatunki rytmiczne kontrapunktu jako system dydaktyczny, odróżniając ich uporządkowane schematy od swobodniejszej praktyki kompozytorskiej.",
+      "scope": "Nie przenosić ograniczeń ćwiczeń gatunkowych na wszystkie utwory.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 41–42 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-METRIC-Tactus",
+      "statement": "Autorzy rozróżniają menzuralny tactus i nowożytny takt; w omawianym modelu takt może obejmować kilka tactus, a regulacja taktowa opiera się na powracającym układzie akcentów.",
+      "scope": "Historyczna relacja, nie utożsamiać tactus z taktem ani automatycznie ze współczesnym BPM.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 44–45 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLYRHYTHM-POLYMETER",
+      "statement": "Autorzy odróżniają układy sukcesywne od symultatywnych zestawień odmiennych podziałów rytmicznych i metrycznych; złożone takty 5, 7, 11 omawiają jako prototyp struktur polirytmicznych.",
+      "scope": "Specyficzna terminologia źródła; pojedyncza kwintola ani takt 5/8 nie dowodzą współczesnej polirytmii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 48 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ADDED-RHYTHMIC-VALUES",
+      "statement": "Wartości dodatkowe Messiaena mogą wydłużać pierwotną konstrukcję rytmiczną o drobną wartość; autorzy omawiają także augmentację i dyminucję struktur rytmicznych.",
+      "scope": "Nie zakładać jednej obowiązkowej sygnatury taktowej dla takich konstrukcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 48–49 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLYCHRONIA-TIME",
+      "statement": "Nowoczesna polichronia w ujęciu autorów może określać ramy czasowe w sekundach przy przybliżonych lub swobodnie realizowanych wartościach wewnętrznych.",
+      "scope": "Granice swobody wynikają z instrukcji utworu, nie każdy zapis sekundowy jest aleatoryczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 52–54 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-DIASTEMATICS",
+      "statement": "Diastematyka horyzontalna dotyczy następstwa wysokości, wertykalna ich współdziałania; odpowiadają im melodyka i harmonika, które w wielogłosowości współdziałają.",
+      "scope": "Ujęcie autorów; nie traktować melodii i harmonii jako niezależnych od faktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 55 (numer drukowany sprawdzać z nagłówkiem; w zakresie PDF 33–34 odwrócona kolejność)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

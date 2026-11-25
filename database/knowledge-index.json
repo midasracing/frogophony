@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 1117,
-    "fixtures": 279,
+    "claims": 1148,
+    "fixtures": 285,
     "competencies": 73,
     "partial": 58
   },
@@ -931,7 +931,38 @@
       "CHOM-FUGUE",
       "CHOM-FUGUE-NON3",
       "CHOM-VARIATION",
-      "CHOM-RONDO"
+      "CHOM-RONDO",
+      "CHOM-FORM-REGULATOR-HIERARCHY",
+      "CHOM-MATERIAL-IDENTITY",
+      "CHOM-TRANSMISSION",
+      "CHOM-NOTATION-DETERMINACY",
+      "CHOM-CHANT-INTERPRETATION",
+      "CHOM-CONTINUO-DETERMINACY",
+      "CHOM-ARRANGEMENT-FORM",
+      "CHOM-HISTORICAL-CHANGE",
+      "CHOM-GENRE-HISTORICAL-VARIABILITY",
+      "CHOM-TECHNIQUE-ROLE",
+      "CHOM-RHETORIC-FIGURES",
+      "CHOM-SOUND-MATERIAL",
+      "CHOM-OPEN-SYSTEM",
+      "CHOM-TIME-REGULATORS",
+      "CHOM-MONO-POLYCHRONIA",
+      "CHOM-MODAL-ORDO",
+      "CHOM-MODAL-RESHAPING",
+      "CHOM-MODAL-BARLINES",
+      "CHOM-RHYTHMIC-PEDAL",
+      "CHOM-RHYTHMIC-CANON",
+      "CHOM-NONRETROGRADABLE",
+      "CHOM-MENSURAL-DIVISIONS",
+      "CHOM-MENSURAL-PROPORTIONS",
+      "CHOM-ISORHYTHM-TALEA",
+      "CHOM-MENSURAL-RETROGRADE",
+      "CHOM-COUNTERPOINT-SPECIES",
+      "CHOM-METRIC-Tactus",
+      "CHOM-POLYRHYTHM-POLYMETER",
+      "CHOM-ADDED-RHYTHMIC-VALUES",
+      "CHOM-POLYCHRONIA-TIME",
+      "CHOM-DIASTEMATICS"
     ],
     "WOJ-ABC-UPLOAD": [
       "CHOM-FORM",
@@ -1553,7 +1584,21 @@
         "ABC-TEXTURE-HYBRID",
         "ABC-VOCAL-TEXT-COLOUR",
         "ABC-VOCAL-TEXTURE",
+        "CHOM-ARRANGEMENT-FORM",
+        "CHOM-CONTINUO-DETERMINACY",
+        "CHOM-DIASTEMATICS",
         "CHOM-FORM",
+        "CHOM-FORM-REGULATOR-HIERARCHY",
+        "CHOM-MATERIAL-IDENTITY",
+        "CHOM-MONO-POLYCHRONIA",
+        "CHOM-NOTATION-DETERMINACY",
+        "CHOM-OPEN-SYSTEM",
+        "CHOM-POLYCHRONIA-TIME",
+        "CHOM-POLYRHYTHM-POLYMETER",
+        "CHOM-SOUND-MATERIAL",
+        "CHOM-TECHNIQUE-ROLE",
+        "CHOM-TIME-REGULATORS",
+        "CHOM-TRANSMISSION",
         "SIK-TEXTURE-TYPES",
         "TAR-ANALYSIS-PIPELINE",
         "WOJ-COLOUR",
@@ -1601,8 +1646,16 @@
         "ABC-THEMATIC-TRANSFORMS",
         "ABC-VARIATION-PARAMETERS",
         "ABC-VARIATION-TYPES",
+        "CHOM-ADDED-RHYTHMIC-VALUES",
         "CHOM-CANON",
         "CHOM-EVOL",
+        "CHOM-MATERIAL-IDENTITY",
+        "CHOM-MENSURAL-RETROGRADE",
+        "CHOM-MODAL-RESHAPING",
+        "CHOM-NONRETROGRADABLE",
+        "CHOM-RHYTHMIC-CANON",
+        "CHOM-RHYTHMIC-PEDAL",
+        "CHOM-TECHNIQUE-ROLE",
         "CHOM-VARIATION",
         "WH-PEDAL",
         "WOJ-POLYPHONY"
@@ -1681,8 +1734,10 @@
         "ABC-VARIATION-CONTINUITY",
         "ABC-VARIATION-PARAMETERS",
         "ABC-VARIATION-TYPES",
+        "CHOM-COUNTERPOINT-SPECIES",
         "CHOM-FUGUE",
         "CHOM-FUGUE-NON3",
+        "CHOM-RHYTHMIC-CANON",
         "CHOM-VARIATION",
         "WOJ-SONATAFORM",
         "WOJ-SONATARONDO",
@@ -1738,8 +1793,18 @@
         "ABC-TROPE-SEQUENCE",
         "ABC-VOCAL-FORM",
         "ABC-VOCAL-TEXT-COLOUR",
+        "CHOM-CHANT-INTERPRETATION",
         "CHOM-FORM",
         "CHOM-GENRE",
+        "CHOM-GENRE-HISTORICAL-VARIABILITY",
+        "CHOM-HISTORICAL-CHANGE",
+        "CHOM-ISORHYTHM-TALEA",
+        "CHOM-MENSURAL-DIVISIONS",
+        "CHOM-MENSURAL-PROPORTIONS",
+        "CHOM-METRIC-Tactus",
+        "CHOM-MODAL-BARLINES",
+        "CHOM-MODAL-ORDO",
+        "CHOM-RHETORIC-FIGURES",
         "CHOM-STRUCT",
         "TAR-ANALYSIS",
         "TAR-ANALYSIS-C-PRELUDE",
@@ -2538,6 +2603,7 @@
     "II-HAR-04": {
       "status": "partial",
       "claimIds": [
+        "CHOM-CONTINUO-DETERMINACY",
         "SIK-BASS6",
         "SIK-CHORD-FIGURATION",
         "SIK-D-S-RESTRICTION",
@@ -15374,6 +15440,332 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "CHOM-FORM-REGULATOR-HIERARCHY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MATERIAL-IDENTITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TRANSMISSION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-NOTATION-DETERMINACY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CHANT-INTERPRETATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CONTINUO-DETERMINACY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ARRANGEMENT-FORM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HISTORICAL-CHANGE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-GENRE-HISTORICAL-VARIABILITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TECHNIQUE-ROLE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [
+        "CHF01"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-RHETORIC-FIGURES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SOUND-MATERIAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-OPEN-SYSTEM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TIME-REGULATORS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MONO-POLYCHRONIA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MODAL-ORDO": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MODAL-RESHAPING": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MODAL-BARLINES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RHYTHMIC-PEDAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RHYTHMIC-CANON": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "CHF02"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-NONRETROGRADABLE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [
+        "CHF03"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-MENSURAL-DIVISIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "CHF04"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-MENSURAL-PROPORTIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "CHF05"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-ISORHYTHM-TALEA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MENSURAL-RETROGRADE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [
+        "CHF06"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-COUNTERPOINT-SPECIES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-METRIC-Tactus": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-POLYRHYTHM-POLYMETER": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ADDED-RHYTHMIC-VALUES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-POLYCHRONIA-TIME": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-DIASTEMATICS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -16122,6 +16514,24 @@
     ],
     "NOMF11": [
       "NOM-FOLK-VARIANTS"
+    ],
+    "CHF01": [
+      "CHOM-TECHNIQUE-ROLE"
+    ],
+    "CHF02": [
+      "CHOM-RHYTHMIC-CANON"
+    ],
+    "CHF03": [
+      "CHOM-NONRETROGRADABLE"
+    ],
+    "CHF04": [
+      "CHOM-MENSURAL-DIVISIONS"
+    ],
+    "CHF05": [
+      "CHOM-MENSURAL-PROPORTIONS"
+    ],
+    "CHF06": [
+      "CHOM-MENSURAL-RETROGRADE"
     ]
   }
 }

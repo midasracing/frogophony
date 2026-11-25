@@ -323,7 +323,21 @@
         "ABC-TEXTURE-HYBRID",
         "ABC-CANTUS-FIRMUS",
         "ABC-STRING-QUARTET",
-        "ABC-VOCAL-TEXT-COLOUR"
+        "ABC-VOCAL-TEXT-COLOUR",
+        "CHOM-FORM-REGULATOR-HIERARCHY",
+        "CHOM-MATERIAL-IDENTITY",
+        "CHOM-TRANSMISSION",
+        "CHOM-NOTATION-DETERMINACY",
+        "CHOM-CONTINUO-DETERMINACY",
+        "CHOM-ARRANGEMENT-FORM",
+        "CHOM-TECHNIQUE-ROLE",
+        "CHOM-SOUND-MATERIAL",
+        "CHOM-OPEN-SYSTEM",
+        "CHOM-TIME-REGULATORS",
+        "CHOM-MONO-POLYCHRONIA",
+        "CHOM-POLYRHYTHM-POLYMETER",
+        "CHOM-POLYCHRONIA-TIME",
+        "CHOM-DIASTEMATICS"
       ],
       "status": "partial"
     },
@@ -370,7 +384,15 @@
         "ABC-INVERTIBLE-COUNTERPOINT",
         "ABC-VARIATION-TYPES",
         "ABC-VARIATION-PARAMETERS",
-        "ABC-SUITE-DOUBLE"
+        "ABC-SUITE-DOUBLE",
+        "CHOM-MATERIAL-IDENTITY",
+        "CHOM-TECHNIQUE-ROLE",
+        "CHOM-MODAL-RESHAPING",
+        "CHOM-RHYTHMIC-PEDAL",
+        "CHOM-RHYTHMIC-CANON",
+        "CHOM-NONRETROGRADABLE",
+        "CHOM-MENSURAL-RETROGRADE",
+        "CHOM-ADDED-RHYTHMIC-VALUES"
       ],
       "status": "partial"
     },
@@ -453,7 +475,9 @@
         "ABC-SONATINA",
         "ABC-SERENADE-DIVERTIMENTO",
         "ABC-CONCERTO-GROSSO",
-        "ABC-CONCERTO-SOLO"
+        "ABC-CONCERTO-SOLO",
+        "CHOM-RHYTHMIC-CANON",
+        "CHOM-COUNTERPOINT-SPECIES"
       ],
       "status": "partial"
     },
@@ -513,7 +537,17 @@
         "ABC-ORATORIO",
         "ABC-PASSION-TYPES",
         "ABC-CANTATA-TYPES",
-        "ABC-BALLET-RELATION"
+        "ABC-BALLET-RELATION",
+        "CHOM-CHANT-INTERPRETATION",
+        "CHOM-HISTORICAL-CHANGE",
+        "CHOM-GENRE-HISTORICAL-VARIABILITY",
+        "CHOM-RHETORIC-FIGURES",
+        "CHOM-MODAL-ORDO",
+        "CHOM-MODAL-BARLINES",
+        "CHOM-MENSURAL-DIVISIONS",
+        "CHOM-MENSURAL-PROPORTIONS",
+        "CHOM-ISORHYTHM-TALEA",
+        "CHOM-METRIC-Tactus"
       ],
       "status": "partial"
     },
@@ -1417,7 +1451,8 @@
         "WH-PIANO-ACCOMPANIMENT",
         "WH-MOD-FUNCTION-TABLE",
         "WH-EXERCISE-FORMATS",
-        "WH-EXERCISE-ALTERNATIVE-BASS"
+        "WH-EXERCISE-ALTERNATIVE-BASS",
+        "CHOM-CONTINUO-DETERMINACY"
       ],
       "status": "partial"
     },

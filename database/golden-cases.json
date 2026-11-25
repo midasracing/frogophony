@@ -5219,6 +5219,106 @@
       "expected": {
         "fixedDecibelValue": null
       }
+    },
+    {
+      "id": "CHF01",
+      "domain": "forms",
+      "input": {
+        "wholeGenre": "cantata",
+        "localTechnique": "fugue"
+      },
+      "expected": {
+        "wholeFormNecessarilyFugue": false
+      }
+    },
+    {
+      "id": "CHF02",
+      "domain": "forms",
+      "input": {
+        "durationsA": [
+          1,
+          2,
+          1
+        ],
+        "durationsB": [
+          1,
+          2,
+          1
+        ],
+        "entryDelay": 2,
+        "pitchesDiffer": true
+      },
+      "expected": {
+        "rhythmicImitationPossible": true
+      }
+    },
+    {
+      "id": "CHF03",
+      "domain": "forms",
+      "input": {
+        "durations": [
+          1,
+          2,
+          3,
+          2,
+          1
+        ]
+      },
+      "expected": {
+        "reverseEqual": true
+      }
+    },
+    {
+      "id": "CHF04",
+      "domain": "forms",
+      "input": {
+        "level": "tempus",
+        "division": "perfectum"
+      },
+      "expected": {
+        "parent": "brevis",
+        "child": "semibrevis",
+        "count": 3
+      }
+    },
+    {
+      "id": "CHF05",
+      "domain": "forms",
+      "input": {
+        "proportion": "sesquialtera",
+        "originalDuration": 3
+      },
+      "expected": {
+        "duration": 2
+      }
+    },
+    {
+      "id": "CHF06",
+      "domain": "forms",
+      "input": {
+        "events": [
+          {
+            "pitch": "C",
+            "duration": 1
+          },
+          {
+            "pitch": "D",
+            "duration": 2
+          }
+        ]
+      },
+      "expected": {
+        "events": [
+          {
+            "pitch": "D",
+            "duration": 2
+          },
+          {
+            "pitch": "C",
+            "duration": 1
+          }
+        ]
+      }
     }
   ]
 }
