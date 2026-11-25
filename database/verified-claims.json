@@ -23284,6 +23284,40 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WES-OSCILLATION",
+      "statement": "Amplituda oznacza maksymalne wychylenie od równowagi, a okres czas jednego pełnego cyklu drgania.",
+      "scope": "Idealizowany ruch drgający; nie utożsamiać dowolnego przebiegu z sinusoidą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§1, s.10",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-NOISE",
+      "statement": "Autor odróżnia szmery o trudnej do określenia wysokości od dźwięków z uporządkowanym szeregiem harmonicznym.",
+      "scope": "Terminologia szkolna Wesołowskiego, nie wyczerpująca klasyfikacja sygnałów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.12",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 1306,
+    "claims": 1308,
     "fixtures": 308,
     "competencies": 73,
     "partial": 58
@@ -173,7 +173,9 @@
       "WES-MELODIC-CONTOUR",
       "WES-TEXTURE",
       "WES-IMITATION",
-      "WES-ENSEMBLE"
+      "WES-ENSEMBLE",
+      "WES-OSCILLATION",
+      "WES-NOISE"
     ],
     "OMT2-INV": [
       "TRI-INV",
@@ -17837,6 +17839,22 @@
       "competencyIds": [
         "II-FORM-04"
       ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-OSCILLATION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-NOISE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [],
       "fixtureIds": [],
       "releaseApproved": false
     }

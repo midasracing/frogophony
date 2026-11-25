@@ -297,6 +297,246 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zrodlo-dzwieku",
+      "termin": "Powstawanie dźwięku",
+      "aliasy": [
+        "źródło dźwięku",
+        "przewodnik dźwięku",
+        "ciało sprężyste"
+      ],
+      "definicja": "W szkolnym modelu Wesołowskiego źródłem dźwięku jest ciało zdolne do drgań, a jego drgania przekazywane są za pośrednictwem ośrodka materialnego.",
+      "omowienie": "Autor rozróżnia źródło i ośrodek przewodzący. Przykładami źródeł są struna, płytka, pręt lub słup powietrza. W instrumentach strunowych pobudzenie może nastąpić przez uderzenie, szarpnięcie albo pocieranie smyczkiem. W instrumentach dętych opisuje zadęcie, a w perkusyjnych uderzenie. Ośrodkiem może być gaz, ciecz albo ciało stałe. Rozchodzenie się fali w powietrzu przedstawia jako naprzemienne zagęszczanie i rozrzedzanie ośrodka.",
+      "przyklady": [
+        "Fortepian: młoteczek pobudza strunę. Harfa: szarpnięcie struny. Ksylofon: uderzenie drewnianej płytki.",
+        "Autorski model pytania: rozróżnij drgający element instrumentu od sposobu jego pobudzenia."
+      ],
+      "ograniczenia": [
+        "Nie wszystkie instrumenty perkusyjne pobudza się uderzeniem; opis nie stanowi pełnej klasyfikacji instrumentów.",
+        "Nie przenosić idealnego modelu rozchodzenia się fali na pomieszczenia z odbiciami."
+      ],
+      "podstawa": [
+        "WES-SOUND-MEDIUM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§1, s.9–10 (PDF 9–10)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "drganie-okres-amplituda",
+      "termin": "Drganie, amplituda i okres",
+      "aliasy": [
+        "okres drgania",
+        "amplituda",
+        "sinusoida",
+        "pełne drganie"
+      ],
+      "definicja": "Amplituda jest największym wychyleniem od położenia równowagi, a okres czasem jednego pełnego cyklu drgania.",
+      "omowienie": "W idealizowanym ruchu opisanym przez autora punkt struny wychyla się kolejno po obu stronach położenia równowagi. Samo wychylenie w jedną stronę nie jest całym cyklem. Na wykresie czas biegnie wzdłuż osi poziomej, a chwilowe wychylenie określa położenie punktu. Sinusoida przedstawia szczególny, prosty przebieg drgania.",
+      "przyklady": [
+        "Autorski przykład: jeżeli maksymalne wychylenie wynosi 2 mm w każdą stronę, amplituda wynosi 2 mm, nie 4 mm."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać każdego rzeczywistego drgania z sinusoidą."
+      ],
+      "podstawa": [
+        "WES-PURE-TONE",
+        "WES-OSCILLATION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§1, s.10 (PDF 10)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "ton-prosty",
+      "termin": "Ton prosty",
+      "aliasy": [
+        "sinusoida",
+        "ton podstawowy",
+        "dźwięk złożony"
+      ],
+      "definicja": "Ton prosty jest w ujęciu autora najprostszą postacią dźwięku, opisaną drganiem sinusoidalnym.",
+      "omowienie": "Autor przeciwstawia go częstszym w praktyce drganiom złożonym. Sygnał generatora może być przykładem tonu prostego, a wybrzmiewający kamerton przybliża ten model. Struna może natomiast jednocześnie drgać na kilka sposobów, tworząc wiele składowych.",
+      "przyklady": [
+        "Autorski przykład klasyfikacji: idealna sinusoida o częstotliwości 330 Hz ma jedną składową częstotliwościową."
+      ],
+      "ograniczenia": [
+        "Rzeczywiste brzmienie kamertonu jest tylko przybliżeniem idealnego tonu.",
+        "Nie mylić tonu prostego z całym tonem jako odległością interwałową."
+      ],
+      "podstawa": [
+        "WES-PURE-TONE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.11 (PDF 11)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "szereg-harmoniczny",
+      "termin": "Szereg harmoniczny i alikwoty",
+      "aliasy": [
+        "ton podstawowy",
+        "alikwot",
+        "składowe harmoniczne",
+        "szereg tonów naturalnych"
+      ],
+      "definicja": "W idealnym modelu szeregu harmonicznego częstotliwości składowych są kolejnymi całkowitymi wielokrotnościami częstotliwości podstawowej.",
+      "omowienie": "Struna zamocowana na końcach może wykonywać drgania całej długości i jednocześnie drgać w częściach. Autor nazywa pierwszą składową tonem podstawowym, kolejne alikwotami. W zadaniach należy odróżniać numer harmonicznej od numeracji alikwotów, jeśli pierwszą składową wyłącza się z tej nazwy. Stosunek częstotliwości składowych drugiej i pierwszej wynosi 2:1, trzeciej i drugiej 3:2, czwartej i trzeciej 4:3.",
+      "przyklady": [
+        "Autorski przykład liczbowy dla częstotliwości podstawowej 200 Hz: pierwsze cztery składowe 200, 400, 600, 800 Hz.",
+        "W tym przykładzie odstępy kolejnych składowych odpowiadają oktawie, kwincie i kwarcie w modelu proporcji naturalnych."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać proporcji naturalnych z dokładną częstotliwością wszystkich interwałów w stroju równomiernym.",
+        "Nie odtwarzać całej notacji przykładu 4 bez kontroli obrazu."
+      ],
+      "podstawa": [
+        "WES-HARMONICS",
+        "WES-OCTAVE-RATIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.11–12 (PDF 11–12)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rezonans",
+      "termin": "Rezonans",
+      "aliasy": [
+        "pobudzenie struny",
+        "drgania współbrzmiące"
+      ],
+      "definicja": "W przykładzie autora struna może zostać pobudzona do drgań przez dźwięk zawierający składową odpowiadającą jej częstotliwości własnej.",
+      "omowienie": "Doświadczenie fortepianowe polega na zwolnieniu tłumika wybranej struny bez uderzenia w nią, a następnie pobudzeniu innej struny. Po wybrzmieniu dźwięku można usłyszeć efekt pobudzenia rezonansowego. W modelu szkolnym doświadczenie pokazuje obecność składowych harmonicznych.",
+      "przyklady": [
+        "Autorski model: jeżeli dźwięk ma składową 400 Hz, struna o częstotliwości własnej 400 Hz może odpowiedzieć rezonansowo."
+      ],
+      "ograniczenia": [
+        "Siła efektu zależy od rzeczywistych warunków, tłumienia i sprzężenia.",
+        "Warstwa tekstowa s.12 zawiera niespójny odczyt nazw strun; szczegółowego zapisu doświadczenia nie rekonstruowano."
+      ],
+      "podstawa": [
+        "WES-RESONANCE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.12 (PDF 12)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "szmery",
+      "termin": "Szmery",
+      "aliasy": [
+        "szum",
+        "dźwięk o nieokreślonej wysokości"
+      ],
+      "definicja": "Wesołowski określa szmerami zjawiska dźwiękowe, którym trudno przypisać jednoznaczną wysokość i których składowe nie układają się w szereg harmoniczny w opisanym modelu.",
+      "omowienie": "Jako przykłady przywołuje stuki, trzaski i zgrzyty. Zaznacza, że w języku fizyki pojęcie dźwięku obejmuje również szmery, podczas gdy w szkolnym wykładzie odróżnia się je od dźwięków o wyraźnej wysokości.",
+      "przyklady": [
+        "Autorski model zadania: porównaj ustalony ton sinusoidalny z krótkim trzaskiem pod względem rozpoznawalności wysokości."
+      ],
+      "ograniczenia": [
+        "Nie traktować tej klasyfikacji jako kompletnej współczesnej typologii sygnałów nieharmonicznych."
+      ],
+      "podstawa": [
+        "WES-NOISE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.12 (PDF 12)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "cechy-dzwieku",
+      "termin": "Cztery cechy dźwięku",
+      "aliasy": [
+        "wysokość",
+        "głośność",
+        "czas trwania",
+        "barwa",
+        "akustyka"
+      ],
+      "definicja": "W klasyfikacji dydaktycznej Wesołowskiego podstawowe cechy to wysokość, głośność, czas trwania i barwa.",
+      "omowienie": "Wysokość autor wiąże z częstotliwością drgań; głośność z amplitudą i właściwościami źródła, w tym współdziałaniem pudła rezonansowego; czas trwania z utrzymywaniem się drgań; barwę z ilością i natężeniem składowych. Odbicia w pomieszczeniu mogą dawać pogłos. Akustyka zajmuje się fizycznymi prawami dźwięku.",
+      "przyklady": [
+        "Autorski przykład: dwa instrumenty grają tę samą nutę przy podobnej głośności, ale można je odróżnić po barwie.",
+        "Jeżeli źródło przestaje drgać, dźwięk może być jeszcze słyszalny wskutek odbić."
+      ],
+      "ograniczenia": [
+        "Nie sprowadzać głośności do samej amplitudy ani barwy do samego statycznego widma.",
+        "Pogłos nie przedłuża zapisanej wartości nutowej."
+      ],
+      "podstawa": [
+        "WES-SOUND",
+        "WES-REVERB"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.12–14 (PDF 12–14)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "wysokosc-oktawa",
+      "termin": "Wysokość, częstotliwość i oktawa",
+      "aliasy": [
+        "częstotliwość drgań",
+        "kamerton",
+        "a razkreślne",
+        "strój"
+      ],
+      "definicja": "W omawianym modelu wysokość dźwięku wiąże się z częstotliwością drgań, a oktawie odpowiada stosunek częstotliwości 2:1.",
+      "omowienie": "Autor przyjmuje a razkreślne o częstotliwości 440 drgań na sekundę jako punkt odniesienia i pokazuje zależność częstotliwości między oktawami. Kamerton stanowi przykład narzędzia umożliwiającego ustalenie wysokości wzorcowej.",
+      "przyklady": [
+        "Autorskie zadanie: przy częstotliwości 300 Hz oktawę wyżej otrzymamy 600 Hz, a oktawę niżej 150 Hz."
+      ],
+      "ograniczenia": [
+        "Nie traktować historycznie przytoczonych granic słyszalności ani zakresów instrumentów jako współczesnej normy.",
+        "Nie uogólniać stosunku 3:2 na dokładnie temperowaną kwintę."
+      ],
+      "podstawa": [
+        "WES-OCTAVE-RATIO",
+        "WES-SOUND"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.12–13 (PDF 12–13)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }

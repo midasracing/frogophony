@@ -989,7 +989,49 @@
           "end": 179,
           "status": "pending-full-review"
         }
-      ]
+      ],
+      "kompendium": {
+        "jezyk": "pl-PL",
+        "zakresyOpracowane": [
+          [
+            9,
+            14
+          ]
+        ],
+        "przedmowa": [
+          7,
+          8
+        ],
+        "nastepnyRozdzial": 2,
+        "nastepnaStronaPDF": 15,
+        "hasla": [
+          "zrodlo-dzwieku",
+          "drganie-okres-amplituda",
+          "ton-prosty",
+          "szereg-harmoniczny",
+          "rezonans",
+          "szmery",
+          "cechy-dzwieku",
+          "wysokosc-oktawa"
+        ],
+        "status": "opracowanie-w-toku",
+        "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury.",
+        "metodyka": {
+          "odwolanie": "przedmowa s.7–8; zadania s.14",
+          "zasady": [
+            "Ćwiczyć równolegle różne działy, a nie tylko kolejno zamykać teorię.",
+            "Łączyć rozumienie pojęć z zapisem, grą na fortepianie i ćwiczeniami pamięciowymi.",
+            "Traktować zasady muzyki jako przygotowanie do harmonii i instrumentoznawstwa."
+          ],
+          "typyZadanRozdzialu1": [
+            "Objaśnianie pojęć akustycznych i drgań.",
+            "Wnioskowanie o składowych harmonicznych na podstawie rezonansu.",
+            "Porównywanie cech dźwięku oraz powiązanie ich z budową instrumentów.",
+            "Ćwiczenia pamięciowe i instrumentalne dotyczące szeregu harmonicznego."
+          ],
+          "uwagi": "Autorska parafraza metodyki. Nie kopiowano zadań; nie wykonano jeszcze generatora."
+        }
+      }
     },
     {
       "sourceId": "WOJ-NOM-2004-UPLOAD",
