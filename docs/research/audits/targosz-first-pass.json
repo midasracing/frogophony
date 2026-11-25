@@ -1,0 +1,41 @@
+{
+  "sourceId": "TARGOSZ-2004-UPLOAD",
+  "status": "first-pass-complete-not-full-audit",
+  "pdfPageCount": 387,
+  "continuousPages": 387,
+  "scope": "Odczyt dostępnego tekstu, przegląd obrazów; bez deklaracji rozwiązania każdego zadania.",
+  "pageOrderExceptions": [
+    {
+      "pdf": 332,
+      "printed": 333
+    },
+    {
+      "pdf": 333,
+      "printed": 332
+    },
+    {
+      "pdf": 346,
+      "printed": 347
+    },
+    {
+      "pdf": 347,
+      "printed": 346
+    },
+    {
+      "pdf": 364,
+      "printed": 365
+    },
+    {
+      "pdf": 365,
+      "printed": 364
+    }
+  ],
+  "outstanding": [
+    "Ponowny odczyt wszystkich tabel i przykładów nutowych w pełnej rozdzielczości, niezależna kontrola wszystkich głosów i zadań.",
+    "Porównanie z Sikorskim i Wesołowskim po ich pełnej lekturze.",
+    "Rozbieżność numeracji faz w analizie C-dur op.28 nr 1 s.371; nie wprowadzać granic taktów bez sprawdzenia partytury.",
+    "Historyczne twierdzenia o upowszechnieniu 12-TET (s.349), continuo (s.244–257) i interpretacjach utworów wymagają odrębnej kontroli; nie wdrożono jako ogólnych faktów.",
+    "Zweryfikować 382/387 stron ekstrakcji Drive względem oryginału. Nie oznaczać źródła jako verified-full.",
+    "Nie wykonano testów silnika ani niezależnej recenzji muzycznej."
+  ]
+}

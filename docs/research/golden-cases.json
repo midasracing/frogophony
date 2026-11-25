@@ -3207,6 +3207,345 @@
         "preserveCompoundInterval": 10,
         "dominantNinthInversion": 3
       }
+    },
+    {
+      "id": "TN37",
+      "domain": "harmony",
+      "input": {
+        "from": "F major",
+        "to": "D major",
+        "profile": "Targosz-fifths"
+      },
+      "expected": {
+        "direction": "higher",
+        "fifthsFrom": -1,
+        "fifthsTo": 2
+      }
+    },
+    {
+      "id": "TN38",
+      "domain": "harmony",
+      "input": {
+        "tonic": "D",
+        "mode": "major"
+      },
+      "expected": {
+        "dominantSeventh": [
+          "A",
+          "C#",
+          "E",
+          "G"
+        ],
+        "dominantSixth": "F#"
+      }
+    },
+    {
+      "id": "TN39",
+      "domain": "harmony",
+      "input": {
+        "tonic": "D",
+        "mode": "harmonic-minor"
+      },
+      "expected": {
+        "dominantSeventh": [
+          "A",
+          "C#",
+          "E",
+          "G"
+        ],
+        "dominantSixth": "F"
+      }
+    },
+    {
+      "id": "TN40",
+      "domain": "harmony",
+      "input": {
+        "globalKey": "F major",
+        "localTarget": "C major",
+        "subsequentReturnToGlobalFunction": true
+      },
+      "expected": {
+        "localTonic": "C",
+        "globalFunction": "D",
+        "globalKey": "F major"
+      }
+    },
+    {
+      "id": "TN41",
+      "domain": "harmony",
+      "input": {
+        "source": [
+          "D",
+          "F#",
+          "A"
+        ],
+        "target": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "expected": {
+        "sameMode": true,
+        "commonPitchClasses": [
+          9
+        ],
+        "chromaticPairs": [
+          [
+            "F#",
+            "F"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "TN42",
+      "domain": "harmony",
+      "input": {
+        "source": [
+          "A",
+          "C#",
+          "E",
+          "G"
+        ],
+        "target": [
+          "D",
+          "F#",
+          "A",
+          "C"
+        ]
+      },
+      "expected": {
+        "thirdToSeventh": [
+          "C#",
+          "C"
+        ],
+        "seventhToThird": [
+          "G",
+          "F#"
+        ]
+      }
+    },
+    {
+      "id": "TN43",
+      "domain": "harmony",
+      "input": {
+        "globalKey": "F major",
+        "localKey": "C major",
+        "source": [
+          "G",
+          "B",
+          "D",
+          "F"
+        ]
+      },
+      "expected": {
+        "expectedRoot": "C",
+        "actualRoot": "A",
+        "targetTriad": [
+          "A",
+          "C",
+          "E"
+        ]
+      }
+    },
+    {
+      "id": "TN44",
+      "domain": "harmony",
+      "input": {
+        "startPc": 2,
+        "stepSemitones": 4
+      },
+      "expected": {
+        "cycle": [
+          2,
+          6,
+          10,
+          2
+        ],
+        "steps": 3
+      }
+    },
+    {
+      "id": "TN45",
+      "domain": "harmony",
+      "input": {
+        "startPc": 2,
+        "stepSemitones": -3
+      },
+      "expected": {
+        "cycle": [
+          2,
+          11,
+          8,
+          5,
+          2
+        ],
+        "steps": 4
+      }
+    },
+    {
+      "id": "TN46",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "chord": [
+          "C",
+          "E",
+          "G#",
+          "Bb"
+        ]
+      },
+      "expected": {
+        "target": [
+          "F",
+          "A",
+          "C"
+        ],
+        "memberMotions": {
+          "third": [
+            "E",
+            "F"
+          ],
+          "fifth": [
+            "G#",
+            "A"
+          ],
+          "seventh": [
+            "Bb",
+            "A"
+          ]
+        },
+        "doubledMember": 3
+      }
+    },
+    {
+      "id": "TN47",
+      "domain": "harmony",
+      "input": {
+        "root": "D",
+        "member": 5,
+        "voices": [
+          "Ab",
+          "A#"
+        ]
+      },
+      "expected": {
+        "simultaneousAlterations": [
+          -1,
+          1
+        ],
+        "distinctVoices": true
+      }
+    },
+    {
+      "id": "TN48",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "chord": [
+          "G#",
+          "Bb",
+          "D",
+          "E"
+        ]
+      },
+      "expected": {
+        "structuralFunctionalRoot": "G",
+        "raisedRoot": "G#",
+        "destination": "A"
+      }
+    },
+    {
+      "id": "TN49",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "pitchClasses": [
+          8,
+          10,
+          2,
+          4
+        ]
+      },
+      "expected": {
+        "possibleInterpretations": [
+          "altered-S",
+          "secondary-D7-flat5-to-D"
+        ],
+        "unique": false
+      }
+    },
+    {
+      "id": "TN50",
+      "domain": "harmony",
+      "input": {
+        "intervals": [
+          0,
+          3,
+          6,
+          9
+        ]
+      },
+      "expected": {
+        "sets": [
+          [
+            0,
+            3,
+            6,
+            9
+          ],
+          [
+            1,
+            4,
+            7,
+            10
+          ],
+          [
+            2,
+            5,
+            8,
+            11
+          ]
+        ],
+        "count": 3
+      }
+    },
+    {
+      "id": "TN51",
+      "domain": "harmony",
+      "input": {
+        "intervals": [
+          0,
+          4,
+          8
+        ]
+      },
+      "expected": {
+        "sets": [
+          [
+            0,
+            4,
+            8
+          ],
+          [
+            1,
+            5,
+            9
+          ],
+          [
+            2,
+            6,
+            10
+          ],
+          [
+            3,
+            7,
+            11
+          ]
+        ],
+        "count": 4
+      }
     }
   ]
 }

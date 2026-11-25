@@ -10293,6 +10293,1309 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PHASES",
+      "statement": "W szkolnym modelu modulacji Targosz rozdziela prezentację tonacji wyjściowej, drogę przejścia i utrwalenie tonacji docelowej.",
+      "scope": "Model ćwiczenia, nie wymóg formalny każdego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.262–264",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CADENCE-STRENGTH",
+      "statement": "W ćwiczeniach modulacyjnych autor zaleca pełną kadencję S–D–T, z końcową toniką na mocnej części taktu i w pozycji prymy.",
+      "scope": "Sposoby wzmacniania kadencji w profilu szkolnym, nie uniwersalne warunki modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.263–264",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-MODE-SUSPENSION",
+      "statement": "W kadencji z molową subdominantą autor wykorzystuje wielkość seksty w podwójnym opóźnieniu dominanty jako wskazówkę trybu docelowego, ponieważ zwykła D7 może być identyczna w dur i moll jednoimiennym.",
+      "scope": "W zadeklarowanym modelu kadencji; nie rozpoznawać trybu wyłącznie z jednego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.264",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN38",
+        "TN39"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PIVOT-REINTERPRET",
+      "statement": "Znaczenie akordu wspólnego w modulacji diatonicznej wynika z kontekstu przed nim i po nim; bezpośrednia modulacja ma akord wspólny obu tonacji, pośrednia korzysta z kolejnych lokalnych odniesień.",
+      "scope": "Akord wspólny nie musi być toniką; zachować pisownię i funkcje po obu stronach.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.264–265, przykł. 339–341",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-DIRECTION-FIFTHS",
+      "statement": "Wyższa tonacja w terminologii autora ma więcej krzyżyków lub mniej bemoli, a niekoniecznie wyższą bezwzględną wysokość toniki.",
+      "scope": "Autor rozważa różne ustawienie tonacji molowych względem durowych; bliskie pary różnych trybów wymagają kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.266–267",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN37"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PATH-LOCAL",
+      "statement": "W szkolnej drodze diatonicznej autor wymaga, by każde dwa sąsiednie akordy można było uzasadnić jako następstwo funkcyjne w jednej tonacji; kolejne pary mogą mieć różne odniesienia.",
+      "scope": "Kryterium konstrukcyjne Targosza, nie samodzielna metoda rozpoznawania modulacji z klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.268–270",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PATH-NO-SEQUENCE",
+      "statement": "Targosz nie dopuszcza schematycznej progresji jako skrótu w szkolnym zadaniu modulacji diatonicznej, choć wskazuje jej częste użycie w kompozycjach.",
+      "scope": "Zakaz dotyczy danego rodzaju zadania; nie oznacza błędu muzycznego w repertuarze ani zakazu progresji modulującej jako osobnego ćwiczenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.270–271",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PATH-PARALLEL-KEY",
+      "statement": "W omawianej szkolnej drodze dwa jednoimienne akordy powinny być oddzielone co najmniej dwoma innymi akordami, a tonika docelowa i jej jednoimienny akord nie powinny wyprzedzać zamknięcia kadencji.",
+      "scope": "Ograniczenia danego profilu; autor podaje wyjątki i odrębnie omawia zmianę trybu oraz enharmonię.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.271–272",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-ENTRY-S",
+      "statement": "Jeżeli akord wprowadzający ma funkcję subdominantową, rozpoczyna kadencję; trójdźwięk II stopnia interpretowany jako S z sekstą zamiast kwinty autor ustawia na tercji i ją podwaja.",
+      "scope": "Szkolna kadencja diatoniczna, nie reguła wszystkich użyć II stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.272–273",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-ENTRY-VI",
+      "statement": "Po wejściu do tonacji przez VI stopień Targosz wprowadza subdominantę i dalszą kadencję; po wejściowej dominancie preferuje rozwiązanie zwodnicze, aby umożliwić następujący zwrot S–D–T.",
+      "scope": "Dotyczy szkolnej drogi diatonicznej; późniejsze rozdziały zawierają krótsze kadencje.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.273–274",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-DOUBLE-SUSP-VOICE",
+      "statement": "W realizacji podwójnego opóźnienia dominanty autor dopuszcza m.in. późniejsze dodanie septymy, gdy jednoczesne rozwiązanie powodowałoby bezpośrednie równoległe przejście kwinty czystej w zmniejszoną.",
+      "scope": "W omawianym ustawieniu głosów, nie bezwzględny zakaz wszystkich następstw kwint różnych jakości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.274",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-DORIAN-ENTRY",
+      "statement": "W szkolnej modulacji do moll przez durową subdominantę autor uzasadnia jej użycie melodycznym wznoszeniem się po VI i VII stopniu odmiany doryckiej do toniki.",
+      "scope": "Termin dorycka oznacza tu odmianę moll w polskiej harmonii, nie antyczny lub kościelny modus.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.275–277",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-NATURAL-EXIT",
+      "statement": "Molowa dominanta może w profilu Targosza służyć jako akord wyjściowy z tonacji molowej, ale autor nie stosuje jej jako wyrazistego akordu wejściowego do tonacji docelowej.",
+      "scope": "Zalecenie szkolne, nie zakaz kadencji eolskiej w innym kontekście.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.278",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PARALLEL-MODE",
+      "statement": "Zmiana dur na moll jednoimienne lub odwrotnie może w ćwiczeniu zostać przeprowadzona przez wspólną subdominantę i dominantę; autor odróżnia ten szkolny model od prostej zmiany trybu w kompozycji.",
+      "scope": "Nie utożsamiać każdej zmiany trybu z daleką modulacją.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.279, przykł. 354–355",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-PRACTICE-MODES",
+      "statement": "Autor łączy projektowanie dróg modulacyjnych z wykonaniem pełnej kadencji na fortepianie w określonym metrum i rytmie, harmonizacją sopranu oraz realizacją basu cyfrowanego.",
+      "scope": "Są to odrębne umiejętności, nie jedna ocena quizowa.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.282–283, zad. 21–23",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-DOMINANT-FORM",
+      "statement": "Dominanta wtrącona ma strukturę rzeczywistej dominanty w tonacji chwilowego odniesienia; może powstać z chromatyzacji dominanty pozornej albo pojawić się od razu w charakterystycznej postaci.",
+      "scope": "W notacji autora okrągły nawias odróżnia ją od dominanty pozornej; znaczenie zależy od kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.284–285",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-TONICIZATION-NOT-MOD",
+      "statement": "Wychylenie modulacyjne chwilowo tonikalizuje akord bez zerwania jego związku funkcyjnego z tonacją główną, podczas gdy modulacja ustanawia nowe centrum odniesienia.",
+      "scope": "Odróżniać funkcję lokalną i globalną, nie wyznaczać sztywnej liczby taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.286",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN40"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-TONICIZATION-TARGET",
+      "statement": "W szkolnym modelu autora celem dominanty wtrąconej jest akord durowy lub molowy; aby skierować ją do zmniejszonego VII stopnia dur, autor proponuje zmianę jego kwinty lub prymy.",
+      "scope": "Zakres harmonii dur-moll; nie zasada wszystkich stylów i nie przesądza o funkcji zmienionego akordu poza kontekstem.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.285–289",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MEDIANT-FIRST",
+      "statement": "W klasyfikacji Targosza medianty pierwszego rzędu są trójdźwiękami o przeciwnym trybie, związanymi z wyjściowym trójdźwiękiem pokrewieństwem tercjowym i dwoma dźwiękami wspólnymi.",
+      "scope": "Terminologia autora i jego zbiór akordów, nie wszystkie współczesne definicje medianty.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.290–291, przykł. 363",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MEDIANT-SECOND",
+      "statement": "Medianty drugiego rzędu w klasyfikacji Targosza mają ten sam tryb co akord wyjściowy, prymy w odległości tercji, jeden dźwięk wspólny i jedną zmianę chromatyczną.",
+      "scope": "Zachować pisownię interwału, nie klasyfikować wyłącznie po klasach wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.290–291",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN41"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MEDIANT-THIRD",
+      "statement": "W klasyfikacji autora medianty trzeciego rzędu mają przeciwny tryb i dwie zmiany chromatyczne względem wyjściowego akordu; część teoretycznych pisowni daje po enharmonicznej zmianie inne, prostsze relacje.",
+      "scope": "Nie sprowadzać wszystkich enharmonicznych odpowiedników do rzeczywistych pokrewieństw tercjowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.291",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-ENTRY-CONTEXT",
+      "statement": "Targosz oddziela relację dominanty wtrąconej do akordu poprzedzającego od jej relacji do akordu docelowego; podaje pokrewieństwa mediantowe i łańcuchy dominant jako częste, ale niewyłączne sposoby wejścia.",
+      "scope": "Generator nie może sprawdzać wyłącznie rozwiązań, pomijając wejście.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.290–293",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-FULL-TARGET",
+      "statement": "W typowym rozwiązaniu dominanty wtrąconej autor preferuje uzyskanie pełnego trójdźwięku docelowego; proponuje użycie niepełnej dominanty septymowej, przewrotu lub dopuszczalnego swobodnego rozwiązania.",
+      "scope": "Wskazówka brzmieniowa, nie zakaz pełnej D7 zasadniczej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.293–295",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-CHROMATIC-VOICE",
+      "statement": "W omawianych wejściach na dominantę wtrąconą różnice chromatyczne między sąsiednimi akordami powinny zostać przeprowadzone w tym samym głosie.",
+      "scope": "Dotyczy zadeklarowanych połączeń i szkolnej kontroli skośnego brzmienia półtonu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.294–295",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-SEVENTH-CHAIN",
+      "statement": "W modelowym łączeniu kolejnych rzeczywistych dominant septymowych po kwincie tercja pierwszej schodzi chromatycznie na septymę drugiej, a septyma pierwszej sekundą w dół na tercję drugiej.",
+      "scope": "Dotyczy wskazanego następstwa i modelu Targosza; równoległe brzmieniowo trytony nie są tu błędem kwint czystych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.296, przykł. 371",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN42"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-DECEPTIVE",
+      "statement": "Dominanta wtrącona może rozwiązać się zwodniczo na VI stopień tonacji, do której była odniesiona; autor preferuje do tego pełną zasadniczą D7.",
+      "scope": "Stopień VI liczony od lokalnego celu, nie od tonacji głównej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.296–297",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN43"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SECONDARY-SOPRANO-CLUES",
+      "statement": "W harmonizacji sopranu podwyższenie może sugerować tercję dominanty wtrąconej, obniżenie jej septymę lub małą nonę, a sposób kontynuacji melodii pomaga rozróżnić rozwiązanie, powtórzenie i kolejną dominantę.",
+      "scope": "Wskazówki heurystyczne; s.231–232 i 299 dokumentują inne interpretacje chromatyk.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.297–299",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CHORALE-EXERCISE",
+      "statement": "W ćwiczeniach opartych na chorałach Bacha autor podaje sopran i bas cyfrowany, a uczeń uzupełnia głosy środkowe, dbając o ich własne linie melodyczne.",
+      "scope": "Zadanie twórcze; oryginał jest materiałem porównawczym, nie jedynym poprawnym rozwiązaniem.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.301,306–310",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CHORALE-FERMATA",
+      "statement": "W analizowanych przez Targosza chorałach fermata sygnalizuje zakończenie wersetu i związany z nim punkt kadencyjny.",
+      "scope": "Kontekst analityczny chorału; nie ogólna interpretacja czasu fermaty w każdym utworze.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.301",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CHORALE-STYLE-EXCEPTIONS",
+      "statement": "W analizie chorału z Pasji wg św. Jana autor dokumentuje większą odległość między głosami środkowymi, skrzyżowanie głosów, równoległe septymy oraz odstępstwa od typowego rozwiązania D7.",
+      "scope": "Przykłady repertuarowe, nie automatyczna zgoda na każdy podobny przypadek w zadaniu ścisłym.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.303–305, przykł. 380–385",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-REAL-SEQUENCE-CYCLE",
+      "statement": "W ćwiczebnej progresji realnej zachowuje się interwały wzoru i stałą wielkość przesunięcia; autor pokazuje powrót do wyjściowej klasy toniki po trzech krokach tercji wielkiej lub czterech krokach tercji małej.",
+      "scope": "Dotyczy 12-TET i zamknięcia cyklu wysokościowego; pisownia wymaga niekiedy zmiany enharmonicznej, a modulacja zależy od funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.311–315",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN44",
+        "TN45"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-AXES",
+      "statement": "Autor klasyfikuje alteracje na dwóch niezależnych osiach: pozorne lub rzeczywiste oraz modulujące lub niemodulujące.",
+      "scope": "Klasyfikacja w ramach omawianego systemu dur-moll; funkcja rozwiązania rozstrzyga drugą oś.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.316–317",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-D-RAISED-FIFTH",
+      "statement": "W modelowym rozwiązaniu septymowej dominanty z podwyższoną kwintą na durową tonikę tercja i podwyższona kwinta idą w górę, a septyma w dół; tonika otrzymuje zdwojoną tercję.",
+      "scope": "Profil niemodulującej alteracji Targosza; autor preferuje kwintę w sopranie, nie wyklucza innych przewrotów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.317–318, przykł. 388–389",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN46"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-D-LOWERED-FIFTH",
+      "statement": "W modelowym rozwiązaniu D7 z obniżoną kwintą autor zachowuje zasadę: pełna postać zasadnicza prowadzi do niepełnej toniki, przewrót do pełnej.",
+      "scope": "W omawianym regularnym rozwiązaniu; nie nadawać wszystkim alterowanym akordom takiego samego rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.318–319",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-DYSALTERATION",
+      "statement": "Dysalteracją Targosz określa równoczesne chromatyczne podwyższenie i obniżenie dwóch wystąpień tego samego składnika, np. kwinty dominanty.",
+      "scope": "Nie traktować jako pojedynczej wartości alteracji jednego zdarzenia; zachować oba głosy i odrębne zapisy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.319, przykł. 391",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN47"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-D-ROOT",
+      "statement": "Podwyższona pryma D7 w zwodniczym rozwiązaniu w dur może zostać zinterpretowana jako dominanta nonowa bez prymy odniesiona do VI stopnia; dodatkowe obniżenie kwinty daje strukturę alterowaną w ścisłym sensie autora.",
+      "scope": "Nie wymuszać jednej funkcji na podstawie zbioru klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.319–320",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-D-MINOR",
+      "statement": "W niemodulującym modelu moll Targosz dopuszcza obniżenie kwinty i septymy dominanty; podwyższenie kwinty lub prymy nie wynika z opisanych półtonowych przejść do toniki lub VI stopnia.",
+      "scope": "Ograniczenie modelu i jego rozwiązań, nie zakaz alteracji w szerszej harmonii.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.320–322",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-D-SEVENTH",
+      "statement": "Obniżenie septymy dominanty zmienia charakterystyczny interwał między tercją a septymą; autor interpretuje tę zmianę jako bardziej kolorystyczną niż wzmacniającą funkcję.",
+      "scope": "Ocena funkcjonalno-brzmieniowa autora, nie obiektywny pomiar percepcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.321",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-D-PROFILE",
+      "statement": "W zestawieniu niemodulujących alteracji dominanty autor uznaje obniżenie kwinty za podstawowe i nie alteruje tercji, zachowując jej funkcję dźwięku prowadzącego.",
+      "scope": "Profil Targosza; nie stosować do jazzowych symboli akordów czy innych systemów tonalnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.322",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-S-RAISED-ROOT",
+      "statement": "W subdominancie molowej z dodaną sekstą podwyższenie prymy tworzy tercję zmniejszoną względem małej tercji akordu; w omawianym połączeniu podwyższona pryma kieruje się do prymy dominanty.",
+      "scope": "Wynika z opisywanego modelu S–D; zachować funkcyjną prymę nawet po alteracji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.322–323, przykł. 398",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN48"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-S-SIXTH",
+      "statement": "Podwyższenie seksty subdominanty w dur autor stosuje przy przejściu do dominanty z opóźnioną kwintą, gdy podwyższona seksta prowadzi do seksty dominanty.",
+      "scope": "Warunek konkretnego rozwiązania w profilu Targosza.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.323–325",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-S-DYSALTER",
+      "statement": "W moll rozwiązanie na dominantę z podwójnym opóźnieniem umożliwia równoczesne podwyższenie i obniżenie prymy subdominanty.",
+      "scope": "Model dysalteracji subdominanty, nie samodzielna reguła dla każdego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.324–325, przykł. 402",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-S-PROFILE",
+      "statement": "W zestawieniu autora podstawową alteracją subdominanty jest podwyższenie prymy; kwinta pozostaje niealterowana, tercja może zostać obniżona w dur, a podwyższenie seksty i obniżenie prymy mają określone warunki rozwiązania.",
+      "scope": "Dotyczy profilu funkcyjnego tego podręcznika.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.325",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-DOUBLING",
+      "statement": "W omawianych akordach alterowanych Targosz unika zdwojeń, szczególnie zdwojenia składnika alterowanego; wyjątki dotyczą m.in. dysalteracji i wskazanej postaci trójdźwięku zwiększonego.",
+      "scope": "Nie przenosić na dowolną instrumentację i wielogłos; dysalteracja wymaga dwóch odmiennie zmienionych wystąpień składnika.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.325",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-FUNCTION-AMBIGUITY",
+      "statement": "Autor wskazuje identyczność dźwiękową pewnej alterowanej subdominanty i dominanty wtrąconej z obniżoną kwintą; wybór interpretacji zależy od basu, pochodzenia i rozwiązania.",
+      "scope": "Nie wybierać jednej funkcji z samej struktury; przykład s.326 w C-dur.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.326, przykł. 404",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN49"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-TRISTAN",
+      "statement": "Targosz przedstawia dwie interpretacje akordu tristanowskiego: jako alterowanej subdominanty i jako alterowanej dominanty do dominanty, preferując pierwszą.",
+      "scope": "Stanowisko tego autora, nie rozstrzygnięcie sporu analitycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.327, przykł. 405",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ALTER-PARALLEL-DIMINISHED",
+      "statement": "W przykładzie następstwa dwóch dominant z obniżoną kwintą autor dopuszcza równoległe kwinty zmniejszone i ruch prosty wszystkich głosów wynikający z rozwiązań chromatycznych.",
+      "scope": "Nie utożsamiać kwint zmniejszonych z równoległymi kwintami czystymi; zakres s.330.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.330, przykł. 410",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-PROCESS",
+      "statement": "W modulacji chromatycznej składniki akordu wyjściowego są zmieniane chromatycznie, aby osiągnąć funkcję w nowej tonacji; autor dopuszcza wcześniejszy odcinek drogi diatonicznej.",
+      "scope": "Rozróżnić zmianę pisowni enharmonicznej od rzeczywistej chromatycznej zmiany wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "druk. s.333 (PDF 332)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-BACKWARD",
+      "statement": "Targosz proponuje projektować modulację chromatyczną od wybranego wyrazistego akordu wejściowego w tonacji docelowej, następnie szukać akordu wyjściowego i możliwych zmian jego składników.",
+      "scope": "Metoda konstrukcyjna, nie jedyny algorytm kompozytorski.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.334–336",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-HIGHER",
+      "statement": "W typowych szkolnych modulacjach do tonacji wyższej na osi kwint autor dobiera m.in. D7 z obniżoną kwintą, zwykłą D7 lub odpowiednią molową strukturę subdominantową zbudowaną na II stopniu.",
+      "scope": "Preferencja konstrukcyjna rozdziału, nie wyczerpująca lista.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.334",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-LOWER",
+      "statement": "Przy modulacji w dół osi kwint autor rozważa m.in. subdominantę z podwyższoną prymą, D7 oraz dla docelowego dur D7 z podwyższoną kwintą.",
+      "scope": "Warianty zależą od trybu i dostępnych przejść chromatycznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.335",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-RAISED-FIFTH-CADENCE",
+      "statement": "W omawianej modulacji do dur przez D7 z podwyższoną kwintą autor preferuje jej bezpośrednie rozwiązanie na końcową tonikę ze zdwojoną tercją, zamiast zwodniczej kadencji.",
+      "scope": "Skrócony model kadencji; podwyższona kwinta preferowana w sopranie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.335,338",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-TRIAD-TO-SEVENTH",
+      "statement": "Przy osiąganiu czterodźwięku z trójdźwięku autor wyodrębnia trzy składniki uzyskiwane z dotychczasowych dźwięków, a czwarty wyprowadza z jednego ze zdwojonych składników.",
+      "scope": "Nie kopiować tabel niezweryfikowanych nuta po nucie; zachować tożsamość głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.336–341",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-D-S-PATH",
+      "statement": "W typowej metodzie autora dla subdominantowego akordu wejściowego szuka się podstawowego trójdźwięku, dla dominanty septymowej — jej trzech górnych składników; pozostały składnik zostaje dodany.",
+      "scope": "Heurystyka projektowania, nie reguła odrzucania innych poprawnych modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.337–341",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-MOD-CHROM-DISTANT",
+      "statement": "Autor opisuje daleką modulację przez dominantę wtrąconą do odpowiedniego VI stopnia tonacji docelowej, jej rozwiązanie zwodnicze i następne przekształcenie otrzymanej subdominanty.",
+      "scope": "Wymaga doboru odmiany VI stopnia do kierunku i trybu, nie prostego zastosowania zawsze tego samego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.342–344, przykł. 423–425",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-NOTATION-ONLY",
+      "statement": "Targosz odróżnia zmianę enharmonicznej pisowni dla czytelności od zmiany interpretacji harmonicznej; przytacza przykład zmiany trybu w Preludium Des-dur Chopina zapisanej w cis-moll.",
+      "scope": "Przykład i terminologia autora; nie uznawać samej zamiany znaków za dowód modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.349–352",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-RESOLUTION-CONTEXT",
+      "statement": "Zmiana enharmoniczna może w analizie autora ujawniać zmianę kierunku rozwiązania dźwięku lub funkcji akordu; niekiedy nowa interpretacja staje się czytelna dopiero po rozwiązaniu.",
+      "scope": "Nie automatyzować na podstawie samego znaku chromatycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.352–354",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-MOD-PIVOT",
+      "statement": "W szkolnej modulacji enharmonicznej autor wykorzystuje zmianę pisowni co najmniej jednego składnika akordu i nową interpretację funkcyjną w tonacji docelowej; odróżnia to od przepisania całej tonacji na równoważną.",
+      "scope": "Zakres modelu autora; jego twierdzenie o koniecznej zmianie tonacji dotyczy rzeczywistej enharmonii funkcyjnej, nie każdej zamiany zapisu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.354–355",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-DIM-SETS",
+      "statement": "Przy utożsamieniu enharmonicznych klas wysokości w 12-TET występują trzy różne zbiory klas czterodźwięku całkowicie zmniejszonego; jego przewroty mogą mieć identyczną strukturę interwałową.",
+      "scope": "Zachować rzeczywisty bas, pisownię i funkcję; nie znaczy to, że układy rejestrowe brzmią identycznie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.355–356, przykł. 435",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN50"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-DIM-ROLES",
+      "statement": "Targosz rozpatruje czterodźwięk zmniejszony m.in. jako dominantę nonową bez prymy, subdominantę VII stopnia, alterowaną subdominantę i dominantę z potrójnym opóźnieniem.",
+      "scope": "Role z rozdziału XI; autor rozróżnia dopuszczalne role wejściowe i wyjściowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.356–357",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-DIM-TARGET-ANCHORS",
+      "statement": "W opisanej systematyce czterodźwięk zmniejszony w roli dominanty nonowej bez prymy zawiera dźwięk prowadzący, w roli alterowanej subdominanty — I stopień, a jako dominanta z potrójnym opóźnieniem — V stopień docelowej tonacji.",
+      "scope": "Wskazówki konieczne dla tych konkretnych interpretacji, nie samodzielny dowód funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.356–358",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-DIM-ENTRY-VOICING",
+      "statement": "W modulacji przez czterodźwięk zmniejszony autor wybiera położenie basu według przyszłej funkcji: m.in. nona dominanty bez prymy może zejść na jej prymę, a dominanta z potrójnym opóźnieniem ma w basie prymę dominanty.",
+      "scope": "Warunki poszczególnych kadencji z rozdziału XI, nie identyczne dla wszystkich interpretacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.358–361",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-AUG-SETS",
+      "statement": "W 12-TET istnieją cztery różne zbiory klas wysokości trójdźwięku zwiększonego; jego symetria pozwala reinterpretować prymę i wykorzystać akord w modulacjach, m.in. o tercję wielką.",
+      "scope": "Rozróżnić symetrię klas wysokości od zapisu i rzeczywistego układu rejestrowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.362, przykł. 446–447",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN51"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ENH-MIXED-STRUCTURES",
+      "statement": "Autor omawia modulacje enharmoniczne między różnymi strukturami akordowymi, czasem z dodatkowym przesunięciem diatonicznym lub chromatycznym składnika.",
+      "scope": "Nie klasyfikować wszystkich złożonych przejść tylko na podstawie jednego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.363–366",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-PIPELINE",
+      "statement": "Targosz proponuje najpierw wydzielić przebieg akordów z faktury, następnie ustalić interpretację funkcyjną i środki harmoniczne, a na końcu rozpatrzyć ich związek z melodią, rytmem, barwą, dynamiką i formą.",
+      "scope": "Etapy analizy, nie gotowy algorytm automatycznego rozpoznawania funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.367",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-AXES",
+      "statement": "W podsumowaniu kursu autor rozdziela rozwój przez zmianę reprezentacji funkcji (np. przewroty, dysonanse i alteracje) oraz przez tworzenie dodatkowych centrów odniesienia (funkcje pozorne, wychylenia i modulacje).",
+      "scope": "Systematyka Targosza; nie traktować wartościowania siły harmonicznej jako pomiaru fizycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.368",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-INDEPENDENT",
+      "statement": "Autor zaleca samodzielne odczytanie akordów i określenie funkcji w utworze przed porównaniem z podaną analizą; kolejność ćwiczeń może różnić się od kolejności utworów w cyklu.",
+      "scope": "Propozycja dydaktyczna, nie dowód jedynej poprawnej analizy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.369,387",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-C-PRELUDE",
+      "statement": "W analizie Preludium C-dur op. 28 nr 1 Chopina Targosz wyróżnia trzy fazy i zwraca uwagę na współzależność rozwoju melodii, kierunku rozwiązań dysonansów i końcowej nuty pedałowej.",
+      "scope": "Interpretacja Targosza; dokładne granice faz i numerację taktów trzeba sprawdzić w wybranej edycji przed wykorzystaniem w ocenianiu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.369–372",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-A-PRELUDE",
+      "statement": "W Preludium a-moll op. 28 nr 2 autor wskazuje niejednoznaczne odcinki harmoniczne, chromatyczne przekształcenia oraz wyraźniejsze ustalenie tonacji zasadniczej pod koniec.",
+      "scope": "Odczyt analityczny autora, nie niezależne potwierdzenie każdego oznaczenia partytury.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.372–373",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-D-PRELUDE",
+      "statement": "W Preludium D-dur op. 28 nr 5 Targosz odróżnia odcinki ewolucyjne od wprowadzenia, interludium i zakończenia, opisując powtarzanie zwrotów kadencyjnych w różnych lokalnych odniesieniach.",
+      "scope": "Interpretacja autora; nie utożsamiać każdego powtórzenia zwrotu ze ścisłą progresją realną.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.374–376",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-B-PRELUDE",
+      "statement": "W Preludium h-moll op. 28 nr 6 autor zwraca uwagę na kantylenę w dolnym planie i na to, że dźwięki melodyczne tej linii nie powinny być automatycznie analizowane jako składniki przewrotów.",
+      "scope": "Wskazówka analityczna konkretnego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.376–378",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-E-PRELUDE",
+      "statement": "W analizie Preludium E-dur op. 28 nr 9 autor rozpatruje osobno stosunki funkcyjne oraz kolorystykę harmoniczną; przy tej drugiej zaznacza zależność od opracowania Chomińskiego.",
+      "scope": "Nie traktować obu opracowań jako niezależnych potwierdzeń ani jakościowych ocen barwy jako danych pomiarowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.378–380",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-CS-PRELUDE",
+      "statement": "W Preludium cis-moll op. 28 nr 10 Targosz opisuje przeciwstawienie fragmentów figuracyjnych i chorałowych oraz udział zwrotów plagalnych i kadencji zawieszonych w ich kształtowaniu.",
+      "scope": "Interpretacja autora, nie definicja uniwersalna tych typów faktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.380–381",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-GS-PRELUDE",
+      "statement": "W Preludium gis-moll op. 28 nr 12 autor wskazuje długofalowy rozwój harmoniczny i modulacje chromatyczną oraz enharmoniczną jako ważne punkty formy.",
+      "scope": "Nie podawać dokładnych granic taktów jako zatwierdzonych bez kontroli partytury.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.382–386",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ANALYSIS-CM-PRELUDE",
+      "statement": "W Preludium c-moll op. 28 nr 20 autor analizuje okres z powtórzonym i rozszerzonym następnikiem oraz współdziałanie dynamiki, przewrotów i alteracji w kształtowaniu kolejnych odcinków.",
+      "scope": "Interpretacja autora; nie uogólniać jego jakościowego opisu brzmienia akordów durowych i molowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.386–387",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

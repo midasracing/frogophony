@@ -314,7 +314,8 @@
         "WOJ-POLYPHONY",
         "ABC-CLASS",
         "ABC-TEXTURE",
-        "ABC-VOCAL-TEXTURE"
+        "ABC-VOCAL-TEXTURE",
+        "TAR-ANALYSIS-PIPELINE"
       ],
       "status": "partial"
     },
@@ -330,7 +331,8 @@
         "WOJ-PERIOD",
         "ABC-MOTIF",
         "ABC-SENTENCE",
-        "ABC-PERIOD-TYPES"
+        "ABC-PERIOD-TYPES",
+        "TAR-ANALYSIS-CM-PRELUDE"
       ],
       "status": "partial"
     },
@@ -398,7 +400,11 @@
         "ABC-MASS",
         "ABC-MADRIGAL",
         "ABC-ARIA",
-        "ABC-BALLET"
+        "ABC-BALLET",
+        "TAR-ANALYSIS-C-PRELUDE",
+        "TAR-ANALYSIS-D-PRELUDE",
+        "TAR-ANALYSIS-CS-PRELUDE",
+        "TAR-ANALYSIS-GS-PRELUDE"
       ],
       "status": "partial"
     },
@@ -463,7 +469,8 @@
         "DK-FOUR",
         "WH-CHOPIN-CHORD",
         "DK-AMBIGUOUS-VOICING",
-        "DK-CHORD-ORDER"
+        "DK-CHORD-ORDER",
+        "TAR-ENH-DIM-SETS"
       ],
       "status": "partial"
     },
@@ -863,7 +870,12 @@
         "TAR-APPARENT-VII",
         "TAR-VII-NATURAL-MINOR",
         "TAR-APPARENT-SUBDOMINANT",
-        "TAR-S6-SEVENTH-ANALYSIS"
+        "TAR-S6-SEVENTH-ANALYSIS",
+        "TAR-TONICIZATION-TARGET",
+        "TAR-MEDIANT-FIRST",
+        "TAR-ENH-DIM-SETS",
+        "TAR-ENH-DIM-ROLES",
+        "TAR-ENH-AUG-SETS"
       ],
       "status": "partial"
     },
@@ -954,7 +966,21 @@
         "TAR-ELLIPSIS-VOICE",
         "TAR-SEQUENCE-FOUR-VOICE",
         "TAR-FIGURED-NINTH",
-        "TAR-FIGURED-NINTH-INVERSION"
+        "TAR-FIGURED-NINTH-INVERSION",
+        "TAR-MOD-ENTRY-S",
+        "TAR-MOD-DOUBLE-SUSP-VOICE",
+        "TAR-SECONDARY-ENTRY-CONTEXT",
+        "TAR-SECONDARY-FULL-TARGET",
+        "TAR-SECONDARY-CHROMATIC-VOICE",
+        "TAR-SECONDARY-SEVENTH-CHAIN",
+        "TAR-CHORALE-STYLE-EXCEPTIONS",
+        "TAR-ALTER-D-RAISED-FIFTH",
+        "TAR-ALTER-D-LOWERED-FIFTH",
+        "TAR-ALTER-DOUBLING",
+        "TAR-ALTER-PARALLEL-DIMINISHED",
+        "TAR-MOD-CHROM-RAISED-FIFTH-CADENCE",
+        "TAR-MOD-CHROM-TRIAD-TO-SEVENTH",
+        "TAR-ENH-DIM-ENTRY-VOICING"
       ],
       "status": "partial"
     },
@@ -995,7 +1021,13 @@
         "TAR-SEQUENCE-EXACT",
         "TAR-SEQUENCE-FOUR-VOICE",
         "TAR-SEQUENCE-CHAIN",
-        "TAR-SEQUENCE-PRACTICE"
+        "TAR-SEQUENCE-PRACTICE",
+        "TAR-MOD-CADENCE-STRENGTH",
+        "TAR-MOD-PATH-NO-SEQUENCE",
+        "TAR-MOD-ENTRY-VI",
+        "TAR-SECONDARY-SEVENTH-CHAIN",
+        "TAR-SECONDARY-DECEPTIVE",
+        "TAR-REAL-SEQUENCE-CYCLE"
       ],
       "status": "partial"
     },
@@ -1042,7 +1074,10 @@
         "TAR-FIGURED-NONCHORD",
         "TAR-FIGURED-BASS-LINES",
         "TAR-FIGURED-REALIZATION",
-        "TAR-FIGURED-CONTINUO-PRACTICE"
+        "TAR-FIGURED-CONTINUO-PRACTICE",
+        "TAR-MOD-PRACTICE-MODES",
+        "TAR-SECONDARY-SOPRANO-CLUES",
+        "TAR-CHORALE-EXERCISE"
       ],
       "status": "partial"
     },
@@ -1091,7 +1126,23 @@
         "TAR-FIGURED-SIX-FOUR",
         "TAR-FIGURED-FOUR-THREE",
         "TAR-FIGURED-NONCHORD",
-        "TAR-FIGURED-BASS-LINES"
+        "TAR-FIGURED-BASS-LINES",
+        "TAR-MOD-MODE-SUSPENSION",
+        "TAR-MOD-DOUBLE-SUSP-VOICE",
+        "TAR-SECONDARY-SOPRANO-CLUES",
+        "TAR-ALTER-AXES",
+        "TAR-ALTER-D-RAISED-FIFTH",
+        "TAR-ALTER-D-LOWERED-FIFTH",
+        "TAR-ALTER-DYSALTERATION",
+        "TAR-ALTER-D-ROOT",
+        "TAR-ALTER-D-MINOR",
+        "TAR-ALTER-D-SEVENTH",
+        "TAR-ALTER-D-PROFILE",
+        "TAR-ALTER-S-RAISED-ROOT",
+        "TAR-ALTER-S-SIXTH",
+        "TAR-ALTER-S-DYSALTER",
+        "TAR-ALTER-S-PROFILE",
+        "TAR-ALTER-DOUBLING"
       ],
       "status": "partial"
     },
@@ -1118,7 +1169,46 @@
         "TAR-APPARENT-III",
         "TAR-VII-NATURAL-MINOR",
         "TAR-CHROMATIC-NONCHORD",
-        "TAR-SEQUENCE-EXACT"
+        "TAR-SEQUENCE-EXACT",
+        "TAR-MOD-PHASES",
+        "TAR-MOD-CADENCE-STRENGTH",
+        "TAR-MOD-MODE-SUSPENSION",
+        "TAR-MOD-PIVOT-REINTERPRET",
+        "TAR-MOD-DIRECTION-FIFTHS",
+        "TAR-MOD-PATH-LOCAL",
+        "TAR-MOD-PATH-NO-SEQUENCE",
+        "TAR-MOD-PATH-PARALLEL-KEY",
+        "TAR-MOD-ENTRY-S",
+        "TAR-MOD-ENTRY-VI",
+        "TAR-MOD-DORIAN-ENTRY",
+        "TAR-MOD-NATURAL-EXIT",
+        "TAR-MOD-PARALLEL-MODE",
+        "TAR-MOD-PRACTICE-MODES",
+        "TAR-SECONDARY-DOMINANT-FORM",
+        "TAR-TONICIZATION-NOT-MOD",
+        "TAR-TONICIZATION-TARGET",
+        "TAR-MEDIANT-SECOND",
+        "TAR-MEDIANT-THIRD",
+        "TAR-SECONDARY-ENTRY-CONTEXT",
+        "TAR-SECONDARY-DECEPTIVE",
+        "TAR-REAL-SEQUENCE-CYCLE",
+        "TAR-ALTER-AXES",
+        "TAR-MOD-CHROM-PROCESS",
+        "TAR-MOD-CHROM-BACKWARD",
+        "TAR-MOD-CHROM-HIGHER",
+        "TAR-MOD-CHROM-LOWER",
+        "TAR-MOD-CHROM-RAISED-FIFTH-CADENCE",
+        "TAR-MOD-CHROM-TRIAD-TO-SEVENTH",
+        "TAR-MOD-CHROM-D-S-PATH",
+        "TAR-MOD-CHROM-DISTANT",
+        "TAR-ENH-NOTATION-ONLY",
+        "TAR-ENH-RESOLUTION-CONTEXT",
+        "TAR-ENH-MOD-PIVOT",
+        "TAR-ENH-DIM-ROLES",
+        "TAR-ENH-DIM-TARGET-ANCHORS",
+        "TAR-ENH-DIM-ENTRY-VOICING",
+        "TAR-ENH-AUG-SETS",
+        "TAR-ENH-MIXED-STRUCTURES"
       ],
       "status": "partial"
     },
@@ -1159,7 +1249,30 @@
         "TAR-FUNCTION-DUAL-RELATION",
         "TAR-FIGURED-SEMANTICS",
         "TAR-FIGURED-SIX",
-        "TAR-FIGURED-HISTORICAL-ACCIDENTALS"
+        "TAR-FIGURED-HISTORICAL-ACCIDENTALS",
+        "TAR-SECONDARY-DOMINANT-FORM",
+        "TAR-MEDIANT-FIRST",
+        "TAR-MEDIANT-SECOND",
+        "TAR-CHORALE-FERMATA",
+        "TAR-CHORALE-STYLE-EXCEPTIONS",
+        "TAR-ALTER-D-ROOT",
+        "TAR-ALTER-D-SEVENTH",
+        "TAR-ALTER-FUNCTION-AMBIGUITY",
+        "TAR-ALTER-TRISTAN",
+        "TAR-ENH-NOTATION-ONLY",
+        "TAR-ENH-RESOLUTION-CONTEXT",
+        "TAR-ENH-DIM-ROLES",
+        "TAR-ANALYSIS-PIPELINE",
+        "TAR-ANALYSIS-AXES",
+        "TAR-ANALYSIS-INDEPENDENT",
+        "TAR-ANALYSIS-C-PRELUDE",
+        "TAR-ANALYSIS-A-PRELUDE",
+        "TAR-ANALYSIS-D-PRELUDE",
+        "TAR-ANALYSIS-B-PRELUDE",
+        "TAR-ANALYSIS-E-PRELUDE",
+        "TAR-ANALYSIS-CS-PRELUDE",
+        "TAR-ANALYSIS-GS-PRELUDE",
+        "TAR-ANALYSIS-CM-PRELUDE"
       ],
       "status": "partial"
     },
