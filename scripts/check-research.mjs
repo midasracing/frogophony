@@ -42,3 +42,11 @@ const matrix=szczegoly.interwaly.macierzNaturalnegoDur;
 if(matrix.length!==42||new Set(matrix.map(q=>q.stopienPoczatkowy+':'+q.numer)).size!==42)ce.push('Incomplete diatonic matrix');
 for(const q of matrix){const i=q.stopienPoczatkowy-1,j=i+q.numer-1,semi=major[j%7]+12*Math.floor(j/7)-major[i],delta=semi-scaleBase[q.numer-1];const quality=[4,5].includes(q.numer)?({0:'czysta',1:'zwiększona','-1':'zmniejszona'})[delta]:({0:'wielka','-1':'mała'})[delta];if(semi!==q.poltony||quality!==q.jakosc||q.stopienKoncowy!==j%7+1||q.przeniesienieOktawowe!==Math.floor(j/7))ce.push('Invalid diatonic interval');}
 if(ce.length){console.error(ce.join('\n'));process.exitCode=1;}else console.log('Compendium links and 42 diatonic relations checked; drafts remain blocked.');
+
+const st=read('kompendium/wesolowski-skale-i-tonacje.json');
+const se=[];
+if(st.jezyk!=='pl-PL'||st.dopuszczoneDoPublikacji!==false||st.tonacje.length!==15||st.trojdzwięki.length!==210||st.enharmoniaGam.length!==26)se.push('Invalid scale metadata');
+for(const g of st.gamy){const d=g.poltonyOdDolnejToniki;if(!validRefs(g.odwolania)||d.length!==g.dzwieki.length||![8,13].includes(d.length)||Math.abs(d.at(-1)-d[0])!==12||d.slice(1).some((x,i)=>g.kierunek==='w-gore'?x<=d[i]:x>=d[i])||(d.length===13&&d.slice(1).some((x,i)=>Math.abs(x-d[i])!==1)))se.push('Invalid scale '+g.tonacja+' '+g.odmiana);}
+if(new Set(st.gamy.map(g=>[g.tonacja,g.odmiana,g.kierunek].join(':'))).size!==st.gamy.length)se.push('Duplicate scale');
+for(const q of st.trojdzwięki){const p=q.odleglosciOdPrymy;const jakosc=({'4,3':'durowy','3,4':'molowy','3,3':'zmniejszony','4,4':'zwiększony'})[[p[1],p[2]-p[1]].join(',')];if(!validRefs(q.odwolania)||jakosc!==q.jakosc||q.skladniki.length!==3)se.push('Invalid triad');}
+if(se.length){console.error(se.join('\n'));process.exitCode=1;}else console.log('Scale and chord data structure checked; music review still required.');

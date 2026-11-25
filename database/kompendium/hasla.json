@@ -3125,6 +3125,181 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "gamy-teoretyczne",
+      "termin": "Gamy teoretyczne o więcej niż siedmiu znakach",
+      "aliasy": [
+        "podwójne alteracje",
+        "znaki przygodne",
+        "koło kwintowe"
+      ],
+      "definicja": "Wesołowski wyprowadza dalsze gamy krzyżykowe i bemolowe poza konwencjonalnym zestawem siedmiu znaków.",
+      "omowienie": "Transpozycja o prymę zwiększoną w górę zwiększa teoretyczny bilans krzyżyków o siedem; w dół analogicznie zwiększa bilans bemoli. Znaki ponad siedem zapisuje się w profilu autora przygodnie. Podwójna alteracja liczy się jako dwa znaki w rachunku teoretycznym.",
+      "przyklady": [
+        "Model autorski: Gis-dur: osiem krzyżyków w rachunku, w tym podwójne podwyższenie f. Fes-dur: osiem bemoli w rachunku."
+      ],
+      "ograniczenia": [
+        "Nie oznacza to ośmiu fizycznych symboli przy kluczu. Zachować model notacji autora."
+      ],
+      "podstawa": [
+        "WES-KEY-EXTENDED",
+        "WES-THEORETICAL-KEYS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§40–42, s.117–118,126–127"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tonacje-rownoimienne",
+      "termin": "Tonacje równoimienne (jednoimienne) i równoległe",
+      "aliasy": [
+        "równoimienność",
+        "paralelizm",
+        "znaki przykluczowe"
+      ],
+      "definicja": "Równoległe mają różne tryby i te same znaki, a równoimienne wspólną tonikę i różne tryby.",
+      "omowienie": "Toniki równoległych dzieli tercja mała. Równoimienne w naturalnych odmianach różnią się bilansem trzech znaków. W praktyce oznaczenie przy kluczu może pozostać z tonacji głównej także w odcinku o zmienionym trybie.",
+      "przyklady": [
+        "Model autorski: D-dur i h-moll są równoległe; D-dur i d-moll równoimienne."
+      ],
+      "ograniczenia": [
+        "Autor używa także nazwy jednoimienna; nie odrzucać jej jako błędu."
+      ],
+      "podstawa": [
+        "PL-KEY-REL",
+        "PL-KEY-SAME",
+        "WES-KEY-SIGNATURE-CONTEXT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§41,43–44, s.124,128,134"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pentatonika-centralna",
+      "termin": "Dźwięk centralny w pentatonice bezpółtonowej",
+      "aliasy": [
+        "łańcuch kwint",
+        "sekundy wielkie",
+        "tercje małe"
+      ],
+      "definicja": "W konstrukcji autora dźwięk centralny jest środkowym ogniwem pięciu kolejnych kwint.",
+      "omowienie": "Można też zbudować od centralnego dźwięku sekundę wielką i kwartę czystą w obie strony. Po sprowadzeniu dźwięków do oktawy między sąsiadami występują sekundy wielkie i tercje małe.",
+      "przyklady": [
+        "Model autorski: Łańcuch C–G–D–A–E daje zbiór C–D–E–G–A, centralnym ogniwem jest D."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać środkowego ogniwa z najniższą nutą ani bezwarunkowo z toniką dur."
+      ],
+      "podstawa": [
+        "WES-PENTATONIC",
+        "WES-PENTATONIC-CENTRAL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§48, s.139–140"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "repercussa-finalis",
+      "termin": "Finalis i repercussa w skalach kościelnych",
+      "aliasy": [
+        "dominanta modalna",
+        "ambitus",
+        "autentyczna",
+        "plagalna"
+      ],
+      "definicja": "W historycznym modelu finalis oznacza dźwięk końcowy, a repercussa dźwięk recytacyjny.",
+      "omowienie": "Pary autentyczne i plagalne mają wspólne finalis, różnią się zakresem i zwykle repercussą. Autor opisuje przesunięcie repercussy z h na c w frygijskiej i hypomiksolidyjskiej oraz odstępstwa od reguły kwinty w skalach autentycznych.",
+      "przyklady": [
+        "Model autorski: W tabeli autora dorycka ma finalis d i repercussę a, a hypodorycka finalis d i repercussę f."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać dominanty modalnej z akordem dominantowym dur-moll; historyczne rozpoznanie wymaga kontekstu."
+      ],
+      "podstawa": [
+        "WES-CHURCH-MODES",
+        "WES-MODE-PATTERNS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§50, s.142–143"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "transpozycja-metody",
+      "termin": "Metody transponowania według autora",
+      "aliasy": [
+        "transpozycja chromatyczna",
+        "stopnie",
+        "podstawianie kluczy"
+      ],
+      "definicja": "Wesołowski przedstawia trzy praktyczne metody: zmianę alteracji, orientację według stopni i zastępowanie klucza.",
+      "omowienie": "Metoda stopni jest opisana przede wszystkim dla melodii jednogłosowych; przypis dopuszcza orientację według funkcji w prostej harmonii. Przy metodzie kluczy pozycje nut na pięciolinii pozostają takie same, ale zmienia się klucz, znaki i ewentualnie oktawę.",
+      "przyklady": [
+        "Model autorski: C-dur przeniesione o prymę zwiększoną wyżej daje Cis-dur z siedmioma krzyżykami."
+      ],
+      "ograniczenia": [
+        "Nie wyprowadzać automatycznej transpozycji z samej zmiany klucza. Graficzne przykłady podstawiania kluczy pozostają do odrębnej kontroli."
+      ],
+      "podstawa": [
+        "WES-CLEF-TRANSPOSE",
+        "WES-DEGREE-TRANSPOSE",
+        "WES-THEORETICAL-KEYS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§46, s.136–137"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "dwie-sekundy-zwiekszone-modele",
+      "termin": "Dwa modele skal z dwiema sekundami zwiększonymi",
+      "aliasy": [
+        "interwały charakterystyczne",
+        "odmiany skal"
+      ],
+      "definicja": "Autor rozróżnia dwa modele siedmiostopniowe z dwiema sekundami zwiększonymi.",
+      "omowienie": "Pierwszy odpowiada harmonicznemu moll z podwyższonym IV (sekundy zwiększone III–IV i VI–VII), drugi harmonicznemu dur z obniżonym II (II–III oraz VI–VII).",
+      "przyklady": [
+        "Model autorski: Od c: c–d–es–fis–g–as–h–c oraz c–des–e–f–g–as–h–c."
+      ],
+      "ograniczenia": [
+        "Historyczne nazewnictwo autora nie może służyć do klasyfikowania całych tradycji muzycznych; nie przypisywać z samej skali centrum tonalnego."
+      ],
+      "podstawa": [
+        "WES-TWO-AUG-SECONDS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§51, s.144–145"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }
