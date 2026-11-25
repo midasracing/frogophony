@@ -44,3 +44,5 @@ SIK-HAR-UPLOAD zastępuje brak dostępu do tekstu w SIK-HAR-SCRIBD i SIK-HAR-ILI
 TARGOSZ-2004-UPLOAD: dostępny egzemplarz użytkownika; pierwsza lektura oraz porównanie z Sikorskim w harmony-profiles.md. Autor sam wskazuje zależność metodyczną i różnice (s.7–9).
 
 CHOM-FORM1-1983-UPLOAD: otrzymany tom I Chomińskiego i Wilkowskiej-Chomińskiej. Używać w teorii i analizie form z dokładnym lokalizatorem; dalsza lektura oraz porównanie z Wójcik w kolejce.
+
+WES-1986-UPLOAD: właściwy PDF Wesołowskiego otrzymany od użytkownika; ma pierwszeństwo nad uszkodzonym OCR linków WES-1986-TEXT i WES-1986-ALT dla sprawdzonych fragmentów. Mapa: wesolowski-reference.md.

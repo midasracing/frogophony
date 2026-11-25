@@ -11,7 +11,10 @@
         "PL-HB",
         "PL-SHARP",
         "PL-FLAT",
-        "ACC-NATURAL"
+        "ACC-NATURAL",
+        "WES-OTTAVA",
+        "WES-DOUBLE-ACC",
+        "WES-ACC-SCOPE"
       ],
       "status": "partial"
     },
@@ -23,7 +26,8 @@
         "TRITONE-AUDIO",
         "INV-M6-M3",
         "PL-INV-QUALITY",
-        "PL-INT-TIME"
+        "PL-INT-TIME",
+        "WES-SEMITONE-SPELL"
       ],
       "status": "partial"
     },
@@ -73,7 +77,9 @@
         "METER-68",
         "PL-METER-REG",
         "PL-RHY-GROUP",
-        "PL-PICKUP"
+        "PL-PICKUP",
+        "WES-TUPLET",
+        "WES-TEMPO"
       ],
       "status": "partial"
     },
@@ -118,7 +124,8 @@
         "METER-PL",
         "PL-SYNCOPE",
         "PL-RHY-GROUP",
-        "PL-PICKUP"
+        "PL-PICKUP",
+        "WES-TUPLET"
       ],
       "status": "partial"
     },
@@ -165,8 +172,10 @@
     },
     {
       "id": "I-WOM-03",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WES-SOUND"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-WOM-04",
@@ -260,7 +269,11 @@
         "CLEF-G",
         "CLEF-F",
         "METER-PL",
-        "PL-POLYRHYTHM"
+        "PL-POLYRHYTHM",
+        "WES-C-CLEFS",
+        "WES-OTTAVA",
+        "WES-DOUBLE-ACC",
+        "WES-ACC-SCOPE"
       ],
       "status": "partial"
     },
@@ -295,7 +308,9 @@
         "MAJOR-PATTERN",
         "MINOR-MEL",
         "PL-KEY-DETECT",
-        "TAR-DOR-S"
+        "TAR-DOR-S",
+        "WES-MAJOR-HARM",
+        "WES-WHOLETONE"
       ],
       "status": "partial"
     },
@@ -342,7 +357,10 @@
       "id": "II-ZAS-01",
       "claimIds": [
         "CLEF-G",
-        "CLEF-F"
+        "CLEF-F",
+        "WES-HARMONICS",
+        "WES-SOUND",
+        "WES-C-CLEFS"
       ],
       "status": "partial"
     },
@@ -350,7 +368,9 @@
       "id": "II-ZAS-02",
       "claimIds": [
         "MAJOR-PATTERN",
-        "MINOR-NAT"
+        "MINOR-NAT",
+        "WES-12TET",
+        "WES-MAJOR-HARM"
       ],
       "status": "partial"
     },
@@ -371,14 +391,22 @@
       "claimIds": [
         "TRITONE-AUDIO",
         "PL-HB",
-        "TAR-ENH"
+        "TAR-ENH",
+        "WES-DIATONIC",
+        "WES-ENHARMONY",
+        "WES-SEMITONE-SPELL",
+        "WES-CHROM-REG",
+        "WES-CHROM-IRREG"
       ],
       "status": "partial"
     },
     {
       "id": "II-ZAS-05",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WES-WHOLETONE",
+        "WES-CHROM-ATONAL"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-ZAS-06",
@@ -386,7 +414,8 @@
         "INT-QUALITY",
         "TRI-QUAL",
         "MINOR-V",
-        "PL-INV-QUALITY"
+        "PL-INV-QUALITY",
+        "WES-SEMITONE-SPELL"
       ],
       "status": "partial"
     },
@@ -414,14 +443,20 @@
         "PL-SYNCOPE",
         "PL-POLYRHYTHM",
         "PL-POLYMETER",
-        "PL-PICKUP"
+        "PL-PICKUP",
+        "WES-TUPLET",
+        "WES-DUPLET"
       ],
       "status": "partial"
     },
     {
       "id": "II-ZAS-09",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "WES-ARTIC",
+        "WES-TREMOLO",
+        "WES-TEMPO"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-ZAS-10",
@@ -542,7 +577,9 @@
     {
       "id": "II-NOM-01",
       "claimIds": [
-        "CHOM-FORM"
+        "CHOM-FORM",
+        "WES-DIATONIC",
+        "WES-TEMPO"
       ],
       "status": "partial"
     },

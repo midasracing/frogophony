@@ -22,3 +22,6 @@ Katalog rozstrzygnięć do zastosowania w zadaniach. Nie jest zatwierdzonym podr
 
 ### Korekta nazewnictwa według §44 Wesołowskiego
 Wydanie 1986 na s.134 używa określenia równoimienne (PL-KEY-SAME). Poprzednio błędnie przypisano autorowi formę jednoimienne; nie odrzucamy jej w innych źródłach, lecz wymaga odrębnego potwierdzenia. Dodatkowo §20–21 rozróżnia polirytmię, polimetrię oraz przedtakt (PL-POLYRHYTHM, PL-POLYMETER, PL-PICKUP).
+
+### Korekta po odczycie PDF Wesołowskiego
+Przedmowa s.8 zawiera formę jednoimienna, §44 s.134 równoimienne. Poprzednie zastrzeżenie o niepotwierdzonym występowaniu jednoimienna w tym wydaniu było zbyt kategoryczne. Zob. PL-KEY-SAME i WES-1986-UPLOAD. Przykład 195 rozróżnia dwa profile chromatyzacji dur (WES-CHROM-REG, WES-CHROM-IRREG).

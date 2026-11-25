@@ -83,3 +83,6 @@ Otrzymano 387-stronicowy PDF wyd. II, PWM 2004. Odczytano wskazane fragmenty, po
 
 ## Chomiński i Wilkowska-Chomińska — pierwsza lektura tomu I (2026-11-25)
 Sprawdzono plik (573 strony), metadane wydania z kart tytułowych, spis i wybrane fragmenty teorii i form. Dodano 14 ograniczonych do źródła twierdzeń oraz powiązania z kompetencjami. Numerację drukowaną odróżniono od PDF. Rozróżniono formę, gatunek, technikę i strukturę; zaznaczono, że okres, fuga i rondo nie redukują się do pojedynczego schematu. Nie analizowano nut ani całego tomu; bez recenzji pedagogicznej, bez zmian runtime, bez publikowania książki.
+
+## Wesołowski — dostarczony PDF, kontrola źródła (2026-11-25)
+Sprawdzono plik i wybrane fragmenty/obrazy. Dodano 20 twierdzeń oraz 21 odwołań do wcześniejszych twierdzeń. Poprawiono PL-KEY-SAME: autor używa także jednoimienna w przedmowie. Rozróżniono chromatyzację regularną i nieregularną, rytmiczne ratio, kontekst artykulacji i założenia akustyczne. Nie przeanalizowano wszystkich stron, przykładów ani wyjątków; bez recenzji i zmian runtime. Nie kopiowano publikacji. 

@@ -38,3 +38,6 @@ TARGOSZ-2004-UPLOAD: wyd. II, PWM 2004, 387 stron, tekst i obrazy. Nie prosić p
 
 ### Otrzymano Chomińskiego i Wilkowską-Chomińską (2026-11-25)
 CHOM-FORM1-1983-UPLOAD, t. I, PWM 1983, 573 strony PDF. Tekst i obrazy spisu dostępne. Odczyt wybranych fragmentów, mapa w form-analysis-reference.md. Nie prosić ponownie o tom I. Nie obejmuje tomów II–V. Kolejne priorytety: Wesołowski Zasady muzyki w PDF, Dzielska/Kaszycki, Wójcik ABC form.
+
+### Otrzymano Zasady muzyki Wesołowskiego (2026-11-25)
+WES-1986-UPLOAD: 179 stron, PDF z tekstem i obrazami. Nie prosić ponownie o egzemplarz. Mapa lektury i poprawki w wesolowski-reference.md. Nie przeczytano całej książki. Następne priorytety: Dzielska/Kaszycki, Wójcik ABC form, Wójcik Nauka o muzyce, Drobner.

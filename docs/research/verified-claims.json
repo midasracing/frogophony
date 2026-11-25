@@ -55,6 +55,11 @@
           "sourceId": "OMT2-TRI",
           "locator": "Triadic Qualities and Listening to Triads",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37, s.105",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -247,6 +252,11 @@
           "sourceId": "ZPE-MOLL",
           "locator": "Ćwiczenie 3",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.109, przykład 211",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -278,6 +288,11 @@
         {
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 78 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.108, przykłady 204–206",
           "access": "direct-read"
         }
       ],
@@ -313,6 +328,11 @@
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 79 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.110, przykład 213",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -343,6 +363,11 @@
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 78–79 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.109, przykład 209",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -361,6 +386,11 @@
         {
           "sourceId": "OMT2-MINOR",
           "locator": "The Minor Scale; Minor Key Signatures",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.108 (przykład c-moll)",
           "access": "direct-read"
         }
       ],
@@ -415,6 +445,11 @@
           "sourceId": "ZPE-CLEF",
           "locator": "Opis ilustracji pięciolinii, przed sekcją Miejsce klucza na pięciolinii",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.17",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -431,6 +466,11 @@
         {
           "sourceId": "ZPE-CLEF",
           "locator": "Poznaj klucze muzyczne, Klucz wiolinowy",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.18",
           "access": "direct-read"
         }
       ],
@@ -450,6 +490,11 @@
         {
           "sourceId": "ZPE-CLEF",
           "locator": "Klucz basowy, opis grafiki",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.19, przykład 18",
           "access": "direct-read"
         }
       ],
@@ -475,6 +520,11 @@
           "sourceId": "ZPE-SCALE",
           "locator": "Przykład C-dur",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -495,6 +545,11 @@
           "sourceId": "ZPE-ACC",
           "locator": "Krzyżyk",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93, przykład 174",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -511,6 +566,11 @@
         {
           "sourceId": "ZPE-ACC",
           "locator": "Bemol",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93, przykład 176",
           "access": "direct-read"
         }
       ],
@@ -529,6 +589,11 @@
           "sourceId": "ZPE-ACC",
           "locator": "Kasownik",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.94, przykład 179",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -546,6 +611,11 @@
           "sourceId": "ZPE-SCALE",
           "locator": "Akapit o nazwach literowych i solmizacyjnych",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.16",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -562,6 +632,11 @@
         {
           "sourceId": "ZPE-SCALE",
           "locator": "Przykład gamy C-dur i poprzedzający akapit",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§26, s.84",
           "access": "direct-read"
         }
       ],
@@ -750,6 +825,11 @@
           "sourceId": "WES-1986-ALT",
           "locator": "§44, s.134",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§44, s.134",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -760,8 +840,8 @@
     },
     {
       "id": "PL-KEY-SAME",
-      "statement": "W terminologii Wesołowskiego tonacje równoimienne mają wspólną tonikę, ale różny tryb.",
-      "scope": "Termin autora: równoimienne. Ang. parallel keys. Wcześniejsze przypisanie słowa jednoimienne bezpośrednio temu wydaniu było nieścisłe; dodatkowe polskie synonimy sprawdzić oddzielnie.",
+      "statement": "Wesołowski nazywa tonacje o wspólnej tonice i odmiennym trybie równoimiennymi (§44); w przedmowie używa także terminu jednoimienna wobec gamy molowej o tej samej tonice.",
+      "scope": "Obie formy występują w tym wydaniu, nie odrzucać jednoimiennej jako błędnej. Ang. parallel keys.",
       "sourceRefs": [
         {
           "sourceId": "WES-1986-TEXT",
@@ -771,6 +851,11 @@
         {
           "sourceId": "WES-1986-ALT",
           "locator": "§44, s.134",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "przedmowa s.8 i §44, s.134",
           "access": "direct-read"
         }
       ],
@@ -840,6 +925,11 @@
           "sourceId": "WES-1986-TEXT",
           "locator": "§12, s.37–39; §16, s.50",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§16, s.50–51, przykłady 99–101",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -873,6 +963,11 @@
         {
           "sourceId": "WES-1986-TEXT",
           "locator": "§38, s.109",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.108–109, przykład 207",
           "access": "direct-read"
         }
       ],
@@ -940,6 +1035,11 @@
       "sourceRefs": [
         {
           "sourceId": "WES-1986-ALT",
+          "locator": "§45, s.134–135",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
           "locator": "§45, s.134–135",
           "access": "direct-read"
         }
@@ -1369,6 +1469,11 @@
         {
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 147–148 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37, s.105; §38, s.109",
           "access": "direct-read"
         }
       ],
@@ -1828,6 +1933,346 @@
         {
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 535–537 (PDF 534–536)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-HARMONICS",
+      "statement": "W idealnym szeregu harmonicznym kolejne częstotliwości są całkowitymi wielokrotnościami częstotliwości podstawowej; w nomenklaturze Wesołowskiego pierwszy składnik to ton podstawowy, dalsze to alikwoty.",
+      "scope": "Idealizowany model struny; rzeczywiste instrumenty mogą wykazywać nieharmoniczność. Nie uogólniać nomenklatury na wszystkie podręczniki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2, s.11",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-SOUND",
+      "statement": "Wesołowski wyróżnia cztery cechy dźwięku: wysokość, głośność, czas trwania i barwę.",
+      "scope": "Klasyczna klasyfikacja dydaktyczna; nie redukować głośności do jednej wielkości fizycznej ani barwy wyłącznie do statycznego widma.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3, s.12–14",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-12TET",
+      "statement": "W stroju równomiernie temperowanym oktawa obejmuje 12 równych interwałów półtonowych, cały ton odpowiada dwóm półtonom.",
+      "scope": "Równość interwałów nie oznacza równych różnic częstotliwości w Hz. Nie przyjmować historycznych tez autora o stroju Bacha jako dowodu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§25–26, s.83–84",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-C-CLEFS",
+      "statement": "Klucz altowy C wyznacza c1 na trzeciej linii, klucz tenorowy C na czwartej linii pięciolinii.",
+      "scope": "Bez dodatkowego przesunięcia oktawowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.18–19, przykłady 15–16",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-OTTAVA",
+      "statement": "Przenośnik oktawowy zmienia wysokość wykonania w obrębie wskazanej pięciolinii i oznaczonego odcinka, nie przepisuje położenia główek nut.",
+      "scope": "W przykładach 22–23 znak 8 nad lub pod zapisem oznacza odpowiednio oktawę wyżej lub niżej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§6, s.22",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TUPLET",
+      "statement": "W zwykłym podziale dwudzielnym triola trzech nut zajmuje czas dwóch regularnych nut o tej samej wartości graficznej.",
+      "scope": "Nie stosować 3:2 do każdego podziału trójdzielnego; trzy ósemki w ćwierćnucie z kropką są regularne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.29–30, przykłady 47,51",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DUPLET",
+      "statement": "Wartość z kropką można podzielić nieregularnie na dwie równe części zamiast trzech, tworząc duolę.",
+      "scope": "Podział 2:3 w kontekście wartości trójdzielnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.30, przykład 51",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DIATONIC",
+      "statement": "W ujęciu Wesołowskiego diatonika korzysta z dźwięków należących do danej gamy, a chromatyka rozszerza materiał gamy majorowej lub minorowej o chromatycznie zmienione stopnie.",
+      "scope": "Zakres terminologii autora; diatonika nie ogranicza się do dur-moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.92–93",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DOUBLE-ACC",
+      "statement": "Podwójny krzyżyk podwyższa dźwięk naturalny o dwa półtony, podwójny bemol obniża go o dwa półtony; przejście od podwójnego do pojedynczego znaku nie wymaga kasownika w omawianej konwencji.",
+      "scope": "W wydaniach historycznych spotyka się inne praktyki; §32 przypis na s.94.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93–94, przykłady 175,177,179",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ACC-SCOPE",
+      "statement": "Przygodny znak chromatyczny obowiązuje także przy kolejnych nutach tej samej wysokości w tym samym takcie, jeśli nie zostanie zmieniony innym znakiem.",
+      "scope": "Przykład jednogłosowy; łuki przez kreskę taktową, wielogłos i wielopięcioliniowość wymagają osobnej kontroli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.94, przykład 180",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ENHARMONY",
+      "statement": "W 12-TET różne nazwy i pisownia mogą odpowiadać tej samej wysokości, np. cis i des.",
+      "scope": "Równoważność wysokości nie oznacza identyczności funkcji czy zapisu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§33, s.96–97",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-SEMITONE-SPELL",
+      "statement": "Półton diatoniczny tworzą sąsiednie stopnie (sekunda mała), chromatyczny powstaje między odmianami tego samego stopnia (pryma zwiększona).",
+      "scope": "W omawianym systemie oba mają tę samą wielkość brzmieniową.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§34, s.98",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MAJOR-HARM",
+      "statement": "Gama durowa harmoniczna, nazywana przez autora także moll-dur, ma VI stopień obniżony o półton względem naturalnej.",
+      "scope": "Klasyczna odmiana gamy majorowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.101, przykład 193",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CHROM-REG",
+      "statement": "W regularnej chromatyzacji gamy durowej wypełnia się sekundy wielkie przez podwyższanie dolnego dźwięku we wznoszeniu i obniżanie górnego w opadaniu.",
+      "scope": "Ćwiczenie pisowni gam, nie uniwersalny algorytm pisowni wszystkich melodii chromatycznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.102, przykład 195a",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CHROM-IRREG",
+      "statement": "W nieregularnej chromatyzacji gamy durowej zamiast podwyższenia VI stopnia w górę stosuje się obniżony VII, a zamiast obniżenia V stopnia w dół podwyższony IV.",
+      "scope": "Konwencja Wesołowskiego dla gamy durowej; nie przenosić na moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.102, przykład 195b",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-WHOLETONE",
+      "statement": "Skala całotonowa ma sześć różnych wysokości w obrębie oktawy, oddzielonych całymi tonami. W 12-TET istnieją dwa różne zbiory klas wysokości tej skali.",
+      "scope": "Różna pisownia lub punkt startowy nie musi tworzyć nowego zbioru klas.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§52, s.145, przykład 293",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CHROM-ATONAL",
+      "statement": "W ujęciu autora materiał dwunastodźwiękowy i gama chromatyczna obejmują te same klasy wysokości, lecz różnią się założoną organizacją tonalną.",
+      "scope": "Nie utożsamiać całej atonalności z dodekafonią; nie wyprowadzać techniki serialnej z samego zbioru klas.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§52, s.145–146",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ARTIC",
+      "statement": "Staccato oddziela kolejne dźwięki, legato je łączy; typowe oznaczenia to kropka staccato i łuk legato.",
+      "scope": "Nie ustalać bezwzględnego procentu długości dźwięku; zależny od wykonania. Łuk legato różni się od przedłużającego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.148–149, przykład 296",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TREMOLO",
+      "statement": "Tremolo w omawianym znaczeniu polega na szybkim powtarzaniu jednej wysokości albo naprzemiennym powtarzaniu różnych dźwięków lub współbrzmień.",
+      "scope": "Rozróżnić zapis mierzonego i niemierzonego tremolo w dalszej lekturze; nie mylić z wibrato.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.149, przykład 298",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TEMPO",
+      "statement": "Wartości rytmiczne określają proporcje czasu, tempo pozwala ustalić ich rzeczywisty czas w wykonaniu; oznaczenie metronomiczne odnosi się do wskazanej jednostki.",
+      "scope": "Dla stałego tempa, bez rubata i odchyleń wykonawczych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.166–167",
           "access": "direct-read"
         }
       ],

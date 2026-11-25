@@ -1085,6 +1085,15 @@
       "note": "URL wskazuje wcześniejszy wykaz bibliograficzny, NIE miejsce odczytu. Źródło: PDF użytkownika, Józef Chomiński i Krystyna Wilkowska-Chomińska, Formy muzyczne t. I: Teoria formy. Małe formy instrumentalne, PWM 1983; Paweł Krzysztof Chomiński: dział urządzeń elektroakustycznych i elektronicznych. ISBN tomu 83-224-0176-0, serii 83-224-0224-4. 573 strony PDF, 11755618 bajtów. Odczyt kart tytułowych i spisu (PDF 1–8), tekstu druk. s.11–22,177–178,194–195,208–209,226–227,230–231,414–415,423–424,476–478,535–537. W tych rozdziałach numer drukowany = numer PDF + 1. Przykłady nutowe nie zostały w tej rundzie przeanalizowane; pełna lektura i kompletność wszystkich stron niepotwierdzona.",
       "accessKind": "user-upload",
       "fileName": "ilide.info-chomiski-formy-muzyczne-t1-mae-formy-instrumentalne-pdf-pr_421f268dbe2333d62d50aaedf899cf37.pdf"
+    },
+    {
+      "id": "WES-1986-UPLOAD",
+      "type": "theory",
+      "url": "https://pwm.com.pl/pl/sklep/publikacja/zasady-muzyki%2Cfranciszek-wesolowski%2C18421%2Cksiegarnia.htm",
+      "status": "verified-partial",
+      "note": "URL katalogowy; źródło odczytu to PDF użytkownika. Franciszek Wesołowski, Zasady muzyki, PWM 1986, ISBN 83-224-0250-3, 179 stron, 11729176 bajtów, niezaszyfrowany. Numeracja PDF zgodna z drukowaną w sprawdzonych miejscach. Odczyt s.3–19,22,29–30,50–51,83–84,92–98,101–102,104–105,107–110,133–135,145–146,148–149,166–167; obrazy wybranych stron w tym przykł. 47,99,174–180,195,204–213,296–298. Warstwa OCR miejscami uszkodzona. Ten sam nakład co wcześniejsze linki, nie niezależny dowód. Nie przeczytano całości.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-wesoowski-franciszek-zasady-muzyki-warszawa-1986-179-pr_0edd2c210345f5102b6722a9c18298bf.pdf"
     }
   ]
 }
