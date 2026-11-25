@@ -123,6 +123,12 @@
       "sha256": "b4e8d92ec9217a889bd76700201c97e0661b00d69361b5dad2d941410d643a7e"
     },
     {
+      "path": "images/0f625e0c64ba72c0cd96755abcc4bcdf.svg",
+      "kind": "image",
+      "bytes": 426,
+      "sha256": "15dbbead6863a03fb97228cca2947b2ad1ef84e9299363d195211c22cead6273"
+    },
+    {
       "path": "images/4af31393cf9dee6fd35c07fc7155d404.svg",
       "kind": "image",
       "bytes": 670,
@@ -133,6 +139,12 @@
       "kind": "image",
       "bytes": 518,
       "sha256": "dc1f3dd6e09d97620643caba547fecdea55cd0159cccbc26b4561fc8889fec71"
+    },
+    {
+      "path": "images/9a4bf74a74e801ca35402f2c2837e24c.svg",
+      "kind": "image",
+      "bytes": 705,
+      "sha256": "b80eabc0d5a32e7ea9853ce093dfc1e1a9b7e27a44eee95b0142469ee5bd28cd"
     },
     {
       "path": "images/funboarding/03d40e9ad439925dfe47e8e77072318f.svg",
@@ -307,6 +319,12 @@
       "kind": "image",
       "bytes": 769,
       "sha256": "1cac47cfb3fcbe85de6205d44b9339f49f5371a6028cea3c55461d8613a59993"
+    },
+    {
+      "path": "images/hearts/e38b9a1ee10d36ff6e57a66ae97e91ff.svg",
+      "kind": "image",
+      "bytes": 481,
+      "sha256": "e4f4753de84e58be80b7781cd52e11e526b9671f33fa9e15973f7beaea8efba2"
     },
     {
       "path": "images/splash/c6eae48dd48246c89e415b89f9e55282.svg",
@@ -886,5 +904,130 @@
       "transition": "all",
       "animation": "none"
     }
-  ]
+  ],
+  "observed_states": [
+    {
+      "state": "selected",
+      "observed_ms": 51,
+      "controls": [
+        {
+          "width": 18,
+          "height": 18,
+          "x": 140,
+          "y": 57,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "filter 0.2s",
+          "disabled": false
+        },
+        {
+          "width": 885.625,
+          "height": 16,
+          "x": 182,
+          "y": 58,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "all",
+          "disabled": false
+        },
+        {
+          "width": 150,
+          "height": 50,
+          "x": 180,
+          "y": 627,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "all",
+          "disabled": false
+        },
+        {
+          "width": 150,
+          "height": 50,
+          "x": 949.984375,
+          "y": 627,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "all",
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "state": "feedback",
+      "observed_ms": 193,
+      "controls": [
+        {
+          "width": 18,
+          "height": 18,
+          "x": 140,
+          "y": 57,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "filter 0.2s",
+          "disabled": false
+        },
+        {
+          "width": 884.5625,
+          "height": 16,
+          "x": 182,
+          "y": 58,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "all",
+          "disabled": false
+        },
+        {
+          "width": 92.96875,
+          "height": 21,
+          "x": 276,
+          "y": 675.5,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "filter 0.2s",
+          "disabled": false
+        },
+        {
+          "width": 128.4375,
+          "height": 21,
+          "x": 392.96875,
+          "y": 675.5,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "filter 0.2s",
+          "disabled": false
+        },
+        {
+          "width": 80.390625,
+          "height": 21,
+          "x": 545.40625,
+          "y": 675.5,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "filter 0.2s",
+          "disabled": false
+        },
+        {
+          "width": 150,
+          "height": 50,
+          "x": 949.984375,
+          "y": 625,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "all",
+          "disabled": false
+        },
+        {
+          "width": 380,
+          "height": 50,
+          "x": 450,
+          "y": 425,
+          "background": "rgba(0, 0, 0, 0)",
+          "animation": "none",
+          "transition": "all",
+          "disabled": false
+        }
+      ]
+    }
+  ],
+  "interaction_note": "After feedback, an overlay intercepted the normal next-button click."
 }
