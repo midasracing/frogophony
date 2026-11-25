@@ -1598,6 +1598,244 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FORM",
+      "statement": "Forma muzyczna wynika ze współdziałania czynników kształtujących materiał dźwiękowy; schemat literowy sam nie objaśnia wszystkich zależności między elementami.",
+      "scope": "Ujęcie autorów; nie jedyna teoria formy.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 13–15 (PDF 12–14)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-GENRE",
+      "statement": "W systematyce autorów rodzaj utworu wiąże się z podstawowym źródłem dźwięku, a gatunek m.in. z przeznaczeniem, charakterem i obsadą.",
+      "scope": "Kategorie autorów; inne podręczniki mogą inaczej porządkować terminologię.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 20–21 (PDF 19–20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-STRUCT",
+      "statement": "W ujęciu autorów konstrukcja dotyczy budowy współczynników formy, struktura zaś ich wzajemnych zależności.",
+      "scope": "Nie utożsamiać automatycznie z użyciem tych terminów w innych szkołach.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 21 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MOTIF",
+      "statement": "Motyw jest podstawową małą jednostką formy; jego tożsamość może wynikać z rytmu bez określonej wysokości dźwięków.",
+      "scope": "Ujęcie autorów dla tradycyjnej analizy, nie wymuszać motywu w każdej muzyce elektronicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 177–178 (PDF 176–177)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PHRASE",
+      "statement": "W rozdziale o systemie funkcyjnym autorzy określają frazę jako jednostkę obejmującą co najmniej dwa motywy.",
+      "scope": "Konwencja tego podręcznika; nie utożsamiać bezpośrednio z angielską phrase.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 194 (PDF 193)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD",
+      "statement": "Okres składa się z poprzednika i następnika o odmiennych rolach w przebiegu napięcia; samo identyczne powtórzenie zdania nie wystarcza do rozpoznania okresu.",
+      "scope": "Ujęcie budowy okresowej w systemie funkcyjnym.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 208 (PDF 207)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD-CAD",
+      "statement": "Zakończenie poprzednika na dominancie i następnika na tonice jest typowym, ale nie jedynym sposobem kształtowania okresu; autorzy omawiają też przykład zakończeń obu na tonice.",
+      "scope": "Nie oceniać okresu wyłącznie na podstawie ostatnich akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 208–209 (PDF 207–208)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-JUXT",
+      "statement": "Szeregowanie polega na zestawianiu jednostek formalnych, zarówno jednakowych, jak i kontrastujących.",
+      "scope": "Dopuszczalne współdziałanie z innymi zasadami formowania.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 226–227 (PDF 225–226)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-EVOL",
+      "statement": "Zasada ewolucyjna polega na rozwijaniu nowego materiału z wcześniej ukształtowanego; autorzy wyróżniają rozwój motywiczny i tematyczny.",
+      "scope": "Rozpoznawać cechy zachowane i zmienione w konkretnym utworze.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 230–231 (PDF 229–230)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CANON",
+      "statement": "Technika kanoniczna opiera się na ciągłej imitacji materiału jednego głosu przez drugi; nie musi obejmować wszystkich głosów ani stanowić nadrzędnej zasady całego utworu.",
+      "scope": "Zakończenia mogą przerwać ścisłą imitację.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 414 (PDF 413)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE",
+      "statement": "W klasycznej fudze temat rozwijany jest w kolejnych głosach; przeprowadzenia, łączniki i epizody uczestniczą w kształtowaniu formy.",
+      "scope": "Nie wymuszać wszystkich składników w każdej fudze; zakres historyczny autorów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 423–424 (PDF 422–423)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-NON3",
+      "statement": "Trzyczęściowa dyspozycja fugi związana z przebiegiem tonalnym jest częsta, lecz nie jest niezmienną regułą ani odpowiednikiem ABA.",
+      "scope": "Klasyczna fuga w systemie funkcyjnym.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 424 (PDF 423)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VARIATION",
+      "statement": "Technika wariacyjna może kształtować całość utworu lub fragment; wariacje tematu mogą być wydzielone lub przechodzić płynnie jedna w drugą.",
+      "scope": "Autorzy uwzględniają także wariacje bez wyodrębnionego tematu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 476–478 (PDF 475–477)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RONDO",
+      "statement": "Wspólną cechą historycznych odmian ronda jest wielokrotne powracanie refrenu; liczba kupletów nie jest stała.",
+      "scope": "Nie ograniczać rozpoznania ronda do jednego schematu literowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s. 535–537 (PDF 534–536)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

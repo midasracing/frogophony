@@ -153,8 +153,10 @@
     },
     {
       "id": "I-WOM-01",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-GENRE"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-WOM-02",
@@ -168,8 +170,12 @@
     },
     {
       "id": "I-WOM-04",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-CANON",
+        "CHOM-VARIATION",
+        "CHOM-RONDO"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-WOM-05",
@@ -195,33 +201,55 @@
     },
     {
       "id": "II-FORM-01",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-FORM"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-FORM-02",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-MOTIF",
+        "CHOM-PHRASE",
+        "CHOM-PERIOD",
+        "CHOM-PERIOD-CAD",
+        "CHOM-JUXT",
+        "CHOM-EVOL"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-FORM-03",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-EVOL",
+        "CHOM-CANON",
+        "CHOM-VARIATION"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-FORM-04",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-RONDO"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-FORM-05",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-FUGUE",
+        "CHOM-FUGUE-NON3",
+        "CHOM-VARIATION"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-FORM-06",
       "claimIds": [
-        "TAR-ANALYSIS"
+        "TAR-ANALYSIS",
+        "CHOM-FORM",
+        "CHOM-GENRE",
+        "CHOM-STRUCT"
       ],
       "status": "partial"
     },
@@ -513,13 +541,19 @@
     },
     {
       "id": "II-NOM-01",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-FORM"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-NOM-02",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "CHOM-MOTIF",
+        "CHOM-PHRASE",
+        "CHOM-PERIOD"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-NOM-03",

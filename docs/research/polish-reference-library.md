@@ -42,3 +42,5 @@ WES-1986-TEXT — dostępny tekst wydania PWM 1986, ISBN 83-224-0250-3, link dos
 SIK-HAR-UPLOAD zastępuje brak dostępu do tekstu w SIK-HAR-SCRIBD i SIK-HAR-ILIDE. Reguły autora stosować do jawnego profilu klasycznej harmonii szkolnej; sprawdzać wyjątki i porównywać z Targoszem, gdy otrzymamy książkę. Nie utożsamiać reguł etapu podstawowego z uniwersalnymi zakazami kompozycji.
 
 TARGOSZ-2004-UPLOAD: dostępny egzemplarz użytkownika; pierwsza lektura oraz porównanie z Sikorskim w harmony-profiles.md. Autor sam wskazuje zależność metodyczną i różnice (s.7–9).
+
+CHOM-FORM1-1983-UPLOAD: otrzymany tom I Chomińskiego i Wilkowskiej-Chomińskiej. Używać w teorii i analizie form z dokładnym lokalizatorem; dalsza lektura oraz porównanie z Wójcik w kolejce.

@@ -35,3 +35,6 @@ SIK-HAR-UPLOAD: 499 stron PDF, dostęp do osadzonych skanów. Część I PDF 1�
 
 ### Otrzymano Targosza 2026-11-25
 TARGOSZ-2004-UPLOAD: wyd. II, PWM 2004, 387 stron, tekst i obrazy. Nie prosić ponownie o egzemplarz. Odczyt fragmentaryczny zlokalizowany w rejestrze; dalsza lektura szczegółowych rozwiązań i symboliki, nie przepisywać OCR znaków. Kolejne P0: PDF Wesołowskiego; następnie Dzielska/Kaszycki i Wójcik.
+
+### Otrzymano Chomińskiego i Wilkowską-Chomińską (2026-11-25)
+CHOM-FORM1-1983-UPLOAD, t. I, PWM 1983, 573 strony PDF. Tekst i obrazy spisu dostępne. Odczyt wybranych fragmentów, mapa w form-analysis-reference.md. Nie prosić ponownie o tom I. Nie obejmuje tomów II–V. Kolejne priorytety: Wesołowski Zasady muzyki w PDF, Dzielska/Kaszycki, Wójcik ABC form.

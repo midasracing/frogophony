@@ -26,3 +26,5 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Kolejka lektury i brakujące egzemplarze](reading-queue.md): odczytane fragmenty i priorytety pozyskania.
 
 - [Profile harmonii Sikorski–Targosz](harmony-profiles.md): różnice w metodyce, konwencjach i ocenianiu.
+
+- [Formy muzyczne — mapa lektury Chomińskiego](form-analysis-reference.md): zakres, konwencje i wnioski projektowe.

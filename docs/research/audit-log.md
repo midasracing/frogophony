@@ -80,3 +80,6 @@ Plik otwarto programowo (499 stron) oraz sprawdzono obrazy pierwszych rozdział�
 
 ## Targosz — pierwsza lektura i porównanie (2026-11-25)
 Otrzymano 387-stronicowy PDF wyd. II, PWM 2004. Odczytano wskazane fragmenty, porównano z Sikorskim i dodano 23 nowych twierdzeń oraz 7 dodatkowych odwołań. Zapisano różnice metodyczne w harmony-profiles.md. Nie ukończono lektury ani nie przeprowadzono recenzji lub testów silników. Nie kopiowano PDF. Zakres pokrycia jest częściowy; nie zwiększać statusów releaseApproved.
+
+## Chomiński i Wilkowska-Chomińska — pierwsza lektura tomu I (2026-11-25)
+Sprawdzono plik (573 strony), metadane wydania z kart tytułowych, spis i wybrane fragmenty teorii i form. Dodano 14 ograniczonych do źródła twierdzeń oraz powiązania z kompetencjami. Numerację drukowaną odróżniono od PDF. Rozróżniono formę, gatunek, technikę i strukturę; zaznaczono, że okres, fuga i rondo nie redukują się do pojedynczego schematu. Nie analizowano nut ani całego tomu; bez recenzji pedagogicznej, bez zmian runtime, bez publikowania książki.
