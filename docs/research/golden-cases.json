@@ -2627,6 +2627,174 @@
         "targetDegree": "bVI",
         "targetQuality": "major"
       }
+    },
+    {
+      "id": "TN12",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "triad": [
+          "A",
+          "C",
+          "E"
+        ],
+        "bass": "C",
+        "context": "dominant substitute"
+      },
+      "expected": {
+        "functionalRoot": "C",
+        "structuralRoot": "A",
+        "replacedMember": 5,
+        "replacingMember": 6
+      }
+    },
+    {
+      "id": "TN13",
+      "domain": "harmony",
+      "input": {
+        "key": "G major",
+        "dominantRoot": "D",
+        "functionalMember": 6
+      },
+      "expected": {
+        "source": "B",
+        "possibleTonicTargets": [
+          "B",
+          "G"
+        ]
+      }
+    },
+    {
+      "id": "TN14",
+      "domain": "harmony",
+      "input": {
+        "key": "E minor",
+        "variants": [
+          "natural",
+          "harmonic"
+        ]
+      },
+      "expected": {
+        "triads": [
+          [
+            "G",
+            "B",
+            "D"
+          ],
+          [
+            "G",
+            "B",
+            "D#"
+          ]
+        ],
+        "qualities": [
+          "major",
+          "augmented"
+        ]
+      }
+    },
+    {
+      "id": "TN15",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "sourceDegree": 2,
+        "targetDegree": 5,
+        "profile": "Targosz-independent"
+      },
+      "expected": {
+        "sourceTriad": [
+          "G",
+          "Bb",
+          "D"
+        ],
+        "targetTriad": [
+          "C",
+          "E",
+          "G"
+        ],
+        "apparent": true
+      }
+    },
+    {
+      "id": "TN16",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "sourceDegree": 2,
+        "raiseChordThird": true
+      },
+      "expected": {
+        "sourceTriad": [
+          "G",
+          "B",
+          "D"
+        ],
+        "targetDegree": 5,
+        "apparent": false
+      }
+    },
+    {
+      "id": "TN17",
+      "domain": "harmony",
+      "input": {
+        "key": "E harmonic minor",
+        "sourceDegree": 2,
+        "addSeventh": true
+      },
+      "expected": {
+        "chord": [
+          "F#",
+          "A",
+          "C",
+          "E"
+        ],
+        "quality": "half-diminished"
+      }
+    },
+    {
+      "id": "TN18",
+      "domain": "harmony",
+      "input": {
+        "key": "D minor",
+        "sourceDegree": 6,
+        "targetDegree": "bII"
+      },
+      "expected": {
+        "sourceTriad": [
+          "Bb",
+          "D",
+          "F"
+        ],
+        "targetTriad": [
+          "Eb",
+          "G",
+          "Bb"
+        ],
+        "rootRelation": "descending-perfect-fifth"
+      }
+    },
+    {
+      "id": "TN19",
+      "domain": "harmony",
+      "input": {
+        "key": "G major",
+        "sourceDegree": 3,
+        "targetDegree": 6
+      },
+      "expected": {
+        "sourceTriad": [
+          "B",
+          "D",
+          "F#"
+        ],
+        "targetTriad": [
+          "E",
+          "G",
+          "B"
+        ],
+        "apparent": true
+      }
     }
   ]
 }

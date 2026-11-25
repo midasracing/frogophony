@@ -851,7 +851,15 @@
         "TAR-S6-REPLACE",
         "TAR-S6-MINOR",
         "TAR-NEAPOLITAN",
-        "TAR-SIXTH-FUNCTION"
+        "TAR-SIXTH-FUNCTION",
+        "TAR-D6-REPLACE",
+        "TAR-D6-CHOPIN",
+        "TAR-III-MINOR-VARIANTS",
+        "TAR-INDEPENDENT-DEGREE",
+        "TAR-APPARENT-DOMINANT",
+        "TAR-APPARENT-II-MINOR",
+        "TAR-APPARENT-VI",
+        "TAR-APPARENT-III"
       ],
       "status": "partial"
     },
@@ -933,7 +941,11 @@
         "TAR-S6-COMPARE",
         "TAR-NEAPOLITAN-RES",
         "TAR-DECEPTIVE-BASE",
-        "TAR-DECEPTIVE-TRIAD"
+        "TAR-DECEPTIVE-TRIAD",
+        "TAR-SVI-VOICE",
+        "TAR-D6-RES",
+        "TAR-APPARENT-THIRD",
+        "TAR-APPARENT-II-MINOR"
       ],
       "status": "partial"
     },
@@ -961,7 +973,10 @@
         "TAR-S6-REPLACE-FOLLOW",
         "TAR-DECEPTIVE-BASE",
         "TAR-DECEPTIVE-TONIC-SIXTH",
-        "TAR-DECEPTIVE-MIXTURE"
+        "TAR-DECEPTIVE-MIXTURE",
+        "TAR-APPARENT-VI",
+        "TAR-APPARENT-CHAIN",
+        "TAR-VI-ROLE-CHANGE"
       ],
       "status": "partial"
     },
@@ -984,7 +999,10 @@
         "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIRST-INV-SAME-COMPONENT",
         "TAR-FIRST-INV-PROCEDURE",
-        "TAR-S6-COMPARE"
+        "TAR-S6-COMPARE",
+        "TAR-HARMONIZE-ORDER",
+        "TAR-HARMONIC-RHYTHM-FORM",
+        "TAR-APPARENT-REFERENCE"
       ],
       "status": "partial"
     },
@@ -1026,7 +1044,8 @@
         "TAR-D9-DELAY",
         "TAR-D9-REPEAT",
         "TAR-D9-CONTEXT",
-        "TAR-D9-SUSPENSION"
+        "TAR-D9-SUSPENSION",
+        "TAR-APPARENT-CHROMATIC"
       ],
       "status": "partial"
     },
@@ -1046,7 +1065,11 @@
         "TAR-CROSS-RELATION",
         "TAR-NEAPOLITAN",
         "TAR-NEAPOLITAN-RES",
-        "TAR-DECEPTIVE-MIXTURE"
+        "TAR-DECEPTIVE-MIXTURE",
+        "TAR-APPARENT-CHROMATIC",
+        "TAR-APPARENT-ALTERED-FIFTH",
+        "TAR-NEAPOLITAN-TONICIZATION",
+        "TAR-APPARENT-III"
       ],
       "status": "partial"
     },
@@ -1067,7 +1090,14 @@
         "TAR-SUBSTITUTE-MAP",
         "TAR-FUNCTION-RETROSPECTIVE",
         "TAR-DECEPTIVE-TONIC-SIXTH",
-        "TAR-SIXTH-FUNCTION"
+        "TAR-SIXTH-FUNCTION",
+        "TAR-D6-REPLACE",
+        "TAR-D6-CHOPIN",
+        "TAR-TIII-CONTEXT",
+        "TAR-HARMONIC-RHYTHM-FORM",
+        "TAR-APPARENT-DOMINANT",
+        "TAR-APPARENT-REFERENCE",
+        "TAR-VI-ROLE-CHANGE"
       ],
       "status": "partial"
     },

@@ -9257,6 +9257,362 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-SVI-VOICE",
+      "statement": "W typowym połączeniu subdominanty VI stopnia z dominantą w dur autor podwaja prymę VI stopnia i prowadzi bas w dół przy ruchu górnych głosów w górę; w harmonicznym moll preferuje podwojenie tercji, unikając sekundy zwiększonej.",
+      "scope": "Profil zastępczej funkcji S VI, nie każdy samodzielny akord VI stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.201, przykł. 249",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D6-REPLACE",
+      "statement": "Pierwszy przewrót trójdźwięku III stopnia może reprezentować dominantę z sekstą zamiast kwinty, z prymą funkcyjną na V stopniu tonacji.",
+      "scope": "Interpretacja zależy od kontekstu; w tym modelu autor preferuje V stopień w basie i sekstę w sopranie.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.201–202, przykł. 250–253",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D6-RES",
+      "statement": "Seksta zastępująca kwintę dominanty może pozostać jako tercja toniki lub skoczyć tercją w dół na prymę toniki; w rozwiązaniu zwodniczym odpowiednio odnosi się do VI stopnia.",
+      "scope": "Rozwiązania z przykł. 254; nie narzucać jednej opcji niezależnie od układu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.202–203",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN13"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-D6-CHOPIN",
+      "statement": "Targosz omawia septymową dominantę z sekstą zamiast kwinty jako uproszczoną postać akordu Chopinowskiego i wskazuje także rozbudowane realizacje dominanty z sekstą.",
+      "scope": "Nie utożsamiać pojęcia z jedną niezmienną listą klas wysokości; WH-CHOPIN-CHORD opisuje węższy model Wesołowskiego.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.203, przykł. 255",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-TIII-CONTEXT",
+      "statement": "W dur akord III stopnia może być interpretowany jako tonika zastępcza, gdy stanowi rozwiązanie dominanty i poprzedza subdominantę; autor wskazuje również znaczenie akcentu metrycznego.",
+      "scope": "Model analityczny s.204; nie rozstrzygać funkcji z samego składu trójdźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.204, przykł. 256",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-III-MINOR-VARIANTS",
+      "statement": "W omawianym moll harmonicznym i doryckim III stopień tworzy trójdźwięk zwiększony, który autor wiąże z funkcją dominantową; III stopień moll naturalnego tworzy durowy trójdźwięk pokrewny tonice.",
+      "scope": "Nie generalizować funkcji zwiększonego trójdźwięku poza systemem autora; naturalny III stopień ma także użycie samodzielne opisane na s.220.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.204–205, przykł. 257–258",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN14"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIZE-ORDER",
+      "statement": "W przykładzie harmonizacji melodii autor najpierw rozpoznaje formę i możliwe punkty toniczne, następnie projektuje przebieg funkcji, a na końcu realizację czterogłosową.",
+      "scope": "Metodyka przykładowa, nie jedyny dopuszczalny algorytm harmonizacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.205–208, przykł. 259–266",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIC-RHYTHM-FORM",
+      "statement": "W przykładzie harmonizacji autor wykorzystuje rytm harmoniczny, kadencje i zmiany siły toniki do uwydatnienia jednostek formalnych oraz uniknięcia zbyt wczesnego zamknięcia.",
+      "scope": "Nie utożsamiać rytmu harmonicznego z rytmem melodii; pozostawiać wiele rozwiązań.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.206–207, przykł. 262–265",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-INDEPENDENT-DEGREE",
+      "statement": "Samodzielnie użyty akord poboczny ma w ujęciu Targosza własną prymę strukturalną jako podstawę, a nie jest jedynie modyfikacją akordu triady; może mieć zwykłe przewroty i zdwojenia.",
+      "scope": "Rozróżnienie dwóch sposobów użycia w systemie autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.210",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-DOMINANT",
+      "statement": "Targosz określa diatoniczny akord II stopnia w dur prowadzący do V stopnia jako dominantę pozorną do dominanty, jeżeli analizuje go jako samodzielny akord, a nie zastępczą subdominantę.",
+      "scope": "Własna nomenklatura funkcyjna autora; inny system analityczny może zapisać ii–V.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.210–211, przykł. 268",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN15"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-REFERENCE",
+      "statement": "Symbol dominanty pozornej wymaga określenia akordu odniesienia: sam symbol nie determinuje konkretnej budowy dźwiękowej.",
+      "scope": "Kontekst tonacji, diatoniki i celu konieczny do wygenerowania nut.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.211",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-THIRD",
+      "statement": "Mała tercja molowej dominanty pozornej nie jest półtonowym dźwiękiem prowadzącym do prymy akordu odniesienia; autor dopuszcza m.in. jej utrzymanie jako septymy następującego akordu, z dalszym zejściem.",
+      "scope": "Przykład II stopnia w dur przechodzącego na dominantę septymową; nie stosować reguły do wszystkich tercji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.211–212, przykł. 270",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-CHROMATIC",
+      "statement": "Chromatyczne podwyższenie tercji molowego akordu II stopnia może wytworzyć rzeczywistą strukturę dominantową względem V stopnia; po jej powstaniu autor stosuje zasady rozwiązywania tej struktury.",
+      "scope": "Nie każda chromatyka jest modulacją; dalszy kontekst rozstrzyga funkcję.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.213–214, przykł. 273–275",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN16"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-II-MINOR",
+      "statement": "W harmonicznym moll autor zaleca używać II stopnia w roli dominanty pozornej jako czterodźwięku septymowego, który ma budowę półzmniejszoną.",
+      "scope": "Zalecenie ćwiczeniowe Targosza, nie zakaz trójdźwięków zmniejszonych w repertuarze.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.214",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN17"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-ALTERED-FIFTH",
+      "statement": "Po chromatycznym podwyższeniu tercji półzmniejszonego akordu II stopnia w harmonicznym moll autor prowadzi zmniejszoną kwintę w dół lub pozostawia ją chwilowo jako nonę dominanty.",
+      "scope": "Model przejścia na dominantę; nie wnioskować, że każda obniżona kwinta w każdym akordzie ma ten kierunek.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.214",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-VI",
+      "statement": "Samodzielny VI stopień może prowadzić jako dominanta pozorna do II stopnia; docelowy akord II może otrzymać znaczenie chwilowego centrum odniesienia.",
+      "scope": "Nie jest to automatycznie trwała modulacja; funkcje VI jako T lub S również pozostają możliwe.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.215–217, przykł. 277–282",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-CHAIN",
+      "statement": "W szeregu akordów o podstawach idących kwintami w dół (lub kwartami w górę) kolejne ogniwo może zarazem stanowić cel poprzedniego i dominantę pozorną względem następnego; autor dopuszcza septymy, nony i przewroty.",
+      "scope": "Model Targosza; sprawdzić diatonikę i odmiany trybu dla każdej konkretnej realizacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.216, przykł. 279–280",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-VI-ROLE-CHANGE",
+      "statement": "Powtórzenie trójdźwięku VI po rozwiązaniu zwodniczym może zmienić jego rolę z toniki zastępczej na dominantę pozorną do II, nawet bez zmiany zbioru wysokości.",
+      "scope": "Uproszczenie s.218 dotyczy tej fazy ćwiczeń i nie unieważnia wcześniej omówionych funkcji VI, s.195–201.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.218, przykł. 284",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-NEAPOLITAN-TONICIZATION",
+      "statement": "W naturalnym lub harmonicznym moll durowy akord na VI stopniu może być rzeczywistą dominantą wobec durowego akordu na obniżonym II stopniu; ten ostatni może następnie pełnić funkcję subdominanty neapolitańskiej.",
+      "scope": "Dotyczy omawianej postaci VI stopnia bez podwyższenia VI; nie utożsamiać chwilowego odniesienia z modulacją.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.219, przykł. 286",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN18"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-III",
+      "statement": "Samodzielny III stopień w dur może pełnić funkcję dominanty pozornej do VI stopnia; w moll naturalnym III stopień jest durowym akordem stanowiącym rzeczywistą dominantę do VI.",
+      "scope": "Nie stosować do zwiększonego III stopnia moll harmonicznego/doryckiego w modelu autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.220, przykł. 288–289",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN19"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

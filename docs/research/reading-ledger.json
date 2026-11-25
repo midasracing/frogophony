@@ -1648,6 +1648,39 @@
         "TAR-SIXTH-FUNCTION"
       ],
       "remaining": "Odczyt tekstu PDF 171–200 i kontrola układu wszystkich 30 stron na renderach oryginału. Nie przepisano ani nie rozwiązano niezależnie każdego zadania. Pełne partie pozostają pending-full-review. Następna partia 201–210."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          201,
+          220
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-SVI-VOICE",
+        "TAR-D6-REPLACE",
+        "TAR-D6-RES",
+        "TAR-D6-CHOPIN",
+        "TAR-TIII-CONTEXT",
+        "TAR-III-MINOR-VARIANTS",
+        "TAR-HARMONIZE-ORDER",
+        "TAR-HARMONIC-RHYTHM-FORM",
+        "TAR-INDEPENDENT-DEGREE",
+        "TAR-APPARENT-DOMINANT",
+        "TAR-APPARENT-REFERENCE",
+        "TAR-APPARENT-THIRD",
+        "TAR-APPARENT-CHROMATIC",
+        "TAR-APPARENT-II-MINOR",
+        "TAR-APPARENT-ALTERED-FIFTH",
+        "TAR-APPARENT-VI",
+        "TAR-APPARENT-CHAIN",
+        "TAR-VI-ROLE-CHANGE",
+        "TAR-NEAPOLITAN-TONICIZATION",
+        "TAR-APPARENT-III"
+      ],
+      "remaining": "Tekst 20 stron i kontrola wszystkich renderów w układzie przeglądowym. Nie rozwiązano każdej harmonizacji i nie zweryfikowano każdej nuty. Następna partia 221–230."
     }
   ]
 }
