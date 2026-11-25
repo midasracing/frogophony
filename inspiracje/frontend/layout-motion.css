@@ -1,0 +1,10 @@
+._3Frin{animation:_2M8LA .4s ease-in-out;animation-fill-mode:forwards}
+._1BUwW{animation:_1zcDg .4s ease-in-out;animation-fill-mode:forwards}
+._17BcY{animation:_3C9qc .4s ease-in-out;animation-fill-mode:forwards}
+._2ljMf{animation:_2MZ4n .4s ease-in-out;animation-fill-mode:forwards}
+._399s9{display:flex;gap:var(--language-carousel-gap,20px);transition:transform .5s ease-in-out}
+._1JEFf{transition:border-color .3s,transform .4s cubic-bezier(.22,1,.36,1)}
+@keyframes _2M8LA{0%{opacity:0;transform:translateX(200px)}to{opacity:1;transform:translateX(0)}}
+@keyframes _1zcDg{0%{opacity:1;transform:translateX(0)}to{opacity:0;transform:translateX(-200px)}}
+@keyframes _3C9qc{0%{opacity:0;transform:translateX(-200px)}to{opacity:1;transform:translateX(0)}}
+@keyframes _2MZ4n{0%{opacity:1;transform:translateX(0)}to{opacity:0;transform:translateX(200px)}}
