@@ -1893,6 +1893,67 @@
         "SIK-D7-REGULAR"
       ],
       "remaining": "Odczyt kolejno wszystkich obrazów PDF 1–100; od PDF 71 renderer trzykrotnie powiela obraz i daje czarne pole, użyto bezpośrednio osadzonych JPEG. PDF 9 i 10 to duplikat druk. s.20, od PDF 10 do 100 druk. numer = PDF+10. Przedmowa bez karty tytułowej cz.I. Strony z zadaniami i przykłady oglądane w montażach po 4 strony, nie zweryfikowano każdej nuty ani odręcznych dopisków. Następna partia PDF 101."
+    },
+    {
+      "sourceId": "SIK-HAR-UPLOAD",
+      "ranges": [
+        [
+          101,
+          184
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "SIK-D7-INVERSION-RES",
+        "SIK-D7-INCOMPLETE",
+        "SIK-D7-FREE",
+        "SIK-D7-SEVENTH-UP",
+        "SIK-D7-REPEAT",
+        "SIK-D7-MIXED-FIFTHS",
+        "SIK-D7-PREPARED",
+        "SIK-D7-S-D-COMMON",
+        "SIK-ROOTLESS-D7",
+        "SIK-ROOTLESS-D7-DOUBLING",
+        "SIK-ROOTLESS-D7-SECOND",
+        "SIK-ROOTLESS-D7-DOUBLE-SEVENTH",
+        "SIK-D9-QUALITY",
+        "SIK-D9-FOUR-VOICE",
+        "SIK-D9-REGULAR",
+        "SIK-D9-SUSPENSION",
+        "SIK-D9-S-COMMON",
+        "SIK-D9-CADENCE",
+        "SIK-TRIAD-FIFTH-DOUBLING-EXTENDED",
+        "SIK-INCOMPLETE-TRIAD-EXTENDED",
+        "SIK-ROOTLESS-D9-QUALITY",
+        "SIK-ROOTLESS-D9-INVERSION",
+        "SIK-ROOTLESS-D9-FIFTH",
+        "SIK-ROOTLESS-D9-BASS-SUSP",
+        "SIK-TRIAD-THIRD-DOUBLING",
+        "SIK-SUSPENSION-STRUCTURE",
+        "SIK-SUSPENSION-DOUBLING",
+        "SIK-SUSPENSION-FREE",
+        "SIK-SUSPENSION-STAGGER",
+        "SIK-SUSPENSION-PREPARATION",
+        "SIK-SUSPENSION-METRIC-REPEAT",
+        "SIK-SUSPENSION-FIGURES",
+        "SIK-II-QUALITIES",
+        "SIK-II-SUBSTITUTE",
+        "SIK-II-APPARENT",
+        "SIK-NEAPOLITAN",
+        "SIK-NEAPOLITAN-LEADING",
+        "SIK-VI-QUALITY",
+        "SIK-VI-TONIC-SUBSTITUTE",
+        "SIK-VI-DECEPTIVE",
+        "SIK-VI-SUBDOMINANT-SUBSTITUTE",
+        "SIK-VI-ALTERED",
+        "SIK-VI-APPARENT-II",
+        "SIK-III-DOMINANT-SUBSTITUTE",
+        "SIK-III-TONIC-SUBSTITUTE",
+        "SIK-III-LOCAL-ROLE",
+        "SIK-VII-AEOLIAN",
+        "SIK-SECONDARY-CHORD-CONTEXT"
+      ],
+      "remaining": "Odczyt kolejnych obrazów PDF 101–184 z osadzonych JPEG. PDF 180 kończy cz.I druk. s.190, §33, PDF 181–184 rozpoczyna cz.II (PWM 1979, ISBN 83-224-0101-9), której spis zaczyna się od rozdz.IX §45. Brak rozdz. VI–VIII i §§34–44 cz.I w dostarczonym pliku. Nie wypełniać luk z pamięci. Przykłady i zadania obejrzane w montażach po 4 strony, nie wszystkie nuty zweryfikowano. Następny PDF 185."
     }
   ]
 }

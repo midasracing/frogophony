@@ -58,3 +58,6 @@ WES-HAR-1997-UPLOAD, 104 strony skanu, wyd. I 1997. Czytelny po obrocie. Pierwsz
 DROB-1986-UPLOAD, PWM 1986, rzeczywisty PDF 259 stron, podgląd Files 150; kończy się na druk. 258, bibliografia i indeks nieobecne. Nie prosić ponownie o książkę, chyba że potrzebna będzie wkładka skal lub brakujące końcowe strony. Lektura częściowa w drobner-reference.md. Wszystkie dziewięć zapowiedzianych plików otrzymano. Następne: audyt zebranej wiedzy, historia muzyki i pozostałe braki programu.
 
 Pełna lektura jest teraz śledzona przez reading-ledger.json. Nie traktować wcześniejszych notatek jako zamkniętych partii.
+
+### Sikorski — brak fragmentu cz.I wykryty 2026-11-25
+Potrzebny kompletny egzemplarz **Harmonia, część I**, zwłaszcza po drukowanej stronie 190, rozdziały VI–VIII (§§34–44) i karty tytułowe. W pliku 499 stron brak tego odcinka; część II rozpoczyna się na PDF 181 i ma spis od §45 (PDF 184). Kontynuować lekturę dostępnego tomu II, braków nie rekonstruować z pamięci.

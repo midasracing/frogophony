@@ -3790,6 +3790,286 @@
         "omittedMember": 5,
         "doubledMemberCount": 3
       }
+    },
+    {
+      "id": "SK14",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "root": "A",
+        "voices": 4,
+        "rootPresent": true,
+        "omitFifth": true
+      },
+      "expected": {
+        "members": [
+          1,
+          1,
+          3,
+          7
+        ],
+        "pitchSpellings": [
+          "A",
+          "A",
+          "C#",
+          "G"
+        ]
+      }
+    },
+    {
+      "id": "SK15",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "dominantThird": "C#",
+        "voice": "alto",
+        "resolution": "free-third"
+      },
+      "expected": {
+        "target": "A",
+        "direction": "down",
+        "genericInterval": 3
+      }
+    },
+    {
+      "id": "SK16",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "dominantThird": "C#",
+        "voice": "bass",
+        "resolution": "free-third"
+      },
+      "expected": {
+        "allowed": false
+      }
+    },
+    {
+      "id": "SK17",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "chords": [
+          "S",
+          "D7"
+        ]
+      },
+      "expected": {
+        "commonPitch": "G",
+        "sourceMember": 1,
+        "targetMember": 7
+      }
+    },
+    {
+      "id": "SK18",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "dominant": "A",
+        "rootPresent": false
+      },
+      "expected": {
+        "pitches": [
+          "C#",
+          "E",
+          "G"
+        ],
+        "structuralQuality": "diminished-triad",
+        "functionalMembers": [
+          3,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "SK19",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "root": "A",
+        "inversion": 1
+      },
+      "expected": {
+        "sopranoMember": 9,
+        "tenorMember": 1,
+        "bassMember": 3,
+        "remainingMember": 7
+      }
+    },
+    {
+      "id": "SK20",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "dominant": [
+          "A",
+          "C#",
+          "G",
+          "B"
+        ]
+      },
+      "expected": {
+        "motions": {
+          "third": [
+            "C#",
+            "D"
+          ],
+          "seventh": [
+            "G",
+            "F#"
+          ],
+          "ninth": [
+            "B",
+            "A"
+          ],
+          "root": [
+            "A",
+            "D"
+          ]
+        },
+        "targetComplete": true
+      }
+    },
+    {
+      "id": "SK21",
+      "domain": "harmony",
+      "input": {
+        "key": "D harmonic minor"
+      },
+      "expected": {
+        "pitches": [
+          "C#",
+          "E",
+          "G",
+          "Bb"
+        ],
+        "structuralQuality": "fully-diminished-seventh",
+        "functionalMembers": [
+          3,
+          5,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "id": "SK22",
+      "domain": "harmony",
+      "input": {
+        "bassFunctionalMember": 9
+      },
+      "expected": {
+        "functionalInversion": 4,
+        "structuralInversion": 3
+      }
+    },
+    {
+      "id": "SK23",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "function": "T",
+        "suspensions": [
+          [
+            6,
+            5
+          ]
+        ],
+        "bass": "D"
+      },
+      "expected": {
+        "soundingPitchClasses": [
+          "D",
+          "F#",
+          "B"
+        ],
+        "structuralRoot": "B",
+        "functionalRoot": "D"
+      }
+    },
+    {
+      "id": "SK24",
+      "domain": "harmony",
+      "input": {
+        "key": "D harmonic minor",
+        "degree": 2
+      },
+      "expected": {
+        "pitches": [
+          "E",
+          "G",
+          "Bb"
+        ],
+        "quality": "diminished"
+      }
+    },
+    {
+      "id": "SK25",
+      "domain": "harmony",
+      "input": {
+        "key": "D minor"
+      },
+      "expected": {
+        "triad": [
+          "Eb",
+          "G",
+          "Bb"
+        ],
+        "typicalBass": "G",
+        "typicalDoubledMember": 3
+      }
+    },
+    {
+      "id": "SK26",
+      "domain": "harmony",
+      "input": {
+        "key": "D harmonic major",
+        "degree": 6
+      },
+      "expected": {
+        "pitches": [
+          "Bb",
+          "D",
+          "F#"
+        ],
+        "quality": "augmented"
+      }
+    },
+    {
+      "id": "SK27",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "degree": 6,
+        "function": "T substitute"
+      },
+      "expected": {
+        "pitches": [
+          "B",
+          "D",
+          "F#"
+        ],
+        "preferredDoubledPitch": "D"
+      }
+    },
+    {
+      "id": "SK28",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "degree": 3,
+        "function": "D substitute"
+      },
+      "expected": {
+        "pitches": [
+          "F#",
+          "A",
+          "C#"
+        ],
+        "preferredBass": "A",
+        "preferredDoubledPitch": "A"
+      }
     }
   ]
 }

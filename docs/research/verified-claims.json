@@ -12420,6 +12420,851 @@
       ],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-INVERSION-RES",
+      "statement": "W regularnym rozwiązaniu D7 Sikorski prowadzi pierwszy przewrót do toniki zasadniczej, a trzeci do toniki w pierwszym przewrocie; drugi przewrót rozwiązuje na tonikę pełną lub niepełną zgodnie z opisanymi ruchami składników.",
+      "scope": "Właściwe dla modelu regularnego §25, nie każdego przebiegu z D7.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.111 (PDF 101)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-INCOMPLETE",
+      "statement": "Niepełna D7 w czterogłosie powstaje przez opuszczenie kwinty i zdwojenie prymy; autor nie podwaja tercji ani septymy jako składników o określonych dążeniach.",
+      "scope": "Niepełna D7 z prymą, nie D7 bez prymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.112 (PDF 102)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK14"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-FREE",
+      "statement": "Swobodne rozwiązanie D7 według Sikorskiego dopuszcza skok tercji o tercję w dół na kwintę T lub ruch septymy sekundą w górę na kwintę T, gdy pozostały składnik rozwiązuje się regularnie; swoboda nie dotyczy tercji ani septymy w basie.",
+      "scope": "Skok tercji w głosie środkowym jest preferowany; s.114 podaje dodatkowe warunki ruchu septymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.113–114 (PDF 103–104)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK15",
+        "SK16"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-SEVENTH-UP",
+      "statement": "W opisanym swobodnym rozwiązaniu D7 septyma w górnym głosie może wznieść się sekundą, gdy pryma albo kwinta D7 przechodzi na tercję T; równoległe kwinty różnej jakości dopuszczone są z ograniczeniem dotyczącym głosów skrajnych.",
+      "scope": "Nie uogólniać na swobodne rozwiązanie septymy w basie ani na każdy typ kwint.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.114 (PDF 104)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-REPEAT",
+      "statement": "W powtórzeniu D7 ze zmianą rozkładu autor dopuszcza ruch wszystkich składników z ograniczeniami skoków zwiększonych i ponadoktawowych; skok małej septymy między prymą i septymą może wystąpić pod warunkiem późniejszego ruchu przeciwnego.",
+      "scope": "Dotyczy powtórzenia tej samej funkcji, nie dowolnego połączenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.115 (PDF 105)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-MIXED-FIFTHS",
+      "statement": "Sikorski dopuszcza w opisanym powtórzeniu D7 kwinty równoległe, z których jedna jest zmniejszona, jeśli nie występują między głosami skrajnymi; przeciw­równoległe kwinty różnej jakości dopuszcza nawet między skrajnymi.",
+      "scope": "Profil autora §25; odrębny od wczesnego zakazu kwint czystych i od innych podręczników.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.115 (PDF 105)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-PREPARED",
+      "statement": "Sikorski rozróżnia dysonans przygotowany, gdy jeden z jego składników jest zachowany jako wspólny z poprzedniego akordu, i nieprzygotowany, gdy żaden nie jest tak zatrzymany.",
+      "scope": "Definicja autora dla współbrzmień w D7, a nie utożsamienie każdego przygotowanego dysonansu z opóźnieniem.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.118 (PDF 108)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-S-D-COMMON",
+      "statement": "Pryma S jest septymą D7; w omawianym połączeniu może zostać zachowana jako dźwięk wspólny albo osiągnięta inną drogą.",
+      "scope": "Prowadzenie głosów i typ skali ograniczają konkretne warianty.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §25, druk.116–117 (PDF 106–107)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK17"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D7",
+      "statement": "Po usunięciu prymy D7 pozostają jej tercja, kwinta i septyma; Sikorski utożsamia strukturę z trójdźwiękiem zmniejszonym VII stopnia, zachowując nazwy składników względem domyślnej prymy.",
+      "scope": "Funkcyjne oznaczenie przewrotów liczone względem D, a nie samodzielnego trójdźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §26, druk.121–122 (PDF 111–112)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK18"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D7-DOUBLING",
+      "statement": "W D7 bez prymy autor preferuje zdwojenie kwinty, wyklucza zdwojenie tercji jako dźwięku prowadzącego i w wyjątkowych warunkach dopuszcza zdwojenie septymy.",
+      "scope": "Wyjątek dla septymy rozwinięty na s.123; nie przenosić na pełną D7.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §26, druk.122–123 (PDF 112–113)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D7-SECOND",
+      "statement": "Drugi przewrót D7 bez prymy (kwinta D w basie) jest według autora najczęściej używaną postacią w czterogłosie; w swobodnym rozwiązaniu septyma może iść w górę, a zdwojone kwinty rozchodzą się na prymę i tercję toniki.",
+      "scope": "Zakres modelu §26, nie wszystkie interpretacje vii°.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §26, druk.123–124 (PDF 113–114)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D7-DOUBLE-SEVENTH",
+      "statement": "W drugim przewrocie D7 bez prymy autor dopuszcza wyjątkowo zdwojenie septymy, gdy jedna septyma schodzi, druga idzie w górę, a kwinta w basie schodzi na prymę T.",
+      "scope": "Warunkowo, gdy wymaga tego prowadzenie głosów lub zdwojenie kwinty jest niemożliwe.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §26, druk.123–124 (PDF 113–114)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D9-QUALITY",
+      "statement": "Dominanta nonowa u Sikorskiego ma budowę D7 z noną wielką w naturalnym dur lub małą w harmonicznym moll i harmonicznym dur; wielka i mała nona otrzymują odrębne oznaczenia.",
+      "scope": "Profile skali i pisowni autora, nie dowolny jazzowy akord nonowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.126–127 (PDF 116–117)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D9-FOUR-VOICE",
+      "statement": "W czterogłosowej D9 z prymą autor usuwa kwintę, wymaga nony nad prymą co najmniej w odległości nony; pozostają postać zasadnicza, pierwszy i trzeci przewrót.",
+      "scope": "W pierwszym i trzecim przewrocie przy zachowaniu odległości głosów nona jest w sopranie, pryma w tenorze.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.127–129 (PDF 117–119)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK19"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D9-REGULAR",
+      "statement": "W regularnym rozwiązaniu zasadniczej D9 na zasadniczą T tercja idzie w górę na prymę, septyma w dół na tercję, nona w dół na kwintę, a pryma przechodzi na prymę toniki.",
+      "scope": "Czterogłos z pominiętą kwintą dominanty, wynik pełna tonika.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.127–128 (PDF 117–118)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK20"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D9-SUSPENSION",
+      "statement": "Jeżeli nona D9 na mocnej części grupy rozwiązuje się na oktawę dominanty przed dalszym przebiegiem, autor dopuszcza jej analizę jako dźwięku obcego opóźniającego zdwojoną prymę D7; w innym następstwie nona pozostaje składnikiem akordu.",
+      "scope": "Rola zależy od przebiegu, nie wyłącznie od zestawu wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.130–131 (PDF 120–121)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D9-S-COMMON",
+      "statement": "W połączeniu S z D9 wspólnymi składnikami są pryma i tercja S, będące odpowiednio septymą i noną D9; autor dopuszcza zachowanie obu, jednego lub żadnego.",
+      "scope": "Dotyczy odpowiedniej odmiany S i D9, nie każdej kombinacji trybów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.132–133 (PDF 122–123)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D9-CADENCE",
+      "statement": "W kadencji doskonałej D9 według autora najczęściej prowadzi do T pośrednio, przez rozwiązanie nony albo przejście na D7.",
+      "scope": "Wskazówka metodyczno-stylistyczna, nie zakaz rozwiązania bezpośredniego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.135 (PDF 125)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TRIAD-FIFTH-DOUBLING-EXTENDED",
+      "statement": "Po wprowadzeniu D9 Sikorski dopuszcza zdwojenie kwinty także w trójdźwięku bez przewrotu, gdy umożliwia oszczędniejsze prowadzenie głosów.",
+      "scope": "Rozszerzenie wcześniejszego modelu z podwojoną prymą.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.135 (PDF 125)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-INCOMPLETE-TRIAD-EXTENDED",
+      "statement": "Autor dopuszcza niepełną T, D lub S również na początku lub wewnątrz konstrukcji; w przedstawionym modelu nie łączy dwóch kolejnych niepełnych trójdźwięków, a pierwszy przewrót niepełnego uważa za mało przydatny.",
+      "scope": "Ocena szkolna §27, nie zakaz wszystkich niepełnych współbrzmień.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §27, druk.135–136 (PDF 125–126)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D9-QUALITY",
+      "statement": "Usunięcie prymy D9 daje czterodźwięk VII stopnia; z wielką noną jest półzmniejszony, z małą noną zmniejszony. Nazwy składników w interpretacji D9 pozostają niezmienione.",
+      "scope": "Rozróżniać strukturalną prymę VII i funkcyjną prymę D.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §28, druk.138–139 (PDF 128–129)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK21"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D9-INVERSION",
+      "statement": "D9 bez prymy ma cztery postacie na tercji, kwincie, septymie i nonie dominanty; autor numeruje je jako pierwszy do czwartego przewrotu. W pełnym czterogłosie nie podwaja się składników.",
+      "scope": "Nie mylić z numeracją przewrotów autonomicznego czterodźwięku VII stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §28, druk.139 (PDF 129)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK22"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D9-FIFTH",
+      "statement": "W rozwiązaniu D9 bez prymy, gdy kwinta leży poniżej wielkiej nony, Sikorski prowadzi ją sekundą w górę, unikając równoległych kwint; w pozostałych opisanych układach dopuszcza ruch w dół lub w górę zależnie od interwałów i głosów.",
+      "scope": "Szczególny profil rozwiązania na T; sprawdzać głosy skrajne oraz zdwojenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §28, druk.139–140 (PDF 129–130)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ROOTLESS-D9-BASS-SUSP",
+      "statement": "W ujęciu autora współbrzmienie o budowie D9 bez prymy z noną w basie może oznaczać D7 z opóźnieniem prymy przez górną sekundę w basie, jeśli rozwiązuje się na prymę dominanty.",
+      "scope": "Znaczenie ustalane z dalszego przebiegu, nie samą strukturą.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §28, druk.140–141 (PDF 130–131)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TRIAD-THIRD-DOUBLING",
+      "statement": "Sikorski dopuszcza wyjątkowo zdwojenie tercji trójdźwięku, m.in. dla uniknięcia równoległych kwint w rozwiązaniu D9 bez prymy; preferuje ruch przeciwny lub uboczny i nie dwoi składnika o jednoznacznym kierunku rozwiązania.",
+      "scope": "Nie dwoić dźwięku prowadzącego D ani tercji molowej S o określonym zejściu w omawianym profilu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §28, druk.142–143 (PDF 132–133)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-STRUCTURE",
+      "statement": "W rozdziale IV Sikorski opisuje pojedyncze opóźnienie kwinty przez sekstę oraz podwójne opóźnienie tercji przez kwartę i kwinty przez sekstę; powstałe współbrzmienie może mieć budowę innego trójdźwięku w przewrocie bez zmiany pierwotnej funkcji.",
+      "scope": "Opóźnienia traktowane jako dźwięki obce, nie nowe składniki akordowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.145–146 (PDF 135–136)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK23"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-DOUBLING",
+      "statement": "W trójdźwięku z opóźnieniem autor podwaja zwykle prymę; przy pojedynczym opóźnieniu kwinty poza D wyjątkowo dopuszcza zdwojenie tercji, nie dwoi natomiast dźwięku opóźniającego.",
+      "scope": "Ograniczenie rozdziału IV, bardziej zaawansowane opóźnienia są w części II.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.146–147 (PDF 136–137)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-FREE",
+      "statement": "Swobodne rozwiązanie opóźnienia może prowadzić kwartę lub sekstę na inne składniki tego samego akordu, jak przy regularnym rozwiązaniu i następującym powtórzeniu ze zmianą rozkładu.",
+      "scope": "Konkretna konwencja autora; nie dowolne opuszczenie rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.148 (PDF 138)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-STAGGER",
+      "statement": "W podwójnym opóźnieniu autor dopuszcza najpierw rozwiązanie kwarty na tercję, a następnie seksty na kwintę; oba opóźnienia nie muszą kończyć się równocześnie.",
+      "scope": "Rozwiązywanie w czasie, zachować tożsamość głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.149 (PDF 139)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-PREPARATION",
+      "statement": "Opóźnienie przygotowane to zatrzymany z poprzedniego akordu dźwięk wspólny; nieprzygotowane może pojawić się w innym głosie lub nie być zatrzymane. W podwójnym opóźnieniu jedno może być przygotowane, drugie nie.",
+      "scope": "Terminologia §29, nie mieszać z bardziej wąskimi konwencjami innych podręczników.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.150 (PDF 140)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-METRIC-REPEAT",
+      "statement": "Powtórzenie trójdźwięku z opóźnieniem może przypaść na słabą część grupy rytmicznej, nawet ostatnią część taktu, a rozwiązanie na mocną.",
+      "scope": "Wyjątek od podstawowego położenia opóźnienia, dotyczy jego powtórzenia lub przedłużenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.152–153 (PDF 142–143)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-FIGURES",
+      "statement": "Cyfrowanie 6 lub 6/4 może oznaczać odpowiednio przewrót trójdźwięku lub współbrzmienie z opóźnieniem; rozwiązanie przy niezmienionym basie można wskazać kreską i cyfrą docelową.",
+      "scope": "Interpretacja wymaga przebiegu oraz określenia funkcji, nie samej cyfry.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §29, druk.154–155 (PDF 144–145)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-II-QUALITIES",
+      "statement": "Trójdźwięk II stopnia jest molowy w naturalnym dur i moll doryckim, zmniejszony w harmonicznym dur, harmonicznym moll i naturalnym moll.",
+      "scope": "Dotyczy gamowłaściwego II stopnia w pięciu opisanych odmianach.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §30, druk.157 (PDF 147)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK24"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-II-SUBSTITUTE",
+      "statement": "Sikorski zalicza II stopień do grupy subdominantowej ze względu na dwa wspólne składniki z S; najtypowszą zastępczą postacią jest pierwszy przewrót ze zdwojoną tercją (prymą funkcyjną S).",
+      "scope": "Inne położenia i zdwojenia autor rozpatruje oddzielnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §30, druk.157–159 (PDF 147–149)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-II-APPARENT",
+      "statement": "W następstwie II–D autor opisuje II stopień jako pozorną dominantę dominanty, gdy nie ma właściwej budowy durowej dominanty; charakter dominantowy wzmacnia postać zasadnicza i zdwojenie własnej prymy.",
+      "scope": "Zależne od kontekstu i odmiany skali; w ujęciu subdominantowym preferowane jest inne zdwojenie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §30, druk.160–161 (PDF 150–151)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-NEAPOLITAN",
+      "statement": "Po obniżeniu prymy zmniejszonego II stopnia powstaje durowy trójdźwięk na obniżonym II; Sikorski opisuje go jako odmianę molowej S, typowo w pierwszym przewrocie ze zdwojoną tercją.",
+      "scope": "Związek ze szkołą neapolitańską wymaga niezależnej kontroli historycznej. Autor dopuszcza także postać zasadniczą.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §30, druk.161–162 (PDF 151–152)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK25"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-NEAPOLITAN-LEADING",
+      "statement": "W omawianym połączeniu neapolitańskiego z D autor dopuszcza zejście obniżonego II stopnia o tercję zmniejszoną na dźwięk prowadzący, chromatyczne podwyższenie do II stopnia albo skok w dół na V stopień; w pierwszym wariancie dopuszcza określone skośne brzmienie półtonu.",
+      "scope": "Nie stosować jako bezwarunkowej reguły chromatyk.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §30, druk.163–164 (PDF 153–154)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VI-QUALITY",
+      "statement": "Gamowłaściwy trójdźwięk VI stopnia jest molowy w dur, zwiększony w harmonicznym dur, durowy w harmonicznym i naturalnym moll oraz zmniejszony w moll doryckim.",
+      "scope": "Odmiany podane przez autora, nie wszystkie możliwe chromatyczne przekształcenia VI.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §31, druk.167 (PDF 157)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK26"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VI-TONIC-SUBSTITUTE",
+      "statement": "VI stopień w funkcji zastępczej T autor preferuje ze zdwojoną tercją, która jest prymą T, w postaci zasadniczej lub pierwszym przewrocie.",
+      "scope": "Zdwojenie prymy lub kwinty może osłabiać interpretację toniczności.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §31, druk.168–169 (PDF 158–159)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK27"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VI-DECEPTIVE",
+      "statement": "W następstwie D lub D7 do VI stopnia zamiast T autor rozpoznaje następstwo zwodnicze; w miejscu zakończenia tworzy ono kadencję zwodniczą, zwykle wymagającą dalszego domknięcia.",
+      "scope": "Nie każde następstwo D–VI jest kadencją, zależy od miejsca w konstrukcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §31, druk.169–170 (PDF 159–160)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VI-SUBDOMINANT-SUBSTITUTE",
+      "statement": "W funkcji zastępczej S Sikorski interpretuje VI stopień jako S z dodaną septymą bez prymy, podwaja własną prymę VI; jego kwinta zachowuje znaczenie składnika dysonującego względem domyślnej S.",
+      "scope": "Profil funkcyjny autora; zdwojenie tercji akcentowałoby rolę toniki zastępczej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §31, druk.171–172 (PDF 161–162)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VI-ALTERED",
+      "statement": "W harmonicznym dur trójdźwięk zwiększony na obniżonym VI autor interpretuje głównie jako zastępstwo molowej S, lecz dopuszcza T zastępczą przy odpowiednim zdwojeniu i kontekście.",
+      "scope": "Nie określać jednej funkcji na podstawie symetrii trójdźwięku zwiększonego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §31, druk.172–173 (PDF 162–163)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VI-APPARENT-II",
+      "statement": "Sikorski uznaje samodzielny VI stopień za pozorną dominantę II stopnia; charakter tej relacji wzmacnia zdwojenie prymy i postać zasadnicza, a w opisanej parze moll z neapolitańskim relacja może odpowiadać rzeczywistej D–T.",
+      "scope": "Zakres wyjaśnienia autora, nie wyklucza lokalnych innych funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §31, druk.176–177 (PDF 166–167)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-III-DOMINANT-SUBSTITUTE",
+      "statement": "W interpretacji III stopnia jako zastępstwa D autor preferuje pierwszy przewrót i zdwojenie tercji (prymy D); dopuszcza zdwojenie prymy, ale nie kwinty pełniącej rolę dźwięku prowadzącego.",
+      "scope": "Dotyczy III stopnia dur i harmonicznego moll w zadeklarowanej roli.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §32, druk.178–179 (PDF 168–169)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK28"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-III-TONIC-SUBSTITUTE",
+      "statement": "W funkcji zastępczej T molowy III stopień dur lub durowy III stopień naturalnego moll autor wyprowadza z toniki z dodaną septymą bez prymy; preferuje zdwojenie własnej prymy, a kwinta jako pierwotna septyma opada na VI stopień.",
+      "scope": "Nie stosować do zwiększonego III stopnia harmonicznego moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §32, druk.180–181 (PDF 170–171)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-III-LOCAL-ROLE",
+      "statement": "Samodzielny III stopień może mieć relację dominantową do VI stopnia; autor odróżnia tę rolę od zastępstwa głównej dominanty za pomocą kontekstu i zdwojenia.",
+      "scope": "Dotyczy opisanych połączeń, nie jedyna możliwa analiza.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §32, druk.181–182 (PDF 171–172)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VII-AEOLIAN",
+      "statement": "W minorze eolskim durowy VII stopień jest w ujęciu autora zastępstwem molowej D, jako D z dodaną septymą bez prymy; jego własna pryma jest septymą eolską i może schodzić na VI stopień.",
+      "scope": "Inaczej niż akord z dźwiękiem prowadzącym w harmonicznym moll; lokalna relacja do III stopnia ma odrębne znaczenie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §33, druk.183–184 (PDF 173–174)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SECONDARY-CHORD-CONTEXT",
+      "statement": "Sikorski wyróżnia akordy poboczne II, III, VI i VII jako zastępcze funkcje triady lub samodzielne odniesienia do innych tonacji; zbyt długi ciąg słabych powiązań może osłabiać centrum tonacji głównej.",
+      "scope": "Wskazówka w jego systemie dur-moll; nie zakaz długiej chromatyki w repertuarze.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.I §33, druk.185–188 (PDF 175–178)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

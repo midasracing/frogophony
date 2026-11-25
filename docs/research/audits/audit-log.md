@@ -160,3 +160,6 @@ Kontrola końcowa przypadków TN48–49: jawnie rozdzielono prymę funkcyjną pr
 
 ## Sikorski — ciągła lektura PDF 1–100
 47 twierdzeń i 13 autorskich przypadków oczekiwanych. Odczyt wszystkich kolejnych obrazów, w tym duplikatu druk. s.20 (PDF 9–10); zniekształcony rendering od 71 zastąpiono bezpośrednim odczytem JPEG. Zapisano warunki ścisłych i swobodnych połączeń, wyjątek oktawowego przeniesienia górnych głosów przy powtórzeniu, zasady przewrotów, kadencje, dominantę 6/4 i odmiany skal. Nie przyjęto wartościujących wyjaśnień konsonansu, historii skal ani interpretacji akustycznych jako niezależnie potwierdzonych faktów. Odręcznych dopisków nie traktowano jako autorskich odpowiedzi. Nie rozwiązywano wszystkich zadań, nie sprawdzano każdej nuty. Brak recenzji i testów silnika.
+
+## Sikorski — ciągła lektura PDF 101–184
+48 twierdzeń, 15 przypadków oczekiwanych. D7 i D9, rozwiązania regularne i swobodne, akordy bez prymy, opóźnienia, akordy poboczne. Szczególne reguły zdwojeń i przewrotów zapisane w profilu autora. Wykryto rzeczywisty brak rozdziałów VI–VIII (§§34–44) cz.I: PDF 180 kończy się na druk.190, a PDF 181 otwiera cz.II; spis cz.II od §45. Nie uznawać 499 stron za kompletny tekst obu tomów. Nie uzupełniano braków z wiedzy modelu. Kontrola wszystkich przykładów nuta po nucie i testy silnika pozostają otwarte.

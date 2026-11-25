@@ -470,7 +470,8 @@
         "WH-CHOPIN-CHORD",
         "DK-AMBIGUOUS-VOICING",
         "DK-CHORD-ORDER",
-        "TAR-ENH-DIM-SETS"
+        "TAR-ENH-DIM-SETS",
+        "SIK-ROOTLESS-D9-QUALITY"
       ],
       "status": "partial"
     },
@@ -886,7 +887,20 @@
         "SIK-INVERSION-MEMBER",
         "SIK-MIXED-MAJOR",
         "SIK-DORIAN-MINOR",
-        "SIK-AEOLIAN-MINOR"
+        "SIK-AEOLIAN-MINOR",
+        "SIK-D7-INCOMPLETE",
+        "SIK-ROOTLESS-D7",
+        "SIK-D9-QUALITY",
+        "SIK-ROOTLESS-D9-QUALITY",
+        "SIK-ROOTLESS-D9-INVERSION",
+        "SIK-II-QUALITIES",
+        "SIK-II-SUBSTITUTE",
+        "SIK-NEAPOLITAN",
+        "SIK-VI-QUALITY",
+        "SIK-VI-SUBDOMINANT-SUBSTITUTE",
+        "SIK-III-TONIC-SUBSTITUTE",
+        "SIK-VII-AEOLIAN",
+        "SIK-SECONDARY-CHORD-CONTEXT"
       ],
       "status": "partial"
     },
@@ -1015,7 +1029,30 @@
         "SIK-SECOND-INVERSION-CONSECUTIVE",
         "SIK-CADENTIAL-64-PLACEMENT",
         "SIK-PARALLEL-MODE-THIRD",
-        "SIK-D7-REGULAR"
+        "SIK-D7-REGULAR",
+        "SIK-D7-INVERSION-RES",
+        "SIK-D7-INCOMPLETE",
+        "SIK-D7-FREE",
+        "SIK-D7-SEVENTH-UP",
+        "SIK-D7-REPEAT",
+        "SIK-D7-MIXED-FIFTHS",
+        "SIK-D7-S-D-COMMON",
+        "SIK-ROOTLESS-D7-DOUBLING",
+        "SIK-ROOTLESS-D7-SECOND",
+        "SIK-ROOTLESS-D7-DOUBLE-SEVENTH",
+        "SIK-D9-FOUR-VOICE",
+        "SIK-D9-REGULAR",
+        "SIK-D9-S-COMMON",
+        "SIK-TRIAD-FIFTH-DOUBLING-EXTENDED",
+        "SIK-INCOMPLETE-TRIAD-EXTENDED",
+        "SIK-ROOTLESS-D9-INVERSION",
+        "SIK-ROOTLESS-D9-FIFTH",
+        "SIK-TRIAD-THIRD-DOUBLING",
+        "SIK-SUSPENSION-DOUBLING",
+        "SIK-II-SUBSTITUTE",
+        "SIK-NEAPOLITAN-LEADING",
+        "SIK-VI-TONIC-SUBSTITUTE",
+        "SIK-III-DOMINANT-SUBSTITUTE"
       ],
       "status": "partial"
     },
@@ -1071,7 +1108,9 @@
         "SIK-CADENTIAL-64",
         "SIK-CADENCE-STRENGTH",
         "SIK-DORIAN-MINOR",
-        "SIK-AEOLIAN-MINOR"
+        "SIK-AEOLIAN-MINOR",
+        "SIK-D9-CADENCE",
+        "SIK-VI-DECEPTIVE"
       ],
       "status": "partial"
     },
@@ -1131,7 +1170,8 @@
         "SIK-HARMONIZE-METRIC",
         "SIK-FREE-MINIMUM",
         "SIK-FIRST-INVERSION-BASS-COVERAGE",
-        "SIK-FIGURED-ALTERATION"
+        "SIK-FIGURED-ALTERATION",
+        "SIK-SUSPENSION-FIGURES"
       ],
       "status": "partial"
     },
@@ -1199,7 +1239,17 @@
         "TAR-ALTER-DOUBLING",
         "SIK-CADENTIAL-64",
         "SIK-CADENTIAL-64-PLACEMENT",
-        "SIK-PARALLEL-MODE-THIRD"
+        "SIK-PARALLEL-MODE-THIRD",
+        "SIK-D7-PREPARED",
+        "SIK-D9-SUSPENSION",
+        "SIK-ROOTLESS-D9-BASS-SUSP",
+        "SIK-SUSPENSION-STRUCTURE",
+        "SIK-SUSPENSION-DOUBLING",
+        "SIK-SUSPENSION-FREE",
+        "SIK-SUSPENSION-STAGGER",
+        "SIK-SUSPENSION-PREPARATION",
+        "SIK-SUSPENSION-METRIC-REPEAT",
+        "SIK-SUSPENSION-FIGURES"
       ],
       "status": "partial"
     },
@@ -1265,7 +1315,9 @@
         "TAR-ENH-DIM-TARGET-ANCHORS",
         "TAR-ENH-DIM-ENTRY-VOICING",
         "TAR-ENH-AUG-SETS",
-        "TAR-ENH-MIXED-STRUCTURES"
+        "TAR-ENH-MIXED-STRUCTURES",
+        "SIK-NEAPOLITAN",
+        "SIK-NEAPOLITAN-LEADING"
       ],
       "status": "partial"
     },
@@ -1331,7 +1383,19 @@
         "TAR-ANALYSIS-GS-PRELUDE",
         "TAR-ANALYSIS-CM-PRELUDE",
         "SIK-PEDAGOGY",
-        "SIK-TRIAD-KEY-ROLES"
+        "SIK-TRIAD-KEY-ROLES",
+        "SIK-D9-SUSPENSION",
+        "SIK-ROOTLESS-D9-BASS-SUSP",
+        "SIK-II-APPARENT",
+        "SIK-VI-TONIC-SUBSTITUTE",
+        "SIK-VI-SUBDOMINANT-SUBSTITUTE",
+        "SIK-VI-ALTERED",
+        "SIK-VI-APPARENT-II",
+        "SIK-III-DOMINANT-SUBSTITUTE",
+        "SIK-III-TONIC-SUBSTITUTE",
+        "SIK-III-LOCAL-ROLE",
+        "SIK-VII-AEOLIAN",
+        "SIK-SECONDARY-CHORD-CONTEXT"
       ],
       "status": "partial"
     },
