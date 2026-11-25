@@ -996,14 +996,62 @@
           [
             9,
             14
+          ],
+          [
+            15,
+            22
+          ],
+          [
+            23,
+            34
+          ],
+          [
+            35,
+            58
+          ],
+          [
+            59,
+            74
+          ],
+          [
+            75,
+            82
+          ],
+          [
+            83,
+            91
+          ],
+          [
+            92,
+            100
+          ],
+          [
+            101,
+            111
+          ],
+          [
+            112,
+            138
+          ],
+          [
+            139,
+            147
+          ],
+          [
+            148,
+            165
+          ],
+          [
+            166,
+            169
           ]
         ],
         "przedmowa": [
           7,
           8
         ],
-        "nastepnyRozdzial": 2,
-        "nastepnaStronaPDF": 15,
+        "nastepnyRozdzial": null,
+        "nastepnaStronaPDF": null,
         "hasla": [
           "zrodlo-dzwieku",
           "drganie-okres-amplituda",
@@ -1012,10 +1060,95 @@
           "rezonans",
           "szmery",
           "cechy-dzwieku",
-          "wysokosc-oktawa"
+          "wysokosc-oktawa",
+          "material-dzwiekowy",
+          "nazwy-dzwiekow",
+          "nuta-pieciolinia",
+          "linie-dodane",
+          "klucze-muzyczne",
+          "klucze-dawne",
+          "zapis-tenoru",
+          "oktawy-nazwy",
+          "przenosnik-oktawowy",
+          "rytm-muzyczny",
+          "wartosci-rytmiczne",
+          "pauzy",
+          "kropki-przedluzajace",
+          "luk-laczacy",
+          "fermata",
+          "grupy-niemiarowe",
+          "rownoczesne-podzialy",
+          "metrum-i-takt",
+          "klasyfikacja-taktow",
+          "rodzaje-rytmu",
+          "grupowanie-nut",
+          "notacja-wokalna",
+          "pisownia-plastyczna",
+          "przeksztalcanie-taktow",
+          "synkopa",
+          "pisownia-synkopy",
+          "zmienne-metrum",
+          "takty-nieregularne",
+          "polirytmia-polimetria",
+          "przedtakt-ataktowosc",
+          "tempo-i-metronom",
+          "oznaczenia-tempa",
+          "zmiany-tempa",
+          "taktowanie",
+          "dynamika",
+          "oznaczenia-wykonawcze",
+          "system-temperowany",
+          "skala-gama-tonacja",
+          "stopnie-gamy",
+          "interwal-numer-jakosc",
+          "interwaly-zlozone",
+          "przewroty-interwalow",
+          "interwaly-melodyczne-harmoniczne",
+          "diatonika-chromatyka",
+          "znaki-chromatyczne",
+          "znaki-przykluczowe-przygodne",
+          "akordy-tercjowe",
+          "triada-harmoniczna",
+          "trojdzwieki-moll-harmoniczna",
+          "gamy-krzyzykowe-bemolowe",
+          "enharmonia-gam",
+          "chromatyzacja-moll",
+          "pokrewienstwo-tonacji",
+          "rozpoznawanie-tonacji",
+          "transpozycja",
+          "pentatonika",
+          "tetrachordy-greckie",
+          "skale-koscielne",
+          "modele-modalne",
+          "skale-dwie-sekundy-zwiekszone",
+          "skala-calotonowa-dwunastodzwiekowa",
+          "artykulacja",
+          "glissando-portamento",
+          "tremolo-arpeggio",
+          "techniki-smyczkowe",
+          "frazowanie",
+          "przednutki",
+          "mordent",
+          "obiegnik",
+          "tryl",
+          "repetycje",
+          "nawigacja-utworu",
+          "elementy-dziela",
+          "melodyka",
+          "faktura-polifonia-homofonia",
+          "podzial-muzyki-obsada",
+          "enharmonia",
+          "poltony",
+          "cale-tony",
+          "gama-durowa-harmoniczna",
+          "chromatyzacja-dur",
+          "konsonans-dysonans",
+          "trojdzwieki",
+          "odmiany-moll",
+          "tetrachord-dur"
         ],
-        "status": "opracowanie-w-toku",
-        "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury.",
+        "status": "pierwsza-warstwa-wszystkich-rozdzialow-do-poglebienia",
+        "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury. Ponowny odczyt pełnego dostępnego tekstu s.15–34, pierwsze opracowanie rozdziałów II–III. Nie przeprowadzono indywidualnej kontroli ilustracji, historycznych przykładów wykonania ani nie wykonano generatorów. Część szczegółów ma bezpośrednie odwołania do podręcznika, ale wymaga jeszcze własnych rekordów atomowych przed wdrożeniem. Przegląd wszystkich 13 rozdziałów oraz dostępnego indeksu i okładki; ponowny odczyt rozdz. IV–XIII obejmował pełny dostępny tekst s.35–57 oraz obszerne fragmenty s.59–169 (odczyt ograniczony długością fragmentów). S.58 sprawdzono na obrazie; s.169 nie udało się pobrać obrazu. Nie jest to pełna kolacja każdej nuty, tabeli, terminu, wyjątku ani akapitu. Pozostają: pełny słownik s.75–82, tabele interwałów i znaków, szczegółowe grupowanie, historyczne ozdobniki i przykłady repertuarowe. Nie uznano braku osobnej erraty. Wykryto niespójności odczytu/druku na s.79 i 169, wymagają kolacji. Nie dopuszczono haseł do publikacji.",
         "metodyka": {
           "odwolanie": "przedmowa s.7–8; zadania s.14",
           "zasady": [
@@ -1029,7 +1162,65 @@
             "Porównywanie cech dźwięku oraz powiązanie ich z budową instrumentów.",
             "Ćwiczenia pamięciowe i instrumentalne dotyczące szeregu harmonicznego."
           ],
-          "uwagi": "Autorska parafraza metodyki. Nie kopiowano zadań; nie wykonano jeszcze generatora."
+          "uwagi": "Autorska parafraza metodyki. Nie kopiowano zadań; nie wykonano jeszcze generatora.",
+          "typyZadanRozdzialu2": [
+            "Odczytywanie nazw i oktaw.",
+            "Przepisywanie własnych melodii w różnych kluczach z kontrolą wysokości.",
+            "Interpretacja przenośnika oktawowego."
+          ],
+          "typyZadanRozdzialu3": [
+            "Zamiana kropek na równoważne wartości z łukiem.",
+            "Ustalanie równoważności grup regularnych i niemiarowych.",
+            "Porównanie momentów rozpoczęcia nut na wspólnej siatce."
+          ],
+          "typyZadanRozdzialu4": [
+            "Poprawianie błędnych ugrupowań z zachowaniem wartości.",
+            "Wypełnianie taktu określoną liczbą nut i pauz.",
+            "Przeskalowanie jednostki lub zmiana grupowania przy zachowanej sumie."
+          ],
+          "typyZadanRozdzialu5": [
+            "Tworzenie synkop w określonych częściach taktu.",
+            "Porównanie alternatywnych grupowań metrum nieregularnego.",
+            "Rozpoznawanie przedtaktów z repertuaru."
+          ],
+          "typyZadanRozdzialu6": [
+            "Odczyt i objaśnianie włoskich oznaczeń po polsku.",
+            "Przeliczanie czasu wartości z jednostki metronomicznej.",
+            "Odróżnianie dynamiki od agogiki."
+          ],
+          "typyZadanRozdzialu7": [
+            "Budowanie i rozpoznawanie interwałów w różnych kluczach.",
+            "Oznaczanie stopni gamy.",
+            "Porównanie interwałów w parach głosów i na fortepianie."
+          ],
+          "typyZadanRozdzialu8": [
+            "Budowa interwałów alterowanych w górę i w dół.",
+            "Porównanie pisowni enharmonicznej.",
+            "Analiza zmian znaków i interwałów wielogłosowych."
+          ],
+          "typyZadanRozdzialu9": [
+            "Budowanie odmian dur i moll.",
+            "Rozpoznawanie akordów wszystkich stopni i triady.",
+            "Rozwiązywanie charakterystycznych dysonansów w zadanym kontekście."
+          ],
+          "typyZadanRozdzialu10": [
+            "Budowanie gam i transpozycja w wielu kluczach.",
+            "Porównanie tonacji i rozpoznanie ich z przebiegu.",
+            "Łączenie ćwiczeń gamowych z rytmem, artykulacją i dynamiką."
+          ],
+          "typyZadanRozdzialu11": [
+            "Budowanie skal pentatonicznych i modalnych.",
+            "Rozpoznawanie materiału skalowego na podstawie przebiegu."
+          ],
+          "typyZadanRozdzialu12": [
+            "Rozpoznawanie artykulacji, ozdobników i repetycji.",
+            "Realizacja ozdobników po ustaleniu profilu wykonawczego.",
+            "Rozróżnianie znaczeń łuku."
+          ],
+          "typyZadanRozdzialu13": [
+            "Rozpoznawanie elementów dzieła i rodzaju obsady.",
+            "Porównywanie typów faktury i melodyki."
+          ]
         }
       }
     },
