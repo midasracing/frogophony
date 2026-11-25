@@ -5058,6 +5058,167 @@
         "variationFormPossible": true,
         "eachVariationMustClose": false
       }
+    },
+    {
+      "id": "NOMF01",
+      "domain": "music-literacy",
+      "input": {
+        "beatUnit": "quarter",
+        "bpm": 60
+      },
+      "expected": {
+        "secondsPerBeat": 1
+      }
+    },
+    {
+      "id": "NOMF02",
+      "domain": "music-literacy",
+      "input": {
+        "instrument": "harpsichord",
+        "interface": "keyboard"
+      },
+      "expected": {
+        "vibrator": "string",
+        "excitation": "plucked"
+      }
+    },
+    {
+      "id": "NOMF03",
+      "domain": "music-literacy",
+      "input": {
+        "instrument": "standard guitar",
+        "writtenMidi": 64
+      },
+      "expected": {
+        "soundingMidi": 52
+      }
+    },
+    {
+      "id": "NOMF04",
+      "domain": "music-literacy",
+      "input": {
+        "instrument": "soprano clarinet in B-flat",
+        "writtenMidi": 60
+      },
+      "expected": {
+        "soundingMidi": 58
+      }
+    },
+    {
+      "id": "NOMF05",
+      "domain": "music-literacy",
+      "input": {
+        "instrument": "English horn in F",
+        "writtenMidi": 60
+      },
+      "expected": {
+        "soundingMidi": 53
+      }
+    },
+    {
+      "id": "NOMF06",
+      "domain": "music-literacy",
+      "input": {
+        "instrument": "contrabassoon",
+        "writtenMidi": 48
+      },
+      "expected": {
+        "soundingMidi": 36
+      }
+    },
+    {
+      "id": "NOMF07",
+      "domain": "music-literacy",
+      "input": {
+        "instrument": "celesta",
+        "writtenMidi": 60
+      },
+      "expected": {
+        "soundingMidi": 72
+      }
+    },
+    {
+      "id": "NOMF08",
+      "domain": "music-literacy",
+      "input": {
+        "voice": "tenor",
+        "clef": "treble-octave-down",
+        "writtenMidi": 67
+      },
+      "expected": {
+        "soundingMidi": 55
+      }
+    },
+    {
+      "id": "NOMF09",
+      "domain": "music-literacy",
+      "input": {
+        "pitches": [
+          "G",
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "pitchClassCount": 5,
+        "containsSemitone": false
+      }
+    },
+    {
+      "id": "NOMF10",
+      "domain": "music-literacy",
+      "input": {
+        "tonic": "F",
+        "pitches": [
+          "F",
+          "G",
+          "A",
+          "B",
+          "C",
+          "D",
+          "Eb",
+          "F"
+        ],
+        "notation": "international"
+      },
+      "expected": {
+        "intervalsFromTonic": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12
+        ]
+      }
+    },
+    {
+      "id": "NOMF11",
+      "domain": "music-literacy",
+      "input": {
+        "task": "identify folk song",
+        "sameSong": true,
+        "regionalVersionsDiffer": true
+      },
+      "expected": {
+        "requireExactSingleVersion": false
+      }
+    },
+    {
+      "id": "NOMF12",
+      "domain": "music-literacy",
+      "input": {
+        "mark": "mf",
+        "context": null
+      },
+      "expected": {
+        "fixedDecibelValue": null
+      }
     }
   ]
 }

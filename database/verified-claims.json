@@ -18938,6 +18938,1084 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "NOM-MUSIC-CLASSIFICATION",
+      "statement": "Podziały muzyki według obsady, liczby wykonawców, treści, faktury, tradycji narodowej i epoki są wielowymiarowe; jeden utwór może spełniać kilka kryteriów jednocześnie.",
+      "scope": "Szkolna klasyfikacja Wójcik; nie utożsamiać notacji z profesjonalizmem ani przekazu ustnego wyłącznie z folklorem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.11–12 (PDF 11–12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-METER-RHYTHM",
+      "statement": "W ujęciu autorki rytmika organizuje czasy trwania i ich relacje, a metrum porządkuje przebieg rytmiczny za pomocą miar i regularnych akcentów.",
+      "scope": "W modelu rytmiki ustalonej; nie wymagać metrum w każdej muzyce.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.13 (PDF 13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-RHYTHM-DANCE-MARCH",
+      "statement": "Rytmika taneczna odwołuje się do wzorców określonego tańca, a marszowa do organizacji kroków maszerujących; rytmika miarowa podkreśla miary taktu.",
+      "scope": "Typowe charakterystyki, mogą się nakładać.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.15 (PDF 15)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-MELODY-CONTEXT",
+      "statement": "Kantylena, ornamentyka i figuracja mogą wystąpić zarówno w muzyce wokalnej, jak i instrumentalnej.",
+      "scope": "Nie klasyfikować typu melodyki wyłącznie według instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.16–18 (PDF 16–18)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-MELODY-CONTOUR",
+      "statement": "Wójcik wyróżnia przebiegi wznoszące, opadające, łukowe, falujące i oparte na repetycji dźwięków; jest to kryterium odrębne od organizacji tonalnej.",
+      "scope": "Kształt zależy od analizowanego odcinka.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.18 (PDF 18)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-DECLAMATION",
+      "statement": "Melodyka deklamacyjna nawiązuje do mowy i często posługuje się swobodnym rytmem.",
+      "scope": "Nie wymagać braku metrum w każdym recytatywie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.19 (PDF 19)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-HARMONY-PROFILES",
+      "statement": "Wójcik zestawia harmonikę modalną, funkcyjną oraz sonorystyczną według historycznych modeli organizacji współbrzmień.",
+      "scope": "Nie traktować podanych granic epok jako bezwzględnych ani każdego klasteru jako dowodu braku tonalności.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.20 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-DYNAMIC-RELATIVE",
+      "statement": "Określenia p, mf i f odnoszą się do względnych poziomów dynamiki wykonania; kontrasty dynamiczne mogą współtworzyć formę.",
+      "scope": "Nie przypisywać znakom dynamicznym stałych wartości dB. S.20 nieprecyzyjnie opisuje jednostkę natężenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.20–21 (PDF 20–21)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TEMPO-NOTE-UNIT",
+      "statement": "Oznaczenie metronomiczne ćwierćnuta = 60 określa jedną ćwierćnutę na sekundę; określenia słowne wyznaczają tempo względne.",
+      "scope": "Nie kodować włoskich określeń jako jednej obowiązkowej wartości BPM.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.21 (PDF 21)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-ARTIC-PORTATO",
+      "statement": "Portato w szkolnym opisie Wójcik jest sposobem artykulacji pośrednim między legato i staccato.",
+      "scope": "Szczegóły wykonania zależą od instrumentu i kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.23 (PDF 23)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-MUTE",
+      "statement": "Con sordino oznacza użycie tłumika, a senza sordino powrót do gry bez niego; tłumik zmienia barwę brzmienia.",
+      "scope": "Realizacja zależy od instrumentu; nie utożsamiać z samym obniżeniem głośności.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.23 (PDF 23)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-INSTRUMENT-MULTIAXIS",
+      "statement": "Budowa klawiatury i sposób pobudzania źródła dźwięku są odrębnymi kryteriami. Autorka zaznacza, że klawesyn ma struny szarpane mimo mechanizmu klawiszowego.",
+      "scope": "Nie kopiować nagłówka uderzanych z tabeli jako klasyfikacji klawesynu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.25–26 (PDF 25–26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-VIOLIN-PARTS",
+      "statement": "Podstawek podtrzymuje struny, a dusza przenosi drgania między płytami pudła rezonansowego; napięcie włosia smyczka jest regulowane śrubą.",
+      "scope": "Opis typowej budowy skrzypiec, nie wszystkich chordofonów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.27 (PDF 27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-VIOLA-TUNING",
+      "statement": "Tabela podaje dla altówki strój c–g–d1–a1 i klucz altowy.",
+      "scope": "Strój otwartych strun, nie pełna skala; możliwe inne klucze w repertuarze.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.28 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-CELLO-TUNING",
+      "statement": "Tabela podaje strój wiolonczeli C–G–d–a i użycie kluczy basowego, tenorowego oraz wiolinowego.",
+      "scope": "Polska konwencja nazw oktaw; nie kopiować granic skali bez kontroli partytury.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.28 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-BASS-NOTATION",
+      "statement": "W typowym modelu kontrabasu zapis jest o oktawę wyższy od brzmienia.",
+      "scope": "Uwzględnić konwencję konkretnej partii i flażolety.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.28 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-GUITAR-TUNING",
+      "statement": "Wójcik opisuje sześciostrunową gitarę o stroju E–A–d–g–h–e1, z zapisem w kluczu wiolinowym o oktawę wyżej od brzmienia.",
+      "scope": "Standardowy strój omawianej gitary, nie wszystkie odmiany i stroje.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.30–31 (PDF 30–31)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-HARPSICHORD-MECHANISM",
+      "statement": "W klawesynie klawisz uruchamia skoczek z piórkiem szarpiącym strunę; rejestry pozwalają różnicować brzmienie. Instrument służył m.in. do realizacji basso continuo.",
+      "scope": "Nie uogólniać liczby manuałów ani konstrukcji rejestrów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.31–32 (PDF 31–32)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-PIANO-MECHANISM",
+      "statement": "Fortepian ma mechanizm młoteczkowy pobudzający struny oraz tłumiki; przy zwolnieniu klawisza tłumik może zatrzymać drgania, jeśli nie jest utrzymany przez pedał.",
+      "scope": "Opis typowego mechanizmu, z wyjątkiem m.in. strun bez tłumików.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.32–33 (PDF 32–33)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-PIANO-PEDALS",
+      "statement": "Prawy pedał fortepianu unosi tłumiki, lewy w opisanym fortepianie przesuwa mechanizm, a środkowy w niektórych modelach podtrzymuje wybrane dźwięki.",
+      "scope": "Opis fortepianu, nie wszystkich pianin ani każdego środkowego pedału.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.32–33 (PDF 32–33)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-WOODWIND-EDGE",
+      "statement": "We flecie powietrze kierowane na krawędź otworu pobudza słup powietrza; klarnet i saksofon wykorzystują pojedynczy stroik, obój i fagot podwójny.",
+      "scope": "Rodzina instrumentu nie wynika wyłącznie z materiału korpusu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.34–36 (PDF 34–36)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TRANSPOSE-CLARINET-B",
+      "statement": "W omawianym klarnecie in B zapisane C brzmi o sekundę wielką niżej, jako B w polskim nazewnictwie.",
+      "scope": "Nie przenosić tego samego przesunięcia oktawowego na wszystkie klarnety in B; tabela osobno opisuje klarnet basowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.34–37 (PDF 34–37)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TRANSPOSE-ENGLISH-HORN",
+      "statement": "Rożek angielski in F brzmi o kwintę czystą niżej od zapisu.",
+      "scope": "Dotyczy wymienionej odmiany instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.34–36 (PDF 34–36)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-CONTRABASSOON-TRANSPOSE",
+      "statement": "W omawianym kontrafagocie zapis jest o oktawę wyższy od brzmienia.",
+      "scope": "Strój C nie oznacza automatycznie braku transpozycji oktawowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.35–37 (PDF 35–37)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-BRASS-TUBE",
+      "statement": "W instrumentach blaszanych wentyle mogą włączać dodatkowe odcinki rury, a suwak puzonu zmienia długość słupa powietrza.",
+      "scope": "Nie wszystkie blaszane są wentylowe; nie wyprowadzać transpozycji z samej budowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.38–39 (PDF 38–39)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-ORGAN-AIR",
+      "statement": "W opisie organów powietrze dociera z miechów i kanałów do wiatrownic i piszczałek; od długości i rodzaju piszczałki zależy jej wysokość, a od budowy m.in. barwa.",
+      "scope": "Opis organów piszczałkowych, nie elektronicznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.38–40 (PDF 38–40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-ORGAN-STOPS",
+      "statement": "W organach głos jest szeregiem piszczałek o pokrewnej barwie; rejestr pozwala go włączać lub wyłączać. Manuały są klawiaturami ręcznymi, pedał klawiaturą nożną.",
+      "scope": "Nie utożsamiać rejestru z pojedynczą wysokością.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.40–41 (PDF 40–41)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TIMPANI",
+      "statement": "Kotły mają strojoną membranę; wysokość zależy od jej napięcia, które w opisanym modelu reguluje pedał.",
+      "scope": "Nie powielać twierdzenia, że kotły są jedynymi strojonymi membranofonami; zakres zależy od modelu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.41–42 (PDF 41–42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-SNARE",
+      "statement": "W werblu przylegające do dolnej membrany struny lub sprężyny nadają dźwiękowi charakterystyczne brzmienie; ich odłączenie zmienia efekt.",
+      "scope": "Opis typowego werbla.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.42–43 (PDF 42–43)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TAMBOURINE",
+      "statement": "Bębenek baskijski w opisie autorki łączy membranę i luźne metalowe blaszki, które brzmią podczas potrząsania lub uderzenia.",
+      "scope": "Instrument może łączyć różne mechanizmy drgania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.43 (PDF 43)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-PERCUSSION-NOTATION",
+      "statement": "Dla perkusji o nieokreślonej wysokości autorka pokazuje zapis na jednej linii.",
+      "scope": "Jedna linia jest możliwą konwencją, nie obowiązkiem dla każdego zestawu perkusyjnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.43 (PDF 43)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-CELESTA",
+      "statement": "Czelesta wykorzystuje metalowe sztabki pobudzane mechanizmem młoteczkowym i rezonatory; opis podaje zapis o oktawę niżej od brzmienia.",
+      "scope": "Nie przenosić transpozycji dzwonków z tej książki na wszystkie współczesne instrumenty.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.44 (PDF 44)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-VIBRAPHONE",
+      "statement": "W wibrafonie metalowe sztabki współpracują z rurami rezonansowymi; mechanizm obrotowy powoduje okresowe zmiany brzmienia, a pedał służy do tłumienia.",
+      "scope": "Nie utożsamiać efektu tremulanta z konieczną zmianą wysokości dźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.45 (PDF 45)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TUBULAR-BELLS",
+      "statement": "Dzwony rurowe w omawianym modelu mają pionowo zawieszone rury pobudzane uderzeniem w górną część.",
+      "scope": "Nie wprowadzać podanej w książce transpozycji do silnika bez sprawdzenia konwencji konkretnego instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.45–46 (PDF 45–46)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TRIANGLE",
+      "statement": "Trójkąt to zawieszony metalowy pręt z niedomkniętym bokiem; dźwięk powstaje przez uderzenie pałeczką.",
+      "scope": "Przykład idiofonu, nie określa obowiązkowego poziomu dynamiki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.47 (PDF 47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-XYLO-MARIMBA",
+      "statement": "Ksylofon i marimba mają drewniane sztabki o określonych wysokościach; autorka opisuje w marimbie rury rezonansowe pod sztabkami.",
+      "scope": "Nie utożsamiać marimby z ksylorimbą ani zakresów wszystkich modeli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.48 (PDF 48)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-MARACAS",
+      "statement": "Marakasy wydają dźwięk wskutek ruchu drobnych ziaren lub kamyków wewnątrz zamkniętego korpusu.",
+      "scope": "Opis mechanizmu; korpus nie musi być z drewna.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.49 (PDF 49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-RATCHET-CLAPPER",
+      "statement": "Terkotka wykorzystuje obracające się koło zębate pobudzające sprężystą deseczkę; klekotka typu bat ma dwie deseczki złączone na jednym końcu.",
+      "scope": "Rozróżniać mechanizmy, nie tylko podobieństwo efektu brzmieniowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.50 (PDF 50)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-CHAMBER-ENSEMBLES",
+      "statement": "Typowe trio fortepianowe to fortepian, skrzypce i wiolonczela; kwintet dęty w zestawieniu Wójcik obejmuje flet, obój, klarnet, róg i fagot.",
+      "scope": "Nie narzucać jednego składu wszystkim triom i kwintetom.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.50 (PDF 50)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-ORCHESTRAL-GROUPS",
+      "statement": "W modelu orkiestry symfonicznej autorka wyróżnia smyczki, dęte drewniane i blaszane oraz perkusję; wielkość i proporcje obsady mogą się zmieniać.",
+      "scope": "Schemat rozmieszczenia na s.53 jest przykładem, nie jedynym dopuszczalnym planem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.51–53 (PDF 51–53)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-SCORE-PART",
+      "statement": "Partia orkiestrowa przedstawia materiał danego wykonawcy, natomiast partytura zestawia partie zespołu; przykładowy układ na s.52 grupuje instrumenty według rodzin.",
+      "scope": "Nie wymagać oddzielnej pięciolinii dla każdego wykonawcy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.51–52 (PDF 51–52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-VOCAL-PRODUCTION",
+      "statement": "Autorka wyróżnia aparat oddechowy, krtań z więzadłami głosowymi i przestrzenie rezonansowe jako współdziałające przy tworzeniu głosu.",
+      "scope": "Model ogólny, nie porada medyczna ani sztywne granice skali.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.53 (PDF 53)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-VOCAL-CHOIR-TYPES",
+      "statement": "Wójcik wyróżnia sopran, mezzosopran, alt, tenor, baryton i bas; chóry mogą być jednorodne lub mieszane i mieć różną liczbę głosów.",
+      "scope": "Nie przypisywać typu głosu wyłącznie z płci lub granic skali; nie utożsamiać kontraltu i kontratenoru.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.53–54 (PDF 53–54)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-TENOR-NOTATION",
+      "statement": "W omawianej konwencji partia tenoru w kluczu wiolinowym brzmi oktawę niżej od zapisu.",
+      "scope": "Rozpoznawać konkretną konwencję partytury; nie transponować każdej partii tenorowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.54 (PDF 54)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FORM-DEPENDENCE",
+      "statement": "Rozdział o formach w Nauce o muzyce jest adaptacją ABC form muzycznych dla młodszych uczniów; autorka stosuje równolegle klasyfikację według obsady, faktury, liczby części i dominujących elementów.",
+      "scope": "Nie liczyć obu podręczników jako niezależnych potwierdzeń tej samej tezy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.56–57 (PDF 56–57)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-CYCLE-LINKS",
+      "statement": "Części cyklu kontrastują m.in. tempem, tonacją i fakturą, ale mogą być połączone przez attacca, łącznik lub wspólny materiał melodyczny.",
+      "scope": "Attacca oznacza bezpośrednie przejście, nie przesądza o braku odrębnych części.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.79–80 (PDF 79–80)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-CADENZA",
+      "statement": "W modelu koncertu klasycznego autorka omawia kadencję solisty przed kodą, wykonywaną bez udziału orkiestry.",
+      "scope": "Odróżniać kadencję wirtuozowską od kadencji harmonicznej; nie każda kadencja koncertowa jest umiejscowiona identycznie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.83 (PDF 83)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-LEITMOTIF",
+      "statement": "Motywy przewodnie w opisanym dramacie muzycznym mogą być przyporządkowane postaciom, przedmiotom lub innym treściom dzieła.",
+      "scope": "Nie utożsamiać każdego powtórzonego motywu z motywem przewodnim.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.89 (PDF 89)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-DOCUMENTATION",
+      "statement": "Wójcik wskazuje dokumentację Oskara Kolberga w XIX wieku oraz działalność Jadwigi i Mariana Sobieskich w XX wieku.",
+      "scope": "Nie podawać liczby tomów lub aktualnego stanu tradycji bez sprawdzenia odrębnego źródła.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.92–93 (PDF 92–93)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-REGIONS",
+      "statement": "W regionalnym podziale Wójcik omawia Wielkopolskę, Mazowsze, Małopolskę, Śląsk i Pomorze; wyróżnia też m.in. Podhale, Ziemię Lubuską i Kurpie.",
+      "scope": "Podział przyjęty w podręczniku, nie kompletna współczesna mapa etnograficzna.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.93–94 (PDF 93–94)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-TEXT",
+      "statement": "W opisie polskiej pieśni ludowej budowa tekstu wpływa na formę i rytmikę; występują powtórzenia tekstu, refreny oraz interjekcje.",
+      "scope": "Tendencje w materiale autorki, nie reguły każdej pieśni.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.94 (PDF 94)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-METRIC",
+      "statement": "Wójcik opisuje współistnienie trójmiaru, dwumiaru, metrum mieszanego i przebiegów ataktowych; pieśni mazurkowe wiąże z rubato, a krakowiaki z rytmem synkopowanym.",
+      "scope": "Nie wyznaczać regionu wyłącznie z metrum ani wykluczać przedtaktu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.94–95 (PDF 94–95)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-PENTATONIC",
+      "statement": "Autorka ilustruje pentatonikę bezpółtonową zestawem g–a–c–d–e, a półtonową g–a–cis–d–e; podaje również przykłady modalne.",
+      "scope": "Przykładowe zbiory, nie jedyne możliwe pentatoniki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.95–96 (PDF 95–96)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-HIGHLAND-SCALE",
+      "statement": "Przykład skali góralskiej w książce to f–g–a–h–c–d–es–f.",
+      "scope": "Polskie nazwy dźwięków: h i es; nie każda melodia podhalańska używa tego zbioru.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.95 (PDF 95)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-VARIANTS",
+      "statement": "Wariantowość oznacza funkcjonowanie różnych wersji jednej pieśni; autorka zestawia regionalne wersje Chmiela oraz Wyjechał pan z chartami w pole.",
+      "scope": "Nie przyjmować jednej wersji jako jedynej poprawnej w zadaniach o folklorze.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.97–99 (PDF 97–99)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "NOMF11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-SONG-FUNCTION",
+      "statement": "Autorka wyróżnia pieśni obrzędowe, przyśpiewki taneczno-towarzyskie, pieśni związane z trybem życia oraz liryczne i epickie.",
+      "scope": "Podział według funkcji i treści; może się nakładać.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.99 (PDF 99)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-DANCE-REGIONS",
+      "statement": "Wójcik wskazuje m.in. wiwat w Wielkopolsce, kujawiaka na Kujawach, tańce zbójnicki i góralski na Podhalu oraz trojaka na Śląsku.",
+      "scope": "Powiązania regionalne, nie wyłączność geograficzna.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.100 (PDF 100)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-STRING-INSTRUMENTS",
+      "statement": "Mazanki wielkopolskie to w opisie autorki małe instrumenty smyczkowe o trzech strunach; złóbcoki są związane z Podhalem, a basy szamotulskie mogą mieć brzękadełka.",
+      "scope": "Nie kodować nieczytelnej numeracji oktaw mazanków.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.100–101 (PDF 100–101)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-BAGPIPE-VARIANTS",
+      "statement": "Autorka wymienia kozła na Ziemi Lubuskiej, gajdy w Beskidzie Śląskim i dudy m.in. w Wielkopolsce; sierszeńki opisuje jako instrument ćwiczebny bez bąka.",
+      "scope": "Nazwy i budowa dotyczą wskazanych odmian; nie są zamienne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.102–103 (PDF 102–103)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-PERCUSSION",
+      "statement": "Wśród ludowych instrumentów perkusyjnych autorka wymienia m.in. terkotkę, kołatkę, grzechotkę, bęben i burczybas; rysunek pokazuje różne sposoby budowy.",
+      "scope": "Nie klasyfikować wszystkich według samej techniki uderzania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.103 (PDF 103)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-BAND",
+      "statement": "Wójcik opisuje kapelę z dwojgiem skrzypiec (prym i sekund) oraz basami, a w regionach dudowych także zestawienie dud ze skrzypcami lub dawniej mazankami.",
+      "scope": "Przykładowe składy regionalne, nie jedyne możliwe.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.104 (PDF 104)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "NOM-FOLK-PERFORMANCE",
+      "statement": "W opisie kapel kolejne powtórzenia melodii mogą ulegać ozdabianiu i transpozycji; występują przygrywki między zwrotkami oraz formuły zakończeniowe.",
+      "scope": "Nie narzucać identycznej realizacji każdej tradycji wykonawczej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-NOM-2004-UPLOAD",
+          "locator": "s.104 (PDF 104)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

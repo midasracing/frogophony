@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 1055,
-    "fixtures": 267,
+    "claims": 1117,
+    "fixtures": 279,
     "competencies": 73,
     "partial": 58
   },
@@ -1099,7 +1099,69 @@
       "WOJ-PASSION",
       "WOJ-FOLK",
       "WOJ-BAGPIPE",
-      "WOJ-FOLK-HORNS"
+      "WOJ-FOLK-HORNS",
+      "NOM-MUSIC-CLASSIFICATION",
+      "NOM-METER-RHYTHM",
+      "NOM-RHYTHM-DANCE-MARCH",
+      "NOM-MELODY-CONTEXT",
+      "NOM-MELODY-CONTOUR",
+      "NOM-DECLAMATION",
+      "NOM-HARMONY-PROFILES",
+      "NOM-DYNAMIC-RELATIVE",
+      "NOM-TEMPO-NOTE-UNIT",
+      "NOM-ARTIC-PORTATO",
+      "NOM-MUTE",
+      "NOM-INSTRUMENT-MULTIAXIS",
+      "NOM-VIOLIN-PARTS",
+      "NOM-VIOLA-TUNING",
+      "NOM-CELLO-TUNING",
+      "NOM-BASS-NOTATION",
+      "NOM-GUITAR-TUNING",
+      "NOM-HARPSICHORD-MECHANISM",
+      "NOM-PIANO-MECHANISM",
+      "NOM-PIANO-PEDALS",
+      "NOM-WOODWIND-EDGE",
+      "NOM-TRANSPOSE-CLARINET-B",
+      "NOM-TRANSPOSE-ENGLISH-HORN",
+      "NOM-CONTRABASSOON-TRANSPOSE",
+      "NOM-BRASS-TUBE",
+      "NOM-ORGAN-AIR",
+      "NOM-ORGAN-STOPS",
+      "NOM-TIMPANI",
+      "NOM-SNARE",
+      "NOM-TAMBOURINE",
+      "NOM-PERCUSSION-NOTATION",
+      "NOM-CELESTA",
+      "NOM-VIBRAPHONE",
+      "NOM-TUBULAR-BELLS",
+      "NOM-TRIANGLE",
+      "NOM-XYLO-MARIMBA",
+      "NOM-MARACAS",
+      "NOM-RATCHET-CLAPPER",
+      "NOM-CHAMBER-ENSEMBLES",
+      "NOM-ORCHESTRAL-GROUPS",
+      "NOM-SCORE-PART",
+      "NOM-VOCAL-PRODUCTION",
+      "NOM-VOCAL-CHOIR-TYPES",
+      "NOM-TENOR-NOTATION",
+      "NOM-FORM-DEPENDENCE",
+      "NOM-CYCLE-LINKS",
+      "NOM-CADENZA",
+      "NOM-LEITMOTIF",
+      "NOM-FOLK-DOCUMENTATION",
+      "NOM-FOLK-REGIONS",
+      "NOM-FOLK-TEXT",
+      "NOM-FOLK-METRIC",
+      "NOM-FOLK-PENTATONIC",
+      "NOM-FOLK-HIGHLAND-SCALE",
+      "NOM-FOLK-VARIANTS",
+      "NOM-FOLK-SONG-FUNCTION",
+      "NOM-FOLK-DANCE-REGIONS",
+      "NOM-FOLK-STRING-INSTRUMENTS",
+      "NOM-FOLK-BAGPIPE-VARIANTS",
+      "NOM-FOLK-PERCUSSION",
+      "NOM-FOLK-BAND",
+      "NOM-FOLK-PERFORMANCE"
     ],
     "DROB-1986-UPLOAD": [
       "WES-HARMONICS",
@@ -2977,6 +3039,24 @@
         "ABC-TEXTURE",
         "CHOM-FORM",
         "DROB-SPECTRUM",
+        "NOM-ARTIC-PORTATO",
+        "NOM-CADENZA",
+        "NOM-CYCLE-LINKS",
+        "NOM-DECLAMATION",
+        "NOM-DYNAMIC-RELATIVE",
+        "NOM-FOLK-HIGHLAND-SCALE",
+        "NOM-FOLK-PENTATONIC",
+        "NOM-FOLK-TEXT",
+        "NOM-FORM-DEPENDENCE",
+        "NOM-HARMONY-PROFILES",
+        "NOM-LEITMOTIF",
+        "NOM-MELODY-CONTEXT",
+        "NOM-MELODY-CONTOUR",
+        "NOM-METER-RHYTHM",
+        "NOM-MUSIC-CLASSIFICATION",
+        "NOM-MUTE",
+        "NOM-RHYTHM-DANCE-MARCH",
+        "NOM-TEMPO-NOTE-UNIT",
         "WES-DIATONIC",
         "WES-TEMPO",
         "WES-UNISON",
@@ -3001,6 +3081,39 @@
         "DROB-TRUMPET",
         "DROB-VALVES",
         "DROB-VIOLIN",
+        "NOM-BASS-NOTATION",
+        "NOM-BRASS-TUBE",
+        "NOM-CELESTA",
+        "NOM-CELLO-TUNING",
+        "NOM-CHAMBER-ENSEMBLES",
+        "NOM-CONTRABASSOON-TRANSPOSE",
+        "NOM-FOLK-BAND",
+        "NOM-GUITAR-TUNING",
+        "NOM-HARPSICHORD-MECHANISM",
+        "NOM-INSTRUMENT-MULTIAXIS",
+        "NOM-MARACAS",
+        "NOM-ORCHESTRAL-GROUPS",
+        "NOM-ORGAN-AIR",
+        "NOM-ORGAN-STOPS",
+        "NOM-PERCUSSION-NOTATION",
+        "NOM-PIANO-MECHANISM",
+        "NOM-PIANO-PEDALS",
+        "NOM-RATCHET-CLAPPER",
+        "NOM-SNARE",
+        "NOM-TAMBOURINE",
+        "NOM-TENOR-NOTATION",
+        "NOM-TIMPANI",
+        "NOM-TRANSPOSE-CLARINET-B",
+        "NOM-TRANSPOSE-ENGLISH-HORN",
+        "NOM-TRIANGLE",
+        "NOM-TUBULAR-BELLS",
+        "NOM-VIBRAPHONE",
+        "NOM-VIOLA-TUNING",
+        "NOM-VIOLIN-PARTS",
+        "NOM-VOCAL-CHOIR-TYPES",
+        "NOM-VOCAL-PRODUCTION",
+        "NOM-WOODWIND-EDGE",
+        "NOM-XYLO-MARIMBA",
         "WOJ-FAMILY",
         "WOJ-HARP",
         "WOJ-PERIOD",
@@ -3015,6 +3128,28 @@
         "ABC-SONORISM",
         "DROB-HARMONIC-NODE",
         "DROB-HARMONIC-TOUCH",
+        "NOM-ARTIC-PORTATO",
+        "NOM-FOLK-BAGPIPE-VARIANTS",
+        "NOM-FOLK-BAND",
+        "NOM-FOLK-DANCE-REGIONS",
+        "NOM-FOLK-DOCUMENTATION",
+        "NOM-FOLK-HIGHLAND-SCALE",
+        "NOM-FOLK-METRIC",
+        "NOM-FOLK-PENTATONIC",
+        "NOM-FOLK-PERCUSSION",
+        "NOM-FOLK-PERFORMANCE",
+        "NOM-FOLK-REGIONS",
+        "NOM-FOLK-SONG-FUNCTION",
+        "NOM-FOLK-STRING-INSTRUMENTS",
+        "NOM-FOLK-TEXT",
+        "NOM-FOLK-VARIANTS",
+        "NOM-HARPSICHORD-MECHANISM",
+        "NOM-INSTRUMENT-MULTIAXIS",
+        "NOM-MARACAS",
+        "NOM-MUTE",
+        "NOM-ORGAN-AIR",
+        "NOM-ORGAN-STOPS",
+        "NOM-RATCHET-CLAPPER",
         "WOJ-BAGPIPE",
         "WOJ-FOLK-HORNS",
         "WOJ-PLAY"
@@ -3028,12 +3163,19 @@
         "ABC-SERIAL",
         "ABC-SONORISM",
         "DK-GRAPHIC",
+        "NOM-ORCHESTRAL-GROUPS",
+        "NOM-PERCUSSION-NOTATION",
+        "NOM-SCORE-PART",
+        "NOM-TENOR-NOTATION",
         "SIK-CHROMATIC-VS-TWELVE-TONE"
       ]
     },
     "II-NOM-05": {
       "status": "partial",
       "claimIds": [
+        "NOM-FOLK-DANCE-REGIONS",
+        "NOM-FOLK-METRIC",
+        "NOM-RHYTHM-DANCE-MARCH",
         "WOJ-STYLIZATION",
         "WOJ-SUITE"
       ]
@@ -14570,6 +14712,668 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "NOM-MUSIC-CLASSIFICATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-METER-RHYTHM": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-RHYTHM-DANCE-MARCH": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01",
+        "II-NOM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-MELODY-CONTEXT": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-MELODY-CONTOUR": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-DECLAMATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-HARMONY-PROFILES": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-DYNAMIC-RELATIVE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [
+        "NOMF12"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-TEMPO-NOTE-UNIT": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [
+        "NOMF01"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-ARTIC-PORTATO": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-MUTE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-INSTRUMENT-MULTIAXIS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [
+        "NOMF02"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-VIOLIN-PARTS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-VIOLA-TUNING": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-CELLO-TUNING": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-BASS-NOTATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-GUITAR-TUNING": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "NOMF03"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-HARPSICHORD-MECHANISM": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-PIANO-MECHANISM": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-PIANO-PEDALS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-WOODWIND-EDGE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-TRANSPOSE-CLARINET-B": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "NOMF04"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-TRANSPOSE-ENGLISH-HORN": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "NOMF05"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-CONTRABASSOON-TRANSPOSE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "NOMF06"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-BRASS-TUBE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-ORGAN-AIR": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-ORGAN-STOPS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-TIMPANI": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-SNARE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-TAMBOURINE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-PERCUSSION-NOTATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-CELESTA": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "NOMF07"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-VIBRAPHONE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-TUBULAR-BELLS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-TRIANGLE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-XYLO-MARIMBA": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-MARACAS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-RATCHET-CLAPPER": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-CHAMBER-ENSEMBLES": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-ORCHESTRAL-GROUPS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-SCORE-PART": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-VOCAL-PRODUCTION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-VOCAL-CHOIR-TYPES": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-TENOR-NOTATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [
+        "NOMF08"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-FORM-DEPENDENCE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-CYCLE-LINKS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-CADENZA": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-LEITMOTIF": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-DOCUMENTATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-REGIONS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-TEXT": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-METRIC": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03",
+        "II-NOM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-PENTATONIC": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [
+        "NOMF09"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-HIGHLAND-SCALE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-01",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [
+        "NOMF10"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-VARIANTS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [
+        "NOMF11"
+      ],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-SONG-FUNCTION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-DANCE-REGIONS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03",
+        "II-NOM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-STRING-INSTRUMENTS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-BAGPIPE-VARIANTS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-PERCUSSION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-BAND": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "NOM-FOLK-PERFORMANCE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -15282,6 +16086,42 @@
     ],
     "ABCF10": [
       "ABC-RECITATIVE"
+    ],
+    "NOMF12": [
+      "NOM-DYNAMIC-RELATIVE"
+    ],
+    "NOMF01": [
+      "NOM-TEMPO-NOTE-UNIT"
+    ],
+    "NOMF02": [
+      "NOM-INSTRUMENT-MULTIAXIS"
+    ],
+    "NOMF03": [
+      "NOM-GUITAR-TUNING"
+    ],
+    "NOMF04": [
+      "NOM-TRANSPOSE-CLARINET-B"
+    ],
+    "NOMF05": [
+      "NOM-TRANSPOSE-ENGLISH-HORN"
+    ],
+    "NOMF06": [
+      "NOM-CONTRABASSOON-TRANSPOSE"
+    ],
+    "NOMF07": [
+      "NOM-CELESTA"
+    ],
+    "NOMF08": [
+      "NOM-TENOR-NOTATION"
+    ],
+    "NOMF09": [
+      "NOM-FOLK-PENTATONIC"
+    ],
+    "NOMF10": [
+      "NOM-FOLK-HIGHLAND-SCALE"
+    ],
+    "NOMF11": [
+      "NOM-FOLK-VARIANTS"
     ]
   }
 }

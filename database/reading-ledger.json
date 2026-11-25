@@ -2436,6 +2436,104 @@
         "lastPdfPage": 96,
         "editionConfirmed": false
       }
+    },
+    {
+      "sourceId": "WOJ-NOM-2004-UPLOAD",
+      "ranges": [
+        [
+          1,
+          104
+        ]
+      ],
+      "status": "sequential-text-reading-selected-page-images",
+      "claimIds": [
+        "NOM-MUSIC-CLASSIFICATION",
+        "NOM-METER-RHYTHM",
+        "NOM-RHYTHM-DANCE-MARCH",
+        "NOM-MELODY-CONTEXT",
+        "NOM-MELODY-CONTOUR",
+        "NOM-DECLAMATION",
+        "NOM-HARMONY-PROFILES",
+        "NOM-DYNAMIC-RELATIVE",
+        "NOM-TEMPO-NOTE-UNIT",
+        "NOM-ARTIC-PORTATO",
+        "NOM-MUTE",
+        "NOM-INSTRUMENT-MULTIAXIS",
+        "NOM-VIOLIN-PARTS",
+        "NOM-VIOLA-TUNING",
+        "NOM-CELLO-TUNING",
+        "NOM-BASS-NOTATION",
+        "NOM-GUITAR-TUNING",
+        "NOM-HARPSICHORD-MECHANISM",
+        "NOM-PIANO-MECHANISM",
+        "NOM-PIANO-PEDALS",
+        "NOM-WOODWIND-EDGE",
+        "NOM-TRANSPOSE-CLARINET-B",
+        "NOM-TRANSPOSE-ENGLISH-HORN",
+        "NOM-CONTRABASSOON-TRANSPOSE",
+        "NOM-BRASS-TUBE",
+        "NOM-ORGAN-AIR",
+        "NOM-ORGAN-STOPS",
+        "NOM-TIMPANI",
+        "NOM-SNARE",
+        "NOM-TAMBOURINE",
+        "NOM-PERCUSSION-NOTATION",
+        "NOM-CELESTA",
+        "NOM-VIBRAPHONE",
+        "NOM-TUBULAR-BELLS",
+        "NOM-TRIANGLE",
+        "NOM-XYLO-MARIMBA",
+        "NOM-MARACAS",
+        "NOM-RATCHET-CLAPPER",
+        "NOM-CHAMBER-ENSEMBLES",
+        "NOM-ORCHESTRAL-GROUPS",
+        "NOM-SCORE-PART",
+        "NOM-VOCAL-PRODUCTION",
+        "NOM-VOCAL-CHOIR-TYPES",
+        "NOM-TENOR-NOTATION",
+        "NOM-FORM-DEPENDENCE",
+        "NOM-CYCLE-LINKS",
+        "NOM-CADENZA",
+        "NOM-LEITMOTIF",
+        "NOM-FOLK-DOCUMENTATION",
+        "NOM-FOLK-REGIONS",
+        "NOM-FOLK-TEXT",
+        "NOM-FOLK-METRIC",
+        "NOM-FOLK-PENTATONIC",
+        "NOM-FOLK-HIGHLAND-SCALE",
+        "NOM-FOLK-VARIANTS",
+        "NOM-FOLK-SONG-FUNCTION",
+        "NOM-FOLK-DANCE-REGIONS",
+        "NOM-FOLK-STRING-INSTRUMENTS",
+        "NOM-FOLK-BAGPIPE-VARIANTS",
+        "NOM-FOLK-PERCUSSION",
+        "NOM-FOLK-BAND",
+        "NOM-FOLK-PERFORMANCE"
+      ],
+      "remaining": "Przeczytano cały dostępny tekst rozdziałów s.9–104, spis i dane wydania; obejrzano wskazane tabele, partytury i przykłady nutowe. Karty 2 i 6 nie zwróciły tekstu ani obrazu w odczycie. Nie zweryfikowano indywidualnie wszystkich nut, wszystkich ilustracji, każdego przykładu repertuarowego i każdej historycznej tezy. Brak erraty w dostępnej końcówce pliku, osobnej erraty nie zweryfikowano. Uproszczenia i nieścisłości wyłączono z automatycznych reguł (sources.json editionAudit).",
+      "errataReview": {
+        "status": "not-present-in-available-ending",
+        "editionConfirmed": true,
+        "externalErrataChecked": false
+      },
+      "textSections": [
+        [
+          9,
+          24
+        ],
+        [
+          25,
+          55
+        ],
+        [
+          56,
+          91
+        ],
+        [
+          92,
+          104
+        ]
+      ]
     }
   ]
 }

@@ -1100,9 +1100,96 @@
       "type": "theory",
       "url": "https://pwm.sklep.pl/nauka-o-muzyce",
       "status": "verified-partial",
-      "note": "URL katalogowy; odczyt z PDF użytkownika. Danuta Wójcik, Nauka o muzyce. Wiadomości wstępne, instrumenty, formy i polska muzyka ludowa, Musica Iagellonica, Kraków 2004 (karta tytułowa), wyd. III, copyright 2001, ISBN 83-7099-104-1. 104 strony PDF, 1175258 bajtów. Odczyt s.3–30,53–59,62–70,78–82,85–90,92–95,99–104 w dostępnych fragmentach; obrazy spisu, tabeli instrumentów, przykładów i schematów s.13–19,26,28–29,63–65,67,69–70. Nie przeczytano całej książki. Błędne KV 459 na s.17; nieścisłość jednostki natężenia s.20. Nie utożsamiać szkolnej klasyfikacji z uniwersalną taksonomią ani historycznych uogólnień z aktualnym stanem badań.",
+      "note": "URL katalogowy; odczyt z PDF użytkownika. Danuta Wójcik, Nauka o muzyce. Wiadomości wstępne, instrumenty, formy i polska muzyka ludowa, Musica Iagellonica, Kraków 2004 (karta tytułowa), wyd. III, copyright 2001, ISBN 83-7099-104-1. 104 strony PDF, 1175258 bajtów. Odczyt s.3–30,53–59,62–70,78–82,85–90,92–95,99–104 w dostępnych fragmentach; obrazy spisu, tabeli instrumentów, przykładów i schematów s.13–19,26,28–29,63–65,67,69–70. Wstępny wybiórczy odczyt został zastąpiony ciągłym przeglądem tekstu i wybranych obrazów 2026-11-25. Błędne KV 459 na s.17; nieścisłość jednostki natężenia s.20. Nie utożsamiać szkolnej klasyfikacji z uniwersalną taksonomią ani historycznych uogólnień z aktualnym stanem badań. Przeczytano tekst wszystkich rozdziałów (s.9–104), spis treści i kartę wydania. Obejrzano tabele s.36–39, partyturę i rozmieszczenie s.52–53, przykłady s.17,60–61,95–99,101,103–104; nie przeprowadzono transkrypcji każdej nuty ani przeglądu każdego obrazu. Ostatnia strona 104 zamyka materiał o kapelach; brak erraty w dostarczonym pliku, osobna errata niezweryfikowana. Nie aktualizowano historycznych danych z pamięci.",
       "accessKind": "user-upload",
-      "fileName": "ilide.info-nauka-o-muzyce-danuta-wojcik-pr_fa6290171f1cb44eacd71d76cddceb7d.pdf"
+      "fileName": "ilide.info-nauka-o-muzyce-danuta-wojcik-pr_fa6290171f1cb44eacd71d76cddceb7d.pdf",
+      "editionAudit": {
+        "checkedAt": "2026-11-25",
+        "errataInAvailableFile": "not-found",
+        "externalErrata": "not-checked",
+        "flagged": [
+          {
+            "page": 17,
+            "target": "Mozart: Sonata c-moll KV 459",
+            "reason": "Niezgodność identyfikacji repertuaru wskazana już w rejestrze; nie wykorzystywać numeru katalogowego ani przykładu bez sprawdzenia wydania nut."
+          },
+          {
+            "page": 20,
+            "target": "decybel jako jednostka natężenia",
+            "reason": "Nie przenosić opisu jednostki ani wartości dB do generatora dynamiki; istniejący materiał akustyczny wymaga odrębnego sprawdzenia."
+          },
+          {
+            "page": 23,
+            "target": "glissando, col legno",
+            "reason": "Nie narzucać jednego modelu ciągłości wysokości na instrumenty klawiszowe i smyczkowe; opis col legno zawęża praktykę do uderzania."
+          },
+          {
+            "page": 26,
+            "target": "klawesyn w tabeli uderzanych",
+            "reason": "Przypis pod tabelą i s.31 wyraźnie wskazują szarpanie struny; DROB-KEYBOARD rozróżnia mechanizmy."
+          },
+          {
+            "page": 35,
+            "target": "strój C i uogólniona transpozycja Es",
+            "reason": "W tym samym rozdziale są pikulina i kontrafagot, a tabela s.37 oddziela klarnet basowy. Nie budować mapy transpozycji tylko z nazwy stroju."
+          },
+          {
+            "page": 41,
+            "target": "wyłączność kotłów wśród strojoných membranofonów",
+            "reason": "Nie wykorzystywać jako uniwersalnej reguły; wymagane źródło szczegółowe."
+          },
+          {
+            "page": 44,
+            "target": "transpozycja dzwonków",
+            "reason": "Nie wdrażać zakresu lub transpozycji dzwonków z tej tabeli bez niezależnej weryfikacji."
+          },
+          {
+            "page": 46,
+            "target": "dzwony rurowe i gong",
+            "reason": "Konkretna transpozycja i uogólnienie o nieokreślonej wysokości gongów wymagają kontroli; tekst sam wymienia gongi strojone."
+          },
+          {
+            "page": 48,
+            "target": "marimbafon – ksylorimba",
+            "reason": "Nie tworzyć aliasu identycznych instrumentów bez dodatkowego źródła."
+          },
+          {
+            "page": 50,
+            "target": "kwintet smyczkowy",
+            "reason": "Podano jeden wariant z kontrabasem; nie jedyny skład."
+          },
+          {
+            "page": 54,
+            "target": "kontralt i kontratenor",
+            "reason": "Nie utożsamiać typów głosu na podstawie sformułowania podręcznika."
+          },
+          {
+            "page": 67,
+            "target": "snucie motywiczne wyłącznie figuracyjne",
+            "reason": "ABC s.37 wyróżnia również model selektywny; uproszczenie zależne od poziomu."
+          },
+          {
+            "page": 83,
+            "target": "Mozart c-moll KV 459",
+            "reason": "Powtórzona niezweryfikowana identyfikacja z s.17; nie używać katalogowego identyfikatora."
+          },
+          {
+            "page": 86,
+            "target": "etymologia missa",
+            "reason": "Nie kopiować tłumaczenia etymologicznego ani uproszczenia liczby części mszy jako reguły."
+          },
+          {
+            "page": 95,
+            "target": "brak przedtaktów w polskim folklorze",
+            "reason": "Nie traktować tendencji jako warunku klasyfikacji; warianty i regionalna zmienność wymagają kontekstu."
+          },
+          {
+            "page": 101,
+            "target": "diable skrzypce jako jedyny autentyczny szarpany instrument ludowy",
+            "reason": "Nie kodować wyłączności ani pochodzenia jako faktu ogólnego bez sprawdzenia literatury etnograficznej."
+          }
+        ]
+      }
     },
     {
       "id": "MOZARTEUM-K457",
