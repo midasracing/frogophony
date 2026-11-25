@@ -3518,6 +3518,200 @@
       ],
       "status": "projekt-do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rozpoznanie-artykulacji",
+      "haslo": "staccato-legato",
+      "polecenie": "Porównaj zapis dwóch rodzajów artykulacji.",
+      "parametry": [
+        "rodzaj artykulacji",
+        "wartości nut",
+        "model wykonawczy"
+      ],
+      "zasadyOceny": "Sprawdź znaczenie znaku; nie narzucaj dokładnego czasu brzmienia.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.148"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "arpeggio-grupowanie",
+      "haslo": "arpeggio-dwie-pieciolinie",
+      "polecenie": "Określ kolejność rozpoczynania arpeggia przy jednej albo dwóch liniach falistych.",
+      "parametry": [
+        "układ głosów",
+        "liczba linii",
+        "zakres",
+        "profil autora"
+      ],
+      "zasadyOceny": "Odróżnij wspólny ciąg od dwóch równoczesnych wejść; nie oceniaj milisekund.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.151"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutka-typ",
+      "haslo": "przednutka-dluga",
+      "polecenie": "Odróżnij przednutkę długą i krótką, wskaż sposób rozłożenia akcentu w opisanym modelu.",
+      "parametry": [
+        "typ",
+        "wartość",
+        "podział",
+        "profil historyczny"
+      ],
+      "zasadyOceny": "Długa przejmuje akcent w opisanym modelu, krótka pozostawia na głównej; dokładne czasy tylko przy jawnym profilu.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.153–155"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutki-grupy",
+      "haslo": "przednutki-mordentowe",
+      "polecenie": "Rozpoznaj rodzaj grupy przednutek z podanej kolejności sąsiadów.",
+      "parametry": [
+        "nuta główna",
+        "tonacja",
+        "zapisane przednutki"
+      ],
+      "zasadyOceny": "Porównaj relacje wysokości i kolejność, nie narzucaj czasu.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.155–157"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "obiegnik-kontekst",
+      "haslo": "obiegnik-realizacja",
+      "polecenie": "Wyjaśnij wpływ położenia znaku obiegnika na interpretację.",
+      "parametry": [
+        "miejsce znaku",
+        "przebieg poprzedzający",
+        "profil historyczny"
+      ],
+      "zasadyOceny": "Dopuszczaj warianty wynikające z kontekstu. Nie generuj jednego obowiązkowego przebiegu nutowego bez recenzji.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.159–160"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tryl-rozpoznanie",
+      "haslo": "tryl-realizacja",
+      "polecenie": "Wskaż dźwięki używane w trylu przy zadanym górnym sąsiedzie.",
+      "parametry": [
+        "dźwięk główny",
+        "górny sąsiad",
+        "ewentualna alteracja"
+      ],
+      "zasadyOceny": "Oceniaj wskazane wysokości; liczba powtórzeń i nuta początkowa nie są z góry ustalone.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.160–162"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "repetycja-prosta",
+      "haslo": "repetycje",
+      "polecenie": "Podaj kolejność odcinków przy pojedynczej repetycji.",
+      "parametry": [
+        "odcinki",
+        "zakres repetycji"
+      ],
+      "zasadyOceny": "Jedynie prosta niezagnieżdżona repetycja; brak znaku początkowego oznacza początek.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.163"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "volta-prosta",
+      "haslo": "repetycje",
+      "polecenie": "Podaj kolejność odcinków przy pierwszym i drugim zakończeniu.",
+      "parametry": [
+        "odcinek wspólny",
+        "pierwsze zakończenie",
+        "drugie zakończenie"
+      ],
+      "zasadyOceny": "Oczekiwany przebieg wspólny–pierwsze–wspólny–drugie.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.163"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "da-capo-proste",
+      "haslo": "da-capo-senza",
+      "polecenie": "Wskaż przebieg wykonania po poleceniu da capo al fine.",
+      "parametry": [
+        "odcinki",
+        "położenie fine",
+        "położenie da capo",
+        "profil repetycji"
+      ],
+      "zasadyOceny": "Tylko prosta nawigacja bez zagnieżdżenia; fine działa w powrocie.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.163–164"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "luk-funkcje",
+      "haslo": "frazowanie",
+      "polecenie": "Rozróżnij funkcję łuku na podstawie kontekstu.",
+      "parametry": [
+        "wysokości",
+        "wartości",
+        "głosy",
+        "oznaczenia",
+        "deklarowany kontekst"
+      ],
+      "zasadyOceny": "Rozróżniaj przetrzymanie, legato i frazowanie; sam kształt nie rozstrzyga.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§54, s.152–153; §9, s.28"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ],
   "audyt": [

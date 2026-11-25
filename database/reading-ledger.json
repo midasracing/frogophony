@@ -1162,7 +1162,19 @@
           "pentatonika-centralna",
           "repercussa-finalis",
           "transpozycja-metody",
-          "dwie-sekundy-zwiekszone-modele"
+          "dwie-sekundy-zwiekszone-modele",
+          "staccato-legato",
+          "tremolo-wartosci",
+          "arpeggio-dwie-pieciolinie",
+          "przednutka-dluga",
+          "przednutka-krotka",
+          "przednutki-mordentowe",
+          "toczek",
+          "przednutki-obiegnikowe",
+          "obiegnik-realizacja",
+          "tryl-realizacja",
+          "skroty-powtorzen",
+          "da-capo-senza"
         ],
         "status": "pierwsza-warstwa-wszystkich-rozdzialow-do-poglebienia",
         "uwagi": "Ponowny odczyt tekstu rozdziału I i przedmowy; PDF 2 nie zwrócił treści ani obrazu. Nie przeprowadzono kontroli każdego rysunku ani przykładu nutowego. Zakresy dotyczą nowego kompendium, nie wcześniejszej lektury. Ponowny odczyt pełnego dostępnego tekstu s.15–34, pierwsze opracowanie rozdziałów II–III. Nie przeprowadzono indywidualnej kontroli ilustracji, historycznych przykładów wykonania ani nie wykonano generatorów. Część szczegółów ma bezpośrednie odwołania do podręcznika, ale wymaga jeszcze własnych rekordów atomowych przed wdrożeniem. Przegląd wszystkich 13 rozdziałów oraz dostępnego indeksu i okładki; ponowny odczyt rozdz. IV–XIII obejmował pełny dostępny tekst s.35–57 oraz obszerne fragmenty s.59–169 (odczyt ograniczony długością fragmentów). S.58 sprawdzono na obrazie; s.169 nie udało się pobrać obrazu. Nie jest to pełna kolacja każdej nuty, tabeli, terminu, wyjątku ani akapitu. Pozostają: pełny słownik s.75–82, tabele interwałów i znaków, szczegółowe grupowanie, historyczne ozdobniki i przykłady repertuarowe. Nie uznano braku osobnej erraty. Wykryto niespójności odczytu/druku na s.79 i 169, wymagają kolacji. Nie dopuszczono haseł do publikacji.",
@@ -1284,7 +1296,7 @@
           "liczbaTerminow": 179,
           "liczbaInterwalow": 27,
           "liczbaRelacjiStopni": 42,
-          "liczbaProjektowZadan": 18,
+          "liczbaProjektowZadan": 28,
           "uwagi": "Dalsza kolacja nut, pełnych tabel skal, ćwiczeń, indeksu i innych rozdziałów pozostaje otwarta. Nie uznawać projektów zadań za wykonane testy silnika.",
           "skaleITonacje": {
             "plik": "database/kompendium/wesolowski-skale-i-tonacje.json",
@@ -1294,6 +1306,22 @@
             "liczbaParEnharmonicznych": 26,
             "liczbaModeli": 12,
             "uwagi": "Dane pochodne z modeli autora, nie niezależne twierdzenia. Nierozpoznane przypadki zapisane jako blokady."
+          },
+          "ozdobniki": {
+            "zakresyPonownegoOdczytu": [
+              [
+                148,
+                165
+              ]
+            ],
+            "obrazy": [
+              154,
+              159,
+              164
+            ],
+            "liczbaNowychHasel": 12,
+            "liczbaProjektowZadan": 10,
+            "uwagi": "Dane opisowe, nie transkrypcje historycznych realizacji. Odczyt tekstu i trzech obrazów; nie przeprowadzono pełnej kontroli każdej nuty, symbolu ani nagrania. Nie dopuścić generatora czasów ornamentów na podstawie samych definicji."
           }
         }
       }

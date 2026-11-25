@@ -3300,6 +3300,346 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "staccato-legato",
+      "termin": "Staccato, legato, spiccato i portato",
+      "aliasy": [
+        "artykulacja",
+        "skracanie",
+        "łączenie",
+        "klin"
+      ],
+      "definicja": "Cztery sposoby różnicowania oddzielania i łączenia dźwięków w szkolnej systematyce autora.",
+      "omowienie": "Staccato oddziela, legato zachowuje ciągłość, spiccato jest w tym ujęciu ostrzejsze, a portato pośrednie: dźwięki wyraźne i miękkie, rozdzielone niewielkimi przerwami. Autor podaje przybliżone skrócenie staccato o połowę; nie określa ścisłego współczynnika. Kropkę staccato umieszcza się nad lub pod nutą, odmiennie od kropki przedłużającej.",
+      "przyklady": [
+        "Model autorski: W modelu odsłuchowym legato i staccato mogą mieć identyczne zapisane wartości, a różnić się rzeczywistym czasem wybrzmienia."
+      ],
+      "ograniczenia": [
+        "Technika smyczkowa spiccato wymaga osobnego profilu. Nie narzucać 50% jako jedynego wykonania."
+      ],
+      "podstawa": [
+        "WES-ARTIC",
+        "WES-ARTIC-DURATION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.148"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tremolo-wartosci",
+      "termin": "Skrócony zapis tremola i wartości wykonawcze",
+      "aliasy": [
+        "tremolando",
+        "przekreślenia",
+        "powtarzanie"
+      ],
+      "definicja": "Tremolo może powtarzać jedną wysokość albo naprzemiennie dźwięki lub współbrzmienia.",
+      "omowienie": "Autor pokazuje realizacje skróconego zapisu zależne od liczby przekreśleń oraz tempa: w omawianych przykładach zmienia się podział na szesnastki lub trzydziestodwójki. Odróżniaj zapis wskazujący dokładne powtórzenia od efektu wykonawczego o nieustalonej liczbie powtórzeń.",
+      "przyklady": [
+        "Model autorski: Autorski model rozpoznawania: jeden powtarzany dźwięk kontra dwie naprzemienne wysokości."
+      ],
+      "ograniczenia": [
+        "Nie rekonstruować graficznych przykładów 298–299 bez kontroli nut; nie stosować stałego tempa tremola."
+      ],
+      "podstawa": [
+        "WES-TREMOLO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.149–151"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "arpeggio-dwie-pieciolinie",
+      "termin": "Arpeggio w zapisie na dwóch pięcioliniach",
+      "aliasy": [
+        "linia falista",
+        "arpeggiowanie",
+        "obsada"
+      ],
+      "definicja": "Arpeggio w modelu autora rozkłada współbrzmienie na szybkie kolejne wejścia składników.",
+      "omowienie": "Jedna pionowa linia falista obejmująca obie pięciolinie oznacza wspólną realizację od najniższego dźwięku. Dwie osobne linie oznaczają, że rozkład w partiach obu rąk rozpoczyna się równocześnie. Po wejściu składników ich brzmienie jest zatrzymane w opisanym modelu.",
+      "przyklady": [
+        "Model autorski: Model: dolna grupa c–g, górna e1–g1. Przy wspólnej linii rozpoczyna c, przy dwóch osobnych mogą równocześnie rozpocząć c i e1."
+      ],
+      "ograniczenia": [
+        "Nie stosować tego opisu bez uwzględnienia odmiennego kierunku, tłumienia i innych oznaczeń."
+      ],
+      "podstawa": [
+        "WES-ARPEGGIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.151"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutka-dluga",
+      "termin": "Przednutka długa (appoggiatura)",
+      "aliasy": [
+        "akcent",
+        "przednutka nieprzekreślona",
+        "wartość główna"
+      ],
+      "definicja": "Przednutka długa jest zwykle sąsiadem sekundowym nuty głównej, zapisywanym małą nieprzekreśloną nutą.",
+      "omowienie": "W modelu autora w podziale dwójkowym odbiera nucie głównej swoją wartość i przejmuje jej akcent, w trójkowym często zajmuje dwie trzecie jej czasu. Szczególny przypadek na s.154: gdy po nucie głównej następuje kolejna tej samej wysokości, przednutka może zająć całą wartość pierwszej nuty głównej.",
+      "przyklady": [
+        "Model autorski: W modelu dwójkowym z jawną przednutką ósemkową przed ćwierćnutą oba dźwięki mogą trwać po ósemce."
+      ],
+      "ograniczenia": [
+        "Nie przenosić tych czasów automatycznie na wszystkie epoki. Autor sam odsyła do szczegółowych badań wykonawczych."
+      ],
+      "podstawa": [
+        "WES-GRACE-LONG"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.153–154"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutka-krotka",
+      "termin": "Przednutka krótka",
+      "aliasy": [
+        "przekreślona ósemka",
+        "akcent nuty głównej"
+      ],
+      "definicja": "Przednutka krótka jest w opisie autora zazwyczaj małą przekreśloną ósemką, bez ściśle ustalonego czasu wykonania.",
+      "omowienie": "Autor rozróżnia skrócenie nuty poprzedzającej, częstsze w omawianej konwencji, oraz następnej. Akcent w tym modelu pozostaje na nucie głównej. Przednutka zapisana przed kreską taktową może ujawniać zamysł odebrania czasu poprzedniej nucie.",
+      "przyklady": [
+        "Model autorski: Model pytania: wskaż, na której nucie autor umieszcza akcent w opisanej realizacji krótkiej przednutki."
+      ],
+      "ograniczenia": [
+        "Nie ustalać czasu na podstawie samego kształtu małej nuty; przednutki historyczne mają odmienne interpretacje."
+      ],
+      "podstawa": [
+        "WES-GRACE-SHORT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.154–155"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutki-mordentowe",
+      "termin": "Przednutki mordentowe i zamienne",
+      "aliasy": [
+        "grupa przednutek",
+        "sekunda górna",
+        "sekunda dolna"
+      ],
+      "definicja": "Wesołowski nazywa mordentowymi dwie przednutki: pierwszą na wysokości głównej, drugą na jej górnym sąsiedzie. Zamienne zaczynają się od dolnego, następnie górnego sąsiada.",
+      "omowienie": "W obu przypadkach po drobnych nutach następuje nuta główna. Terminologia dotyczy zapisanego kształtu grupy, a nie bezwarunkowej realizacji czasowej.",
+      "przyklady": [
+        "Model autorski: Dla głównego g: mordentowe g–a, następnie g; zamienne f–a, następnie g w materiale C-dur."
+      ],
+      "ograniczenia": [
+        "Nie wymagać podanego materiału diatonicznego w każdej tonacji; alteracje i czas należy określić osobno."
+      ],
+      "podstawa": [
+        "WES-GRACE-SHORT",
+        "WES-MORDENT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.155"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "toczek",
+      "termin": "Toczek",
+      "aliasy": [
+        "przednutki",
+        "postęp diatoniczny",
+        "postęp chromatyczny"
+      ],
+      "definicja": "Autor nazywa toczkiem dwie lub trzy przednutki dochodzące do głównej po stopniach diatonicznych albo chromatycznych.",
+      "omowienie": "Człon wyróżnia sposób dochodzenia do głównej, nie określona liczba milisekund. Kierunek może wynikać z zapisanego przykładu.",
+      "przyklady": [
+        "Model autorski: Model: f–g jako przednutki dochodzące do a."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać każdej grupy trzech drobnych nut z toczkiem; sprawdzić ich następstwo."
+      ],
+      "podstawa": [
+        "WES-GRACE-SHORT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.155–156"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutki-obiegnikowe",
+      "termin": "Przednutki obiegnikowe",
+      "aliasy": [
+        "grupa trzech",
+        "cztery lub pięć drobnych nut"
+      ],
+      "definicja": "W opisie autora trzy przednutki tworzące postęp diatoniczny albo chromatyczny, z główną wysokością w środku, stanowią typ obiegnikowy.",
+      "omowienie": "Autor pokazuje również większe grupy cztero- i pięcionutowe oraz indywidualne ornamenty, które nie podlegają jednolitym zasadom.",
+      "przyklady": [
+        "Model autorski: Model: f–g–a jako drobne nuty przed głównym g."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać zapisanej grupy przednutek z samym znakiem obiegnika; nie ustalać czasu bez kontekstu."
+      ],
+      "podstawa": [
+        "WES-GRACE-SHORT",
+        "WES-TURN"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.156–157"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "obiegnik-realizacja",
+      "termin": "Obiegnik: położenie znaku i początek realizacji",
+      "aliasy": [
+        "nad nutą",
+        "między nutami",
+        "alteracja sąsiada"
+      ],
+      "definicja": "W szkolnym modelu Wesołowskiego obiegnik nad nutą i obiegnik pomiędzy nutami wymagają odróżnienia.",
+      "omowienie": "W środku przebiegu obiegnik nad nutą często rozpoczyna górny sąsiad; przy początku myśli lub zejściu sekundowym na nutę ozdobioną autor preferuje główną. Znak między nutami zajmuje część wartości pierwszej; przy nucie z kropką autor opisuje realizację na słabej części grupy z zachowaniem czasu wyrażonego kropką. Znaki nad i pod ornamentem dotyczą odpowiedniego sąsiada.",
+      "przyklady": [
+        "Model autorski: Model rozpoznawania: znak nad nutą a znak między dwiema nutami nie określają identycznego miejsca realizacji."
+      ],
+      "ograniczenia": [
+        "Wymagane oznaczenie kontekstu i epoki. Warianty repertuarowe pozostają otwarte, nie narzucać jednego schematu MIDI."
+      ],
+      "podstawa": [
+        "WES-TURN"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.159–160"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tryl-realizacja",
+      "termin": "Tryl: początek, zakończenie i łańcuch",
+      "aliasy": [
+        "górna sekunda",
+        "tryl łańcuchowy",
+        "przednutki"
+      ],
+      "definicja": "Tryl wykorzystuje wielokrotne naprzemienne brzmienie głównej i górnego sąsiada.",
+      "omowienie": "Rozpoczęcie może wypaść na głównej lub sąsiedniej górnej. Przednutki mogą określać początek albo zakończenie. W krótkich wartościach lub szybkim tempie realizacja może upodobnić się do obiegnika lub mordentu. Autor nazywa tryl obejmujący kolejne nuty w postępie sekundowym łańcuchowym.",
+      "przyklady": [
+        "Model autorski: Model: tryl na c w materiale C-dur wykorzystuje c i d; sama definicja nie określa liczby zmian."
+      ],
+      "ograniczenia": [
+        "Nie automatyzować wyboru początku, liczby nut ani dokładnej prędkości bez dodatkowej wskazówki."
+      ],
+      "podstawa": [
+        "WES-TRILL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.160–162"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "skroty-powtorzen",
+      "termin": "Skróty powtarzanych nut, figur i taktów",
+      "aliasy": [
+        "bis",
+        "powtórzenie figury",
+        "skróty orkiestrowe"
+      ],
+      "definicja": "Skrót pisowni pozwala pominąć ponowne zapisywanie identycznych zdarzeń, figur albo całych taktów.",
+      "omowienie": "Wesołowski opisuje ukośne przekreślenia w zapisie powtórzeń oraz znak kreski z kropkami, a także słowo bis oznaczające dwukrotność. Wskazanie skrótu i jego zakres muszą być jednoznaczne.",
+      "przyklady": [
+        "Model autorski: Model: oznaczenie bis nad pojedynczym wskazanym taktem pozwala powtórzyć go dwa razy łącznie w opisanej konwencji."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać wszystkich ukośnych znaków z jednym typem powtórzenia; dokładne glify wymagają sprawdzenia obrazu."
+      ],
+      "podstawa": [
+        "WES-REPEATS",
+        "WES-TREMOLO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.162–163"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "da-capo-senza",
+      "termin": "Da capo, dal segno i pomijanie repetycji",
+      "aliasy": [
+        "fine",
+        "senza ripetizione",
+        "coda"
+      ],
+      "definicja": "Oznaczenia nawigacji pozwalają kierować wykonawcę do początku lub oznaczonego miejsca bez przepisywania całego utworu.",
+      "omowienie": "Da capo al fine prowadzi od początku do fine na powrocie. Dal segno odsyła do znaku. Wariant da capo senza repetizione al fine oznacza, że w powrotnym przebiegu nie wykonuje się repetycji. Źródło pokazuje też odrębny odcinek cody.",
+      "przyklady": [
+        "Model autorski: Model: A ze znacznikiem fine, następnie B z da capo al fine daje A–B–A."
+      ],
+      "ograniczenia": [
+        "Nie rozszerzać schematu na zagnieżdżone repetycje, nawigację warunkową i wszystkie współczesne konwencje cody bez osobnego testu."
+      ],
+      "podstawa": [
+        "WES-NAVIGATION",
+        "WES-REPEATS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.163–164"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }
