@@ -6,3 +6,10 @@ dist/
 *.pdf
 *.PDF
 .private/
+
+# Generated local design output
+/design/kumka-animation/build/
+/design/kumka-animation/kumka.riv
+/design/kumka-vector/build/
+__pycache__/
+.DS_Store

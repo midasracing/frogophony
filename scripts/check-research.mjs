@@ -1,5 +1,5 @@
 import { readFileSync } from 'node:fs';
-const read=name=>JSON.parse(readFileSync(new URL('../docs/research/'+name,import.meta.url),'utf8'));
+const read=name=>JSON.parse(readFileSync(new URL('../database/'+name,import.meta.url),'utf8'));
 function check(s,c,k,g,m,v){
 const errors=[],nonempty=x=>typeof x==="string"&&x.trim().length>0;
 function index(items,label){const map=new Map();if(!Array.isArray(items)){errors.push("missing "+label);return map;}for(const x of items){if(!x||!nonempty(x.id)||map.has(x.id)){errors.push("invalid id "+label);continue;}map.set(x.id,x);}return map;}

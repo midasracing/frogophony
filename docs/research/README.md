@@ -1,50 +1,30 @@
-# Frogophony — trwała baza referencyjna
-Audyt 2026-11-24, runda 5. Dokumentacja robocza, nie certyfikacja pedagogiczna. Zapisano własne syntezy i odnośniki, nie kopie cudzych podręczników.
+# Research references
 
-## Kolejność korzystania z dokumentów
-1. [Rejestr źródeł](sources.json): typ, adres, status sprawdzenia i ograniczenia.
-2. [Program i rekrutacja](audits/curriculum-audit.md): matryca pokrycia i poprawki do planu.
-3. [Kompendium muzyczne](music-reference.md): reguły, przykłady, wyjątki i wymagania dla autorów.
-4. [Silniki i testy](engine-audit.md): ocena bibliotek, ryzyka, kryteria wdrożenia.
-5. [Przypadki wzorcowe](golden-cases.json): autorskie dane testowe, do zaimplementowania i sprawdzenia.
-6. [Proces wydawniczy](quality-policy.md): kwalifikacja treści, licencje, recenzje, dostępność.
-7. [Rozwinięcie II stopnia i harmonii](advanced-curriculum.md): moduły, źródła i zadania.
-8. [Plan jakości zapisu i odsłuchu](notation-contract.md): semantyka, testy i reguły importu.
-9. [Plan repertuaru i wiedzy o muzyce](repertoire-reference.md): wiarygodne katalogi, zadania, metadane.
-10. [Bibliografia polska](audits/bibliography-audit.md): zweryfikowane tytuły, zakres lektury, priorytety.
-11. [Oficjalna macierz kompetencji](official-curriculum.json): zakres z konkretnymi stronami urzędowego PDF.
-12. [Twierdzenia sprawdzone źródłowo](verified-claims.json): ograniczona lista dopuszczalnych faktów.
-13. [Polityka źródłowa](source-policy.md): obowiązkowa procedura i zakaz domysłów.
-14. [Manifest lekcji](lesson-manifest.json): status dopuszczenia.
-15. [Konwencje i rozbieżności](conventions.md): polskie i angielskie systemy, wykryte błędy.
-16. [Mapa luk](coverage-map.json): częściowe wsparcie źródłowe.
-17. [Polska biblioteka referencyjna](polish-reference-library.md): priorytetowe kompendia, dostępność i kolejność weryfikacji.
-18. [Raport zmian](audits/audit-log.md): błędy, rozstrzygnięcia i luki.
+Canonical data lives in [database/](../../database/README.md). These notes explain context and implementation constraints, not approved lessons.
 
-Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md w katalogu głównym. W razie sprzeczności z wcześniejszymi rundami obowiązuje nowsza korekta poparta źródłem. Nie deklarować zgodności z całym szkolnictwem, dopóki macierz wymagań nie zostanie zamknięta. Status source-reviewed oznacza weryfikację materiałów źródłowych, nie zatwierdzenie przez nauczyciela ani test wykonany na urządzeniu.
+## Policies
+- [Source policy](source-policy.md)
+- [Quality policy](quality-policy.md)
+- [Archive and reading policy](archive-policy.md)
+- [Conventions](conventions.md)
 
-- [Kolejka lektury i brakujące egzemplarze](reading-queue.md): odczytane fragmenty i priorytety pozyskania.
+## Curriculum and implementation
+- [Advanced curriculum](advanced-curriculum.md)
+- [Engine assessment](engine-audit.md)
+- [Notation contract](notation-contract.md)
+- [Repertoire](repertoire-reference.md)
 
-- [Profile harmonii Sikorski–Targosz](harmony-profiles.md): różnice w metodyce, konwencjach i ocenianiu.
+## Literature
+- [Polish reference library](polish-reference-library.md)
+- [Music theory](music-reference.md)
+- [Harmony profiles](harmony-profiles.md)
+- [Wesołowski — theory](wesolowski-reference.md)
+- [Wesołowski — harmony](wesolowski-harmony-reference.md)
+- [Ear training](aural-training-reference.md)
+- [Chomiński — forms](form-analysis-reference.md)
+- [Wójcik — forms](wojcik-abc-reference.md)
+- [Wójcik — music knowledge](wojcik-nauka-reference.md)
+- [Drobner — instruments and acoustics](drobner-reference.md)
+- [Reading queue](reading-queue.md) — historical notes; the database ledger is authoritative for progress.
 
-- [Formy muzyczne — mapa lektury Chomińskiego](form-analysis-reference.md): zakres, konwencje i wnioski projektowe.
-
-- [Wesołowski — mapa lektury i ortografia](wesolowski-reference.md): dostarczony PDF, korekty terminologii i reguły zapisu.
-
-- [Wójcik — Nauka o muzyce](wojcik-nauka-reference.md): mapa lektury, korekty, instrumentoznawstwo i formy.
-
-- [Dzielska i Kaszycki — kształcenie słuchu](aural-training-reference.md): metodyka, typy ćwiczeń, konwencje zapisu i granice oceniania.
-
-- [Wójcik — ABC form muzycznych](wojcik-abc-reference.md): formy instrumentalne i wokalne, techniki XX w., zasady analizy.
-
-- [Wesołowski — Nauka harmonii](wesolowski-harmony-reference.md): wyjątki, praktyka, faktura i modulacje.
-
-- [Drobner — instrumentoznawstwo i akustyka](drobner-reference.md): strojenie, modele fizyczne, transpozycja i ograniczenia.
-
-- [Archiwum i pełna lektura](archive-policy.md), [rejestr lektury](reading-ledger.json), [indeks wiedzy](knowledge-index.json): plan przeglądu wszystkich stron oraz powiązania twierdzeń ze źródłami, kompetencjami i testami.
-
-## Organizacja
-- Dane kanoniczne: `sources.json`, `verified-claims.json`, `official-curriculum.json`, `coverage-map.json`, `golden-cases.json`, `lesson-manifest.json`.
-- Indeks pochodny: `knowledge-index.json`. Stan lektury: `reading-ledger.json`.
-- `audits/`: raporty audytów i historia korekt, nie źródło runtime.
-- Pozostałe opracowania i polityki: dokumentacja referencyjna, nie zatwierdzone lekcje. Utrzymujemy stabilne ścieżki do opracowań i danych, aby nie zerwać wcześniejszych odwołań.
+[Archived audits and correction log](../archive/audits/). Preserve evidence and apply newer source-backed corrections when they supersede earlier notes.

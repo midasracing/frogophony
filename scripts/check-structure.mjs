@@ -28,10 +28,10 @@ for (const path of all) {
     if (!candidates.some(x=>existsSync(x)&&statSync(x).isFile())) errors.push('Unresolved import: ' + name + ' -> ' + target);
   }
 }
-for (const file of ['src/App.tsx','src/features/lesson/useDemoSession.ts','src/content/demo/quizzes.ts','src/music/audio/playDemoNotes.ts','src/components/mascot/Kumka.tsx','docs/research/verified-claims.json','docs/research/audits/audit-log.md']) {
+for (const file of ['src/App.tsx','src/features/lesson/useDemoSession.ts','src/content/demo/quizzes.ts','src/music/audio/playDemoNotes.ts','src/components/mascot/Kumka.tsx','database/verified-claims.json','database/sources.json','database/reading-ledger.json','docs/archive/audits/audit-log.md']) {
   if (!existsSync(resolve(root,file))) errors.push('Missing canonical file: '+file);
 }
-for (const file of ['src/Kumka.tsx','src/styles.css','docs/research/audit-log.md']) {
+for (const file of ['src/Kumka.tsx','src/styles.css','docs/research/audit-log.md','docs/research/verified-claims.json','docs/research/knowledge-index.json','docs/research/audits','inspiracje','design/kumka-rive']) {
   if (existsSync(resolve(root,file))) errors.push('Obsolete path: '+file);
 }
 if(errors.length) { console.error(errors.join('\n')); process.exitCode=1; }

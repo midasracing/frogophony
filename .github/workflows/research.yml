@@ -2,7 +2,7 @@ name: Research provenance
 on:
   push:
     branches: [main]
-    paths: ['docs/research/**', 'scripts/**', 'src/**', 'public/**', 'package.json', '.github/workflows/research.yml']
+    paths: ['database/**', 'docs/research/**', 'docs/archive/**', 'scripts/**', 'src/**', 'public/**', 'package.json', '.github/workflows/research.yml']
   workflow_dispatch:
 permissions:
   contents: read

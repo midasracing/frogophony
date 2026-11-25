@@ -2,115 +2,49 @@
   <img src="docs/kumka-readme.png" alt="Kumka" width="110" />&nbsp;&nbsp;<img src="docs/wordmark.svg" alt="frogophony" width="220" />
 </p>
 
-## What is Frogophony?
+Frogophony is a Polish-language music learning project for ear training, music theory and general music knowledge. The long-term goal is a structured learning path from Polish music school to music academy entrance preparation.
 
-Frogophony is a browser-based music learning project. It brings ear training, music theory and general music knowledge into one place, with short interactive lessons instead of pages of passive reading.
+[Open Frogophony](https://midasracing.github.io/frogophony/)
 
-It's an **early demo**, not a finished course. The current version has three playable lesson sets, a practice mode and a small progress system. The interface is in Polish.
+## Current demo
 
-| | In the current demo |
-| :--- | :--- |
-| **Ear training** | Listen to generated notes and identify intervals. |
-| **Music theory** | Practice chords and key signatures through short questions. |
-| **Music knowledge** | Explore instruments and composers. |
-| **Feedback** | See the correct answer and a short explanation. |
-| **Progress** | Earn XP and track completed lessons in your browser. |
+Three example lesson sets, practice mode, feedback, local XP and progress. No account is needed. Audio uses synthesized Web Audio tones; neither the demo content nor the music engine is an approved course.
 
-No account is needed. Progress is stored locally on the device, not synchronized between browsers.
+Kumka, the pink toad mascot, uses [native Rive animation](design/kumka-animation/) with a static fallback.
 
-## Meet Kumka
+## Development
 
-Kumka is Frogophony's pink toad mascot. The character appears throughout the learning interface.
-
-The repository also contains a separate [Rive animation experiment](design/kumka-rive/) with idle, wave, success and encouragement motions. The web app attempts to load the animated Rive mascot and retains static artwork as a fallback.
-
-## Run locally
-
-Requires **Node.js 22.13+** and npm.
+Requires Node.js 22.13+ and npm.
 
 ```bash
-git clone https://github.com/midasracing/frogphony.git
-cd frogphony
+git clone https://github.com/midasracing/frogophony.git
+cd frogophony
 npm install
 npm run dev
 ```
 
-The development server prints the local address. To build and preview the production version:
-
 ```bash
+npm run check:structure
+npm run check:research
 npm run build
 npm run preview
 ```
 
-| Technology | Used for |
-| :--- | :--- |
-| React 19 + TypeScript | Interface and lesson logic |
-| Vite 8 | Local development and production builds |
-| Web Audio API | Synthesized exercise tones |
-| localStorage | Device-local learning progress |
-| GitHub Actions + Pages | Static deployment |
+React, TypeScript, Vite and Rive. Static deployment from main via GitHub Pages.
 
-The app is deployed from `main` via [GitHub Actions](.github/workflows/pages.yml). Vite uses `/frogphony/` as its base path for GitHub Pages.
+## Repository
 
-## Project structure
+| Directory | Purpose |
+| --- | --- |
+| [src/](src/) | Application and demo lessons |
+| [public/](public/) | Runtime assets |
+| [database/](database/) | Canonical knowledge, sources, curriculum and expected test cases |
+| [docs/](docs/) | Architecture, reference notes, policies and archived reports |
+| [design/](design/) | Editable mascot sources and design references |
+| [scripts/](scripts/) | Validation tools |
 
-```text
-src/
-├── App.tsx            # App composition
-├── app/               # Global styles
-├── components/        # Layout and Rive mascot
-├── features/          # Learning, lesson, progress, settings
-├── content/demo/      # Unapproved prototype questions
-└── music/audio/       # Prototype playback adapter
-public/                # Runtime assets only
-design/                # Editable design sources
-docs/research/         # Evidence database and research
-  audits/              # Historical audit reports
-scripts/               # Validation tools
-.github/workflows/     # CI and Pages
-```
+See [architecture](docs/architecture.md), [database guide](database/README.md) and [source policy](docs/research/source-policy.md). Educational content must be traceable to source-checked claims. Private textbook PDFs are not committed. Metadata checks are not independent musical review or engine tests.
 
-See [architecture](docs/architecture.md). Source textbooks are kept privately outside this repository.
+## Contributions and license
 
-## What's next
-
-The prototype establishes the interface and core lesson flow. The [curriculum and engineering blueprint](docs/education-blueprint.md) describes the proposed program and release quality gates. The [audited reference library](docs/research/README.md) contains source status, curriculum mapping, music-theory rules, engine assessment and proposed test fixtures; it supersedes the initial blueprint where they differ. The repository slug and Pages path remain unchanged for now. The next steps are:
-
-- More lessons across all three subjects.
-- Better audio examples, including verified instrument samples.
-- Automated tests for exercises and progress.
-- Verifying Kumka's Rive animation in supported browsers.
-- Continued accessibility and small-screen improvements.
-
-The audio in the current demo is **synthesized**, not a recorded piano. The three lesson sets are examples, not a complete curriculum.
-
-## Contributing
-
-Bug reports, accessibility improvements, lesson corrections and well-scoped pull requests are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
-
-If you want to suggest a lesson, include the learning objective, an example question, the correct answer and a short explanation. Accuracy matters more than the number of exercises.
-
-## License and assets
-
-Original source code in this repository is licensed under the [MIT License](LICENSE).
-
-**Kumka artwork, character designs and derivative animation assets are excluded from the MIT grant.** See [ASSETS.md](ASSETS.md) before reusing any visual assets. Third-party dependencies retain their own licenses.
-
----
-
-<div align="center">
-
-  <sub>Built in public by <a href="https://github.com/midasracing">midasracing</a> · <a href="https://midasracing.github.io/frogphony/">Open Frogophony</a></sub>
-
-</div>
-
-## Animated mascot (Rive)
-
-The animated Kumka is rendered by `@rive-app/react-webgl2` in `src/components/mascot/Kumka.tsx`, using the native file at `public/animations/kumka.riv`. It runs the `KumkaController` state machine on the `Kumka` artboard, with ViewModel triggers `blink`, `look`, `wave`, `success` (the schema is documented in `design/kumka-animation/rig-manifest.json`).
-
-Click Kumka on the home screen to wave. In practice questions, correct answers trigger celebration, and incorrect answers trigger a look; the finishing screen also celebrates. If Rive hasn't loaded, the approved `kumka.png` is displayed instead.
-
-The Rive asset was built locally with the Rive CLI and may need a signed publish/export if a particular Rive web runtime refuses the binary. Verify on the deployed GitHub Pages site. All asset URLs use Vite's `import.meta.env.BASE_URL` to work under the repository subpath.
-
-## Evidence policy
-Educational content follows [the source policy](docs/research/source-policy.md), [the official curriculum map](docs/research/official-curriculum.json) and [the scoped claims registry](docs/research/verified-claims.json). The current demo is not an approved curriculum. Run `npm run check:research` to validate research metadata and `npm run check:structure` to check the source layout. This is not a music or pedagogy test.
+Read [CONTRIBUTING.md](CONTRIBUTING.md). Original application code is licensed under the [MIT License](LICENSE). Kumka artwork and derivative visual assets are excluded from the MIT grant; see [ASSETS.md](ASSETS.md). Third-party materials retain their own terms.

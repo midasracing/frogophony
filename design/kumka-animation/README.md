@@ -43,7 +43,7 @@ app is a separate step and has not been validated by these CLI captures.
 - `render-preview.py`: renders actual view-model-triggered actions with official CLI.
 - `render-verification.json`: distinct captured frames per action.
 - `kumka-animations.gif` / `.mp4`: 20 fps montage, sampled from 60 fps timelines.
-- `kumka.riv`: self-contained native runtime file, also at `public/animations/kumka.riv`.
+- `kumka.riv`: generated local runtime build; the canonical committed runtime file is `public/animations/kumka.riv`.
 
 The preview renderer adds a light background only to its isolated capture
 projects; that background is not included in the runtime file.

@@ -8,9 +8,7 @@ The following files contain the Kumka character illustration or derivatives of t
 
 - `public/kumka.png`
 - `public/animations/kumka.riv`
-- `design/kumka-rive/kumka-original.png`
-- `design/kumka-rive/kumka-preview.gif`
-- Embedded image content and visual representations of Kumka in `design/kumka-rive/scene.rml`
+- Character geometry, scenes, vector artwork and previews in `design/kumka-animation/` and `design/kumka-vector/`
 
 These files remain publicly viewable as part of the project, but that does not grant permission to extract, redistribute, modify or use the artwork in another project. Contact the repository maintainer before reusing it.
 
