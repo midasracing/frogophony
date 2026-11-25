@@ -4195,6 +4195,256 @@
         "realVoices": 3,
         "soundingParts": 5
       }
+    },
+    {
+      "id": "SK35",
+      "domain": "harmony",
+      "input": {
+        "triad": [
+          "F",
+          "A",
+          "C"
+        ],
+        "change": {
+          "member": 1,
+          "semitones": 1
+        }
+      },
+      "expected": {
+        "triad": [
+          "F#",
+          "A",
+          "C"
+        ],
+        "quality": "diminished",
+        "functionUndetermined": true
+      }
+    },
+    {
+      "id": "SK36",
+      "domain": "harmony",
+      "input": {
+        "triad": [
+          "D",
+          "F#",
+          "A"
+        ],
+        "change": {
+          "member": 3,
+          "semitones": -1
+        }
+      },
+      "expected": {
+        "triad": [
+          "D",
+          "F",
+          "A"
+        ],
+        "quality": "minor"
+      }
+    },
+    {
+      "id": "SK37",
+      "domain": "harmony",
+      "input": {
+        "triad": [
+          "D",
+          "F#",
+          "A"
+        ],
+        "change": {
+          "member": 5,
+          "semitones": 1
+        }
+      },
+      "expected": {
+        "triad": [
+          "D",
+          "F#",
+          "A#"
+        ],
+        "quality": "augmented"
+      }
+    },
+    {
+      "id": "SK38",
+      "domain": "harmony",
+      "input": {
+        "triad": [
+          "D",
+          "F#",
+          "A"
+        ],
+        "changes": [
+          1,
+          1,
+          1
+        ]
+      },
+      "expected": {
+        "triad": [
+          "D#",
+          "F##",
+          "A#"
+        ],
+        "quality": "major",
+        "modulationProven": false
+      }
+    },
+    {
+      "id": "SK39",
+      "domain": "harmony",
+      "input": {
+        "from": [
+          "F#",
+          "A#",
+          "C#"
+        ],
+        "to": [
+          "Gb",
+          "Bb",
+          "Db"
+        ],
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "equalPitchClasses": true,
+        "functionChangeProven": false
+      }
+    },
+    {
+      "id": "SK40",
+      "domain": "harmony",
+      "input": {
+        "offsets": [
+          0,
+          3,
+          6,
+          9
+        ],
+        "transpositions": 12
+      },
+      "expected": {
+        "uniquePitchClassSets": 3
+      }
+    },
+    {
+      "id": "SK41",
+      "domain": "harmony",
+      "input": {
+        "offsets": [
+          0,
+          4,
+          8
+        ],
+        "transpositions": 12
+      },
+      "expected": {
+        "uniquePitchClassSets": 4
+      }
+    },
+    {
+      "id": "SK42",
+      "domain": "harmony",
+      "input": {
+        "start": 0,
+        "step": 2,
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "cycle": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          0
+        ],
+        "steps": 6
+      }
+    },
+    {
+      "id": "SK43",
+      "domain": "harmony",
+      "input": {
+        "root": "D",
+        "members": [
+          1,
+          3,
+          5,
+          7,
+          9
+        ],
+        "voices": 5,
+        "bassMember": 5
+      },
+      "expected": {
+        "full": true,
+        "inversion": 2
+      }
+    },
+    {
+      "id": "SK44",
+      "domain": "harmony",
+      "input": {
+        "members": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ]
+      },
+      "expected": {
+        "nextMember": 15,
+        "diatonicOctavesAboveRoot": 2
+      }
+    },
+    {
+      "id": "SK45",
+      "domain": "harmony",
+      "input": {
+        "offsets": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "transpositions": 12
+      },
+      "expected": {
+        "uniquePitchClassSets": 2
+      }
+    },
+    {
+      "id": "SK46",
+      "domain": "harmony",
+      "input": {
+        "startPc": 0,
+        "fifths": 5,
+        "tuning": "12-TET"
+      },
+      "expected": {
+        "pitchClasses": [
+          0,
+          2,
+          4,
+          7,
+          9
+        ],
+        "adjacentSteps": [
+          2,
+          2,
+          3,
+          2,
+          3
+        ]
+      }
     }
   ]
 }

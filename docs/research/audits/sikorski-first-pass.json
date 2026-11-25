@@ -1,0 +1,25 @@
+{
+  "sourceId": "SIK-HAR-UPLOAD",
+  "status": "first-pass-complete-for-incomplete-scan",
+  "pdfPageCount": 499,
+  "continuousPages": 499,
+  "missing": {
+    "volume": 1,
+    "afterPrintedPage": 190,
+    "sections": "34–44",
+    "chapters": "VI–VIII",
+    "evidence": "PDF 180–187 and index 488–497",
+    "description": "Brak końcowych rozdziałów cz.I (akordy z dodaną sekstą, dalsze akordy septymowe i nonowe, zboczenie modulacyjne, progresja, paralelizm), brak kart tytułowych części I."
+  },
+  "scanIssues": [
+    "PDF 9–10 duplikują druk. s.20",
+    "Od PDF 71 zniekształcony render zastąpiono dekodowaniem osadzonego JPEG"
+  ],
+  "outstanding": [
+    "Uzupełnić brakujące §§34–44 z kompletnego egzemplarza części I.",
+    "Sprawdzić indywidualnie nuty i rozwiązania zadań w pełnej rozdzielczości.",
+    "Rozwinąć tabelę transformacji §67 do zweryfikowanych przypadków, nie przepisując repertuaru.",
+    "Sprawdzić historyczne tezy §80–83 z nowszymi źródłami.",
+    "Niezależna recenzja muzyczna i wykonanie testów silnika."
+  ]
+}

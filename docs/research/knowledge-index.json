@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 775,
-    "fixtures": 219,
+    "claims": 848,
+    "fixtures": 231,
     "competencies": 73,
     "partial": 58
   },
@@ -325,7 +325,80 @@
       "SIK-MODULATION-DEFINITION-II",
       "SIK-MODULATION-TYPES-II",
       "SIK-MODULATION-PIVOT-II",
-      "SIK-MODULATION-CHAR-DISSONANCE"
+      "SIK-MODULATION-CHAR-DISSONANCE",
+      "SIK-MOD-ENTRY-PREFERENCE",
+      "SIK-MOD-ENTRY-CADENCE",
+      "SIK-MOD-INDIRECT-PATH",
+      "SIK-MOD-KEY-PAIR-GROUPS",
+      "SIK-MOD-MAJOR-COMMON",
+      "SIK-MOD-FIFTH-DIRECTION",
+      "SIK-MOD-MINOR-ENTRY-PREFERENCE",
+      "SIK-MOD-PARALLEL-TO-MAJOR",
+      "SIK-MOD-MINOR-COMMON",
+      "SIK-MOD-EXTENDED",
+      "SIK-MOD-COMPOUND",
+      "SIK-MOD-OVERSHOOT",
+      "SIK-MOD-64-CONTEXT",
+      "SIK-MOD-SEQUENCE-ADVANCED",
+      "SIK-MOD-DIATONIC-SHIFT",
+      "SIK-ALTER-CLASSIFICATION",
+      "SIK-ALTER-NONMOD-DIRECTION",
+      "SIK-ALTER-MELODIC-HARMONIC",
+      "SIK-ALTER-CHAR-INTERVALS",
+      "SIK-ALTER-NO-DOUBLE",
+      "SIK-ALTER-DYSALTER-II",
+      "SIK-ALTER-S-D-SPELLING",
+      "SIK-ALTER-INDIRECT-RES",
+      "SIK-ALTER-BACK",
+      "SIK-ALTER-SIMULTANEOUS-NATURAL",
+      "SIK-ALTER-II-IV-PROFILE",
+      "SIK-ALTER-TRISTAN-II",
+      "SIK-CHROM-MOD-TWO-METHODS",
+      "SIK-CHROM-MOD-MEMBER-ROLE",
+      "SIK-CHROM-MOD-MAJOR-ROOT",
+      "SIK-CHROM-MOD-MAJOR-THIRD",
+      "SIK-CHROM-MOD-MAJOR-FIFTH",
+      "SIK-CHROM-MOD-ALL-VOICES",
+      "SIK-CHROM-MOD-SEVENTH-TRANSFORMS",
+      "SIK-CHROM-MOD-BETWEEN",
+      "SIK-CHROM-MOD-COMPOUND",
+      "SIK-CHROM-SHIFT",
+      "SIK-ENHARMONIC-SPELLING-II",
+      "SIK-ENHARMONIC-UNIFORM",
+      "SIK-ENHARMONIC-PARTIAL",
+      "SIK-ENH-DIM-SEVENTH-SETS",
+      "SIK-ENH-AUG-TRIAD-SETS",
+      "SIK-ENH-D7-AUG6",
+      "SIK-ENH-TRISTAN",
+      "SIK-ENH-MOD-BETWEEN",
+      "SIK-ENH-SEQUENCE-CYCLES",
+      "SIK-PEDAL-DEFINITION-II",
+      "SIK-PEDAL-TYPICAL",
+      "SIK-PEDAL-OSTINATO",
+      "SIK-PEDAL-MULTIPLE",
+      "SIK-FIVE-VOICE-PROFILE",
+      "SIK-FIVE-VOICE-NINTH",
+      "SIK-LARGER-VOICING-SUSP",
+      "SIK-EXTENDED-TERTIAN",
+      "SIK-EXTENDED-CHORD-ROLE",
+      "SIK-EXTENDED-RESOLUTION",
+      "SIK-FREE-PARALLELS-REPERTOIRE",
+      "SIK-FREE-HIDDEN-INTERVALS",
+      "SIK-FREE-DISSONANT-RES",
+      "SIK-FREE-SUBSTITUTE-IMPLIED",
+      "SIK-FREE-CROSS-RELATION",
+      "SIK-CHORD-COLOR-UNIT",
+      "SIK-MODAL-HARMONIZATION",
+      "SIK-PENTATONIC-ANHEMITONIC",
+      "SIK-PENTATONIC-DITONIC",
+      "SIK-MODAL-GREEK-DISTINCT",
+      "SIK-WHOLE-TONE-SETS-II",
+      "SIK-CHROMATIC-VS-TWELVE-TONE",
+      "SIK-LYDIAN-CONTEXT",
+      "SIK-PHRYGIAN-CONTEXT",
+      "SIK-MODAL-HARMONIC-AMBIGUITY",
+      "SIK-TONALITY-TWO-AXES",
+      "SIK-TONALITY-CONTEXT-II"
     ],
     "OMT2-7": [
       "SEV-QUAL"
@@ -1528,6 +1601,7 @@
       "claimIds": [
         "DROB-PYTH",
         "PL-HB",
+        "SIK-ENHARMONIC-SPELLING-II",
         "TAR-ENH",
         "TRITONE-AUDIO",
         "WES-ACCIDENTAL-NAMES",
@@ -1546,7 +1620,13 @@
     "II-ZAS-05": {
       "status": "partial",
       "claimIds": [
+        "SIK-CHROMATIC-VS-TWELVE-TONE",
         "SIK-CHURCH-MODAL",
+        "SIK-LYDIAN-CONTEXT",
+        "SIK-MODAL-GREEK-DISTINCT",
+        "SIK-PENTATONIC-ANHEMITONIC",
+        "SIK-PENTATONIC-DITONIC",
+        "SIK-WHOLE-TONE-SETS-II",
         "WES-CHROM-ATONAL",
         "WES-CHURCH-MODES",
         "WES-GREEK-GENERA",
@@ -1702,9 +1782,16 @@
         "SEV-QUAL",
         "SIK-AEOLIAN-MINOR",
         "SIK-CHORD-DEFINITION",
+        "SIK-CHROM-MOD-MAJOR-FIFTH",
+        "SIK-CHROM-MOD-MAJOR-ROOT",
+        "SIK-CHROM-MOD-SEVENTH-TRANSFORMS",
         "SIK-D7-INCOMPLETE",
         "SIK-D9-QUALITY",
         "SIK-DORIAN-MINOR",
+        "SIK-ENH-AUG-TRIAD-SETS",
+        "SIK-ENH-DIM-SEVENTH-SETS",
+        "SIK-EXTENDED-TERTIAN",
+        "SIK-FIVE-VOICE-NINTH",
         "SIK-FUNCTION",
         "SIK-II-QUALITIES",
         "SIK-II-SUBSTITUTE",
@@ -1776,7 +1863,9 @@
     "II-HAR-02": {
       "status": "partial",
       "claimIds": [
+        "SIK-ALTER-NO-DOUBLE",
         "SIK-CADENTIAL-64-PLACEMENT",
+        "SIK-CHROM-MOD-MEMBER-ROLE",
         "SIK-CONTRAPARALLEL",
         "SIK-D7-FREE",
         "SIK-D7-INCOMPLETE",
@@ -1790,14 +1879,22 @@
         "SIK-D9-REGULAR",
         "SIK-D9-S-COMMON",
         "SIK-DOUBLING",
+        "SIK-EXTENDED-RESOLUTION",
         "SIK-FIGURATION-PARALLELS",
         "SIK-FIRST-INVERSION-DOUBLING-MOTION",
         "SIK-FIRST-INVERSION-LEADING-BASS",
         "SIK-FIRST-INVERSION-POS",
         "SIK-FIRST-INVERSION-SECOND",
+        "SIK-FIVE-VOICE-NINTH",
+        "SIK-FIVE-VOICE-PROFILE",
         "SIK-FREE-AUGMENTED-LEAPS",
+        "SIK-FREE-CROSS-RELATION",
+        "SIK-FREE-DISSONANT-RES",
         "SIK-FREE-FIFTH-COMMON",
+        "SIK-FREE-HIDDEN-INTERVALS",
+        "SIK-FREE-PARALLELS-REPERTOIRE",
         "SIK-FREE-SECOND",
+        "SIK-FREE-SUBSTITUTE-IMPLIED",
         "SIK-II-SUBSTITUTE",
         "SIK-III-DOMINANT-SUBSTITUTE",
         "SIK-INCOMPLETE-TONIC",
@@ -1941,7 +2038,10 @@
         "SIK-D-S-RESTRICTION",
         "SIK-D9-CADENCE",
         "SIK-DORIAN-MINOR",
+        "SIK-ENH-SEQUENCE-CYCLES",
         "SIK-HARMONIZE-METRIC",
+        "SIK-MOD-ENTRY-CADENCE",
+        "SIK-MOD-SEQUENCE-ADVANCED",
         "SIK-VI-DECEPTIVE",
         "TAR-AEOLIAN-CADENCE",
         "TAR-APPARENT-CHAIN",
@@ -2000,6 +2100,8 @@
         "SIK-HARMONIZE-FIGURED",
         "SIK-HARMONIZE-METRIC",
         "SIK-HARMONIZE-TRIAD",
+        "SIK-MOD-EXTENDED",
+        "SIK-MODAL-HARMONIZATION",
         "SIK-PEDAGOGY",
         "SIK-REPEAT",
         "SIK-SOPRANO-MELODIC",
@@ -2052,6 +2154,16 @@
     "II-HAR-05": {
       "status": "partial",
       "claimIds": [
+        "SIK-ALTER-BACK",
+        "SIK-ALTER-CHAR-INTERVALS",
+        "SIK-ALTER-CLASSIFICATION",
+        "SIK-ALTER-DYSALTER-II",
+        "SIK-ALTER-II-IV-PROFILE",
+        "SIK-ALTER-INDIRECT-RES",
+        "SIK-ALTER-MELODIC-HARMONIC",
+        "SIK-ALTER-NO-DOUBLE",
+        "SIK-ALTER-NONMOD-DIRECTION",
+        "SIK-ALTER-SIMULTANEOUS-NATURAL",
         "SIK-ANTICIPATION",
         "SIK-AUXILIARY-NOTE",
         "SIK-CADENTIAL-64",
@@ -2060,10 +2172,12 @@
         "SIK-D9-SUSPENSION",
         "SIK-DETACHED-NOTE",
         "SIK-EXCHANGE-NOTE",
+        "SIK-EXTENDED-CHORD-ROLE",
         "SIK-FIGURATION-COMPLEMENTARY",
         "SIK-FIGURATION-PARALLELS",
         "SIK-FIGURATION-RHYTHM",
         "SIK-FIGURATION-TWO-STAGES",
+        "SIK-LARGER-VOICING-SUSP",
         "SIK-MULTI-NONCHORD",
         "SIK-MULTI-SUSPENSION",
         "SIK-MULTI-SUSPENSION-STAGGER",
@@ -2072,6 +2186,8 @@
         "SIK-PASSING-CHORD",
         "SIK-PASSING-CHROMATIC",
         "SIK-PASSING-NOTE",
+        "SIK-PEDAL-DEFINITION-II",
+        "SIK-PEDAL-TYPICAL",
         "SIK-QUADRUPLE-SUSPENSION",
         "SIK-ROOTLESS-D9-BASS-SUSP",
         "SIK-SUSPENSION-CHANGE-CHORD",
@@ -2152,6 +2268,40 @@
     "II-HAR-06": {
       "status": "partial",
       "claimIds": [
+        "SIK-ALTER-CLASSIFICATION",
+        "SIK-CHROM-MOD-ALL-VOICES",
+        "SIK-CHROM-MOD-BETWEEN",
+        "SIK-CHROM-MOD-COMPOUND",
+        "SIK-CHROM-MOD-MAJOR-FIFTH",
+        "SIK-CHROM-MOD-MAJOR-ROOT",
+        "SIK-CHROM-MOD-MAJOR-THIRD",
+        "SIK-CHROM-MOD-MEMBER-ROLE",
+        "SIK-CHROM-MOD-SEVENTH-TRANSFORMS",
+        "SIK-CHROM-MOD-TWO-METHODS",
+        "SIK-CHROM-SHIFT",
+        "SIK-ENH-AUG-TRIAD-SETS",
+        "SIK-ENH-D7-AUG6",
+        "SIK-ENH-DIM-SEVENTH-SETS",
+        "SIK-ENH-MOD-BETWEEN",
+        "SIK-ENH-SEQUENCE-CYCLES",
+        "SIK-ENHARMONIC-PARTIAL",
+        "SIK-ENHARMONIC-SPELLING-II",
+        "SIK-ENHARMONIC-UNIFORM",
+        "SIK-MOD-64-CONTEXT",
+        "SIK-MOD-COMPOUND",
+        "SIK-MOD-DIATONIC-SHIFT",
+        "SIK-MOD-ENTRY-CADENCE",
+        "SIK-MOD-ENTRY-PREFERENCE",
+        "SIK-MOD-EXTENDED",
+        "SIK-MOD-FIFTH-DIRECTION",
+        "SIK-MOD-INDIRECT-PATH",
+        "SIK-MOD-KEY-PAIR-GROUPS",
+        "SIK-MOD-MAJOR-COMMON",
+        "SIK-MOD-MINOR-COMMON",
+        "SIK-MOD-MINOR-ENTRY-PREFERENCE",
+        "SIK-MOD-OVERSHOOT",
+        "SIK-MOD-PARALLEL-TO-MAJOR",
+        "SIK-MOD-SEQUENCE-ADVANCED",
         "SIK-MODULATION-CHAR-DISSONANCE",
         "SIK-MODULATION-DEFINITION-II",
         "SIK-MODULATION-PIVOT-II",
@@ -2223,21 +2373,39 @@
     "II-HAR-07": {
       "status": "partial",
       "claimIds": [
+        "SIK-ALTER-MELODIC-HARMONIC",
+        "SIK-ALTER-S-D-SPELLING",
+        "SIK-ALTER-SIMULTANEOUS-NATURAL",
+        "SIK-ALTER-TRISTAN-II",
+        "SIK-CHORD-COLOR-UNIT",
         "SIK-CHORD-FIGURATION",
         "SIK-D9-SUSPENSION",
+        "SIK-ENH-D7-AUG6",
+        "SIK-ENH-TRISTAN",
+        "SIK-EXTENDED-CHORD-ROLE",
+        "SIK-FREE-SUBSTITUTE-IMPLIED",
         "SIK-II-APPARENT",
         "SIK-III-DOMINANT-SUBSTITUTE",
         "SIK-III-LOCAL-ROLE",
         "SIK-III-TONIC-SUBSTITUTE",
+        "SIK-LYDIAN-CONTEXT",
+        "SIK-MOD-64-CONTEXT",
+        "SIK-MODAL-HARMONIC-AMBIGUITY",
         "SIK-OCTAVE-REINFORCEMENT",
         "SIK-PASSING-CHORD",
         "SIK-PEDAGOGY",
+        "SIK-PEDAL-DEFINITION-II",
+        "SIK-PEDAL-MULTIPLE",
+        "SIK-PEDAL-OSTINATO",
+        "SIK-PHRYGIAN-CONTEXT",
         "SIK-QUADRUPLE-SUSPENSION",
         "SIK-REDUCED-VOICES-AMBIGUITY",
         "SIK-ROOTLESS-D9-BASS-SUSP",
         "SIK-SECONDARY-CHORD-CONTEXT",
         "SIK-SUSPENSION-CHOPIN",
         "SIK-TEXTURE-TYPES",
+        "SIK-TONALITY-CONTEXT-II",
+        "SIK-TONALITY-TWO-AXES",
         "SIK-TRIAD-KEY-ROLES",
         "SIK-VI-ALTERED",
         "SIK-VI-APPARENT-II",
@@ -2381,7 +2549,8 @@
         "ABC-POINTILLISM",
         "ABC-SERIAL",
         "ABC-SONORISM",
-        "DK-GRAPHIC"
+        "DK-GRAPHIC",
+        "SIK-CHROMATIC-VS-TWELVE-TONE"
       ]
     },
     "II-NOM-05": {
@@ -10941,6 +11110,783 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "SIK-MOD-ENTRY-PREFERENCE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-ENTRY-CADENCE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-INDIRECT-PATH": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-KEY-PAIR-GROUPS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-MAJOR-COMMON": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-FIFTH-DIRECTION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-MINOR-ENTRY-PREFERENCE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-PARALLEL-TO-MAJOR": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-MINOR-COMMON": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-EXTENDED": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-COMPOUND": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-OVERSHOOT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-64-CONTEXT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-SEQUENCE-ADVANCED": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOD-DIATONIC-SHIFT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-CLASSIFICATION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-NONMOD-DIRECTION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-MELODIC-HARMONIC": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-CHAR-INTERVALS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-NO-DOUBLE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-DYSALTER-II": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-S-D-SPELLING": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-INDIRECT-RES": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-BACK": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-SIMULTANEOUS-NATURAL": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-II-IV-PROFILE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ALTER-TRISTAN-II": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-TWO-METHODS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-MEMBER-ROLE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-MAJOR-ROOT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK35"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-MAJOR-THIRD": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK36"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-MAJOR-FIFTH": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK37"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-ALL-VOICES": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK38"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-SEVENTH-TRANSFORMS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-BETWEEN": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-MOD-COMPOUND": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHROM-SHIFT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ENHARMONIC-SPELLING-II": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ENHARMONIC-UNIFORM": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK39"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-ENHARMONIC-PARTIAL": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ENH-DIM-SEVENTH-SETS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK40"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-ENH-AUG-TRIAD-SETS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK41"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-ENH-D7-AUG6": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ENH-TRISTAN": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ENH-MOD-BETWEEN": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-ENH-SEQUENCE-CYCLES": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "SK42"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-PEDAL-DEFINITION-II": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-PEDAL-TYPICAL": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-PEDAL-OSTINATO": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-PEDAL-MULTIPLE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FIVE-VOICE-PROFILE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FIVE-VOICE-NINTH": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [
+        "SK43"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-LARGER-VOICING-SUSP": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-EXTENDED-TERTIAN": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01"
+      ],
+      "fixtureIds": [
+        "SK44"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-EXTENDED-CHORD-ROLE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-EXTENDED-RESOLUTION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FREE-PARALLELS-REPERTOIRE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FREE-HIDDEN-INTERVALS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FREE-DISSONANT-RES": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FREE-SUBSTITUTE-IMPLIED": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FREE-CROSS-RELATION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-CHORD-COLOR-UNIT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MODAL-HARMONIZATION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-PENTATONIC-ANHEMITONIC": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [
+        "SK46"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-PENTATONIC-DITONIC": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MODAL-GREEK-DISTINCT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-WHOLE-TONE-SETS-II": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [
+        "SK45"
+      ],
+      "releaseApproved": false
+    },
+    "SIK-CHROMATIC-VS-TWELVE-TONE": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-LYDIAN-CONTEXT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-PHRYGIAN-CONTEXT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MODAL-HARMONIC-AMBIGUITY": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-TONALITY-TWO-AXES": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-TONALITY-CONTEXT-II": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -11509,6 +12455,42 @@
     ],
     "SK34": [
       "SIK-OCTAVE-REINFORCEMENT"
+    ],
+    "SK35": [
+      "SIK-CHROM-MOD-MAJOR-ROOT"
+    ],
+    "SK36": [
+      "SIK-CHROM-MOD-MAJOR-THIRD"
+    ],
+    "SK37": [
+      "SIK-CHROM-MOD-MAJOR-FIFTH"
+    ],
+    "SK38": [
+      "SIK-CHROM-MOD-ALL-VOICES"
+    ],
+    "SK39": [
+      "SIK-ENHARMONIC-UNIFORM"
+    ],
+    "SK40": [
+      "SIK-ENH-DIM-SEVENTH-SETS"
+    ],
+    "SK41": [
+      "SIK-ENH-AUG-TRIAD-SETS"
+    ],
+    "SK42": [
+      "SIK-ENH-SEQUENCE-CYCLES"
+    ],
+    "SK43": [
+      "SIK-FIVE-VOICE-NINTH"
+    ],
+    "SK44": [
+      "SIK-EXTENDED-TERTIAN"
+    ],
+    "SK46": [
+      "SIK-PENTATONIC-ANHEMITONIC"
+    ],
+    "SK45": [
+      "SIK-WHOLE-TONE-SETS-II"
     ]
   }
 }

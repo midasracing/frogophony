@@ -166,3 +166,6 @@ Kontrola końcowa przypadków TN48–49: jawnie rozdzielono prymę funkcyjną pr
 
 ## Sikorski — PDF 185–288
 35 twierdzeń, 6 własnych przypadków wzorcowych. Odczyt obrazów, nie niezależne rozwiązanie przykładów. Rozdzielono szkielet harmoniczny od figuracji, opóźnienia od akordów samodzielnych, realne głosy od oktawowych zdwojeń; historyczne twierdzenia nie zostały przeniesione jako fakty. Brak testów muzycznych i recenzji.
+
+## Sikorski — PDF 289–499, zakończenie pierwszego przebiegu skanu
+73 nowych twierdzeń, 12 przypadków wzorcowych. Zidentyfikowano 499 numerów stron w rejestrze ciągłej lektury. Opracowano modulację, alteracje, enharmonię, nutę pedałową, wielogłos, akordy undecymowe i tercdecymowe, swobody i modalność. Nie uznano skanu za kompletny egzemplarz, brak §§34–44 cz.I. Zasady szkolne odróżniono od zaawansowanych wyjątków. Nie przenoszono historycznych i etnomuzykologicznych uogólnień z §§80–83 jako faktów niezależnych. Nie zweryfikowano każdej nuty, nie rozwiązano wszystkich zadań, nie wykonano testów muzycznych. Zob. sikorski-first-pass.json.

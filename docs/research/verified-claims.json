@@ -13872,6 +13872,1271 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-ENTRY-PREFERENCE",
+      "statement": "W szkolnej modulacji diatonicznej autor preferuje wyrazisty akord wejściowy nowej tonacji, zwłaszcza subdominantę lub dominantę; nie wybiera docelowej toniki jako akordu wejściowego w podstawowym modelu.",
+      "scope": "Ograniczenie etapu ćwiczeń; §62 dopuszcza wcześniejsze wystąpienie toniki po dominancie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 110–112 (PDF 289–291)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-ENTRY-CADENCE",
+      "statement": "Po wejściowej subdominancie może nastąpić D–T, po wejściowej dominancie autor preferuje rozwiązanie zwodnicze na VI i kadencję utrwalającą; po III możliwe jest wejście przez D albo VI.",
+      "scope": "Model §56, nie jedna obowiązkowa droga w repertuarze.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 111–112 (PDF 290–291)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-INDIRECT-PATH",
+      "statement": "Gdy brak wspólnego akordu odpowiedniego do wejścia, autor stosuje drogę pośrednią przez akordy niekoniecznie należące do tonacji wyjściowej lub docelowej.",
+      "scope": "Nie utożsamiać akordu pośredniczącego z utrwaloną tonacją pośrednią.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 112–112 (PDF 291–291)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-KEY-PAIR-GROUPS",
+      "statement": "Autor grupuje ćwiczenia modulacji diatonicznej według czterech kombinacji trybów: dur–dur, dur–moll, moll–dur i moll–moll, oraz kierunku i odległości w kole kwintowym.",
+      "scope": "Odległość tonik w kole kwintowym nie zawsze odpowiada różnicy znaków przykluczowych, szczególnie przy różnych trybach.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 112–113 (PDF 291–292)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-MAJOR-COMMON",
+      "statement": "W systemie autora uwzględniającym naturalne i harmoniczne dur oraz obniżony II stopień, tonacje durowe o odległości 1–6 kwint mają co najmniej jeden wspólny akord; przy większej odległości w zapisie stosuje drogę pośrednią.",
+      "scope": "Wynik dla zbioru akordów i pisowni autora, nie tylko siedmiu trójdźwięków naturalnego dur; bez utożsamiania odległych pisowni enharmonicznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 113–118 (PDF 292–297)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-FIFTH-DIRECTION",
+      "statement": "W szkolnym projektowaniu drogi pośredniej autor zaleca zbliżanie się kolejnymi akordami do tonacji docelowej na osi kwint, z wykorzystaniem relacji kwinty, tercji i sekundy, unikając jednostajnego łańcucha kwint.",
+      "scope": "Później §62 dopuszcza progresję jako osobny środek.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 118–120 (PDF 297–299)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-MINOR-ENTRY-PREFERENCE",
+      "statement": "Przy wejściu do moll autor preferuje akord harmonicznego moll, w tym molową subdominantę, durową dominantę i odpowiednie akordy obniżonego II stopnia; akordy eolskie lub doryckie mogą słabiej określać docelowy tryb.",
+      "scope": "Profil ćwiczeń §§58 i 60; §62 omawia także wejście przez durową subdominantę.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 125–129 (PDF 304–308)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-PARALLEL-TO-MAJOR",
+      "statement": "W przykładzie przejścia z moll do jednoimiennego dur Sikorski dopuszcza pojawienie się durowej toniki dopiero w zakończeniu kadencji; jeśli dominanta zawiera opóźnienie kwinty przez sekstę, wielkość seksty może określić tryb docelowy.",
+      "scope": "Nie identyfikować każdej durowej toniki końcowej z pełną modulacją.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 135–135 (PDF 314–314)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-MINOR-COMMON",
+      "statement": "W zbiorze odmian moll autora tonacje molowe odległe o 1–6 kwint mają wspólny akord, lecz nie każdy wspólny akord może pełnić preferowaną funkcję wejściową; dalej stosuje się drogę pośrednią.",
+      "scope": "Twierdzenie w zakresie pisowni i modelu autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 138–142 (PDF 317–321)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-EXTENDED",
+      "statement": "Schemat modulacji można rozbudować przez powtórzenia, przewroty, dysonanse i figurację; autor zaleca zachowanie wyrazistej postaci akordu wejściowego i końcowej toniki zasadniczej.",
+      "scope": "Szkolny model §61.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 144–146 (PDF 323–325)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-COMPOUND",
+      "statement": "Modulacja złożona prowadzi przez co najmniej jedną tonację pośrednią, wyrażoną mniej lub bardziej wyczerpująco; jej kadencja może być słabsza od końcowej kadencji docelowej.",
+      "scope": "Odróżniać od samego akordu pośredniczącego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 147–150 (PDF 326–329)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-OVERSHOOT",
+      "statement": "Autor dopuszcza tonację pośrednią położoną dalej na osi kwint niż cel, a potem ruch powrotny do celu; taka droga może wzmocnić wyrazistość ostatniej tonacji.",
+      "scope": "Wariant kompozycyjny, nie wymóg najkrótszej drogi.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 149–150 (PDF 328–329)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-64-CONTEXT",
+      "statement": "Trójdźwięk konsonansowy w drugim przewrocie ze zdwojoną kwintą może zostać zinterpretowany jako dominanta z podwójnym opóźnieniem w innej tonacji; jego funkcję potwierdza kontekst, zwłaszcza poprzedzająca subdominanta.",
+      "scope": "Nie zmieniać funkcji każdego akordu 6/4 automatycznie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 151–152 (PDF 330–331)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-SEQUENCE-ADVANCED",
+      "statement": "W bardziej swobodnej modulacji autor dopuszcza progresję modulującą jako drogę oddalania się od tonacji oraz wcześniejszą tonikę nowej tonacji w słabszej pozycji.",
+      "scope": "Rozszerzenie podstawowego modelu §§56–61.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 152–154 (PDF 331–333)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MOD-DIATONIC-SHIFT",
+      "statement": "Diatoniczne przesunięcie modulacyjne oznacza bezpośrednie zestawienie odcinków w różnych tonacjach bez przebiegu przeprowadzającego modulację; w omawianym wariancie między akordami granicznymi nie zachodzi zmiana chromatyczna.",
+      "scope": "Często na granicy jednostek formalnych; odróżniać od modulacji właściwej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 154–155 (PDF 333–334)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-CLASSIFICATION",
+      "statement": "Sikorski rozróżnia alterację pozorną, dającą akord diatoniczny innej tonacji, i rzeczywistą, dającą strukturę alterowaną w każdej rozpatrywanej tonacji; każda może być modulująca albo niemodulująca.",
+      "scope": "Systematyka autora oparta na jego zbiorze odmian dur i moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 156–157 (PDF 335–336)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-NONMOD-DIRECTION",
+      "statement": "W podstawowym modelu alteracji niemodulującej zmieniany stopień ma cały ton do następnego stopnia w kierunku zmiany; zmiana chromatyczna daje dźwięk o dążeniu półtonowym w tym kierunku.",
+      "scope": "Autor osobno traktuje zmiany odmian skali, alteracje wstecz i kontekst.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 157–158 (PDF 336–337)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-MELODIC-HARMONIC",
+      "statement": "Dźwięk alterowany może być dysonansem harmonicznym na początku akordu lub melodycznym, pojawiającym się podczas jego trwania; druga sytuacja może mieć charakter akordu przejściowego.",
+      "scope": "Nie każdy chromatyczny dźwięk zmienia funkcję akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 158–159 (PDF 337–338)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-CHAR-INTERVALS",
+      "statement": "Sikorski wskazuje tercję zmniejszoną, często występującą jako seksta zwiększona, jako charakterystyczny interwał alteracji rzeczywistej.",
+      "scope": "Nie utożsamiać samej seksty zwiększonej z jednym akordem funkcyjnym.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 161–162 (PDF 340–341)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-NO-DOUBLE",
+      "statement": "W samodzielnym akordzie alterowanym autor nie dwoi składnika o określonym dążeniu i nie zestawia go z jego niealterowaną postacią; przy ograniczonej liczbie głosów zachowuje składnik alterowany i charakterystyczny dysonans.",
+      "scope": "Dysalteracja oraz współbrzmienie przejściowe stanowią osobne przypadki.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 162–162 (PDF 341–341)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-DYSALTER-II",
+      "statement": "Dysalteracja to równoczesne podwyższenie i obniżenie dwóch wystąpień tego samego składnika; autor preferuje podwyższony składnik w wyższym głosie.",
+      "scope": "Model §64, zachować dwie niezależne wysokości i pisownie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 164–165 (PDF 343–344)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-S-D-SPELLING",
+      "statement": "W analizie alterowanych subdominant i dominant wtrąconych autor rozróżnia struktury enharmonicznie równoważne według pisowni i dalszego rozwiązania.",
+      "scope": "Nie identyfikować funkcji na podstawie samych klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 166–167 (PDF 345–346)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-INDIRECT-RES",
+      "statement": "Składnik alterowany może rozwiązać się pośrednio, np. stać się opóźnieniem w kolejnym akordzie o tym samym kierunku rozwiązania, lub zostać zatrzymany w następnym akordzie alterowanym.",
+      "scope": "Wymaga śledzenia głosu przez kolejne zdarzenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 167–168 (PDF 346–347)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-BACK",
+      "statement": "Autor opisuje alterację wstecz, w której podwyższony składnik wraca chromatycznie do niealterowanego stopnia, szczególnie przy IV stopniu.",
+      "scope": "Wyjątek od typowego półtonowego dążenia; nie wymuszać uniwersalnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 167–168 (PDF 346–347)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-SIMULTANEOUS-NATURAL",
+      "statement": "Jeżeli składnik alterowany współbrzmi z tym samym niealterowanym składnikiem, autor może analizować współbrzmienie jako przejściowe, niesamodzielne, zależne od pierwotnego akordu.",
+      "scope": "Nie mylić z dwoma przeciwstawnymi zmianami w dysalteracji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 171–172 (PDF 350–351)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-II-IV-PROFILE",
+      "statement": "W podsumowaniu §64 autor ogranicza niemodulujące alteracje harmoniczne do II i IV stopnia w samodzielnych strukturach, pozostałe dopuszczając m.in. jako dysonanse melodyczne lub obok niealterowanego składnika.",
+      "scope": "Zakres definicji Sikorskiego; nie przenosić do innego stylu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 172–173 (PDF 351–352)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ALTER-TRISTAN-II",
+      "statement": "Autor przedstawia akord tristanowski jako alterowaną subdominantę z opóźnieniem albo alternatywnie jako alterowaną dominantę wtrąconą z opóźnieniem.",
+      "scope": "Dwie interpretacje Sikorskiego, nie rozstrzygnięcie wszystkich analiz Wagnera.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 175–176 (PDF 354–355)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-TWO-METHODS",
+      "statement": "Sikorski rozróżnia modulację przez alterację w obrębie jednego akordu oraz przez zmianę chromatyczną pomiędzy różnymi akordami; druga jest traktowana jako wariant pierwszej z pominięciem ogniwa pośredniego.",
+      "scope": "Sama chromatyka nie dowodzi utrwalenia nowej tonacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 179–180 (PDF 358–359)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-MEMBER-ROLE",
+      "statement": "Po zmianie funkcji składnik alterowany może utracić swoje dążenie, a wcześniejszy niealterowany może stać się alterowanym; zmienia to także dopuszczalność zdwojenia.",
+      "scope": "Ocena według roli w nowym kontekście.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 179–180 (PDF 358–359)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-MAJOR-ROOT",
+      "statement": "Podwyższenie prymy trójdźwięku durowego tworzy strukturę zmniejszoną, której autor przypisuje różne możliwe funkcje w nowej tonacji.",
+      "scope": "Przykład klasyfikacji §67, nie automatyczny dowód nowej funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 181–182 (PDF 360–361)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK35"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-MAJOR-THIRD",
+      "statement": "Obniżenie tercji trójdźwięku durowego tworzy molowy; jego nową funkcję subdominantową można podkreślić dodaniem wielkiej seksty lub małej septymy zgodnie z przykładem autora.",
+      "scope": "Nową funkcję potwierdza dalszy przebieg.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 183–184 (PDF 362–363)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK36"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-MAJOR-FIFTH",
+      "statement": "Podwyższenie kwinty trójdźwięku durowego tworzy zwiększony, a obniżenie daje strukturę z wielką tercją i zmniejszoną kwintą; każda ma kilka możliwych interpretacji.",
+      "scope": "Nie utożsamiać brzmienia z jedną funkcją.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 184–187 (PDF 363–366)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK37"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-ALL-VOICES",
+      "statement": "Jednoczesne chromatyczne podwyższenie lub obniżenie wszystkich trzech składników durowego trójdźwięku zachowuje jego jakość i przesuwa strukturę o półton.",
+      "scope": "Nie jest samoistnym dowodem modulacji; autor omawia dalszą interpretację.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 190–191 (PDF 369–370)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK38"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-SEVENTH-TRANSFORMS",
+      "statement": "W §67 autor pokazuje, że zmiany składników trójdźwięku durowego z małą septymą prowadzą m.in. do akordów z septymą wielką, molowych z małą lub wielką septymą, półzmniejszonych, całkowicie zmniejszonych i zwiększonych z wielką septymą.",
+      "scope": "Zbiór typów autora; nie przepisano wszystkich 33 kombinacji z tabel.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 195–207 (PDF 374–386)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-BETWEEN",
+      "statement": "W modulacji między różnymi akordami co najmniej jeden składnik pierwszego przechodzi chromatycznie na składnik drugiego; autor preferuje m.in. relacje tercjowe oraz wejście przez charakterystyczne akordy dysonansowe.",
+      "scope": "Warunek opisanej drogi, nie klasyfikacja każdej relacji tercjowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 207–211 (PDF 386–390)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-MOD-COMPOUND",
+      "statement": "Modulacja złożona może łączyć chromatyczne i diatoniczne zboczenia do tonacji pośrednich z utrwaleniem ostatniej tonacji.",
+      "scope": "Rozróżnić przejściowy cel i cel końcowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 212–214 (PDF 391–393)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROM-SHIFT",
+      "statement": "Chromatyczne przesunięcie modulacyjne polega na zestawieniu różnych tonacji bez przeprowadzającego przebiegu harmonicznego, ze zmianą chromatyczną między akordami granicznymi.",
+      "scope": "Odróżniać od progresji i pełnej modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 215–216 (PDF 394–395)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENHARMONIC-SPELLING-II",
+      "statement": "W 12-TET enharmonicznie równoważne interwały mają tę samą wielkość brzmieniową, ale odmienną pisownię i znaczenie diatoniczne; w kontekście tonalnym pisownia nie jest dowolna.",
+      "scope": "Ograniczenie do stroju równomiernie temperowanego; nie traktować historycznych danych częstotliwości jako aktualnej normy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 217–219 (PDF 396–398)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENHARMONIC-UNIFORM",
+      "statement": "Jednakowa zmiana enharmoniczna wszystkich składników akordu nie zmienia sama jego funkcji ani brzmienia tonacji; może ułatwić zapis i skrócić drogę na osi kwint.",
+      "scope": "Oddzielić przepisanie pisowni od rzeczywistego przejścia funkcyjnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 220–222 (PDF 399–401)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK39"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENHARMONIC-PARTIAL",
+      "statement": "Zmiana enharmoniczna niektórych składników zmienia pisane interwały akordu i może umożliwić nową interpretację funkcyjną; autor rozpatruje także zmianę pomiędzy różnymi akordami.",
+      "scope": "Nie przypisywać funkcji bez dalszego przebiegu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 220–222 (PDF 399–401)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENH-DIM-SEVENTH-SETS",
+      "statement": "W 12-TET autor wyróżnia trzy różne brzmieniowo klasy czterodźwięku całkowicie zmniejszonego; cztery możliwe podstawy w każdej strukturze wynikają z małych tercji.",
+      "scope": "Dotyczy klas wysokości, nie identycznego rejestru, przewrotu lub pisowni.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 222–226 (PDF 401–405)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK40"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENH-AUG-TRIAD-SETS",
+      "statement": "W 12-TET autor wyróżnia cztery różne brzmieniowo klasy trójdźwięku zwiększonego; każda ma trzy równoważne podstawy przy zmianie pisowni.",
+      "scope": "Nie utożsamiać symetrii z konkretną funkcją i basem.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 228–228 (PDF 407–407)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK41"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENH-D7-AUG6",
+      "statement": "Przez enharmoniczną zmianę małej septymy durowego czterodźwięku na sekstę zwiększoną autor uzyskuje inne interpretacje, m.in. alterowane subdominantowe; omawia też inne sposoby zmiany kilku składników.",
+      "scope": "Nie utożsamiać każdej D7 z akordem subdominantowym bez kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 229–231 (PDF 408–410)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENH-TRISTAN",
+      "statement": "Autor zwiększa liczbę interpretacji enharmonicznych, uwzględniając dźwięki obce; jako przykład podaje enharmoniczną równoważność akordu tristanowskiego z molowym czterodźwiękiem półzmniejszonym w odpowiedniej pisowni.",
+      "scope": "Interpretacja z §71, nie jedyna analiza akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 232–233 (PDF 411–412)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENH-MOD-BETWEEN",
+      "statement": "Przy enharmonicznej modulacji między różnymi akordami co najmniej jeden składnik pierwszego zmienia pisownię i staje się składnikiem drugiego; mogą także zachodzić zmiany chromatyczne.",
+      "scope": "Wymagana odrębna identyfikacja nowej funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 234–235 (PDF 413–414)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ENH-SEQUENCE-CYCLES",
+      "statement": "Szeregi akordów o stałym przesunięciu tercji wielkiej, małej lub całego tonu mogą wrócić do wyjściowej klasy wysokości przez zmianę enharmoniczną; długi symetryczny szereg nie musi określać żadnej tonacji.",
+      "scope": "Model §72, rozróżniać cykl wysokościowy i funkcję tonalną.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 236–237 (PDF 415–416)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK42"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PEDAL-DEFINITION-II",
+      "statement": "Nuta stała to dźwięk pozostający podczas ruchu innych głosów; gdy leży w najniższym głosie, autor nazywa ją nutą pedałową.",
+      "scope": "Nie każda powtarzana nuta jest nutą pedałową.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 239–239 (PDF 418–418)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PEDAL-TYPICAL",
+      "statement": "Typowa nuta pedałowa toniczna lub dominantowa jest prymą pierwszego i ostatniego akordu w szeregu; akordy pośrednie mogą z nią dysonować.",
+      "scope": "Autor wymienia wyjątki, m.in. przerwanie lub powtarzanie nuty.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 240–242 (PDF 419–421)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PEDAL-OSTINATO",
+      "statement": "Figuracja nuty pedałowej nie zmienia jej roli; basso ostinato w ścisłym znaczeniu jest powracającym tematem basowym, którego poszczególne dźwięki traktuje się jako składniki zmieniających się współbrzmień.",
+      "scope": "Rozróżnienie autora, nie jedna definicja każdej praktyki ostinatowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 242–242 (PDF 421–421)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PEDAL-MULTIPLE",
+      "statement": "Podwójna nuta pedałowa często łączy I i V stopień w kwincie; autor opisuje także potrójne nuty pedałowe oraz nutę stałą w głosie górnym lub środkowym.",
+      "scope": "Rozróżnić samodzielne głosy od zdwojeń oktawowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 244–246 (PDF 423–425)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIVE-VOICE-PROFILE",
+      "statement": "W układzie pięciu i więcej realnych głosów autor łagodzi część ograniczeń ruchów i skrzyżowań dotyczących głosów środkowych; utrzymuje większą ścisłość głosów skrajnych.",
+      "scope": "Profil §74, nie przenosić do ścisłego SATB.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 246–247 (PDF 425–426)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIVE-VOICE-NINTH",
+      "statement": "Pełny pięciodźwięk nonowy może wystąpić w pięciogłosie z zachowaną kwintą, również w drugim przewrocie; po opuszczeniu kwinty można zdwoić prymę albo tercję, jeśli nie jest prowadząca.",
+      "scope": "Nie stosować ograniczenia czterogłosowej D9 bez kwinty.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 248–249 (PDF 427–428)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK43"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-LARGER-VOICING-SUSP",
+      "statement": "W układzie pięciu i więcej głosów można zachować pełny akord nonowy i równocześnie stosować opóźnienia kwinty oraz pozostałych składników.",
+      "scope": "Zachować liczbę samodzielnych głosów i rozróżnienie składnika od opóźnienia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 250–253 (PDF 429–432)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-EXTENDED-TERTIAN",
+      "statement": "Autor definiuje sześciodźwięk undecymowy jako rozszerzenie akordu nonowego o undecymę, a siedmiodźwięk tercdecymowy o undecymę i tercdecymę; następna tercja powtarza prymę dwie oktawy wyżej.",
+      "scope": "Tercjowy model diatoniczny, nie uniwersalna definicja symboli jazzowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 256–257 (PDF 435–436)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK44"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-EXTENDED-CHORD-ROLE",
+      "statement": "Sześciodźwięki i siedmiodźwięki autor omawia częściej jako akordy przejściowe lub z wielokrotnymi opóźnieniami niż samodzielne akordy; mogą też powstać na tle nuty pedałowej.",
+      "scope": "Nie zakładać samodzielnej funkcji wyłącznie na podstawie liczby dźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 257–260 (PDF 436–439)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-EXTENDED-RESOLUTION",
+      "statement": "W modelu samodzielnego akordu tercjowego undecyma i tercdecyma schodzą sekundą; przy usuwaniu kolejnych składników dysonansowych autor dopuszcza zwężenie akordu bez regularnego rozwiązania tych składników.",
+      "scope": "Dwa różne przypadki §75.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 260–261 (PDF 439–440)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-PARALLELS-REPERTOIRE",
+      "statement": "Autor rozróżnia równoległości między niezależnymi składnikami akordowymi, równoległości z udziałem dźwięków obcych, zdwojenia oktawowe i równoległości wynikłe z przesunięcia akordów; repertuarowe wyjątki omawia po opanowaniu reguł ścisłych.",
+      "scope": "Nie usuwać zakazów szkolnych globalnie; oceniać profil zadania.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 264–269 (PDF 443–448)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-HIDDEN-INTERVALS",
+      "statement": "Ukryta oktawa lub kwinta powstaje, gdy dwa głosy ruchem prostym wchodzą z innego współbrzmienia na oktawę lub kwintę; Sikorski różnicuje ocenę zależnie od ruchu, składnika akordowego, głosów skrajnych i faktury.",
+      "scope": "Nie każdy ruch prosty do kwinty jest równoległą kwintą.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 269–270 (PDF 448–449)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-DISSONANT-RES",
+      "statement": "W repertuarowych przykładach autor wskazuje m.in. skok septymy dominanty na prymę toniki, skok nony na prymę lub tercję T oraz skok dźwięku prowadzącego na tercję T w głosie środkowym.",
+      "scope": "Zaawansowane swobody §77, nie regularne rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 271–272 (PDF 450–451)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-SUBSTITUTE-IMPLIED",
+      "statement": "Sikorski rozróżnia rozwiązanie zastępcze w innym głosie, rozwiązanie domyślne przez niewystępujący składnik oraz rzadkie całkowite nierozwiązanie dysonansu.",
+      "scope": "Rozpoznanie interpretacyjne, zależne od faktury i przebiegu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 272–273 (PDF 451–452)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-CROSS-RELATION",
+      "statement": "Autor odróżnia ukośne brzmienie półtonu między składnikami akordowymi od przypadków z udziałem dźwięków obcych; cezura, dysonansowy akord i rozdzielenie zdarzeń mogą zmniejszać jego wyrazistość.",
+      "scope": "Zasady ścisłe i instrumentalne wyjątki mają odrębne zastosowanie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 274–276 (PDF 453–455)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHORD-COLOR-UNIT",
+      "statement": "W technice akordowej opisanej przez autora współbrzmienie traktowane jest jako cała jednostka kolorystyczna, a nie zespół niezależnych głosów; zwykłe reguły prowadzenia głosów nie są w tym ujęciu podstawowym kryterium.",
+      "scope": "Nie stosować do zadań ścisłych; przykłady Chopina, Debussy'ego i Pucciniego są interpretacjami autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 277–278 (PDF 456–457)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODAL-HARMONIZATION",
+      "statement": "W szkolnej harmonizacji melodii opartych na skalach kościelnych Sikorski proponuje przewagę trójdźwięków konsonansowych, diatonikę oraz unikanie wyraźnych następstw funkcyjnych poza kadencją; dopuszcza też swobodniejsze opracowania.",
+      "scope": "Model autora dla melodii kościelnych, nie kompletna historia chorału ani kontrapunktu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 281–284 (PDF 460–463)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PENTATONIC-ANHEMITONIC",
+      "statement": "Autor opisuje pentatonikę bezpółtonową jako pięć stopni z całymi tonami i małymi tercjami, możliwą do utworzenia z pięciu kolejnych kwint sprowadzonych do oktawy.",
+      "scope": "Nie przenosić historycznych twierdzeń o pochodzeniu i kulturach bez odrębnej weryfikacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 286–287 (PDF 465–466)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK46"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PENTATONIC-DITONIC",
+      "statement": "W terminologii autora pentatonika ditoniczna zawiera również półton i tercję wielką, w odróżnieniu od pentatoniki anhemitonicznej.",
+      "scope": "Określenie historycznego podręcznika.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 287–288 (PDF 466–467)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODAL-GREEK-DISTINCT",
+      "statement": "Autor odróżnia greckie skale budowane z tetrachordów w kierunku z góry na dół od kościelnych skal o podobnych nazwach, budowanych w jego opisie w górę.",
+      "scope": "Szczegóły historycznej klasyfikacji wymagają niezależnej kontroli, nie zastępować ich nowoczesnymi rotacjami dur.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 288–291 (PDF 467–470)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-WHOLE-TONE-SETS-II",
+      "statement": "Skala całotonowa ma sześć różnych stopni w oktawie, a w 12-TET istnieją dwa różne zbiory jej klas wysokości; sam zbiór nie wyróżnia jednego centrum.",
+      "scope": "Odrębna pisownia może zamknąć skalę enharmonicznie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 292–293 (PDF 471–472)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK45"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHROMATIC-VS-TWELVE-TONE",
+      "statement": "Sikorski odróżnia tonalną skalę chromatyczną, w której zmienione stopnie pozostają zależne od skali diatonicznej i toniki, od materiału systemu dwunastotonowego.",
+      "scope": "Ujęcie autora; nie jest pełnym wykładem dodekafonii.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 293–293 (PDF 472–472)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-LYDIAN-CONTEXT",
+      "statement": "Podwyższony IV stopień dur może być chromatycznym opóźnieniem, dźwiękiem pomocniczym lub zamiennym, albo cechą skali lidyjskiej; autor odróżnia istotną cechę zwrotu od przypadkowej chromatyki.",
+      "scope": "Nie identyfikować modusu po pojedynczej alteracji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 295–297 (PDF 474–476)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PHRYGIAN-CONTEXT",
+      "statement": "Obniżony II stopień może być charakterystyczną cechą frygijską, dźwiękiem obcym lub składnikiem akordu neapolitańskiego; ruch VI–V w moll autor interpretuje jako frygijski tylko przy odpowiednim punkcie spoczynku.",
+      "scope": "Kontekst modalny i harmoniczny rozstrzyga interpretację.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 297–298 (PDF 476–477)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODAL-HARMONIC-AMBIGUITY",
+      "statement": "W analizie fragmentu Mazurka cis-moll op.41 nr 1 Sikorski rozważa więcej niż jedno centrum tonalne i porównuje znaczenie powtarzanej dominanty z materiałem skali.",
+      "scope": "Analiza autora, dokładne nuty i granice wymagają kontroli edycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 301–301 (PDF 480–480)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TONALITY-TWO-AXES",
+      "statement": "W systematyce Sikorskiego tonalność opiera się na funkcyjnych związkach akordów odnoszonych do wspólnej toniki oraz na tercjowej budowie akordów; sam jeden z tych czynników nie wystarcza w jego definicji.",
+      "scope": "Historyczny model teorii tonalności; nie utożsamiać z każdą współczesną definicją.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 306–307 (PDF 485–486)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TONALITY-CONTEXT-II",
+      "statement": "Autor odróżnia zmianę tonacji w obrębie systemu tonalnego od zaniku tonalności; chromatyczne dźwięki obce same nie zmieniają diatonicznego charakteru systemu w jego ujęciu.",
+      "scope": "Zakres §83, nie klasyfikator wszystkich utworów XX i XXI wieku.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 306–307 (PDF 485–486)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }
