@@ -95,3 +95,6 @@ Potwierdzono 92 strony i brak warstwy tekstowej, kolofon w powiększeniu. Odczyt
 
 ## Wójcik ABC — pierwsza lektura (2026-11-25)
 Zweryfikowano 96 stron PDF bez tekstu, odczytano obrazy wybranych stron, w tym formy wokalne i cykliczne. Dodano 30 twierdzeń oraz 13 powiązań źródłowych. Dwa podręczniki autorki i Chomiński nie są niezależnymi tradycjami. Nie ustalono roku/ISBN z powodu brakujących kart, nie przeanalizowano każdego przykładu, bez recenzji ani zmian runtime. Wpisy nie oznaczają pełnego pokrycia kompetencji.
+
+## Nauka harmonii Wesołowskiego — pierwsza lektura (2026-11-25)
+Potwierdzono metadane i 104 strony skanu; odczytano spis, przedmowę i wybrane rozkładówki 24,28,42,62,68–69. Dodano 13 twierdzeń i 5 powiązań do wcześniejszych. Udokumentowano wyjątki rozwiązania D7, odrębność zdwojenia orkiestrowego, nutę stałą, historyczne cyfrowanie i klasyfikację modulacji. Bez pełnej lektury, recenzji i testów muzycznych; bez zmian runtime.

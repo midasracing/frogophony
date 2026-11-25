@@ -36,3 +36,5 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Dzielska i Kaszycki — kształcenie słuchu](aural-training-reference.md): metodyka, typy ćwiczeń, konwencje zapisu i granice oceniania.
 
 - [Wójcik — ABC form muzycznych](wojcik-abc-reference.md): formy instrumentalne i wokalne, techniki XX w., zasady analizy.
+
+- [Wesołowski — Nauka harmonii](wesolowski-harmony-reference.md): wyjątki, praktyka, faktura i modulacje.

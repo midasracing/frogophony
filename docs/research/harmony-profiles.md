@@ -8,3 +8,6 @@
 - D7 i D9 bez prymy: oddzielić faktyczną najniższą nutę, podstawę interpretacji i składniki obecne. Funkcja wynika z kontekstu.
 ## Kontrakt przyszłego oceniania
 Każde zadanie SATB jawnie określa profil (sikorski, targosz), etap (triada, przewroty, figuracja, itd.) i styl. Reguła ma źródło, zakres, wyjątki, poziom (błąd/ostrzeżenie/nie dotyczy). Nie uruchamiać jeszcze automatycznego werdyktu: szczegółowe reguły i wyjątki wymagają dalszej lektury oraz testów. Analiza repertuaru nie jest egzaminem z rygorystycznego czterogłosu szkolnego. Nie kopiować przykładów podręczników.
+
+## Uzupełnienie: Wesołowski 1997
+Dodać do przyszłego systemu profil Wesołowskiego, wyłącznie w zweryfikowanym zakresie. Regularne rozwiązanie D7 i nieregularne rozwiązania s.54–55 są osobnymi etapami; w szczególności dopuszczalny kierunek septymy zależy od głosu i typu zadania. Zdwojenie orkiestrowe s.122–123 nie jest samodzielnym głosem SATB. Szczegóły w wesolowski-harmony-reference.md; nie traktować trzech podręczników jako niezależnej recenzji ani gotowego algorytmu.

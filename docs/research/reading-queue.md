@@ -50,3 +50,6 @@ DK-EAR-1989-UPLOAD, wyd. III, 92 strony skanu, dostępne obrazy. Nie prosić pon
 
 ### Otrzymano Wójcik — ABC form muzycznych (2026-11-25)
 WOJ-ABC-UPLOAD: 96 stron skanu, brak części początkowej i metadanych wydania, ale czytelny główny tekst. Nie prosić ponownie o egzemplarz; opcjonalnie karta tytułowa. Mapa i porównanie w wojcik-abc-reference.md. Następne: Drobner i Wesołowski Nauka harmonii.
+
+### Otrzymano Wesołowskiego — Nauka harmonii (2026-11-25)
+WES-HAR-1997-UPLOAD, 104 strony skanu, wyd. I 1997. Czytelny po obrocie. Pierwsza lektura wybranych fragmentów; nie prosić ponownie o egzemplarz. Mapa i ustalenia w wesolowski-harmony-reference.md. Drobner pozostaje do przesłania.

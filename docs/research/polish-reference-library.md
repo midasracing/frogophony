@@ -52,3 +52,5 @@ WOJ-NOM-2004-UPLOAD: otrzymany egzemplarz Nauki o muzyce, mapa i konflikty w woj
 DK-EAR-1989-UPLOAD: otrzymany podręcznik Dzielskiej i Kaszyckiego, pierwszoplanowy dla ćwiczeń praktycznych na poziomie zaawansowanym; mapa i zasady projektowe w aural-training-reference.md. Nie zastępuje materiałów początkujących CEA ani aktualnej podstawy.
 
 WOJ-ABC-UPLOAD: egzemplarz ABC form muzycznych dostępny; wydanie nieustalone, mapa i porównanie z Chomińskim w wojcik-abc-reference.md.
+
+WES-HAR-1997-UPLOAD: dostarczony egzemplarz Nauki harmonii, wyd. I 1997. Uzupełnia Sikorskiego i Targosza, mapa w wesolowski-harmony-reference.md.

@@ -296,7 +296,8 @@
         "CHOM-VARIATION",
         "WOJ-POLYPHONY",
         "ABC-IMITATION",
-        "ABC-OSTINATO"
+        "ABC-OSTINATO",
+        "WH-PEDAL"
       ],
       "status": "partial"
     },
@@ -398,7 +399,8 @@
         "TAR-D9",
         "TAR-D9-ROOTLESS",
         "DK-AMBIGUOUS",
-        "DK-FOUR"
+        "DK-FOUR",
+        "WH-CHOPIN-CHORD"
       ],
       "status": "partial"
     },
@@ -607,7 +609,8 @@
         "TAR-S6",
         "TAR-D9",
         "TAR-D9-ROOTLESS",
-        "TAR-DEGREES"
+        "TAR-DEGREES",
+        "WH-CHOPIN-CHORD"
       ],
       "status": "partial"
     },
@@ -624,7 +627,12 @@
         "SIK-REPEAT",
         "SIK-DOUBLING",
         "TAR-STRICT-PROFILE",
-        "TAR-D7-RES"
+        "TAR-D7-RES",
+        "WH-D7-FIFTH",
+        "WH-D7-EXCEPTION",
+        "WH-D7-SEVENTH",
+        "WH-D7-LIMIT",
+        "WH-DOUBLING"
       ],
       "status": "partial"
     },
@@ -641,7 +649,9 @@
       "claimIds": [
         "SIK-REPEAT",
         "SIK-BASS6",
-        "TAR-FIGURED"
+        "TAR-FIGURED",
+        "WH-PRACTICE",
+        "WH-CONTINUO"
       ],
       "status": "partial"
     },
@@ -652,7 +662,8 @@
         "TAR-SUSP",
         "TAR-PASS",
         "TAR-NEIGHBOR",
-        "TAR-ANTICIPATION"
+        "TAR-ANTICIPATION",
+        "WH-PEDAL"
       ],
       "status": "partial"
     },
@@ -662,14 +673,20 @@
         "TAR-MOD",
         "TAR-MOD-DIAT",
         "TAR-SECONDARY",
-        "TAR-ALTER"
+        "TAR-ALTER",
+        "WH-EXT-TONALITY",
+        "WH-D7-CHAIN",
+        "WH-MOD-CAD",
+        "WH-MOD-TYPES"
       ],
       "status": "partial"
     },
     {
       "id": "II-HAR-07",
       "claimIds": [
-        "TAR-ANALYSIS"
+        "TAR-ANALYSIS",
+        "WH-PRACTICE",
+        "WH-DOUBLING"
       ],
       "status": "partial"
     },

@@ -1475,6 +1475,11 @@
           "sourceId": "WES-1986-UPLOAD",
           "locator": "§37, s.105; §38, s.109",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 46 (PDF 24)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1491,6 +1496,11 @@
         {
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 149 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 47 (PDF 24)",
           "access": "direct-read"
         }
       ],
@@ -1611,6 +1621,11 @@
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 262 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 135 (PDF 68)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1628,6 +1643,11 @@
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 265 (numeracja PDF zgodna w odczytanych miejscach)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 135–137 (PDF 68–69)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1644,6 +1664,11 @@
         {
           "sourceId": "TARGOSZ-2004-UPLOAD",
           "locator": "s. 284–285 (numeracja PDF zgodna w odczytanych miejscach)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 47 (PDF 24)",
           "access": "direct-read"
         }
       ],
@@ -3801,6 +3826,227 @@
         {
           "sourceId": "WOJ-ABC-UPLOAD",
           "locator": "druk. s. 193–195 (PDF 94–95)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PRACTICE",
+      "statement": "Wesołowski zaleca na II stopniu rozwijanie słuchowego i praktycznego opanowania akordów oraz tworzenie własnych konstrukcji harmonicznych i melodii według funkcji.",
+      "scope": "Zalecenie metodyczne z przedmowy, nie dowód skuteczności cyfrowego ćwiczenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 5 (PDF 3)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-EXT-TONALITY",
+      "statement": "Wprowadzenie dominant do akordów innych stopni rozszerza zasób harmoniczny przy zachowaniu odniesienia do głównej tonacji.",
+      "scope": "Tonalność rozszerzona w ujęciu autora; nie utożsamiać każdej dominanty wtrąconej z trwałą modulacją.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 47 (PDF 24)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-FIFTH",
+      "statement": "W regularnym rozwiązaniu D7 kwinta akordu jako składnik niedysonujący nie ma jednego bezwzględnego kierunku ruchu; autor podaje kilka możliwości.",
+      "scope": "Podstawowy model rozwiązania, pozostałe reguły prowadzenia głosów obowiązują.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 47 (PDF 24)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-EXCEPTION",
+      "statement": "W nieregularnym rozwiązaniu D7 tercja w głosie środkowym może zejść skokiem do kwinty toniki; autor dopuszcza ten przypadek niekiedy również w sopranie, lecz nie w basie.",
+      "scope": "Profil Wesołowskiego, nie reguła początkowych ćwiczeń ścisłych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 55 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-SEVENTH",
+      "statement": "Autor dopuszcza w określonych nieregularnych rozwiązaniach ruch septymy dominanty w głosie górnym o sekundę w górę; w basie wymaga zejścia sekundą.",
+      "scope": "Dotyczy omawianej klasycznej harmonii, nie wszystkich stylistyk.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 55 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-LIMIT",
+      "statement": "Przy nieregularnym rozwiązywaniu D7 Wesołowski zaleca najwyżej jedną z omawianych swobód jednocześnie oraz unikanie wskazanego następstwa kwinty czystej i zmniejszonej w głosach skrajnych.",
+      "scope": "Lokalna reguła rozdziału, nie uniwersalny zakaz równoległości we wszystkich stylach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 55 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-D7-CHAIN",
+      "statement": "Dominanta septymowa może prowadzić do innej dominanty dysonansowej, a nie tylko do toniki.",
+      "scope": "Przykład 69b–c; dalszy kierunek zależy od kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 55 (PDF 28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CHOPIN-CHORD",
+      "statement": "Wesołowski używa nazwy akord Chopinowski dla dominanty septymowej z sekstą zamiast kwinty; w opisanym modelu seksta jest wielka w dur i mała w moll.",
+      "scope": "Termin i struktura według autora, nie utożsamiać z każdym współbrzmieniem spotykanym u Chopina.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 82 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-CONTINUO",
+      "statement": "W historycznym cyfrowaniu basu występują skróty różniące się od współczesnej konwencji szkolnej; następstwo cyfr 6 i 5 może mieć więcej niż jedną interpretację.",
+      "scope": "Czytać z kontekstem źródła, nie implementować pojedynczej zamiany znaków.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 82 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-DOUBLING",
+      "statement": "Wzmocnienie linii głosowej oktawami w orkiestrze jest odrębną praktyką od prowadzenia samodzielnych głosów w ćwiczeniu czterogłosowym; autor pokazuje wynikające z niego równoległe kwinty.",
+      "scope": "Nie stosować testów szkolnego SATB do wszystkich par zdwojonych partii orkiestrowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 122–123 (PDF 62)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-PEDAL",
+      "statement": "Wesołowski nazywa nutą stałą dźwięk utrzymywany podczas zmian funkcji harmonicznych, a nutą pedałową jej wystąpienie w głosie najniższym; możliwe jest również powtarzanie dźwięku.",
+      "scope": "Terminologia tego autora; nie mylić z każdym ostinatem ani pedałem fortepianu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 123 (PDF 62)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-CAD",
+      "statement": "W modelu Wesołowskiego trwałą zmianę tonacji potwierdza kadencja; chwilowe wychylenie nie zrywa związku z tonacją zasadniczą.",
+      "scope": "Szkolny model funkcyjny, wymaga kontekstu analitycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 135 (PDF 68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WH-MOD-TYPES",
+      "statement": "Autor odróżnia modulację diatoniczną, chromatyczną i enharmoniczną według sposobu osiągnięcia akordu wprowadzającego do nowej tonacji.",
+      "scope": "Klasyfikacja autora; sama obecność chromatyki lub zmiany znaków przykluczowych nie rozstrzyga rodzaju modulacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-HAR-1997-UPLOAD",
+          "locator": "druk. s. 135 (PDF 68)",
           "access": "direct-read"
         }
       ],
