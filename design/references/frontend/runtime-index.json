@@ -1,0 +1,2119 @@
+{
+  "captures": [
+    {
+      "scenario": "course-desktop",
+      "evidence_id": "ev_28af016efe6769349371e12c15250de7dfaf1af302c0b0a6902cd1049b4cbc37",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 3601
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 2524
+        }
+      ],
+      "events": 233,
+      "dropped": 0
+    },
+    {
+      "scenario": "course-mobile",
+      "evidence_id": "ev_cc3e6cc554096b71bd683ea1d5b6010fae45a16a45f60d532481286b6cf3310e",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 7802
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 2436
+        }
+      ],
+      "events": 237,
+      "dropped": 0
+    },
+    {
+      "scenario": "catalog",
+      "evidence_id": "ev_9877c1528c03d6e563a1cb5b8288da84bae64bbca68004e54a88a733a9b5efcd",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/courses",
+          "elapsed_ms": 7889
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/courses",
+          "elapsed_ms": 2504
+        }
+      ],
+      "events": 393,
+      "dropped": 0
+    },
+    {
+      "scenario": "home",
+      "evidence_id": "ev_e630fb1d8cbb95c4c6911ccfc01a1ec35726f9590a1a8c706d621e2e3054a376",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/",
+          "elapsed_ms": 8527
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/",
+          "elapsed_ms": 2563
+        }
+      ],
+      "events": 390,
+      "dropped": 0
+    },
+    {
+      "scenario": "course-get-started",
+      "evidence_id": "ev_9c0fb1a6c1f567d4ba5d72fb178dad4deae0386a6287463f6275b80e6d7b8ec3",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 3256
+        },
+        {
+          "id": "get-started",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 210
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 1984
+        }
+      ],
+      "events": 257,
+      "dropped": 0
+    },
+    {
+      "scenario": "course-get-started-wait",
+      "evidence_id": "ev_cf37e5461a6a7b7c559f6ba9ea4600a64a7cdb3e2aa66db50eea20d14a842ce8",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 6310
+        },
+        {
+          "id": "get-started",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 341
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 12187
+        }
+      ],
+      "events": 486,
+      "dropped": 0
+    },
+    {
+      "scenario": "choose-course",
+      "evidence_id": "ev_52ba244d58ee74b63b93106a5d8fc7ac6461242ef4600360400e6729913e8971",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/register",
+          "elapsed_ms": 5313
+        },
+        {
+          "id": "settle",
+          "status": "completed",
+          "path": "/register",
+          "elapsed_ms": 2586
+        }
+      ],
+      "events": 285,
+      "dropped": 0
+    },
+    {
+      "scenario": "welcome",
+      "evidence_id": "ev_c8ab6d8b217df0b79149939a9899a40de8a9de9fac72b5d6f77825f6101a5d5b",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 4025
+        },
+        {
+          "id": "get-started",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 535
+        },
+        {
+          "id": "welcome-visible",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 3986
+        },
+        {
+          "id": "welcome-continue",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 596
+        },
+        {
+          "id": "welcome-settle",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 2120
+        }
+      ],
+      "events": 491,
+      "dropped": 0
+    },
+    {
+      "scenario": "welcome-next",
+      "evidence_id": "ev_9b2b4b95c983092de9ad703b995a7fd4b2b63ff82dfaf21bac4329e63b77e95b",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 3715
+        },
+        {
+          "id": "get-started",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 188
+        },
+        {
+          "id": "welcome-visible",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 3246
+        },
+        {
+          "id": "welcome-continue",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 1443
+        },
+        {
+          "id": "welcome-settle",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 2104
+        },
+        {
+          "id": "welcome-continue-again",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 181
+        },
+        {
+          "id": "next-screen",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 2828
+        }
+      ],
+      "events": 528,
+      "dropped": 0
+    },
+    {
+      "scenario": "onboarding-survey",
+      "evidence_id": "ev_2aaa9984646bc6187d8ac987d2d0cda0d84dbd04e9dc11e413811a1fa572db9f",
+      "steps": [
+        {
+          "id": "scenario_start",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 3317
+        },
+        {
+          "id": "get-started",
+          "status": "completed",
+          "path": "/course/es/en/Learn-Spanish",
+          "elapsed_ms": 205
+        },
+        {
+          "id": "welcome-visible",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 4050
+        },
+        {
+          "id": "welcome-continue",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 155
+        },
+        {
+          "id": "welcome-settle",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 2090
+        },
+        {
+          "id": "welcome-continue-again",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 131
+        },
+        {
+          "id": "next-screen",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 2709
+        },
+        {
+          "id": "survey-other",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 1035
+        },
+        {
+          "id": "survey-continue",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 167
+        },
+        {
+          "id": "survey-settle",
+          "status": "completed",
+          "path": "/welcome",
+          "elapsed_ms": 3625
+        }
+      ],
+      "events": 564,
+      "dropped": 0
+    }
+  ],
+  "assets": [
+    {
+      "path": "css/1118-c0ec1e49.css",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 3624,
+      "sha256": "0d02822a62b7984483313d829f6e9eca34db4d12cc22a9f302ec1e106322fbf2"
+    },
+    {
+      "path": "css/2231-98e46965.css",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 3657,
+      "sha256": "4c3176cbf4237577233fe5f13b80e7fd76809983414042d2e50875213c3dc7e3"
+    },
+    {
+      "path": "css/3406-2fbeaccb.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 60526,
+      "sha256": "adc6434791b7773756d8db1211927b8dff97245f0d9dcbedf9690ecc4cead5bd"
+    },
+    {
+      "path": "css/4051-19b22bc2.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 1557,
+      "sha256": "5371e72254087c9c25b4a147ca344992730ca159c4beb6ffcf4769a212e0330e"
+    },
+    {
+      "path": "css/4626-a5d3cf32.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 11009,
+      "sha256": "0a7f1be872c81804ad5b505f84197dd6897b93fd4410623ae1c1cbbb9806e8ce"
+    },
+    {
+      "path": "css/4769-628e48ee.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 11228,
+      "sha256": "16e3f533c774467427ee060f254fde6e2eac32349e4fb835cfd44e2ef039c611"
+    },
+    {
+      "path": "css/4779-c36ad395.css",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 59854,
+      "sha256": "930c4f7bbb2c55124da4331d3d59c022db2d601fee3c0b592f7a78c9dbe09372"
+    },
+    {
+      "path": "css/4800-10f90769.css",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 2612,
+      "sha256": "9c67af17534bbdff362c222ff7667c72218628ba40ada2f4cf200879777e59dd"
+    },
+    {
+      "path": "css/5747-341b0c2d.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 22658,
+      "sha256": "df8dec0f8c336c01685cc84353662e2dc9aaa6a50ec274821b2e3dee336ce8fd"
+    },
+    {
+      "path": "css/7459-c8907fa6.css",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 12179,
+      "sha256": "a655a80986625551a996d1e714158ea851e7f8aca62d5b10783c8ebfd5fa38c1"
+    },
+    {
+      "path": "css/7476-1ab956d5.css",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 2088,
+      "sha256": "2d59c6cfa51cc5a06529c18fc6bf2cd93f9b0df7e7098117d56d46cee2057a58"
+    },
+    {
+      "path": "css/8186-c0ec1e49.css",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 3624,
+      "sha256": "0d02822a62b7984483313d829f6e9eca34db4d12cc22a9f302ec1e106322fbf2"
+    },
+    {
+      "path": "css/8803-af4fd4fc.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 64157,
+      "sha256": "d2776e218b9c75c3fec6ebf126a6ce94314c635c8624c19bbf780b7c93c02f75"
+    },
+    {
+      "path": "css/8918-da1df5ae.css",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 11155,
+      "sha256": "711f2dbc8e2b9671c36983cc461f43a1aeaa0537d13771357aa1ddfc842129a8"
+    },
+    {
+      "path": "css/8946-9afca49e.css",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 601,
+      "sha256": "7292bc871cb6c90227ce3bf4206acf701c3855ac2d5217f3b7998d51ea70a8e9"
+    },
+    {
+      "path": "css/9071-3f391c60.css",
+      "scenarios": [
+        "catalog",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 21164,
+      "sha256": "806d17c3a7a58ae066fbe068a84cade847a0691c8c3c2948c00cc3b6bd5355f4"
+    },
+    {
+      "path": "css/9487-c883bbb9.css",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 317,
+      "sha256": "5ae1c061081fac78d58b5f907823a65dd2232794be5b1a7548fa5e971b88fac1"
+    },
+    {
+      "path": "css/app-f58b2376.css",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 87670,
+      "sha256": "b4e8d92ec9217a889bd76700201c97e0661b00d69361b5dad2d941410d643a7e"
+    },
+    {
+      "path": "images/17db14133432ce4e82a799e760bd3e0e.svg",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 969,
+      "sha256": "43de60f58f47997a3f62dc59cea1ad81dfacbe9a22aa4c3fcf871757e2d8cfbb"
+    },
+    {
+      "path": "images/4a9f9204e7e5c1d3ed3b79b7b7af8568.svg",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 727,
+      "sha256": "0d25c4f8566c3384a46ea7afb1bc6294809ab884f9bdca5bdbb780807fa01c64"
+    },
+    {
+      "path": "images/84481e2507d0fd72f121db57ad029fc7.svg",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 518,
+      "sha256": "dc1f3dd6e09d97620643caba547fecdea55cd0159cccbc26b4561fc8889fec71"
+    },
+    {
+      "path": "images/dca3b978d07a7dfc05adb1d5526e9e21.svg",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 2173,
+      "sha256": "937da427a3328eab0f38755cf0bee837674ecfeefec8f25f29da168828b5d354"
+    },
+    {
+      "path": "images/funboarding/0e2332e8d4074ed5db4ca9152ffd0d25.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 448,
+      "sha256": "622f55585382db5891767baa95aa3f1d3717558f28257e4bb289f0a64c97c6cc"
+    },
+    {
+      "path": "images/funboarding/484f1c9610935dd40094a9f7cf06e009.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 4870,
+      "sha256": "216174511507f739a9a1220cc7b3c6c407f31ff7f01e6033876e39c5009241bd"
+    },
+    {
+      "path": "images/funboarding/5bbfb55fd21e21012a228bcef29bb557.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 2322,
+      "sha256": "2c1ac7f847f328244eafafe77caf049810e8aece7d9a179de2d4834e4aa832b4"
+    },
+    {
+      "path": "images/funboarding/61a06f02b3b988d1c388d484bc0e52e6.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 2780,
+      "sha256": "433a4bfa538b2bf08484b61419d28017463c980c11477a0c008e3927d45678d1"
+    },
+    {
+      "path": "images/funboarding/6a6ee65c5e4daafbce275d6478917fcc.svg",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 625,
+      "sha256": "72b4e87c4ea5f18e0a9f9d98578c70b90c35d846a76eb95c7c8969ede212cbf1"
+    },
+    {
+      "path": "images/funboarding/ab81d610a8a79f174a4db0a6085e7e2c.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 5119,
+      "sha256": "69d2e0bd4fe30a14256e56870fc98b04971672490ff17b447e1925f8a4b5696f"
+    },
+    {
+      "path": "images/funboarding/d7315c6c7bbeba67df5ebda771d33da1.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 4499,
+      "sha256": "cff7f39e8665c257f98ff15a27481cae538ce107fd61f5ed5dd7f6625b492463"
+    },
+    {
+      "path": "images/funboarding/f382d7a1e1a958dc07fca0deae2d16b7.svg",
+      "scenarios": [
+        "onboarding-survey"
+      ],
+      "bytes": 4130,
+      "sha256": "c3bccdb0cdbfbae2cc40c4d521898d8babb5d9bf32f2878c858396a86b276cac"
+    },
+    {
+      "path": "images/hdyhau/0d0c3c81ccd1fd2ea84371e6bf4546b3.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 2513,
+      "sha256": "adfbe3474f14c669c08b8e392f97b0ecb421a0139139ba841e06b4c3a3bbbc5f"
+    },
+    {
+      "path": "images/hdyhau/5ae4d4bc2af930b5bc002b5d0b7cbad7.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 1091,
+      "sha256": "8c50cfa7b3a35945ed1f3e60dc3829fcad493b96b0ee9fa3e6a6e5b3f6a1e4e5"
+    },
+    {
+      "path": "images/hdyhau/76e85225614700656ea784824ceac58d.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 463,
+      "sha256": "48efd2732b058c36ab7bbf799df1541ae9b3a36801efe2618b4a50aeb00f0881"
+    },
+    {
+      "path": "images/hdyhau/8e3f5e058dd4dd5eb43646c2d1f19b3c.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 1115,
+      "sha256": "e1f6b20aee0287a531a5d8b999b4d3902d751b6e759a38dea1f57a051853faba"
+    },
+    {
+      "path": "images/hdyhau/947546a876aaea3a9811abf4cca1b618.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 4574,
+      "sha256": "0b37ff28b61bb9c688f5803561629fd4e693be4c429fb22734b36e87713b4b93"
+    },
+    {
+      "path": "images/hdyhau/9eb3a5707704c76b653a5e85fbf9ca0e.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 6531,
+      "sha256": "cd649378e7f3be17289bfaa8fa0b71430adbc6db1d626ab3e0feb99d6c36c374"
+    },
+    {
+      "path": "images/hdyhau/b2a0faf7b835cf2ab9a75afe033fdad9.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 1821,
+      "sha256": "3fad85d729a5d7edfe8df93d7106e72f4778230455bccd3f3ad0ea4c6dc43b1e"
+    },
+    {
+      "path": "images/hdyhau/b5dadc886c742bd37e4d512c53771a0a.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 1884,
+      "sha256": "49a356307973cf2bfc1f1f0d73c8e162b957cbfe308fbad24df4e0a390ce24fd"
+    },
+    {
+      "path": "images/hdyhau/d4419d84cb57b1295591e05cd60e45fb.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 1034,
+      "sha256": "bd1a35c1f09de3f8abc969f3424400726e2f44421cbb8319f945c30ea3715ef5"
+    },
+    {
+      "path": "images/hdyhau/f2969a78ee365da5e7676dc6afd8c1b4.svg",
+      "scenarios": [
+        "onboarding-survey",
+        "welcome-next"
+      ],
+      "bytes": 3206,
+      "sha256": "dd52d502c081e3811b1ce6de5cec533d3805ae3a34f07694ce5043846575fc0f"
+    },
+    {
+      "path": "images/splash/3a733db6d6873e1a915f70cf72554ce3.svg",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 35743,
+      "sha256": "e98a4200003d49029f31022765779f522caeaad25889432dd68dd09c7f1e4339"
+    },
+    {
+      "path": "images/splash/936d5abdc28aa4f6f7219f6784691930.svg",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 345,
+      "sha256": "f5fd3affd2b93abe9874449b7aa259860ea39dda0cd474b73b138b4a95411f55"
+    },
+    {
+      "path": "images/splash/c6eae48dd48246c89e415b89f9e55282.svg",
+      "scenarios": [
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 345,
+      "sha256": "9e4c89fc912d4b2e8ca8b69184c4720209cea9e7a49d587254b9275272e9ead3"
+    },
+    {
+      "path": "images/splash/f92d5f2f7d56636846861c458c0d0b6c.svg",
+      "scenarios": [
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 6056,
+      "sha256": "65b85308f6fa2b507852352cdcb9516ad74a581cf86b0d1bb5b2ff5e4fd29fe0"
+    },
+    {
+      "path": "images/splash/lottie/08ec8d0260c55c054e1b97bcbc96ea0f.svg",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 442117,
+      "sha256": "f604cfdff29ce793536537e6749264f3f836820167e522db04b29f5953ae439a"
+    },
+    {
+      "path": "images/splash/lottie/229d5f88cc9df2eb0b68f39466500911.svg",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 95924,
+      "sha256": "c727496e8907f690eb2e9d760d23d494de69c15af08a4a4d1d2dda2f138650a9"
+    },
+    {
+      "path": "images/splash/lottie/22fce01f6df43e0472d7585afad9a43a.svg",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 59242,
+      "sha256": "b486fb374c7d64bb4a267f696544ee2cad9e98e88982dd094128d9a018df7874"
+    },
+    {
+      "path": "images/splash/lottie/23ab11cb1e1a9aff54facdf57833373d.svg",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 331023,
+      "sha256": "6bac30e4448a5e0abdd6a14ae2665f4e745f676279790dc45f6afa99d1d9f64b"
+    },
+    {
+      "path": "images/splash/lottie/833a22b2834050d139f266a29899bb00.svg",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 578526,
+      "sha256": "fe1cc36a94edd5324d76b74e268c3fcba243d190ac50a85e41691b99d35a0fd2"
+    },
+    {
+      "path": "images/splash/lottie/890eb76de9a395b182c1c28322721405.svg",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 76315,
+      "sha256": "44a7355b3653a1ed085dd57b852627c1f1a57c6613ea8c0b44cf1f4f9f3b40b7"
+    },
+    {
+      "path": "images/splash/lottie/9d3c2c99dd19996319a372f79b2ed3c1.svg",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 288083,
+      "sha256": "0817b5f08a01d056c3c15bdf32f79211b41a761edaffe7c4b9658e44b4989311"
+    },
+    {
+      "path": "images/splash/lottie/a50e95b2b4e8c91d610b9c7318389c1e.svg",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 17305,
+      "sha256": "e02d3b595a166a28efb930cb8cefb7d7e50c0a072d097ffed752706bb29da89e"
+    },
+    {
+      "path": "images/splash/lottie/a774fe14d71e450d59a9bc4ed5d210c9.png",
+      "scenarios": [
+        "course-mobile"
+      ],
+      "bytes": 40480,
+      "sha256": "72c0ef4f14d12dee1255100131e2b7a55f8e3e30d29154705a6d8c87af66bd66"
+    },
+    {
+      "path": "js/1032-f470afda.js",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 1773,
+      "sha256": "87ba961503604ff4baca77c82c3a1258bd6f2030218f6d13874eff024eea0aa8"
+    },
+    {
+      "path": "js/1118-030c3921.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 7389,
+      "sha256": "5798d204b4b32dcf5758698b7174272bbe337d428aaa1cc0022cd24e2f40f1ab"
+    },
+    {
+      "path": "js/2231-cd848620.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 9144,
+      "sha256": "febda86709a66c7a716824d242098099e312120e6cd2e08efc279b019c8f81c2"
+    },
+    {
+      "path": "js/2579-1909b452.js",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 359066,
+      "sha256": "45995da01c6e6d75eb4e8eaf8bbac56e255630649a10ed56e1ef0345ae31e0ba"
+    },
+    {
+      "path": "js/2751-c11d41e3.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 8442,
+      "sha256": "bae0e87bf95d52998e85bcbe9a1a96cd0ceb8d2cb3c4aeb5cf36d0bfed14dc11"
+    },
+    {
+      "path": "js/2837-0a97c589.js",
+      "scenarios": [
+        "catalog",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 26430,
+      "sha256": "03f3a2f15b33c4c8aa4a1015da24f478cdc2499438770821423221e1fb734287"
+    },
+    {
+      "path": "js/3284-f4471c38.js",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 7008,
+      "sha256": "b8291e7fff6f7a41976af0afc8179f7698d23ccaa5f0dbe7d11d410d83686389"
+    },
+    {
+      "path": "js/3406-15d8ead2.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 142184,
+      "sha256": "add215c43c9728992ff7810726abd929acbba0cdbda4034ca55fd899133e3581"
+    },
+    {
+      "path": "js/4051-7b393101.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 16622,
+      "sha256": "e4a53920939e4d81926a01c46646655aff81d9c96fc9ed08cb0e8f9f0a345fc1"
+    },
+    {
+      "path": "js/4265-03a131ad.js",
+      "scenarios": [
+        "catalog",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 9682,
+      "sha256": "2f51af5f0f5918be978409b3ffa59ba38ac04b75ed6b82ecf302422688b17322"
+    },
+    {
+      "path": "js/4626-0ef20208.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 20060,
+      "sha256": "08f6806578f4036b5c2b41c4962ca99699fa98ec220739ea4a09b87c449f34b5"
+    },
+    {
+      "path": "js/4769-5ca3b089.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 22985,
+      "sha256": "8732c723bce4edfad5567ea84cb65e9488ab5ae2d3ad4a69b7868e8119b74db6"
+    },
+    {
+      "path": "js/4779-0fb1dea3.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 748013,
+      "sha256": "43259e1e06ae14239c8cbe2c8e1f7ba597e3d6e517bce73d78e405a7d84121c1"
+    },
+    {
+      "path": "js/4800-307e38a3.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 6456,
+      "sha256": "9f3e141de144ceca033dbfacb170c75ee42fc5524bdd896ac1143ad395758a51"
+    },
+    {
+      "path": "js/5314-33cb86aa.js",
+      "scenarios": [
+        "catalog",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 165539,
+      "sha256": "91be8fcfa3366a08bf1075e07281aee2baf35654087f1aa826b22e919371fd5b"
+    },
+    {
+      "path": "js/5348-0bca84c3.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 8196,
+      "sha256": "473bada3250c93b6ecf33100ab51b77d97996f2425a0647c334a17cc4206be5d"
+    },
+    {
+      "path": "js/5744-7973e363.js",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 1252,
+      "sha256": "85137383ebb45b8e61e3e791b6ba12e51dd6a9ba3dc31610c934da2dfc81e578"
+    },
+    {
+      "path": "js/5747-560e05a2.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 29734,
+      "sha256": "624513eb8be3b72e7ab62df9d63f9011352f9e6e79ac0fe6c39b8d38591c8cb1"
+    },
+    {
+      "path": "js/6706-5a0ff698.js",
+      "scenarios": [
+        "catalog",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 8642,
+      "sha256": "db1979799122ef960a253b1089efb1e0aa554db3d071dfcc2a4796b113c77262"
+    },
+    {
+      "path": "js/6743-8d1e0be7.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 16760,
+      "sha256": "04f9dec2588499f76c145f5f114d4c316d87d8b8c2d3089807d3bba4997e4641"
+    },
+    {
+      "path": "js/7459-fb2812f0.js",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 16196,
+      "sha256": "2b3323d788ac6caf623a578021431d90bd08630f4c0d593cf5a21ac12dadb9f4"
+    },
+    {
+      "path": "js/7476-fe77b4f6.js",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 5514,
+      "sha256": "baee1d5cd97abb73754b7f52e460f85a7392aae0fb337a0c903c6764f16146ce"
+    },
+    {
+      "path": "js/7581-23749748.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 198904,
+      "sha256": "c3789a01e0a277262eadebd3e0007634c47299c9011669bb523021ffe36df562"
+    },
+    {
+      "path": "js/8186-a1796de4.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 7503,
+      "sha256": "7b4defbc4c2be9f2ed9e5e9d36f370c64c2de95d7a432b7951ed73c1892af291"
+    },
+    {
+      "path": "js/8553-a0eeda7a.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 24456,
+      "sha256": "9179ef7271b73ff2bda6115717edd59c35b5516a59e75a84b80210f05657cdec"
+    },
+    {
+      "path": "js/8579-79d5155c.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 10875,
+      "sha256": "356b49f75663048c8986b96d1c030897731f571921a40debe306d44ddd819698"
+    },
+    {
+      "path": "js/8803-5f2240a5.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 151077,
+      "sha256": "d6b7f9cc0fe638898a7404561303b347dd0d626d1868d801e7d71f50a6aca1e4"
+    },
+    {
+      "path": "js/8918-696f506f.js",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 47492,
+      "sha256": "afed9b614a287d2bf2ed3351693d65660c910b08fa15d64c425a2f34b0dbf7f5"
+    },
+    {
+      "path": "js/8946-3307aa20.js",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 924,
+      "sha256": "68ec1eee4665897e492d44df8590c7f70693071cff588fbd0addac1abff4d035"
+    },
+    {
+      "path": "js/938-20a20e25.js",
+      "scenarios": [
+        "catalog",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 10346,
+      "sha256": "580a7a9ea9af14dc82c8da6f8c65d605b57f90072be5aab6459f392d09542570"
+    },
+    {
+      "path": "js/9487-63fd4a35.js",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 3822,
+      "sha256": "237c2428ecb7e1d7b84df3eb962587ba17c74cce9055d601e97ba50bf2b627fe"
+    },
+    {
+      "path": "js/9819-822a6f7c.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 309320,
+      "sha256": "6391687825a5accfd1797a3f655a9910857fe9e46be70f094a9452c1b2e96e8a"
+    },
+    {
+      "path": "js/app-0a9c0865.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 1153711,
+      "sha256": "bd249173c9d13ae606354ed2e9243c85ffc14010e90e6ff9523cf028119fb87c"
+    },
+    {
+      "path": "js/features-91ec4487.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 3151,
+      "sha256": "f2d4ab9d2dff0e7dce8e81c2f13c53db9fdacb6c16445e7188176e06ca638317"
+    },
+    {
+      "path": "js/manifest-f44a276d.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 14467,
+      "sha256": "64f5c65255e353a4debb5c9d6ad3cea1f6eab3b3a01ccbd3ae50390fb37dca74"
+    },
+    {
+      "path": "js/polyfills-4de5bd64.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 369,
+      "sha256": "0e3624f0dff9bb421d32062daa8637c47bcc6d146db01f0345f0e7cd3497c5e9"
+    },
+    {
+      "path": "js/strings/en-84e140ac.js",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 2602,
+      "sha256": "4f2fc5f65b34199326a7a47ad470057ba2ba7a2aaf5f71542a8436637f9928d6"
+    },
+    {
+      "path": "lottie/funboarding/4e5c13bf6b0be65006ae027f066362fc.json",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 326442,
+      "sha256": "7a78cc0560590eb007a74561d36042afbb3de3b8f30f3e9f3740ab9ed97c5bc7"
+    },
+    {
+      "path": "lottie/funboarding/679e4fbde0d7bb55821bcfc215744dbb.json",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 542192,
+      "sha256": "69c5fe0196e526ec30c8d24cdad8a2eb8a8a4bf71aec8865c6b83388e56409ca"
+    },
+    {
+      "path": "lottie/funboarding/a3c85b28676df146ce9d53540978f3e5.json",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 116498,
+      "sha256": "a4a326b63eb899154e5dae0aea41300c24a72841632ec87ed72f6cc5658da34a"
+    },
+    {
+      "path": "lottie/funboarding/ed177eb496e0280c95367b83efb512d2.json",
+      "scenarios": [
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 103996,
+      "sha256": "cb03c88d8ee661673f726c7ad21e59f466ddf032298882ca144ba8fca74ca382"
+    },
+    {
+      "path": "lottie/splash/2c6db87220e7de95124c1a2882afd64f.json",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 73456,
+      "sha256": "1d659516f6097fc8b97d36d14b8658930d943aa7893a0cc8c23176333289eed1"
+    },
+    {
+      "path": "lottie/splash/50bda50231c0bce1584e982cebfe8f33.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 629513,
+      "sha256": "f4cab0ff8040cc3d72593458bc6922be46632b0e8c857f93b94e082d02ad9777"
+    },
+    {
+      "path": "lottie/splash/71b01cd301b53ec9879f2d06eb85f5db.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 393229,
+      "sha256": "484d5d4c697ee5734fc18415155d447962abe1be5def8731fc4809adc4cbe484"
+    },
+    {
+      "path": "lottie/splash/82f26795696242931a7b905b4918eb1e.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 771195,
+      "sha256": "944ac61b0f78bf5f329d680e56e785f0ff0a8a2386cb9df9abb5a219c8dd1855"
+    },
+    {
+      "path": "lottie/splash/904f242fe2ab5477e3b97928d3e1cb89.json",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 463823,
+      "sha256": "df900778f0a73330b514d16c4e12bfcf19242c206bf42101c6a4eeb7079a1c0a"
+    },
+    {
+      "path": "lottie/splash/98fa4e2fa26d365936333da24aba7e36.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 42800,
+      "sha256": "659efc7fb6cffe138726227710039f0e09bde15a35b53b765e2f32f7865dde41"
+    },
+    {
+      "path": "lottie/splash/9b9c41cb3a201cad24a2f18f90f4d564.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 135778,
+      "sha256": "746f2168da19bc4f53513de11c27b0b78f4c2f382b570d6543650f33f4a481eb"
+    },
+    {
+      "path": "lottie/splash/aea5aff1143a9410b81448245ad7c839.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 357102,
+      "sha256": "ad1879ec1ed81d3fca0327472939b6e05ea94b6e43f2a2f572cedada698b8b6e"
+    },
+    {
+      "path": "lottie/splash/c02b5f75d9ec48815e6a964f641a9fe2.json",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 142666,
+      "sha256": "eae4bc842223c87469c8f862708c48d30a7008e62734e34d76e5b1e3529b78a4"
+    },
+    {
+      "path": "lottie/splash/c16e90b93e35750c893be4b58720cef2.json",
+      "scenarios": [
+        "home"
+      ],
+      "bytes": 345031,
+      "sha256": "12d4b2a5a083b4ff431761d997150acba19d78288aedae00751a6109c81be7e3"
+    },
+    {
+      "path": "lottie/splash/e97b1cde32a58c629a0193eea36ddaab.json",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 1083041,
+      "sha256": "80c258655e028a508d35f30fb1e1a25b53bf94009c3caecdc39df8ff76a01bab"
+    },
+    {
+      "path": "sounds/0a27c1ee63dd220647e8410a0029aed2.mp3",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 2506,
+      "sha256": "88dd486f3822b96c9995cf14deee824a0c8b4e42539998d62ca1c474d65e4bfb"
+    },
+    {
+      "path": "vendor/09eba3135efe8fe93a4662dba813b921.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1585,
+      "sha256": "2c8ee21cf02d546f01115fb6264261d0b46766fea16df494a944b4e355b03616"
+    },
+    {
+      "path": "vendor/112e1531d0ac198a9424bd1b0a7166e6.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 3243,
+      "sha256": "d0eb82c955898a42e7560648a5d7dddd72b906a67af138c559bc29bb099a25fd"
+    },
+    {
+      "path": "vendor/27d253ae1272917fc9f4a79459aacd53.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1592,
+      "sha256": "702292a1010eeabffd0f16c59703b57c2d7d1686fff8af046f3546b6478bd552"
+    },
+    {
+      "path": "vendor/2880099b038848abbfd11104097953ad.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2707,
+      "sha256": "5bedd403db651cb409150b9b7d5ad52e8355559f1a36891def5ceeb2da57990e"
+    },
+    {
+      "path": "vendor/2b077d42185bc45d4896ed55f15c4fea.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1722,
+      "sha256": "5488bd4e6cfc513fde5111362a70ad96d19b4a0065871c0548e5c4135f27f47a"
+    },
+    {
+      "path": "vendor/2ed8d0a73eab3c9cba0290e2b459684a.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1420,
+      "sha256": "b40b30edde8eab9baea3224659c41896a4dd72e8fa96b55d4ee998ab6f0e4d9e"
+    },
+    {
+      "path": "vendor/312e21f793c555787d01a45e20ee8191.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2208,
+      "sha256": "5398b12533f94bdef39376461893e1a1e87214295dcd28531427dc267974e79d"
+    },
+    {
+      "path": "vendor/335311988405b4354e1b6ae9037c02db.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1843,
+      "sha256": "6e30015ab8d3721418859846837f9f6c911f904ec744a19276d2b9d18cab7446"
+    },
+    {
+      "path": "vendor/339c0413e542f19b234971d7740447e7.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1114,
+      "sha256": "7d3587c3fb2979309094d32e294a49eba3fdc3bc6e0f8d3057f7817b8c53c7cb"
+    },
+    {
+      "path": "vendor/357e13bb10cf86fc06552d563957e2e6.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1432,
+      "sha256": "107cfa3342c535902848cf5794ffe52062aeb151a315f37d8450b0599cd728b2"
+    },
+    {
+      "path": "vendor/395c8a6ee9783610b578b02fda405e85.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 3908,
+      "sha256": "777ea4cdf896bd8612995e4a09e74d64c5a84bf55caec1bbb4a35ea08fc48e8e"
+    },
+    {
+      "path": "vendor/3bbe299f41d8289a47d91773fee0cb6a.woff2",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 65628,
+      "sha256": "7067fd4cb1ce67784bf8ac0ffa0317272681a87dc4c5f48dcc4c9302ebc1ed09"
+    },
+    {
+      "path": "vendor/40d2caf9c6f7cc01b0f71e9e1e56fb5e.svg",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 179830,
+      "sha256": "29f08ea925ec393fc2b84c5ae3dc41b957150fa55957f6ecfa31ca2d4947b5a9"
+    },
+    {
+      "path": "vendor/482fda142ee4abd728ebf4ccce5d3307.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1295,
+      "sha256": "67cfc5c2672719cfd70a6eeddcdcad0527624ab74322d51554655e21df0431f9"
+    },
+    {
+      "path": "vendor/55bad151fa6a8d9e2376fc9697c671c8.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2435,
+      "sha256": "f677d0b3f620cf928f39adca1452007bb163d52d50c0679374106371f5b94198"
+    },
+    {
+      "path": "vendor/59a90a2cedd48b751a8fd22014768fd7.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1816,
+      "sha256": "0d0511bed5f4e07886b2d66f2590544987dd29926975ecf34b44acc7379a6a13"
+    },
+    {
+      "path": "vendor/635a09df9323279d39934a991edd4510.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1432,
+      "sha256": "0dbaf31810b06a23216895a14ca7cea4b2a228e3b7e5a8a51176a07e7835e127"
+    },
+    {
+      "path": "vendor/68d22534874c554b0c9ebabea379fc60.woff2",
+      "scenarios": [
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 25488,
+      "sha256": "98577ff1de37744d958394f676f8523d158b1b40fa093344dc2ffcb446b2149d"
+    },
+    {
+      "path": "vendor/6af84a7cb8e99ea8a567c2b9c55b9926.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 761,
+      "sha256": "345a271127b703c32878702e6daf8d4a135c307f8018700e295a2fbc422f6ba8"
+    },
+    {
+      "path": "vendor/6de7e4731b2a82a6458268e1a3d67ce4.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1924,
+      "sha256": "43d5b01eb0c337772f9b4bc2c2a333459733d4f3cbfd61846eeb3cb48900ff73"
+    },
+    {
+      "path": "vendor/73837fa39dbf1bcc4c95a17a58ed0ffb.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1686,
+      "sha256": "7a630847a1cd040fe5e181af565b4b9b4ad951b44f904a1aae2075633b023f86"
+    },
+    {
+      "path": "vendor/76d654213a8282b0ebc25b4f535ee003.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2616,
+      "sha256": "5c755cff64996d37d8f4e1188a472262079ea9e1e455ccd31791b7f5b5d49354"
+    },
+    {
+      "path": "vendor/7c6e12bc57527843082f7f5bb77c9862.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1114,
+      "sha256": "1e2ee275d7656c658f5ba73fc6895a798accd38cc4cf6f5d24631e38cb5c588e"
+    },
+    {
+      "path": "vendor/7fee27d21187165ccb88aef0234b6101.svg",
+      "scenarios": [
+        "catalog"
+      ],
+      "bytes": 1418,
+      "sha256": "1031a2d4228387d86d552291f9f5096508d43b7fee51256190a21e32542665d6"
+    },
+    {
+      "path": "vendor/828bf0fea457d3beaaab3d6c0bfcc975.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1230,
+      "sha256": "8e373b27ab272b5aa27361735e2d7d53bafb191d0ccbad11b010a1e4d0557b34"
+    },
+    {
+      "path": "vendor/8cb302b44c183c1a8ec3b90caf90d922.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2467,
+      "sha256": "92eac6d3d2a6d862d60991e57626b63042613728049488bda65318724919532b"
+    },
+    {
+      "path": "vendor/8db373482261397a3159d3f370eed2f3.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1837,
+      "sha256": "6b77d6217621073900dd3bd5a062d7c90df63d0e586416c3758abcc58207c9e3"
+    },
+    {
+      "path": "vendor/90b37d97edc66e830dc2286279548f67.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 980,
+      "sha256": "2bb1ecd9eae6ed0407d0c4502d3dbe03bf6d218ff1fbb9a354744cb40777b2e2"
+    },
+    {
+      "path": "vendor/9905aa3a86fcb9e351b0b3bfaf04d8b9.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 5500,
+      "sha256": "dea7a1b8eb327d761671caf05f7754a0638e4109378b80ed6744398445a4a8bb"
+    },
+    {
+      "path": "vendor/9ab6930a263c981b57f9d578ac97cae7.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 3874,
+      "sha256": "b291d73ac730e33bfd5949abde681fab0f9f42c34437177359e9d8120e59eb6e"
+    },
+    {
+      "path": "vendor/b4d0e4f6451f504e1441eb93efdbea5e.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 723,
+      "sha256": "ec6117ef39036a982d04ae9f83bd2564f3a89aa017c839fdd24fd4d1489ab1f4"
+    },
+    {
+      "path": "vendor/bbc8ad0cfe2596d5193376ebdc3e969c.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 4250,
+      "sha256": "9fc392674866668aa8115c8a7287d0a062e00745183c8c0bd97fc0c33e54e6d5"
+    },
+    {
+      "path": "vendor/bbe17e16aa4a106032d8e3521eaed13e.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 7675,
+      "sha256": "fa640a6e514dfe5b71caf587a0c6a5ba94c0dc9ffb1c6822ad4b05b542c34f8f"
+    },
+    {
+      "path": "vendor/bc80a9518cd6d5af6ae14e8b22b8a1f4.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2258,
+      "sha256": "268fc6d0d098cb136938b887845f97ba7ce769cbfdca2b76a55ecd29a823cbf6"
+    },
+    {
+      "path": "vendor/c71db846ffab7e0a74bc6971e34ad82e.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1284,
+      "sha256": "d3eada43d7d8f78e201b688ffb34d16855001a9e54c2c94f64a49657bddc4725"
+    },
+    {
+      "path": "vendor/c8bad7c09aaf7bc29ddddc50808adb54.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1536,
+      "sha256": "13399d5d0817c37612ebfdd68b483b8a94a57f4123f20a5f318bfbd2fb1b5a4c"
+    },
+    {
+      "path": "vendor/de945d789e249dcd74333a6996472ef8.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1421,
+      "sha256": "81aa922ed0f1852c39ce64863fa4aba38eb2f9e42331d8dff270b46d20feddd8"
+    },
+    {
+      "path": "vendor/eadd7804652170c33814a89482f1f353.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1419,
+      "sha256": "17c5723f489b6fe4e08112668632c170be480f7234479c278ad1335f9716146c"
+    },
+    {
+      "path": "vendor/ec5835ac9f465ff3dad4b1b8725d4314.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 6402,
+      "sha256": "2cb4e850c34fb3267e3dd286321ef52ee3364292f10409f7a5036e2baa9cb90d"
+    },
+    {
+      "path": "vendor/edea4fa18ff3e7d8c0282de3f102aaed.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 985,
+      "sha256": "82be3a95a05b96e77bf3a0514e23d8fc364374e4725a67252f33e9bb54bc697d"
+    },
+    {
+      "path": "vendor/ef0bfb96037b127473bd7bcbfde1a6ed.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1430,
+      "sha256": "f4cae0555341e56ff4684dff80f5dc322b64a29dc3a52270dd8136ca43294ea7"
+    },
+    {
+      "path": "vendor/f095084e6ec400e631d62c3d95fefaa2.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 1110,
+      "sha256": "e6669cba4137771352b802af182c3b57e90e934879c067691d8955cfc727636e"
+    },
+    {
+      "path": "vendor/f2331bbfd902cdf8971c4d3184a44283.woff2",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "course-desktop",
+        "course-get-started",
+        "course-get-started-wait",
+        "course-mobile",
+        "home",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 76404,
+      "sha256": "2386eb5948f9a0fa9f9394adc07f4f2294929d8feec5d22c1eeb1cb67979d34f"
+    },
+    {
+      "path": "vendor/f578430c9b7ab617c107893afbb501c0.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 875,
+      "sha256": "6164708934ebe7acf6218c95f09a073f330c99d75b447e3f4fed860f98f51d81"
+    },
+    {
+      "path": "vendor/f773f1b240623072e48843ecdf90d756.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 3097,
+      "sha256": "0708c7196123e882a55b26d523b04fe841079b57c9d43e8095cd14cedbd889ce"
+    },
+    {
+      "path": "vendor/f7cee6cc09270371b097129faf792c2a.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 5514,
+      "sha256": "9932277c088ec47f1c9c1d0e56e239565c933fda93285594fd5bc7c2de0f4512"
+    },
+    {
+      "path": "vendor/f818f545a703ddaa046ca8786e781742.svg",
+      "scenarios": [
+        "catalog",
+        "choose-course",
+        "home"
+      ],
+      "bytes": 2704,
+      "sha256": "2ae220304b22cef32702fda888e1d4776ccc7a2d55dec44849fe32265d96f79d"
+    },
+    {
+      "path": "vendor/fa3d16bb6533dc46e7703fe9dfe74d97.json",
+      "scenarios": [
+        "catalog",
+        "course-get-started-wait",
+        "onboarding-survey",
+        "welcome",
+        "welcome-next"
+      ],
+      "bytes": 238561,
+      "sha256": "9667165f60919f11a9161530418397e5736a7f11ed9550eee1e6fd32def877f1"
+    }
+  ]
+}
