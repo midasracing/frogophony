@@ -1082,7 +1082,7 @@
       "type": "theory",
       "url": "https://www.arch.szymanowski.edu.pl/o-szkole/pion-muzyczny/sekcja-teorii-muzyki",
       "status": "verified-partial",
-      "note": "URL wskazuje wcześniejszy wykaz bibliograficzny, NIE miejsce odczytu. Źródło: PDF użytkownika, Józef Chomiński i Krystyna Wilkowska-Chomińska, Formy muzyczne t. I: Teoria formy. Małe formy instrumentalne, PWM 1983; Paweł Krzysztof Chomiński: dział urządzeń elektroakustycznych i elektronicznych. ISBN tomu 83-224-0176-0, serii 83-224-0224-4. 573 strony PDF, 11755618 bajtów. Odczyt kart tytułowych i spisu (PDF 1–8), tekstu druk. s.11–22,177–178,194–195,208–209,226–227,230–231,414–415,423–424,476–478,535–537. W tych rozdziałach numer drukowany = numer PDF + 1. Przykłady nutowe nie zostały w tej rundzie przeanalizowane; pełna lektura i kompletność wszystkich stron niepotwierdzona. 2026-11-25: rozpoczęto ciągłą lekturę PDF 1–9, 11–55, tekst i wybrane obrazy. PDF 10 bez odpowiedzi tekstowej i obrazowej; PDF 33–34 w kolejności druk.35,34. Nie ukończono lektury i kontroli erraty. Dalszy odczyt tekstu PDF 56–109, bez pełnej kontroli ilustracji. Niespójność s.87 z definicją s.56 oznaczona do kontroli obrazu. Nie zamknięto erraty.",
+      "note": "URL wskazuje wcześniejszy wykaz bibliograficzny, NIE miejsce odczytu. Źródło: PDF użytkownika, Józef Chomiński i Krystyna Wilkowska-Chomińska, Formy muzyczne t. I: Teoria formy. Małe formy instrumentalne, PWM 1983; Paweł Krzysztof Chomiński: dział urządzeń elektroakustycznych i elektronicznych. ISBN tomu 83-224-0176-0, serii 83-224-0224-4. 573 strony PDF, 11755618 bajtów. Odczyt kart tytułowych i spisu (PDF 1–8), tekstu druk. s.11–22,177–178,194–195,208–209,226–227,230–231,414–415,423–424,476–478,535–537. W tych rozdziałach numer drukowany = numer PDF + 1. Przykłady nutowe nie zostały w tej rundzie przeanalizowane; pełna lektura i kompletność wszystkich stron niepotwierdzona. 2026-11-25: rozpoczęto ciągłą lekturę PDF 1–9, 11–55, tekst i wybrane obrazy. PDF 10 bez odpowiedzi tekstowej i obrazowej; PDF 33–34 w kolejności druk.35,34. Nie ukończono lektury i kontroli erraty. Dalszy odczyt tekstu PDF 56–109, bez pełnej kontroli ilustracji. Niespójność s.87 z definicją s.56 oznaczona do kontroli obrazu. Nie zamknięto erraty. 2026-11-25: kontynuacja: pełny dostępny tekst PDF 110–126, następnie przegląd fragmentów tekstu każdej strony 128–573, z zachowaniem różnicy między przeglądem a pełną lekturą. PDF 10 potwierdzono jako pustą kartę, PDF 127 odczytano jako schemat obsady Ionisation. Obraz PDF 86 potwierdził sprzeczność druku s.87. Trzy pary przestawionych stron oznaczono. Wyszukiwanie erraty w całej warstwie tekstowej nie zwróciło wyniku, osobnej erraty nie zweryfikowano. Cały tom objęty przeglądem zakresu, nie pełną analizą każdego akapitu ani zapisu nutowego.",
       "accessKind": "user-upload",
       "fileName": "ilide.info-chomiski-formy-muzyczne-t1-mae-formy-instrumentalne-pdf-pr_421f268dbe2333d62d50aaedf899cf37.pdf",
       "editionAudit": {
@@ -1091,10 +1091,109 @@
             "pdfPage": 86,
             "printedPage": 87,
             "target": "diastematyka wertykalna i horyzontalna",
-            "reason": "Tekst na s.87 zamienia przypisanie melodyki i akordyki względem definicji na s.28 i 56. Do reguł przyjęto definicję z s.56; potrzebna kontrola obrazu s.87, by rozróżnić błąd druku od błędu odczytu.",
-            "status": "blocked-pending-image-collation"
+            "reason": "Obraz PDF 86 potwierdza, że w druku s.87 zamieniono melodykę (horyzontalną) i akordykę (wertykalną); definicje druk.28 i 56 są zgodne. Błąd druku, nie warstwy tekstowej. Nie przyjmować błędnego zdania jako definicji.",
+            "status": "confirmed-print-inconsistency"
+          },
+          {
+            "pdfPage": 85,
+            "printedPage": 86,
+            "target": "Werckmeister, równomierna temperacja i Das wohltemperierte Klavier",
+            "reason": "Źródło wiąże te wydarzenia w uproszczonej narracji historycznej. Nie traktować określonego stroju Bacha ani autorstwa równomiernej temperacji jako zweryfikowanych bez dodatkowej literatury.",
+            "status": "blocked-pending-specialist-review"
+          },
+          {
+            "pdfPage": 110,
+            "printedPage": 111,
+            "target": "punktualizm i czystość harmoniki",
+            "reason": "Oceny estetyczne i rozwojowe autorów pozostają ich stanowiskiem; nie stosować jako uniwersalnych reguł.",
+            "status": "author-perspective"
+          },
+          {
+            "pdfPage": 137,
+            "printedPage": 138,
+            "target": "ostrość przebiegów trójkątnych",
+            "reason": "Historyczne opisy kształtów przebiegów i ich widma wymagają kontroli akustycznej; nie używać jako specyfikacji syntezy cyfrowej.",
+            "status": "blocked-pending-specialist-review"
+          },
+          {
+            "pdfPage": 148,
+            "printedPage": 149,
+            "target": "regulacja wysokości przez wzmacniacz",
+            "reason": "Nie utożsamiać regulacji pasm basów i sopranów z transpozycją wysokości.",
+            "status": "blocked-pending-specialist-review"
+          },
+          {
+            "pdfPage": 172,
+            "printedPage": 173,
+            "target": "16 impulsów na sekundę",
+            "reason": "Nie wykorzystywać stałego progu jako uniwersalnej granicy percepcji rytmu lub wysokości bez niezależnej kontroli.",
+            "status": "blocked-pending-specialist-review"
+          },
+          {
+            "pdfPage": 259,
+            "printedPage": 260,
+            "target": "geneza etniczna czardasza",
+            "reason": "Historyczna i wartościująca narracja wymaga niezależnej literatury etnomuzykologicznej; nie użyto jej jako faktu.",
+            "status": "blocked-pending-specialist-review"
+          },
+          {
+            "pdfPage": 306,
+            "printedPage": 307,
+            "target": "tarantela i ukąszenie pająka",
+            "reason": "Przytoczoną tradycję historyczną odróżnić od potwierdzonej wiedzy medycznej.",
+            "status": "historical-narrative-only"
+          },
+          {
+            "pdfPage": 448,
+            "printedPage": 449,
+            "target": "czwarty temat niedokończonej fugi Kunst der Fuge",
+            "reason": "Przewidywany zamysł kompozytora nie jest rzeczywiście zapisanym czwartym tematem w zachowanym fragmencie.",
+            "status": "blocked-pending-repertoire-review"
           }
-        ]
+        ],
+        "scan": {
+          "sha256": "2b2dc1a10f74ecbd52a941f6f37d8db0c5bef09eb0565b6e0655acba1a16a663",
+          "pdfPageCount": 573,
+          "textLayerPages": 571,
+          "shortTextPages": 58,
+          "blankPage": 10,
+          "diagramPageWithoutText": 127,
+          "pageOrderExceptions": [
+            {
+              "pdf": [
+                33,
+                34
+              ],
+              "printed": [
+                35,
+                34
+              ]
+            },
+            {
+              "pdf": [
+                391,
+                392
+              ],
+              "printed": [
+                393,
+                392
+              ]
+            },
+            {
+              "pdf": [
+                419,
+                420
+              ],
+              "printed": [
+                421,
+                420
+              ]
+            }
+          ],
+          "errataTextSearch": "No occurrences of errata, sprostowania, omyłki drukarskie in extracted text",
+          "externalErrata": "not-checked",
+          "notes": "Nie potwierdza kompletności każdego przykładu ani braku osobnej erraty; sprawdzono obraz kart 10,86,127; numeracja wykazuje zamiany par."
+        }
       }
     },
     {

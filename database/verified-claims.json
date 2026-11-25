@@ -21058,6 +21058,1926 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-ROW",
+      "statement": "Seria dodekafoniczna w omawianym modelu porządkuje wszystkie dwanaście klas wysokości stroju równomiernie temperowanego; jej realizacja może zmieniać rejestry i układ interwałów.",
+      "scope": "Nie utożsamiać serii z gotową melodią ani każdym utworem wykorzystującym dwanaście klas.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 110",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-GROUPS",
+      "statement": "Autorzy odróżniają serie jednolite i grupowe oraz serie z selekcją interwałów i wszechinterwałowe; grupy wewnętrzne mogą mieć m.in. po dwa, trzy, cztery lub sześć dźwięków i nakładać się.",
+      "scope": "Nie wymagać jednego rodzaju grupowania w każdej serii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 111–113",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-FORMS",
+      "statement": "Podstawowe operacje serialne to postać zasadnicza, inwersja, rak i rak inwersji, każda na dwunastu poziomach transpozycji.",
+      "scope": "Poziomy transpozycji nie gwarantują 48 różnych uporządkowanych szeregów; symetrie mogą dawać zbieżności.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 113",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF13",
+        "CHF14"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-HARMONIC-IMPLICATION",
+      "statement": "Budowa grupowa serii może sprzyjać określonym strukturom melodycznym lub harmonicznym, np. grupom diatonicznym lub przewadze półtonów i trytonów, ale nie zawsze jednoznacznie wyznacza akordykę.",
+      "scope": "Nie zakazywać triad w każdym utworze dodekafonicznym.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 113–114",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-THEMATIC",
+      "statement": "W typologii autorów serializm tematyczny pozwala zachować tradycyjne funkcje tematu i pracę tematyczną, podczas gdy regulacja grupowa może operować mniejszymi jednostkami zamiast całej linii tematu.",
+      "scope": "Typologia historyczna książki, nie ocena wartości muzyki.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 114–115",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-PERMUTATION",
+      "statement": "Permutacja oznacza przestawianie składników serii; autorzy wskazują, że zmiana kolejności może naruszać pierwotny porządek, zwłaszcza w układach wertykalnych.",
+      "scope": "Nie utożsamiać dowolnej permutacji z czterema podstawowymi transformacjami szeregu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 116–117",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF15"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-PARAMETERS",
+      "statement": "Poliserializm rozbudowuje porządkowanie wysokości o szeregi rytmiczne, dynamiczne, artykulacyjne i barwowe; kilka szeregów może działać równocześnie.",
+      "scope": "Nie wymagać serializacji wszystkich parametrów dla każdego poliserializmu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 117–118",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-DURATIONS",
+      "statement": "Autorzy omawiają szereg dwunastu zróżnicowanych wartości rytmicznych Messiaena i jego rozwinięcia przez Bouleza, odróżniając je od grupowej regulacji większych czasów.",
+      "scope": "Nie narzucać serii rytmicznej identycznej organizacji jak klasom wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 118–121",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-DENSITY",
+      "statement": "W analizie Bouleza autorzy rozróżniają gęstość brzmienia rozrzedzoną, selektywną i nierozkładalną; wpływa na nią organizacja wartości rytmicznych i pauz.",
+      "scope": "Kategorie analityczne, nie gotowe progi liczbowego klasyfikatora.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 122–123",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SONORISTIC-PROCESS",
+      "statement": "Regulacja sonorystyczna może korzystać z nowych technik wykonawczych, generowania i przetwarzania sygnałów oraz kombinowania materiału instrumentalnego, wokalnego i elektronicznego.",
+      "scope": "Nie utożsamiać jej tylko z muzyką elektroniczną.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 125",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERCUSSION-DISTRIBUTION",
+      "statement": "W partyturze perkusyjnej przypisanie instrumentów poszczególnym wykonawcom i rozmieszczenie przestrzenne mogą być odrębnymi wymiarami faktury; schemat Ionisation pokazuje wiele stanowisk wykonawczych.",
+      "scope": "Odczyt schematu na PDF 127; nie ustalano wszystkich nazw instrumentów z pamięci.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 126–127",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PREPARED-PIANO",
+      "statement": "Preparacja fortepianu zmienia brzmienie strun przez odpowiednio wskazane przedmioty; autorzy podkreślają, że do interpretacji zapisu potrzebna jest instrukcja preparacji.",
+      "scope": "Nie traktować opisu techniki jako instrukcji samodzielnej ingerencji w instrument.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 128–129",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-EXTENDED-STRINGS",
+      "statement": "Sonorystyczne wykorzystanie chordofonów może obejmować glissando, col legno, scordaturę, dźwięki szmerowe i perkusyjne użycie korpusu.",
+      "scope": "Możliwości zależą od instrumentu, oznaczeń partytury i praktyki wykonawczej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 131",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-WIND-MULTIPHONICS",
+      "statement": "W opisie rozszerzonych technik dętych autorzy omawiają wielodźwięki, zwane przez Szalonka kombinowanymi, uzyskiwane dzięki szczególnym sposobom zadęcia i palcowania.",
+      "scope": "Historyczny opis; nie generować aplikatury bez źródła instrumentowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 133",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VOICE-ACTING",
+      "statement": "Voice acting obejmuje w tym ujęciu m.in. mowę, szept i inne odgłosy wokalne, a materiał fonetyczny tekstu może tworzyć własną warstwę brzmieniową.",
+      "scope": "Nie ograniczać zapisu wokalnego do wysokości i wartości rytmicznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 134–135",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ELECTROACOUSTIC-CHAIN",
+      "statement": "W rozdziale elektroakustycznym wyróżniono urządzenia generujące, przetwarzające oraz zapisujące i przenoszące dźwięk.",
+      "scope": "Klasyfikacja historyczna; nie specyfikacja nowoczesnego toru cyfrowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 136",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SINE-SIGNAL",
+      "statement": "Idealny przebieg sinusoidalny stanowi model tonu prostego bez dodatkowych składowych harmonicznych.",
+      "scope": "Dotyczy idealnego sygnału, nie gwarantuje czystości realnego przetwornika.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 136",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FILTER-PRINCIPLE",
+      "statement": "Filtry kształtują widmo przez selekcję pasma; źródło rozróżnia filtry dolno-, górno-, środkowoprzepustowe i środkowozaporowe.",
+      "scope": "Nie kopiować historycznych liczbowych ograniczeń pasma jako współczesnych standardów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 139–141",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FREQUENCY-SHIFT",
+      "statement": "Układ przesuwający widmo w opisie źródła może dodawać lub odejmować tę samą częstotliwość od poszczególnych składowych sygnału.",
+      "scope": "Operacja addytywna nie jest tym samym co zachowanie proporcji interwałowych przy transpozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 146",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF16"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RING-MODULATION",
+      "statement": "Modulator kołowy w opisie autorów wytwarza składowe o częstotliwościach sumarycznych i różnicowych sygnałów wejściowych.",
+      "scope": "Idealny model dwóch składowych, rzeczywiste urządzenie może mieć inne składowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 147",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF17"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ACOUSTIC-FEEDBACK",
+      "statement": "W torze mikrofon–wzmacniacz–głośnik sygnał głośnika może wracać do mikrofonu i powodować samowzbudzenie.",
+      "scope": "Nie kodować podanego zakresu mocy urządzeń jako uniwersalnej normy.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 148",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SYNTHESIS-CHAIN",
+      "statement": "Źródło opisuje syntezatory jako połączenia generatorów i modułów formujących, np. filtrów, obwiedni i wzmacniaczy; urządzenia można zestawiać w łańcuchy.",
+      "scope": "Model modularny z 1983 r.; nie wszystkie syntezatory mają identyczną architekturę.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 150",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CONCRETE-ELECTRONIC",
+      "statement": "Autorzy wskazują, że rozróżnienie materiału nagranego z otoczenia i generowanego elektronicznie zaciera się przy elektronicznym przetwarzaniu i integracji tych źródeł.",
+      "scope": "Stan historycznej systematyki, nie wyczerpująca klasyfikacja gatunków.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 151",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-OPEN-CIRCULAR-FORM",
+      "statement": "W regulacji graficznej autorzy omawiają formę kolistą, która może pozwalać wybrać miejsce rozpoczęcia i zakończenia realizacji.",
+      "scope": "Nie oznacza, że każde dzieło graficzne dopuszcza dowolną kolejność.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 153",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HOMOPHONY-ACCOMPANIMENT",
+      "statement": "W homofonii autorzy rozróżniają towarzyszenie akordowe i figuracyjne; główna linia melodyczna może znajdować się także w rejestrze środkowym lub najniższym.",
+      "scope": "Nie klasyfikować melodii jako najwyższego głosu automatycznie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 154–155",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF18"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HETEROPHONY",
+      "statement": "W opisie autorów heterofonia może polegać na równoczesnym współdziałaniu melodii i jej ornamentowanej odmiany.",
+      "scope": "Nie utożsamiać z dowolną polifonią ani wymagać jednego instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 158–159",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLYPHONIC-RELATIONS",
+      "statement": "Autorzy odróżniają współdziałanie niezależnych melodii, korespondencję motywiczną i właściwą imitację; imitacja może zmieniać kierunek, kolejność lub wartości rytmiczne.",
+      "scope": "Podobny motyw nie przesądza o pełnej imitacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 161–162",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HOMOPHONIZING-IMITATION",
+      "statement": "Jednakowa rytmika i wyraźne następstwa akordowe mogą osłabiać samodzielność imitujących głosów; w homofonii z kolei mogą działać poboczne samodzielne zwroty.",
+      "scope": "Ocena faktury na poziomie odcinka, nie według samej liczby głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 163",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SCORING-DETERMINACY",
+      "statement": "W zakresie obsady autorzy rozróżniają obsadę ustaloną, nieustaloną, wymienną i dowolną; sama liczba zapisanych głosów nie zawsze wyznacza liczbę lub rodzaj wykonawców.",
+      "scope": "Nie rekonstruować historycznej obsady bez danych konkretnego źródła.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 164–165",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TEXTURE-BLEND",
+      "statement": "Współdziałające instrumenty różnych rodzin mogą stapiać się w brzmienie homogeniczne wskutek m.in. zdwojeń, a nie tylko w zależności od ich nazw.",
+      "scope": "Jednorodność brzmieniowa i jednorodność obsady to różne kryteria.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 165–166",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-DYNAMICS-VOLUME",
+      "statement": "W terminologii autorów dynamika obejmuje wolumen, głośność i przenikliwość; wolumen wiążą z masą źródeł dźwięku i liczebnością obsady.",
+      "scope": "Nie zamieniać tej historycznej terminologii na stałe wartości dB ani progi percepcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 171",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERCUSSION-ROLES",
+      "statement": "Autorzy wyróżniają pomocniczą, równorzędną i nadrzędną rolę perkusji w kształtowaniu dzieła.",
+      "scope": "Rola zależy od funkcji w utworze, nie od samej obecności instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 173",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ELECTRONIC-LAYER",
+      "statement": "Warstwa elektroakustyczna może współdziałać z instrumentami, a jej włączanie i wyłączanie może wyznaczać odcinki formy.",
+      "scope": "Opis wybranych realizacji, nie każdy utwór z elektroniką ma ten typ struktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 174–175",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MOTIF-ARSIS-THESIS",
+      "statement": "W rytmice taktowej autorzy wyróżniają w motywie arsis jako część nieakcentowaną i thesis jako akcentowaną; motyw odbitkowy może zaczynać się na słabej części taktu.",
+      "scope": "Terminologia źródła; granic motywu nie ustala się jedynie z kreski taktowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 177–178",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MOTIF-PARTIAL",
+      "statement": "Autorzy odróżniają motywy pełne od motywów cząstkowych wchodzących w większe struktury oraz omawiają motyw niepełny z pauzą zamiast arsis.",
+      "scope": "Nie każdy pojedynczy akcent stanowi motyw.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 180",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MOTIF-VERTICAL",
+      "statement": "Motyw może być kształtowany przez harmonię, dynamikę i barwę, a także przez uzupełniające się zdarzenia w kilku partiach.",
+      "scope": "Nie wymagać, by motyw był monofoniczny lub zapisany w jednym głosie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 183–184",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PHRASE-POLYPHONIC-BOUNDARY",
+      "statement": "Zakończenie frazy w jednym głosie może być osłabione przez trwający przebieg innej linii melodycznej.",
+      "scope": "Granice fraz poszczególnych głosów nie muszą pokrywać się.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 196",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF19"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PHRASE-TIME",
+      "statement": "Autorzy nie uznają rozmiaru w taktach za wystarczający wyznacznik frazy lub zdania; fraza jednotaktowa może trwać dłużej od wielotaktowej.",
+      "scope": "Uwzględniać tempo, metrum, rytmikę i przebieg harmoniczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 198–200",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SENTENCE-CADENCE-CONTEXT",
+      "statement": "W systemie funkcyjnym zakończenie zdania może wymagać przekształcenia materiału melodii i wyraźnego zwrotu kadencyjnego; prosta repetycja nie rozstrzyga o granicy.",
+      "scope": "Ujęcie klasyczno-romantyczne, nie automatyczny warunek dla form atonalnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 197–199",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FORM-PRINCIPLE-PRIORITY",
+      "statement": "Odcinek zawierający miejscową kadencję może być przede wszystkim strukturą imitacyjną, a nie zdaniem okresowym, gdy o budowie rozstrzyga technika imitacji.",
+      "scope": "Przed etykietowaniem elementów ustalać nadrzędny proces formujący.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 201",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD-OPEN-END",
+      "statement": "Autorzy opisują okresy, których następnik kończy się na dominancie, uzyskując względne zamknięcie przed dalszym rozwinięciem utworu.",
+      "scope": "Nie wymagać zakończenia każdego następnika na tonice.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 210–211",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD-ASYMMETRY",
+      "statement": "Niesymetryczność może wynikać z linearyzmu polifonicznego albo z rozszerzania i skracania materiału w homofonii; środki obejmują echo, snucie motywiczne, dodatkowy materiał, zazębianie i elizję.",
+      "scope": "Nie utożsamiać każdej nieregularnej liczby taktów z konkretnym mechanizmem.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 213–216",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD-ARCHITECTURE",
+      "statement": "Budowa okresowa może organizować całość tańca lub liryki albo pełnić funkcję lokalną w rondzie, wariacjach i formie sonatowej; autorzy stosują także poprzednik i następnik wyższego rzędu.",
+      "scope": "Poziom analizy należy oznaczyć jawnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 218–219",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD-NONFUNCTIONAL",
+      "statement": "Autorzy omawiają okresowość w muzyce XX wieku z pentatoniką, brzmieniami paralelnymi i kadencjami wyznaczanymi inaczej niż przez klasyczne T–D.",
+      "scope": "Nie wykluczać budowy okresowej na podstawie braku klasycznej kadencji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 221–224",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-JUXTAPOSITION-BARLINE",
+      "statement": "Szeregowanie może zestawiać zamknięte grupy dźwiękowe; kreski pionowe mogą oddzielać grupy, a nie takty.",
+      "scope": "Wymaga odczytu funkcji znaku w danej partyturze.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 226–228",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ASSEMBLY-ALEATORIC",
+      "statement": "W aleatoryzmie montażowym kompozytor przygotowuje fragmenty, a wykonawca zestawia je zgodnie z określonymi instrukcjami; nie zawsze konieczne jest użycie wszystkich grup.",
+      "scope": "Nie zakładać identycznej swobody w każdym utworze montażowym.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 228–229",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-EVOLUTION-RHYTHM",
+      "statement": "Ewolucjonizm może rozwijać materiał przez nowe wartości rytmiczne i harmoniczne przy zachowaniu pewnej podstawowej formuły rytmicznej.",
+      "scope": "Nie utożsamiać pracy tematycznej wyłącznie ze zmianą wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 231–232",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-DANCE-ANALYSIS",
+      "statement": "W tańcu metrorytmika może stanowić podstawowy czynnik formotwórczy, powiązany z charakterem ruchu i powracającymi formułami akcentowymi.",
+      "scope": "Nie rozpoznawać gatunku tylko z metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 237",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLONAISE-RHYTHMIC-FORMULA",
+      "statement": "Jako typową formułę poloneza autorzy opisują ósemkę, dwie szesnastki i cztery ósemki, zaznaczając możliwość modyfikacji.",
+      "scope": "Wartości odczytane z tekstu, nie transkrypcja graficznego przykładu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 239",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF20"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLONAISE-STYLIZATION",
+      "statement": "W stylizacji poloneza rytm taneczny może ustępować przekształceniom ewolucyjnym, kontrastom i pracy tematycznej; autorzy omawiają rozbudowane formy Chopina.",
+      "scope": "Nie narzucać każdemu polonezowi symetrycznego ABA.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 240–244",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MAZURKA-ACCENTS",
+      "statement": "W mazurkach akcent może padać na drugą, trzecią lub pierwszą część taktu; w odmianach o charakterze oberkowym pojawia się drobniejszy ruch figuracyjny.",
+      "scope": "Nie uzależniać rozpoznania mazurka od jednego miejsca akcentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 245",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-KRAKOWIAK-SYNCOPATION",
+      "statement": "Autorzy podkreślają żywe tempo i rytm synkopowany krakowiaka, mogący wzmacniać mocny takt frazy; stylizacja może zacierać budowę okresową.",
+      "scope": "Typowe cechy, nie niezbędne warunki wszystkich utworów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 249–251",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLKA-STYLIZATION",
+      "statement": "W stylizowanej polce obok rytmiki tanecznej mogą działać ruch szesnastkowy, pauzy, wariacja ornamentalna i ewolucyjność.",
+      "scope": "Nie traktować stylizacji jako bezwzględnie symetrycznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 254–255",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-GALOP",
+      "statement": "Galop w modelu autorów jest tańcem parzystym o bardzo szybkim ruchu, rytmach zrywanych i mocno akcentowanej odbitce.",
+      "scope": "Nie ustalać bezwzględnego BPM.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 258",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CSARDAS-STRUCTURE",
+      "statement": "Autorzy opisują lassu lub lassan jako wolny wstęp czardasza oraz friska jako szybszy, zwykle szerzej rozbudowany taniec; między częściami mogą istnieć zależności tematyczne.",
+      "scope": "Nie przyjmować szczegółowych tez o genezie etnicznej bez dalszych źródeł.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 260–261",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-WALTZ-CYCLE",
+      "statement": "W modelu walca towarzyskiego autorzy opisują wstęp, kilka zamkniętych ogniw i kodę wykorzystującą wcześniejszy materiał, ale omawiają też małe formy dwuczęściowe.",
+      "scope": "Nie wymagać 4–6 ogniw w każdym walcu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 264–266",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MINUET-TRIO",
+      "statement": "W opisywanym modelu menueta trio stanowi kontrast wobec części skrajnych, a powrót pierwszej części może być określony oznaczeniem da capo al fine.",
+      "scope": "Typowy model, nie jedyna struktura menueta.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 273",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-BOLERO-FORM",
+      "statement": "W analizie bolera autorzy wskazują trwałą formułę akompaniamentu przy nieregularnej budowie fraz; w Bolerze Ravela za podstawę rozwoju uznają dynamikę i kolorystykę.",
+      "scope": "Analiza autorów, nie transkrypcja partytury.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 276–279",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-HABANERA-TANGO-STYLIZATION",
+      "statement": "W stylizacji habanery i tanga autorzy wskazują powracające formuły rytmiczne, synkopy oraz możliwość miejscowego odejścia od podstawowego rytmu.",
+      "scope": "Nie utożsamiać obu tańców ani nie odtwarzać nieczytelnych formuł nutowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 279–281",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-JAZZ-STYLIZATION",
+      "statement": "W analizie stylizacji jazzu autorzy podkreślają przesunięcia akcentów, synkopy, warstwę perkusyjną i odrębność komponowanej imitacji improwizacji od improwizacji wykonawczej.",
+      "scope": "Historyczna perspektywa muzyki artystycznej, nie pełny podręcznik jazzu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 283–285",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MARCH-TRIO",
+      "statement": "Marsz może wykorzystywać układ repryzowy z kontrastującym triem; autorzy podają również historyczne przykłady marszów w metrum 3/4.",
+      "scope": "Nie wymagać parzystego metrum, trio lub dosłownej repetycji w każdym marszu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 288–289",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SCHERZO-DEVELOPMENT",
+      "statement": "Rozwój scherza prowadzi od pokrewieństwa z menuetem do większych form z pracą tematyczną, wielokrotnymi powrotami tematów i zróżnicowaną budową.",
+      "scope": "Nie utożsamiać scherza wyłącznie z określonym metrum i humorem.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 294–296",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TARANTELLA-FIGURATION",
+      "statement": "Autorzy opisują tarantelę jako formę często rozwijaną ewolucyjnie poprzez figurację, mimo możliwych przejawów symetrii i repryzy.",
+      "scope": "Nie kopiować legendy dotyczącej ukąszenia jako informacji medycznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 307",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-BARCAROLLE-VARIANTS",
+      "statement": "Barkarola, nawiązująca do pieśni gondolierów, może mieć budowę okresową lub wariacyjną; autorzy omawiają również ostinato jako czynnik kształtujący.",
+      "scope": "Nie narzucać jednego schematu każdej stylizacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 308–309",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-LYRIC-UNITY",
+      "statement": "Jednolity charakter liryki instrumentalnej może współistnieć z kilkoma zdaniami, okresami, zmianami faktury i kontrastami lokalnymi.",
+      "scope": "Jednolitość wyrazu nie oznacza niezmienności materiału ani układu literowego.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 311–315",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-LYRIC-RECAP",
+      "statement": "Powracająca część formy ABA może ulec skróceniu, rozszerzeniu lub ornamentalnemu przepracowaniu.",
+      "scope": "Nie wymagać dosłownej repryzy.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 325",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-LYRIC-EXPRESSION-STRUCTURE",
+      "statement": "Różne wartości wyrazowe można uzyskać z tego samego materiału tematycznego poprzez zmianę faktury; schemat literowy nie rozstrzyga o jednolitości wyrazu.",
+      "scope": "Nie oceniać charakteru wyłącznie z oznaczeń A/B.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 328",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-LYRIC-MULTIPART",
+      "statement": "Autorzy wyróżniają rozwinięcie formy trzyczęściowej, wielokrotne zestawianie par części i formy swobodne; wielokrotne AB może wykazywać cechy ronda.",
+      "scope": "Nie utożsamiać samego powtarzania A z pełną definicją ronda.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 330–332",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ROMANTIC-SYNTHESIS",
+      "statement": "W romantycznej balladzie, fantazji i rapsodii autorzy wskazują syntezy repryzowości, pracy tematycznej, wariacji i ronda.",
+      "scope": "Nie narzucać jednej architektury na podstawie tytułu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 342–344",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MINIATURE-CONSTRUCTIVIST",
+      "statement": "W analizie miniatury konstruktywistycznej autorzy podkreślają organizację motywiczną, harmoniczną i sonorystyczną oraz koncentrację materiału w formie aforystycznej.",
+      "scope": "Nie utożsamiać krótkiego czasu trwania z tym stylem.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 348–354",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ASSEMBLY-ORDER-RULES",
+      "statement": "Autorzy omawiają odmienne reguły kolejności i powtarzania elementów form montażowych, zależne od instrukcji konkretnego dzieła.",
+      "scope": "Nie stosować jednego algorytmu losowania we wszystkich formach otwartych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 363–365",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-GRAPHIC-FORM",
+      "statement": "Autorzy wyróżniają formy graficzne ciągłe i montażowe; zapis może określać zakresy wahań, zagęszczania i rozrzedzania, bez wyznaczania jednej realizacji.",
+      "scope": "Nie interpretować zapisu graficznego automatycznie jako tradycyjnych nut.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 366–367",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FIGURATION-TYPES",
+      "statement": "Figuracja może korzystać z odcinków gamowych, zwrotów interwałowych, rozłożonych akordów i wtórnych zjawisk harmonicznych.",
+      "scope": "Nie utożsamiać każdej szybkiej melodii z figuracją harmoniczną.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 368–372",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FIGURATION-DOMINANT-ROLE",
+      "statement": "Jeśli figuracja jest zasadniczym czynnikiem wyrazowym, może kształtować formę nawet jako akompaniament pod wyraźnie rozczłonkowaną melodią.",
+      "scope": "Rozstrzyga funkcja fakturalna w całości utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 374",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FIGURATION-FORMAL-DIVISION",
+      "statement": "Jednolity przebieg figuracyjny może zacierać granice faz, natomiast zmiany harmoniki, cezury i kontrastujące fragmenty umożliwiają rozczłonkowanie.",
+      "scope": "Nie wymagać podziału okresowego ani jednego schematu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 375–380",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FIGURATION-GENRE-DISTINCTION",
+      "statement": "Preludium, toccata, etiuda i fantazja mogą być formami figuracyjnymi, ale autorzy zaznaczają, że nie każdy utwór o takim tytule należy do tej kategorii.",
+      "scope": "Oddzielać nazwę gatunku od faktycznej zasady budowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 394",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PRELUDE-MULTIPHASE",
+      "statement": "Preludium figuracyjne może rozwijać kolejne fazy z powracającego motywu czołowego, przy zachowaniu ciągłości rytmicznej i zmiennej harmonice.",
+      "scope": "Nie utożsamiać wielokrotnego nawiązania z dosłowną formą rondową.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 396–397",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TOCCATA-ORIGIN",
+      "statement": "Autorzy omawiają improwizacyjny rodowód toccaty i wczesny model organowy z początkiem akordowym oraz zasadniczą figuracją; później rozszerza się udział figuracji akordowej.",
+      "scope": "Nie ograniczać toccaty do instrumentów klawiszowych ani jednej dyspozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 401–406",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-ETUDE-TECHNIQUE-FORM",
+      "statement": "Etiudy mogą koncentrować się na jednym lub wielu problemach wykonawczych; ten sam problem może realizować się w odcinkach o kontrastującym charakterze.",
+      "scope": "Nie utożsamiać problemu technicznego z jednorodnością formy.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 409–411",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF21"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGA-LIGATA-SCIOLTA",
+      "statement": "Autorzy rozróżniają historyczne użycie terminu fuga ligata dla imitacji ciągłej i fuga sciolta dla szeregowanych odcinków imitacyjnych, wiążąc je z późniejszym rozdzieleniem kanonu i fugi.",
+      "scope": "Terminologia historyczna; nie wymuszać jej w analizie współczesnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 413",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CANON-TRANSFORMATIONS",
+      "statement": "Kanon może posiadać niezależny kontrapunktujący bas, a imitujący głos może używać augmentacji, dyminucji lub inwersji i współdziałać z kontrapunktem wielorakim.",
+      "scope": "Nie ograniczać kanonu do dwóch głosów o identycznej rytmice.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 417–418",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-SUBJECT-LENGTH",
+      "statement": "Autorzy nie podają stałej długości tematu fugi; może obejmować kilka dźwięków albo znacznie rozbudowany przebieg, ważna jest rozpoznawalność.",
+      "scope": "Nie oceniać tematu według samej liczby taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 423–427",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-ANSWER-TONAL",
+      "statement": "W omawianej odpowiedzi tonalnej zachowanie relacji toniczno-dominantowych może wymagać zmiany kwinty na kwartę lub odwrotnie i dalszych zmian melodycznych.",
+      "scope": "Nie jest to mechaniczny nakaz dla wszystkich kwint w temacie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 430",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-STRETTO",
+      "statement": "Stretto polega na zazębianiu tematów wskutek wcześniejszego wejścia odpowiedzi; może wystąpić w różnych fazach fugi, nie tylko w końcowej.",
+      "scope": "Nie utożsamiać stretta ze zwiększeniem tempa wykonania.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 431",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF22"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-EXPOSITION-COVERAGE",
+      "statement": "Przeprowadzenie kompletne obejmuje wystąpienia tematu we wszystkich głosach, nadkompletne ma dodatkowe wystąpienia, niekompletne nie obejmuje wszystkich głosów.",
+      "scope": "Odróżnić liczbę wejść od liczby różnych głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 435",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF23",
+        "CHF24",
+        "CHF25"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-EPISODE-CONTRAST",
+      "statement": "Odcinki bez pełnego tematu mogą zawierać materiał z tematu lub kontrapunktu; epizod może kontrastować albo rozwijać wcześniejsze motywy.",
+      "scope": "Nie wymagać całkowicie nowej melodii w epizodzie.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 437–438",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-PEDAL",
+      "statement": "Nuta pedałowa w fudze może utwierdzać tonację, najczęściej w basie na tonice lub dominancie; autorzy dopuszczają również subdominantę i inne głosy.",
+      "scope": "Nie utożsamiać jej z zakazem zmian harmonii ponad długim dźwiękiem.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 440",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF27"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-ORCHESTRAL-VOICES",
+      "statement": "W fudze orkiestrowej partie instrumentalne nie muszą odpowiadać poszczególnym głosom polifonicznym; jedna linia tematyczna może przechodzić między instrumentami.",
+      "scope": "Nie liczyć głosów fugi wyłącznie na podstawie liczby pięciolinii.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 443",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF26"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGUE-MULTISUBJECT",
+      "statement": "W fugach wielotematowych dodatkowe tematy mogą być eksponowane od razu lub w dalszych fazach; ich zestawianie kształtuje przebieg utworu.",
+      "scope": "Nie utożsamiać każdego kontrapunktu stałego z osobnym tematem fugi.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 444–446",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGHETTA",
+      "statement": "Autorzy opisują fughettę historycznie jako swobodniej lub prościej traktowaną fugę, a później również jako fugę miniaturową.",
+      "scope": "Nie ustalać jednej granicy liczby taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 448–449",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RICERCAR",
+      "statement": "Ricercar imitacyjny autorzy wiążą z motetem przeimitowanym, ale zaznaczają istnienie ricercarów nieimitacyjnych.",
+      "scope": "Nie utożsamiać każdej imitacji w kwincie z funkcyjną odpowiedzią tonalną.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 450–451",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CANZONA-TYPES",
+      "statement": "Autorzy wyróżniają canzony fugowane jednotematowe, wariacyjne, repryzowe z kontrastem środkowym oraz zróżnicowane tematycznie.",
+      "scope": "Historyczna typologia, nie jedna obowiązkowa forma canzony.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 453–455",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-FUGATO-LOCAL",
+      "statement": "Fugato może pełnić funkcję lokalnego odcinka imitacyjnego w większym utworze i przechodzić w inną fakturę.",
+      "scope": "Nie utożsamiać lokalnego fugata z kompletną samodzielną fugą.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 458–459",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-POLYPHONIC-PRELUDE",
+      "statement": "Preludium polifoniczne może wykorzystywać swobodne kontrapunktowanie, imitację i kontrapunkt podwójny; nazwa preludium nie przesądza o formie figuracyjnej.",
+      "scope": "Nie narzucać pełnego cyklu przeprowadzeń fugi.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 460–462",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CHORALE-PRELUDE-TECHNIQUES",
+      "statement": "W przygrywce chorałowej cantus firmus może zmieniać głos, podlegać ornamentacji albo współdziałać z imitującymi kontrapunktami; chorał jako temat fugi może prowadzić do fugi chorałowej.",
+      "scope": "Nie utożsamiać każdego opracowania chorału z jedną formą.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 463–466",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TOCCATA-POLYPHONIC",
+      "statement": "Toccata może być w całości lub tylko częściowo polifoniczna; wieloczęściowe układy mogą zestawiać odcinki figuracyjne z fugowanymi.",
+      "scope": "Nie przyjmować obecności fugi jako warunku każdej toccaty.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 467–470",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CAPRICCIO-FANTASY",
+      "statement": "Autorzy opisują capriccia i fantazje z techniką fugowaną, wieloczęściowością oraz łączeniem zasad polifonicznej, figuracyjnej i rondowej.",
+      "scope": "Tytuły historyczne mają różnorodne znaczenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 472–474",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VARIATION-TYPOLOGY",
+      "statement": "Autorzy omawiają wariacje na cantus firmus, ostinatowe, melodyczne, harmoniczne, mieszane oraz formy bez wyodrębnionego tematu.",
+      "scope": "Kategoria zależy od materiału stanowiącego podstawę zmian; nie wszystkie typy są rozłączne.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 475–477",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VARIATION-THEME-PARTIAL",
+      "statement": "Wariacja może pozostawić podstawę harmoniczną, zdobić lub upraszczać melodię, przeorganizować motywy i frazy albo oprzeć się na jednym szczególe tematu.",
+      "scope": "Nie wymagać zachowania całej melodii w każdej wariacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 485–490",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VARIATION-METRIC",
+      "statement": "Wariacyjność może dotyczyć rozkładu akcentów, metrum, trybu i harmoniki, nawet jeśli linia melodyczna pozostaje rozpoznawalna.",
+      "scope": "Nie uznawać transpozycji lub zmiany metrum automatycznie za zmianę gatunku.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 491–493",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VARIATION-POLYPHONIC",
+      "statement": "Środki wariacyjne mogą obejmować imitację, kanon lub fugę; fuga może stanowić finał, ale nie musi być ostatnim ogniwem cyklu.",
+      "scope": "Nie wymagać finałowej fugi w każdej formie wariacyjnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 495",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-OSTINATO-VARIATION",
+      "statement": "Ostinatowa forma wariacyjna może dodawać kontrapunkty do powtarzanego tematu, zmieniać jego rytm i ornamentację, przenosić go między głosami lub przekształcać w figurację harmoniczną.",
+      "scope": "Nie wymagać niezmiennego basu w każdej wariacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 499–501",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF28"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CHACONNE-PASSACAGLIA",
+      "statement": "W opisanym rozwoju chaconny i passacaglii różnice między tymi gatunkami z czasem ulegają zatarciu; autorzy wskazują historyczne modele oraz wymienne nazewnictwo.",
+      "scope": "Nie stosować bezwzględnego rozróżnienia tylko na podstawie metrum, tempa lub umiejscowienia ostinata.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 497–501",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-VARIATION-TEMPO-COLOUR",
+      "statement": "Zmiany agogiczne współdziałają z rytmiką, a kolorystyka zależy od faktury, rejestru i instrumentacji; mogą organizować przebieg formy wariacyjnej.",
+      "scope": "Nie sprowadzać wariacji do zmian wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 507–509",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-VARIATION-THEME",
+      "statement": "Wariacje serialne mogą zachowywać wyodrębniony temat i tradycyjną dyspozycję, przy czym jeden szereg wysokościowy nie musi odpowiadać całemu tematowi.",
+      "scope": "Nie utożsamiać serii z pełnym tematem.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 513–516",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SERIAL-VARIATION-ANALYSIS",
+      "statement": "Autorzy podkreślają, że zidentyfikowanie serii nie wystarcza do pełnej analizy formy; istotne są również rytmika, faktura, gęstość, rejestry i barwa.",
+      "scope": "Nie oceniać jakości kompozycji samym wykryciem szeregu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 528–530",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RONDO-FRENCH-TONALITY",
+      "statement": "W rondzie starofrancuskim refren zwykle utrzymuje tonację zasadniczą, a kuplet może pozostawać w niej albo kontrastować tonalnie; zdarzają się zmiany trybu refrenu.",
+      "scope": "Historyczny model, nie absolutny warunek klasyfikacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 536",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "CHF29"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RONDO-SONATA-RELATION",
+      "statement": "Autorzy omawiają rondo klasyczne z elementami ekspozycji, repryzy i przetworzenia oraz z kontrastującym epizodem; rondo sonatowe opisują jako odmianę dwutematową.",
+      "scope": "Typologia źródła; nie klasyfikować na podstawie samych liter.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 541–543",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RONDO-BRILLANT",
+      "statement": "W romantycznym rondzie brillant rozbudowane łączniki figuracyjne oraz odcinki o improwizacyjnym charakterze mogą zmieniać proporcje formy.",
+      "scope": "Nie każdy romantyczny utwór rondowy należy do stylu brillant.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 546",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RONDO-TWENTIETH-CENTURY",
+      "statement": "Autorzy wyróżniają ronda XX wieku nawiązujące do wzoru francuskiego, koncertujące, motoryczne i dodekafoniczne; w motorycznych ważną rolę mogą pełnić akcenty, barwa i dynamika.",
+      "scope": "Klasyfikacja historyczna podręcznika, nie pełny katalog form XX i XXI wieku.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 547–549",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-RONDO-SERIAL-IDENTITY",
+      "statement": "W analizie ronda serialnego autorzy wskazują, że rozpoznawalność powracającego tematu może opierać się na rytmice, motywach czołowych i ostinacie nawet przy zmianie dyspozycji szeregu.",
+      "scope": "Nie wymagać identycznego porządku całej serii w każdym wystąpieniu refrenu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 552–555",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

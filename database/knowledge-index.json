@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 1177,
-    "fixtures": 290,
+    "claims": 1288,
+    "fixtures": 308,
     "competencies": 73,
     "partial": 58
   },
@@ -991,7 +991,118 @@
       "CHOM-MULTITONAL-LAYERS",
       "CHOM-QUARTAL-CONSTRUCTION",
       "CHOM-CLUSTER-REGISTER",
-      "CHOM-OXY-BARYPHONIC"
+      "CHOM-OXY-BARYPHONIC",
+      "CHOM-SERIAL-ROW",
+      "CHOM-SERIAL-GROUPS",
+      "CHOM-SERIAL-FORMS",
+      "CHOM-SERIAL-HARMONIC-IMPLICATION",
+      "CHOM-SERIAL-THEMATIC",
+      "CHOM-SERIAL-PERMUTATION",
+      "CHOM-SERIAL-PARAMETERS",
+      "CHOM-SERIAL-DURATIONS",
+      "CHOM-SERIAL-DENSITY",
+      "CHOM-SONORISTIC-PROCESS",
+      "CHOM-PERCUSSION-DISTRIBUTION",
+      "CHOM-PREPARED-PIANO",
+      "CHOM-EXTENDED-STRINGS",
+      "CHOM-WIND-MULTIPHONICS",
+      "CHOM-VOICE-ACTING",
+      "CHOM-ELECTROACOUSTIC-CHAIN",
+      "CHOM-SINE-SIGNAL",
+      "CHOM-FILTER-PRINCIPLE",
+      "CHOM-FREQUENCY-SHIFT",
+      "CHOM-RING-MODULATION",
+      "CHOM-ACOUSTIC-FEEDBACK",
+      "CHOM-SYNTHESIS-CHAIN",
+      "CHOM-CONCRETE-ELECTRONIC",
+      "CHOM-OPEN-CIRCULAR-FORM",
+      "CHOM-HOMOPHONY-ACCOMPANIMENT",
+      "CHOM-HETEROPHONY",
+      "CHOM-POLYPHONIC-RELATIONS",
+      "CHOM-HOMOPHONIZING-IMITATION",
+      "CHOM-SCORING-DETERMINACY",
+      "CHOM-TEXTURE-BLEND",
+      "CHOM-DYNAMICS-VOLUME",
+      "CHOM-PERCUSSION-ROLES",
+      "CHOM-ELECTRONIC-LAYER",
+      "CHOM-MOTIF-ARSIS-THESIS",
+      "CHOM-MOTIF-PARTIAL",
+      "CHOM-MOTIF-VERTICAL",
+      "CHOM-PHRASE-POLYPHONIC-BOUNDARY",
+      "CHOM-PHRASE-TIME",
+      "CHOM-SENTENCE-CADENCE-CONTEXT",
+      "CHOM-FORM-PRINCIPLE-PRIORITY",
+      "CHOM-PERIOD-OPEN-END",
+      "CHOM-PERIOD-ASYMMETRY",
+      "CHOM-PERIOD-ARCHITECTURE",
+      "CHOM-PERIOD-NONFUNCTIONAL",
+      "CHOM-JUXTAPOSITION-BARLINE",
+      "CHOM-ASSEMBLY-ALEATORIC",
+      "CHOM-EVOLUTION-RHYTHM",
+      "CHOM-DANCE-ANALYSIS",
+      "CHOM-POLONAISE-RHYTHMIC-FORMULA",
+      "CHOM-POLONAISE-STYLIZATION",
+      "CHOM-MAZURKA-ACCENTS",
+      "CHOM-KRAKOWIAK-SYNCOPATION",
+      "CHOM-POLKA-STYLIZATION",
+      "CHOM-GALOP",
+      "CHOM-CSARDAS-STRUCTURE",
+      "CHOM-WALTZ-CYCLE",
+      "CHOM-MINUET-TRIO",
+      "CHOM-BOLERO-FORM",
+      "CHOM-HABANERA-TANGO-STYLIZATION",
+      "CHOM-JAZZ-STYLIZATION",
+      "CHOM-MARCH-TRIO",
+      "CHOM-SCHERZO-DEVELOPMENT",
+      "CHOM-TARANTELLA-FIGURATION",
+      "CHOM-BARCAROLLE-VARIANTS",
+      "CHOM-LYRIC-UNITY",
+      "CHOM-LYRIC-RECAP",
+      "CHOM-LYRIC-EXPRESSION-STRUCTURE",
+      "CHOM-LYRIC-MULTIPART",
+      "CHOM-ROMANTIC-SYNTHESIS",
+      "CHOM-MINIATURE-CONSTRUCTIVIST",
+      "CHOM-ASSEMBLY-ORDER-RULES",
+      "CHOM-GRAPHIC-FORM",
+      "CHOM-FIGURATION-TYPES",
+      "CHOM-FIGURATION-DOMINANT-ROLE",
+      "CHOM-FIGURATION-FORMAL-DIVISION",
+      "CHOM-FIGURATION-GENRE-DISTINCTION",
+      "CHOM-PRELUDE-MULTIPHASE",
+      "CHOM-TOCCATA-ORIGIN",
+      "CHOM-ETUDE-TECHNIQUE-FORM",
+      "CHOM-FUGA-LIGATA-SCIOLTA",
+      "CHOM-CANON-TRANSFORMATIONS",
+      "CHOM-FUGUE-SUBJECT-LENGTH",
+      "CHOM-FUGUE-ANSWER-TONAL",
+      "CHOM-FUGUE-STRETTO",
+      "CHOM-FUGUE-EXPOSITION-COVERAGE",
+      "CHOM-FUGUE-EPISODE-CONTRAST",
+      "CHOM-FUGUE-PEDAL",
+      "CHOM-FUGUE-ORCHESTRAL-VOICES",
+      "CHOM-FUGUE-MULTISUBJECT",
+      "CHOM-FUGHETTA",
+      "CHOM-RICERCAR",
+      "CHOM-CANZONA-TYPES",
+      "CHOM-FUGATO-LOCAL",
+      "CHOM-POLYPHONIC-PRELUDE",
+      "CHOM-CHORALE-PRELUDE-TECHNIQUES",
+      "CHOM-TOCCATA-POLYPHONIC",
+      "CHOM-CAPRICCIO-FANTASY",
+      "CHOM-VARIATION-TYPOLOGY",
+      "CHOM-VARIATION-THEME-PARTIAL",
+      "CHOM-VARIATION-METRIC",
+      "CHOM-VARIATION-POLYPHONIC",
+      "CHOM-OSTINATO-VARIATION",
+      "CHOM-CHACONNE-PASSACAGLIA",
+      "CHOM-VARIATION-TEMPO-COLOUR",
+      "CHOM-SERIAL-VARIATION-THEME",
+      "CHOM-SERIAL-VARIATION-ANALYSIS",
+      "CHOM-RONDO-FRENCH-TONALITY",
+      "CHOM-RONDO-SONATA-RELATION",
+      "CHOM-RONDO-BRILLANT",
+      "CHOM-RONDO-TWENTIETH-CENTURY",
+      "CHOM-RONDO-SERIAL-IDENTITY"
     ],
     "WOJ-ABC-UPLOAD": [
       "CHOM-FORM",
@@ -1613,13 +1724,25 @@
         "ABC-TEXTURE-HYBRID",
         "ABC-VOCAL-TEXT-COLOUR",
         "ABC-VOCAL-TEXTURE",
+        "CHOM-ACOUSTIC-FEEDBACK",
         "CHOM-ARRANGEMENT-FORM",
         "CHOM-CLUSTER-REGISTER",
         "CHOM-CONTINUO-DETERMINACY",
         "CHOM-DIASTEMATICS",
+        "CHOM-DYNAMICS-VOLUME",
+        "CHOM-ELECTROACOUSTIC-CHAIN",
+        "CHOM-ELECTRONIC-LAYER",
+        "CHOM-EXTENDED-STRINGS",
+        "CHOM-FILTER-PRINCIPLE",
         "CHOM-FORM",
         "CHOM-FORM-REGULATOR-HIERARCHY",
+        "CHOM-FREQUENCY-SHIFT",
+        "CHOM-FUGUE-ORCHESTRAL-VOICES",
+        "CHOM-GRAPHIC-FORM",
         "CHOM-HARMONIC-COLOUR",
+        "CHOM-HETEROPHONY",
+        "CHOM-HOMOPHONIZING-IMITATION",
+        "CHOM-HOMOPHONY-ACCOMPANIMENT",
         "CHOM-MATERIAL-IDENTITY",
         "CHOM-MELIC-STRUCTURE",
         "CHOM-MELODY-AMBITUS",
@@ -1628,15 +1751,33 @@
         "CHOM-NOTATION-DETERMINACY",
         "CHOM-OPEN-SYSTEM",
         "CHOM-OXY-BARYPHONIC",
+        "CHOM-PERCUSSION-DISTRIBUTION",
+        "CHOM-PERCUSSION-ROLES",
         "CHOM-POLYCHRONIA-TIME",
+        "CHOM-POLYPHONIC-RELATIONS",
         "CHOM-POLYRHYTHM-POLYMETER",
+        "CHOM-PREPARED-PIANO",
+        "CHOM-RING-MODULATION",
+        "CHOM-SCORING-DETERMINACY",
         "CHOM-SECONDARY-HARMONIC-PHENOMENA",
+        "CHOM-SERIAL-DENSITY",
+        "CHOM-SERIAL-DURATIONS",
+        "CHOM-SERIAL-HARMONIC-IMPLICATION",
+        "CHOM-SERIAL-PARAMETERS",
+        "CHOM-SERIAL-ROW",
+        "CHOM-SERIAL-VARIATION-ANALYSIS",
+        "CHOM-SINE-SIGNAL",
+        "CHOM-SONORISTIC-PROCESS",
         "CHOM-SOUND-MATERIAL",
         "CHOM-SYNCOPATION-FUNCTION",
+        "CHOM-SYNTHESIS-CHAIN",
         "CHOM-TECHNIQUE-ROLE",
+        "CHOM-TEXTURE-BLEND",
         "CHOM-TIME-REGULATORS",
         "CHOM-TRANSMISSION",
         "CHOM-VERTICAL-MATERIAL",
+        "CHOM-VOICE-ACTING",
+        "CHOM-WIND-MULTIPHONICS",
         "SIK-TEXTURE-TYPES",
         "TAR-ANALYSIS-PIPELINE",
         "WOJ-COLOUR",
@@ -1660,13 +1801,29 @@
         "ABC-PHRASE-MATERIAL",
         "ABC-POLYSERIAL",
         "ABC-SENTENCE",
+        "CHOM-ASSEMBLY-ALEATORIC",
+        "CHOM-ASSEMBLY-ORDER-RULES",
         "CHOM-EVOL",
+        "CHOM-EVOLUTION-RHYTHM",
+        "CHOM-FORM-PRINCIPLE-PRIORITY",
         "CHOM-JUXT",
+        "CHOM-JUXTAPOSITION-BARLINE",
         "CHOM-MOTIF",
+        "CHOM-MOTIF-ARSIS-THESIS",
+        "CHOM-MOTIF-PARTIAL",
+        "CHOM-MOTIF-VERTICAL",
+        "CHOM-OPEN-CIRCULAR-FORM",
         "CHOM-PERIOD",
+        "CHOM-PERIOD-ARCHITECTURE",
+        "CHOM-PERIOD-ASYMMETRY",
         "CHOM-PERIOD-CAD",
+        "CHOM-PERIOD-NONFUNCTIONAL",
+        "CHOM-PERIOD-OPEN-END",
         "CHOM-PHRASE",
+        "CHOM-PHRASE-POLYPHONIC-BOUNDARY",
+        "CHOM-PHRASE-TIME",
         "CHOM-RHYTHM-SYMMETRY",
+        "CHOM-SENTENCE-CADENCE-CONTEXT",
         "TAR-ANALYSIS-CM-PRELUDE",
         "WH-PERIOD-CADENCES",
         "WOJ-PERIOD"
@@ -1687,18 +1844,37 @@
         "ABC-VARIATION-TYPES",
         "CHOM-ADDED-RHYTHMIC-VALUES",
         "CHOM-CANON",
+        "CHOM-CANON-TRANSFORMATIONS",
+        "CHOM-CHORALE-PRELUDE-TECHNIQUES",
         "CHOM-DRONE-OSTINATO-FUNCTION",
         "CHOM-EVOL",
+        "CHOM-EVOLUTION-RHYTHM",
+        "CHOM-FORM-PRINCIPLE-PRIORITY",
+        "CHOM-FUGATO-LOCAL",
+        "CHOM-FUGUE-ANSWER-TONAL",
+        "CHOM-FUGUE-STRETTO",
         "CHOM-HOQUET-POINTILLISM",
         "CHOM-MATERIAL-IDENTITY",
         "CHOM-MENSURAL-RETROGRADE",
         "CHOM-MODAL-RESHAPING",
         "CHOM-NONRETROGRADABLE",
+        "CHOM-OSTINATO-VARIATION",
         "CHOM-PARALLEL-CHORDS",
+        "CHOM-POLYPHONIC-RELATIONS",
         "CHOM-RHYTHMIC-CANON",
         "CHOM-RHYTHMIC-PEDAL",
+        "CHOM-RONDO-SERIAL-IDENTITY",
+        "CHOM-SERIAL-FORMS",
+        "CHOM-SERIAL-GROUPS",
+        "CHOM-SERIAL-PERMUTATION",
+        "CHOM-SERIAL-THEMATIC",
+        "CHOM-SERIAL-VARIATION-THEME",
         "CHOM-TECHNIQUE-ROLE",
         "CHOM-VARIATION",
+        "CHOM-VARIATION-METRIC",
+        "CHOM-VARIATION-POLYPHONIC",
+        "CHOM-VARIATION-TEMPO-COLOUR",
+        "CHOM-VARIATION-THEME-PARTIAL",
         "WH-PEDAL",
         "WOJ-POLYPHONY"
       ]
@@ -1728,8 +1904,47 @@
         "ABC-TARANTELLA",
         "ABC-TERNARY-SIMPLE-COMPOUND",
         "ABC-WALTZ",
+        "CHOM-BARCAROLLE-VARIANTS",
+        "CHOM-BOLERO-FORM",
+        "CHOM-CAPRICCIO-FANTASY",
+        "CHOM-CSARDAS-STRUCTURE",
+        "CHOM-DANCE-ANALYSIS",
+        "CHOM-ETUDE-TECHNIQUE-FORM",
+        "CHOM-FIGURATION-DOMINANT-ROLE",
+        "CHOM-FIGURATION-FORMAL-DIVISION",
+        "CHOM-FIGURATION-GENRE-DISTINCTION",
+        "CHOM-FIGURATION-TYPES",
+        "CHOM-GALOP",
+        "CHOM-HABANERA-TANGO-STYLIZATION",
+        "CHOM-JAZZ-STYLIZATION",
+        "CHOM-KRAKOWIAK-SYNCOPATION",
+        "CHOM-LYRIC-EXPRESSION-STRUCTURE",
+        "CHOM-LYRIC-MULTIPART",
+        "CHOM-LYRIC-RECAP",
+        "CHOM-LYRIC-UNITY",
+        "CHOM-MARCH-TRIO",
+        "CHOM-MAZURKA-ACCENTS",
+        "CHOM-MINIATURE-CONSTRUCTIVIST",
+        "CHOM-MINUET-TRIO",
+        "CHOM-PERIOD-ARCHITECTURE",
+        "CHOM-POLKA-STYLIZATION",
+        "CHOM-POLONAISE-RHYTHMIC-FORMULA",
+        "CHOM-POLONAISE-STYLIZATION",
+        "CHOM-POLYPHONIC-PRELUDE",
+        "CHOM-PRELUDE-MULTIPHASE",
+        "CHOM-ROMANTIC-SYNTHESIS",
         "CHOM-RONDO",
+        "CHOM-RONDO-BRILLANT",
+        "CHOM-RONDO-FRENCH-TONALITY",
+        "CHOM-RONDO-SERIAL-IDENTITY",
+        "CHOM-RONDO-SONATA-RELATION",
+        "CHOM-RONDO-TWENTIETH-CENTURY",
+        "CHOM-SCHERZO-DEVELOPMENT",
         "CHOM-SYNCOPATION-FUNCTION",
+        "CHOM-TARANTELLA-FIGURATION",
+        "CHOM-TOCCATA-ORIGIN",
+        "CHOM-TOCCATA-POLYPHONIC",
+        "CHOM-WALTZ-CYCLE",
         "WOJ-DANCE",
         "WOJ-SONG",
         "WOJ-TERNARY"
@@ -1777,13 +1992,41 @@
         "ABC-VARIATION-CONTINUITY",
         "ABC-VARIATION-PARAMETERS",
         "ABC-VARIATION-TYPES",
+        "CHOM-CANON-TRANSFORMATIONS",
+        "CHOM-CANZONA-TYPES",
+        "CHOM-CHACONNE-PASSACAGLIA",
+        "CHOM-CHORALE-PRELUDE-TECHNIQUES",
         "CHOM-COUNTERPOINT-SPECIES",
         "CHOM-DRONE-ORGANUM",
         "CHOM-FORM-CADENCE",
+        "CHOM-FUGA-LIGATA-SCIOLTA",
+        "CHOM-FUGATO-LOCAL",
+        "CHOM-FUGHETTA",
         "CHOM-FUGUE",
+        "CHOM-FUGUE-ANSWER-TONAL",
+        "CHOM-FUGUE-EPISODE-CONTRAST",
+        "CHOM-FUGUE-EXPOSITION-COVERAGE",
+        "CHOM-FUGUE-MULTISUBJECT",
         "CHOM-FUGUE-NON3",
+        "CHOM-FUGUE-ORCHESTRAL-VOICES",
+        "CHOM-FUGUE-PEDAL",
+        "CHOM-FUGUE-STRETTO",
+        "CHOM-FUGUE-SUBJECT-LENGTH",
+        "CHOM-OSTINATO-VARIATION",
+        "CHOM-PERIOD-ARCHITECTURE",
+        "CHOM-POLYPHONIC-PRELUDE",
         "CHOM-RHYTHMIC-CANON",
+        "CHOM-RICERCAR",
+        "CHOM-RONDO-SONATA-RELATION",
+        "CHOM-SERIAL-VARIATION-ANALYSIS",
+        "CHOM-SERIAL-VARIATION-THEME",
+        "CHOM-TOCCATA-POLYPHONIC",
         "CHOM-VARIATION",
+        "CHOM-VARIATION-METRIC",
+        "CHOM-VARIATION-POLYPHONIC",
+        "CHOM-VARIATION-TEMPO-COLOUR",
+        "CHOM-VARIATION-THEME-PARTIAL",
+        "CHOM-VARIATION-TYPOLOGY",
         "WOJ-SONATAFORM",
         "WOJ-SONATARONDO",
         "WOJ-SUITE"
@@ -1838,28 +2081,59 @@
         "ABC-TROPE-SEQUENCE",
         "ABC-VOCAL-FORM",
         "ABC-VOCAL-TEXT-COLOUR",
+        "CHOM-ASSEMBLY-ALEATORIC",
+        "CHOM-ASSEMBLY-ORDER-RULES",
+        "CHOM-BOLERO-FORM",
+        "CHOM-CANZONA-TYPES",
+        "CHOM-CAPRICCIO-FANTASY",
+        "CHOM-CHACONNE-PASSACAGLIA",
         "CHOM-CHANT-INTERPRETATION",
+        "CHOM-CONCRETE-ELECTRONIC",
         "CHOM-DRONE-ORGANUM",
         "CHOM-FORM",
+        "CHOM-FUGA-LIGATA-SCIOLTA",
+        "CHOM-FUGHETTA",
         "CHOM-GENRE",
         "CHOM-GENRE-HISTORICAL-VARIABILITY",
+        "CHOM-GRAPHIC-FORM",
         "CHOM-GYMEL",
         "CHOM-HISTORICAL-CHANGE",
         "CHOM-HOQUET-POINTILLISM",
         "CHOM-ISORHYTHM-TALEA",
+        "CHOM-JAZZ-STYLIZATION",
         "CHOM-MEDIEVAL-MODES",
         "CHOM-MENSURAL-DIVISIONS",
         "CHOM-MENSURAL-PROPORTIONS",
         "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
         "CHOM-METRIC-Tactus",
+        "CHOM-MINIATURE-CONSTRUCTIVIST",
         "CHOM-MODAL-BARLINES",
         "CHOM-MODAL-ORDO",
         "CHOM-MODE-IDENTIFICATION",
+        "CHOM-OPEN-CIRCULAR-FORM",
+        "CHOM-PERIOD-NONFUNCTIONAL",
+        "CHOM-POLONAISE-STYLIZATION",
         "CHOM-PSALM-TONE",
         "CHOM-PYTHAGOREAN-RATIOS",
         "CHOM-RHETORIC-FIGURES",
+        "CHOM-RICERCAR",
+        "CHOM-ROMANTIC-SYNTHESIS",
+        "CHOM-RONDO-BRILLANT",
+        "CHOM-RONDO-FRENCH-TONALITY",
+        "CHOM-RONDO-SERIAL-IDENTITY",
+        "CHOM-RONDO-TWENTIETH-CENTURY",
+        "CHOM-SCHERZO-DEVELOPMENT",
         "CHOM-SECULAR-MODE-VERSE",
+        "CHOM-SERIAL-DURATIONS",
+        "CHOM-SERIAL-GROUPS",
+        "CHOM-SERIAL-HARMONIC-IMPLICATION",
+        "CHOM-SERIAL-PARAMETERS",
+        "CHOM-SERIAL-ROW",
+        "CHOM-SERIAL-THEMATIC",
+        "CHOM-SERIAL-VARIATION-ANALYSIS",
+        "CHOM-SONORISTIC-PROCESS",
         "CHOM-STRUCT",
+        "CHOM-TOCCATA-ORIGIN",
         "CHOM-TONI-FICTI",
         "TAR-ANALYSIS",
         "TAR-ANALYSIS-C-PRELUDE",
@@ -16154,6 +16428,1201 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "CHOM-SERIAL-ROW": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "CHF12"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-GROUPS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-FORMS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [
+        "CHF13",
+        "CHF14"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-HARMONIC-IMPLICATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-THEMATIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-PERMUTATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [
+        "CHF15"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-PARAMETERS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-DURATIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-DENSITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SONORISTIC-PROCESS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERCUSSION-DISTRIBUTION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PREPARED-PIANO": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-EXTENDED-STRINGS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-WIND-MULTIPHONICS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VOICE-ACTING": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ELECTROACOUSTIC-CHAIN": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SINE-SIGNAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FILTER-PRINCIPLE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FREQUENCY-SHIFT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [
+        "CHF16"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-RING-MODULATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [
+        "CHF17"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-ACOUSTIC-FEEDBACK": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SYNTHESIS-CHAIN": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CONCRETE-ELECTRONIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-OPEN-CIRCULAR-FORM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HOMOPHONY-ACCOMPANIMENT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [
+        "CHF18"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-HETEROPHONY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-POLYPHONIC-RELATIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HOMOPHONIZING-IMITATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SCORING-DETERMINACY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TEXTURE-BLEND": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-DYNAMICS-VOLUME": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERCUSSION-ROLES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ELECTRONIC-LAYER": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MOTIF-ARSIS-THESIS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MOTIF-PARTIAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MOTIF-VERTICAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PHRASE-POLYPHONIC-BOUNDARY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [
+        "CHF19"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-PHRASE-TIME": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SENTENCE-CADENCE-CONTEXT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FORM-PRINCIPLE-PRIORITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD-OPEN-END": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD-ASYMMETRY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD-ARCHITECTURE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-04",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD-NONFUNCTIONAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-JUXTAPOSITION-BARLINE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ASSEMBLY-ALEATORIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-EVOLUTION-RHYTHM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-DANCE-ANALYSIS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-POLONAISE-RHYTHMIC-FORMULA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [
+        "CHF20"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-POLONAISE-STYLIZATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MAZURKA-ACCENTS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-KRAKOWIAK-SYNCOPATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-POLKA-STYLIZATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-GALOP": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CSARDAS-STRUCTURE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-WALTZ-CYCLE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MINUET-TRIO": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-BOLERO-FORM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-HABANERA-TANGO-STYLIZATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-JAZZ-STYLIZATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MARCH-TRIO": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SCHERZO-DEVELOPMENT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TARANTELLA-FIGURATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-BARCAROLLE-VARIANTS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-LYRIC-UNITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-LYRIC-RECAP": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-LYRIC-EXPRESSION-STRUCTURE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-LYRIC-MULTIPART": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ROMANTIC-SYNTHESIS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MINIATURE-CONSTRUCTIVIST": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ASSEMBLY-ORDER-RULES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-GRAPHIC-FORM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FIGURATION-TYPES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FIGURATION-DOMINANT-ROLE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FIGURATION-FORMAL-DIVISION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FIGURATION-GENRE-DISTINCTION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PRELUDE-MULTIPHASE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TOCCATA-ORIGIN": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-ETUDE-TECHNIQUE-FORM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [
+        "CHF21"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-FUGA-LIGATA-SCIOLTA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CANON-TRANSFORMATIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-SUBJECT-LENGTH": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-ANSWER-TONAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-STRETTO": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "CHF22"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-EXPOSITION-COVERAGE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "CHF23",
+        "CHF24",
+        "CHF25"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-EPISODE-CONTRAST": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-PEDAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "CHF27"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-ORCHESTRAL-VOICES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "CHF26"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-MULTISUBJECT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGHETTA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RICERCAR": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CANZONA-TYPES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGATO-LOCAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-POLYPHONIC-PRELUDE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CHORALE-PRELUDE-TECHNIQUES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TOCCATA-POLYPHONIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CAPRICCIO-FANTASY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VARIATION-TYPOLOGY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VARIATION-THEME-PARTIAL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VARIATION-METRIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VARIATION-POLYPHONIC": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-OSTINATO-VARIATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "CHF28"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-CHACONNE-PASSACAGLIA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VARIATION-TEMPO-COLOUR": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-VARIATION-THEME": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SERIAL-VARIATION-ANALYSIS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RONDO-FRENCH-TONALITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "CHF29"
+      ],
+      "releaseApproved": false
+    },
+    "CHOM-RONDO-SONATA-RELATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RONDO-BRILLANT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RONDO-TWENTIETH-CENTURY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RONDO-SERIAL-IDENTITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -16935,6 +18404,60 @@
     ],
     "CHF10": [
       "CHOM-QUARTAL-CONSTRUCTION"
+    ],
+    "CHF12": [
+      "CHOM-SERIAL-ROW"
+    ],
+    "CHF13": [
+      "CHOM-SERIAL-FORMS"
+    ],
+    "CHF14": [
+      "CHOM-SERIAL-FORMS"
+    ],
+    "CHF15": [
+      "CHOM-SERIAL-PERMUTATION"
+    ],
+    "CHF16": [
+      "CHOM-FREQUENCY-SHIFT"
+    ],
+    "CHF17": [
+      "CHOM-RING-MODULATION"
+    ],
+    "CHF18": [
+      "CHOM-HOMOPHONY-ACCOMPANIMENT"
+    ],
+    "CHF19": [
+      "CHOM-PHRASE-POLYPHONIC-BOUNDARY"
+    ],
+    "CHF20": [
+      "CHOM-POLONAISE-RHYTHMIC-FORMULA"
+    ],
+    "CHF21": [
+      "CHOM-ETUDE-TECHNIQUE-FORM"
+    ],
+    "CHF22": [
+      "CHOM-FUGUE-STRETTO"
+    ],
+    "CHF23": [
+      "CHOM-FUGUE-EXPOSITION-COVERAGE"
+    ],
+    "CHF24": [
+      "CHOM-FUGUE-EXPOSITION-COVERAGE"
+    ],
+    "CHF25": [
+      "CHOM-FUGUE-EXPOSITION-COVERAGE"
+    ],
+    "CHF27": [
+      "CHOM-FUGUE-PEDAL"
+    ],
+    "CHF26": [
+      "CHOM-FUGUE-ORCHESTRAL-VOICES"
+    ],
+    "CHF28": [
+      "CHOM-OSTINATO-VARIATION"
+    ],
+    "CHF29": [
+      "CHOM-RONDO-FRENCH-TONALITY"
     ]
   }
 }

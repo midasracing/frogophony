@@ -5396,6 +5396,333 @@
         ],
         "interval": "P5"
       }
+    },
+    {
+      "id": "CHF12",
+      "domain": "forms",
+      "input": {
+        "pitchClasses": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "expected": {
+        "distinctPitchClasses": 12,
+        "fullAggregate": true
+      }
+    },
+    {
+      "id": "CHF13",
+      "domain": "forms",
+      "input": {
+        "row": [
+          0,
+          2,
+          1,
+          4,
+          3,
+          6,
+          5,
+          8,
+          7,
+          10,
+          9,
+          11
+        ],
+        "operation": "retrograde"
+      },
+      "expected": {
+        "row": [
+          11,
+          9,
+          10,
+          7,
+          8,
+          5,
+          6,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "id": "CHF14",
+      "domain": "forms",
+      "input": {
+        "row": [
+          0,
+          2,
+          1,
+          4,
+          3,
+          6,
+          5,
+          8,
+          7,
+          10,
+          9,
+          11
+        ],
+        "operation": "inversion",
+        "axisPitchClass": 0
+      },
+      "expected": {
+        "row": [
+          0,
+          10,
+          11,
+          8,
+          9,
+          6,
+          7,
+          4,
+          5,
+          2,
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "id": "CHF15",
+      "domain": "forms",
+      "input": {
+        "orderedClasses": [
+          0,
+          2,
+          1,
+          4
+        ],
+        "newOrder": [
+          0,
+          1,
+          2,
+          4
+        ]
+      },
+      "expected": {
+        "sameOrderedSequence": false,
+        "samePitchClassSet": true
+      }
+    },
+    {
+      "id": "CHF16",
+      "domain": "forms",
+      "input": {
+        "componentHz": [
+          200,
+          400,
+          600
+        ],
+        "shiftHz": 10
+      },
+      "expected": {
+        "componentHz": [
+          210,
+          410,
+          610
+        ]
+      }
+    },
+    {
+      "id": "CHF17",
+      "domain": "forms",
+      "input": {
+        "inputHz": [
+          200,
+          300
+        ],
+        "idealSinusoidalInputs": true
+      },
+      "expected": {
+        "sumHz": 500,
+        "differenceHz": 100
+      }
+    },
+    {
+      "id": "CHF18",
+      "domain": "forms",
+      "input": {
+        "mainMelodyRegister": "bass",
+        "upperVoicesRole": "chordal accompaniment"
+      },
+      "expected": {
+        "homophonyPossible": true
+      }
+    },
+    {
+      "id": "CHF19",
+      "domain": "forms",
+      "input": {
+        "voiceAEndsAt": 4,
+        "voiceBEndsAt": 6
+      },
+      "expected": {
+        "phraseEndMustCoincide": false
+      }
+    },
+    {
+      "id": "CHF20",
+      "domain": "forms",
+      "input": {
+        "durationInSixteenths": [
+          2,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "expected": {
+        "totalSixteenths": 12,
+        "strictUniversalFormula": false
+      }
+    },
+    {
+      "id": "CHF21",
+      "domain": "forms",
+      "input": {
+        "outerSectionProblem": "octaves",
+        "middleSectionProblem": "octaves",
+        "charactersDiffer": true
+      },
+      "expected": {
+        "sameTechnicalProblem": true
+      }
+    },
+    {
+      "id": "CHF22",
+      "domain": "forms",
+      "input": {
+        "subjectLength": 8,
+        "nextSubjectOnset": 5
+      },
+      "expected": {
+        "overlap": 3,
+        "strettoPossible": true
+      }
+    },
+    {
+      "id": "CHF23",
+      "domain": "forms",
+      "input": {
+        "voices": [
+          "S",
+          "A",
+          "T",
+          "B"
+        ],
+        "entries": [
+          "S",
+          "A",
+          "T",
+          "B"
+        ]
+      },
+      "expected": {
+        "coverage": "complete"
+      }
+    },
+    {
+      "id": "CHF24",
+      "domain": "forms",
+      "input": {
+        "voices": [
+          "S",
+          "A",
+          "T",
+          "B"
+        ],
+        "entries": [
+          "S",
+          "A",
+          "T",
+          "B",
+          "S"
+        ]
+      },
+      "expected": {
+        "coverage": "overcomplete"
+      }
+    },
+    {
+      "id": "CHF25",
+      "domain": "forms",
+      "input": {
+        "voices": [
+          "S",
+          "A",
+          "T",
+          "B"
+        ],
+        "entries": [
+          "S",
+          "A",
+          "S",
+          "T"
+        ]
+      },
+      "expected": {
+        "coverage": "incomplete",
+        "entryCountAloneSuffices": false
+      }
+    },
+    {
+      "id": "CHF26",
+      "domain": "forms",
+      "input": {
+        "oneThematicLineTransferredBetweenTwoInstruments": true
+      },
+      "expected": {
+        "instrumentCountDeterminesVoiceCount": false
+      }
+    },
+    {
+      "id": "CHF27",
+      "domain": "forms",
+      "input": {
+        "sustainedBass": true,
+        "upperHarmonyChanges": true
+      },
+      "expected": {
+        "pedalPointPossible": true
+      }
+    },
+    {
+      "id": "CHF28",
+      "domain": "forms",
+      "input": {
+        "groundTransferredToUpperVoice": true
+      },
+      "expected": {
+        "ostinatoVariationPossible": true
+      }
+    },
+    {
+      "id": "CHF29",
+      "domain": "forms",
+      "input": {
+        "profile": "historical-French",
+        "refrainModeChanges": true
+      },
+      "expected": {
+        "rondoExcluded": false
+      }
     }
   ]
 }

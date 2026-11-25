@@ -193,3 +193,6 @@ Ponowny odczyt PDF 102–103 w powiększeniu. Zindeksowano 43 widocznych pozycji
 
 ## Chomińscy t.I — PDF 56–109
 29 nowych twierdzeń, 5 własnych przypadków oczekiwanych. Odczyt tekstu o modalności, melodyce i harmonice. Oznaczono sprzeczne przyporządkowanie diastematyki na druk.87 względem druk.28 i 56, do kontroli obrazu. Nie przepisano nut ani nie rozstrzygnięto historycznych sporów na podstawie jednego źródła. Terminologia modulacji autorów odmienna od ścisłych profili harmonii Sikorskiego i Wesołowskiego. Nie uznawać wszystkich stron za sprawdzone wizualnie. Dalszy odczyt PDF 110.
+
+## Chomińscy t.I — PDF 110–573, przegląd do końca tomu
+111 nowych twierdzeń opartych na odczytanych fragmentach, 18 autorskich przypadków oczekiwanych. Pełny dostępny tekst PDF 110–126, dalej przegląd fragmentów stron PDF 128–573. Nie nazywać tego pełną lekturą. Pusta karta PDF 10 i schemat obsady PDF 127 zidentyfikowane na renderach, błąd druku s.87 potwierdzony na obrazie. Trzy zamienione pary stron zarejestrowane. Przeszukanie całej warstwy tekstowej pod kątem erraty nie dało wyniku; zewnętrzna errata niezweryfikowana. Nowe rekordy są niezatwierdzone do produkcji. Weryfikacja spójności danych i odwołań nie stanowi recenzji muzycznej. Pozostała pełna lektura od PDF 128 oraz indywidualny audyt przykładów nutowych.

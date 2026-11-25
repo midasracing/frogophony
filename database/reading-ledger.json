@@ -753,7 +753,143 @@
           "end": 573,
           "status": "pending-full-review"
         }
-      ]
+      ],
+      "scanReview": {
+        "checkedAt": "2026-11-25",
+        "status": "all-pages-surveyed-full-reading-incomplete",
+        "fullTextReadRanges": [
+          [
+            1,
+            9
+          ],
+          [
+            11,
+            126
+          ]
+        ],
+        "excerptSurveyRanges": [
+          [
+            128,
+            573
+          ]
+        ],
+        "visualReviewPages": [
+          10,
+          33,
+          34,
+          42,
+          86,
+          127
+        ],
+        "pagesWithoutText": [
+          10,
+          127
+        ],
+        "excerptSurveyClaimIds": [
+          "CHOM-PREPARED-PIANO",
+          "CHOM-EXTENDED-STRINGS",
+          "CHOM-WIND-MULTIPHONICS",
+          "CHOM-VOICE-ACTING",
+          "CHOM-ELECTROACOUSTIC-CHAIN",
+          "CHOM-SINE-SIGNAL",
+          "CHOM-FILTER-PRINCIPLE",
+          "CHOM-FREQUENCY-SHIFT",
+          "CHOM-RING-MODULATION",
+          "CHOM-ACOUSTIC-FEEDBACK",
+          "CHOM-SYNTHESIS-CHAIN",
+          "CHOM-CONCRETE-ELECTRONIC",
+          "CHOM-OPEN-CIRCULAR-FORM",
+          "CHOM-HOMOPHONY-ACCOMPANIMENT",
+          "CHOM-HETEROPHONY",
+          "CHOM-POLYPHONIC-RELATIONS",
+          "CHOM-HOMOPHONIZING-IMITATION",
+          "CHOM-SCORING-DETERMINACY",
+          "CHOM-TEXTURE-BLEND",
+          "CHOM-DYNAMICS-VOLUME",
+          "CHOM-PERCUSSION-ROLES",
+          "CHOM-ELECTRONIC-LAYER",
+          "CHOM-MOTIF-ARSIS-THESIS",
+          "CHOM-MOTIF-PARTIAL",
+          "CHOM-MOTIF-VERTICAL",
+          "CHOM-PHRASE-POLYPHONIC-BOUNDARY",
+          "CHOM-PHRASE-TIME",
+          "CHOM-SENTENCE-CADENCE-CONTEXT",
+          "CHOM-FORM-PRINCIPLE-PRIORITY",
+          "CHOM-PERIOD-OPEN-END",
+          "CHOM-PERIOD-ASYMMETRY",
+          "CHOM-PERIOD-ARCHITECTURE",
+          "CHOM-PERIOD-NONFUNCTIONAL",
+          "CHOM-JUXTAPOSITION-BARLINE",
+          "CHOM-ASSEMBLY-ALEATORIC",
+          "CHOM-EVOLUTION-RHYTHM",
+          "CHOM-DANCE-ANALYSIS",
+          "CHOM-POLONAISE-RHYTHMIC-FORMULA",
+          "CHOM-POLONAISE-STYLIZATION",
+          "CHOM-MAZURKA-ACCENTS",
+          "CHOM-KRAKOWIAK-SYNCOPATION",
+          "CHOM-POLKA-STYLIZATION",
+          "CHOM-GALOP",
+          "CHOM-CSARDAS-STRUCTURE",
+          "CHOM-WALTZ-CYCLE",
+          "CHOM-MINUET-TRIO",
+          "CHOM-BOLERO-FORM",
+          "CHOM-HABANERA-TANGO-STYLIZATION",
+          "CHOM-JAZZ-STYLIZATION",
+          "CHOM-MARCH-TRIO",
+          "CHOM-SCHERZO-DEVELOPMENT",
+          "CHOM-TARANTELLA-FIGURATION",
+          "CHOM-BARCAROLLE-VARIANTS",
+          "CHOM-LYRIC-UNITY",
+          "CHOM-LYRIC-RECAP",
+          "CHOM-LYRIC-EXPRESSION-STRUCTURE",
+          "CHOM-LYRIC-MULTIPART",
+          "CHOM-ROMANTIC-SYNTHESIS",
+          "CHOM-MINIATURE-CONSTRUCTIVIST",
+          "CHOM-ASSEMBLY-ORDER-RULES",
+          "CHOM-GRAPHIC-FORM",
+          "CHOM-FIGURATION-TYPES",
+          "CHOM-FIGURATION-DOMINANT-ROLE",
+          "CHOM-FIGURATION-FORMAL-DIVISION",
+          "CHOM-FIGURATION-GENRE-DISTINCTION",
+          "CHOM-PRELUDE-MULTIPHASE",
+          "CHOM-TOCCATA-ORIGIN",
+          "CHOM-ETUDE-TECHNIQUE-FORM",
+          "CHOM-FUGA-LIGATA-SCIOLTA",
+          "CHOM-CANON-TRANSFORMATIONS",
+          "CHOM-FUGUE-SUBJECT-LENGTH",
+          "CHOM-FUGUE-ANSWER-TONAL",
+          "CHOM-FUGUE-STRETTO",
+          "CHOM-FUGUE-EXPOSITION-COVERAGE",
+          "CHOM-FUGUE-EPISODE-CONTRAST",
+          "CHOM-FUGUE-PEDAL",
+          "CHOM-FUGUE-ORCHESTRAL-VOICES",
+          "CHOM-FUGUE-MULTISUBJECT",
+          "CHOM-FUGHETTA",
+          "CHOM-RICERCAR",
+          "CHOM-CANZONA-TYPES",
+          "CHOM-FUGATO-LOCAL",
+          "CHOM-POLYPHONIC-PRELUDE",
+          "CHOM-CHORALE-PRELUDE-TECHNIQUES",
+          "CHOM-TOCCATA-POLYPHONIC",
+          "CHOM-CAPRICCIO-FANTASY",
+          "CHOM-VARIATION-TYPOLOGY",
+          "CHOM-VARIATION-THEME-PARTIAL",
+          "CHOM-VARIATION-METRIC",
+          "CHOM-VARIATION-POLYPHONIC",
+          "CHOM-OSTINATO-VARIATION",
+          "CHOM-CHACONNE-PASSACAGLIA",
+          "CHOM-VARIATION-TEMPO-COLOUR",
+          "CHOM-SERIAL-VARIATION-THEME",
+          "CHOM-SERIAL-VARIATION-ANALYSIS",
+          "CHOM-RONDO-FRENCH-TONALITY",
+          "CHOM-RONDO-SONATA-RELATION",
+          "CHOM-RONDO-BRILLANT",
+          "CHOM-RONDO-TWENTIETH-CENTURY",
+          "CHOM-RONDO-SERIAL-IDENTITY"
+        ],
+        "nextFullTextRangeStart": 128,
+        "remaining": "Cała książka objęta wstępnym przeglądem, ale od PDF 128 przeglądano fragmenty warstwy tekstowej, nie każdy akapit. PDF 10 pusta, PDF 127 diagram. Kontrola nut i recenzja niezależna otwarte. Nie sumować przeglądu fragmentów do pełnej lektury."
+      }
     },
     {
       "sourceId": "WES-1986-UPLOAD",
@@ -2624,6 +2760,30 @@
         "CHOM-OXY-BARYPHONIC"
       ],
       "remaining": "Odczyt dostępnego tekstu PDF 56–109, druk.57–110. Strony zawierające tylko nuty rozpoznane na podstawie podpisów; nie odczytano wszystkich obrazów ani nut. Niespójność terminologiczna na druk.87 z druk.56 wymaga sprawdzenia obrazu. Kolejny zakres PDF 110."
+    },
+    {
+      "sourceId": "CHOM-FORM1-1983-UPLOAD",
+      "ranges": [
+        [
+          110,
+          126
+        ]
+      ],
+      "status": "sequential-text-reading",
+      "claimIds": [
+        "CHOM-SERIAL-ROW",
+        "CHOM-SERIAL-GROUPS",
+        "CHOM-SERIAL-FORMS",
+        "CHOM-SERIAL-HARMONIC-IMPLICATION",
+        "CHOM-SERIAL-THEMATIC",
+        "CHOM-SERIAL-PERMUTATION",
+        "CHOM-SERIAL-PARAMETERS",
+        "CHOM-SERIAL-DURATIONS",
+        "CHOM-SERIAL-DENSITY",
+        "CHOM-SONORISTIC-PROCESS",
+        "CHOM-PERCUSSION-DISTRIBUTION"
+      ],
+      "remaining": "Odczyt całego dostępnego tekstu PDF 110–126. Nie zweryfikowano wszystkich ilustracji i nut."
     }
   ]
 }
