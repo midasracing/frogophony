@@ -1,0 +1,302 @@
+{
+  "wersja": 1,
+  "jezyk": "pl-PL",
+  "opis": "Autorskie opracowania terminów z polskich podręczników. Przykłady literowe autorskie, nie transkrypcje nut z książek.",
+  "hasla": [
+    {
+      "id": "enharmonia",
+      "termin": "Enharmonia",
+      "aliasy": [
+        "dźwięki enharmoniczne",
+        "równoważność enharmoniczna"
+      ],
+      "definicja": "W systemie równomiernie temperowanym dźwięki o różnych nazwach i zapisie mogą mieć jednakową wysokość.",
+      "omowienie": "W zadaniach rozróżniamy tożsamość brzmienia i tożsamość zapisu. Dla siedmiu nazw podstawowych i znaków od podwójnego bemola do podwójnego krzyżyka istnieje ograniczony zbiór pisowni każdej klasy wysokości.",
+      "przyklady": [
+        "Cis i Des są równoważne brzmieniowo, lecz ich nazwy i pozycje diatoniczne są różne.",
+        "His, C i Deses mogą oznaczać tę samą wysokość, jeśli prawidłowo uwzględnimy oktawę."
+      ],
+      "ograniczenia": [
+        "Nie przyjmować enharmonicznej zamiany jako poprawnego zapisu w każdym zadaniu.",
+        "Nie rozpoznawać funkcji harmonicznej wyłącznie po brzmieniu."
+      ],
+      "podstawa": [
+        "WES-ENHARMONY",
+        "WES-ENHARMONIC-COUNT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§33, s.96–97 (PDF 96–97)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "poltony",
+      "termin": "Półton diatoniczny i chromatyczny",
+      "aliasy": [
+        "sekunda mała",
+        "pryma zwiększona"
+      ],
+      "definicja": "Półton diatoniczny łączy sąsiednie stopnie, a chromatyczny dwie postacie tego samego stopnia.",
+      "omowienie": "W stroju równomiernie temperowanym oba odpowiadają tej samej różnicy wysokości. Nazwę interwału wyznacza jednak również zapis diatoniczny.",
+      "przyklady": [
+        "C–Des: sekunda mała.",
+        "C–Cis: pryma zwiększona."
+      ],
+      "ograniczenia": [
+        "Odsłuch bez zapisu nie rozstrzyga między tymi nazwami."
+      ],
+      "podstawa": [
+        "WES-SEMITONE-SPELL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§34, s.98 (PDF 98)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "cale-tony",
+      "termin": "Cały ton diatoniczny i chromatyczny",
+      "aliasy": [
+        "sekunda wielka",
+        "pryma podwójnie zwiększona"
+      ],
+      "definicja": "Cały ton między sąsiednimi stopniami jest sekundą wielką; cały ton między postaciami tej samej litery jest prymą podwójnie zwiększoną.",
+      "omowienie": "W obliczeniach trzeba oddzielić wielkość brzmieniową od liczby diatonicznej interwału.",
+      "przyklady": [
+        "C–D i C–Cisis mają tę samą wielkość brzmieniową, ale różne nazwy interwałowe."
+      ],
+      "ograniczenia": [
+        "Nie akceptować dowolnej pisowni w zadaniach o nazwach interwałów."
+      ],
+      "podstawa": [
+        "WES-CHROMATIC-TONE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§34, s.98–99 (PDF 98–99)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "gama-durowa-harmoniczna",
+      "termin": "Gama durowa harmoniczna",
+      "aliasy": [
+        "moll-dur",
+        "major harmoniczny"
+      ],
+      "definicja": "Odmiana gamy durowej z VI stopniem obniżonym o półton względem naturalnej.",
+      "omowienie": "Zmiana VI stopnia wpływa na interwały łączące ten stopień z pozostałymi. Przykładowo między VI i VII powstaje sekunda zwiększona.",
+      "przyklady": [
+        "C-dur harmoniczna: C–D–E–F–G–As–H–C."
+      ],
+      "ograniczenia": [
+        "Nie mylić z harmonicznym moll, w którym względem naturalnej podwyższa się VII stopień."
+      ],
+      "podstawa": [
+        "WES-MAJOR-HARM",
+        "WES-HARM-MAJOR-INTERVALS",
+        "MINOR-HARM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.101–102 (PDF 101–102)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "chromatyzacja-dur",
+      "termin": "Chromatyzacja gamy durowej",
+      "aliasy": [
+        "gama chromatyczna regularna",
+        "gama chromatyczna nieregularna"
+      ],
+      "definicja": "Wypełnianie całotonowych odległości gamy dodatkowymi półtonami zgodnie z określoną pisownią.",
+      "omowienie": "Regularnie w górę podwyższa się dolny składnik sekundy wielkiej, w dół obniża górny. W odmianie nieregularnej w górę zamiast podwyższonego VI stosuje się obniżony VII; w dół zamiast obniżonego V stosuje się podwyższony IV.",
+      "przyklady": [
+        "W C-dur nieregularnej w górę występuje B zamiast Ais; w dół Fis zamiast Ges."
+      ],
+      "ograniczenia": [
+        "Nie przenosić tej konwencji automatycznie na moll ani dowolną melodię chromatyczną."
+      ],
+      "podstawa": [
+        "WES-CHROM-REG",
+        "WES-CHROM-IRREG"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§35, s.102 (PDF 102)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "konsonans-dysonans",
+      "termin": "Konsonanse i dysonanse",
+      "aliasy": [
+        "konsonans doskonały",
+        "konsonans niedoskonały",
+        "rozwiązanie dysonansu"
+      ],
+      "definicja": "W tradycyjnej klasyfikacji szkolnej konsonansami doskonałymi są interwały czyste prymy, kwarty, kwinty i oktawy; niedoskonałymi są tercje i seksty wielkie oraz małe. Sekundy, septymy i interwały zwiększone lub zmniejszone zalicza się do dysonansów.",
+      "omowienie": "W tradycyjnym modelu rozwiązania dysonansów głosy mogą poruszać się przeciwnie albo bocznie. Typowe rozwiązanie trytonu zależy od jego pisowni i kontekstu tonalnego.",
+      "przyklady": [
+        "Kwarta zwiększona F–H może rozwiązać się na sekstę E–C; kwinta zmniejszona H–F na tercję C–E."
+      ],
+      "ograniczenia": [
+        "Kwarta nad basem może pełnić funkcję dysonansową. Klasyfikacja nie opisuje bezwzględnie odczucia słuchowego ani wszystkich stylów."
+      ],
+      "podstawa": [
+        "WES-CONSONANCE",
+        "WES-DISSONANCE-RESOLVE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§36, s.103–104 (PDF 103–104)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "trojdzwieki",
+      "termin": "Budowa trójdźwięków tercjowych",
+      "aliasy": [
+        "durowy",
+        "molowy",
+        "zmniejszony",
+        "zwiększony"
+      ],
+      "definicja": "Trójdźwięk tercjowy ma trzy różne składniki, które można uporządkować w dwie tercje nad prymą.",
+      "omowienie": "W postaci zasadniczej tercje od dołu: durowy wielka–mała, molowy mała–wielka, zmniejszony mała–mała, zwiększony wielka–wielka. Nazwy prymy, tercji i kwinty dotyczą struktury, a nie zawsze aktualnego położenia głosów.",
+      "przyklady": [
+        "C–E–G; C–Es–G; C–Es–Ges; C–E–Gis."
+      ],
+      "ograniczenia": [
+        "Nie rozpoznawać jakości akordu tylko na podstawie najniższego dźwięku w przewrocie."
+      ],
+      "podstawa": [
+        "TRI-QUAL",
+        "WES-TERTIAN"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37, s.104–105 (PDF 104–105)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "odmiany-moll",
+      "termin": "Odmiany gamy molowej",
+      "aliasy": [
+        "naturalna",
+        "eolska",
+        "harmoniczna",
+        "dorycka",
+        "melodyczna"
+      ],
+      "definicja": "Odmiany gamy molowej różnią się postacią VI i VII stopnia. W konwencji Wesołowskiego naturalna odpowiada eolskiej, harmoniczna ma podwyższony VII, a dorycka podwyższone VI i VII.",
+      "omowienie": "Melodyczna w szkolnym modelu łączy dorycką w górę z eolską w dół. W praktycznej melodii różne postacie VI i VII mogą współistnieć. Znaki przykluczowe wyznacza naturalna odmiana.",
+      "przyklady": [
+        "c-moll naturalna: C–D–Es–F–G–As–B–C.",
+        "c-moll harmoniczna: C–D–Es–F–G–As–H–C.",
+        "c-moll melodyczna w górę: C–D–Es–F–G–A–H–C; w dół: C–B–As–G–F–Es–D–C."
+      ],
+      "ograniczenia": [
+        "Polski minor dorycki nie jest współczesnym modus doryckim.",
+        "Nie wymagać szkolnej sekwencji w górę i w dół od każdej melodii w utworze."
+      ],
+      "podstawa": [
+        "MINOR-NAT",
+        "MINOR-HARM",
+        "MINOR-MEL",
+        "MINOR-KEYSIG",
+        "WES-MINOR-MIX"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.107–110 (PDF 107–110)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tetrachord-dur",
+      "termin": "Tetrachordy gamy durowej",
+      "aliasy": [
+        "tetrachord dolny",
+        "tetrachord górny"
+      ],
+      "definicja": "Naturalna gama durowa składa się z dwóch czterodźwiękowych odcinków o jednakowej kolejności odległości: cały ton, cały ton, półton.",
+      "omowienie": "Dolny obejmuje stopnie I–IV, górny V–VIII. Pomiędzy nimi występuje cały ton.",
+      "przyklady": [
+        "C–D–E–F oraz G–A–H–C."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać układu tetrachordów dur ze wszystkimi historycznymi tetrachordami."
+      ],
+      "podstawa": [
+        "WES-TETRACHORD"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§39, s.112–113 (PDF 112–113)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "liryka-instrumentalna",
+      "termin": "Liryka instrumentalna: forma a wyraz",
+      "aliasy": [
+        "jednolitość wyrazowa",
+        "kontrast",
+        "repryza"
+      ],
+      "definicja": "Jednolitość lub różnorodność wyrazowa utworu nie musi pokrywać się z jego podziałem na części formalne.",
+      "omowienie": "Powrót materiału może zmienić charakter poprzez fakturę, dynamikę, tempo i rytmikę. W formie repryzowej część środkowa może kontrastować z częściami skrajnymi, ale sam schemat ABA nie wyjaśnia wszystkich przemian wyrazowych.",
+      "przyklady": [
+        "Autorski model analizy: A spokojne, B wzburzone, A′ z powracającą melodią i nowym akompaniamentem; powrót materiału nie musi oznaczać powrotu nastroju."
+      ],
+      "ograniczenia": [
+        "Nie wyciągać pełnej analizy z liter A/B ani z tytułu utworu."
+      ],
+      "podstawa": [
+        "CHOM-LYRIC-UNITY",
+        "CHOM-LYRIC-RECAP",
+        "CHOM-LYRIC-EXPRESSION-STRUCTURE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "druk. s.318–327 (PDF 317–326)"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    }
+  ]
+}

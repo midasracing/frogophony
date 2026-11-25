@@ -1,17 +1,20 @@
-# Frogophony — database
+# Frogophony — baza wiedzy
 
-Single canonical evidence store, outside the website bundle. Source-checked claims are scoped; all release approvals remain blocked pending independent review and engine tests.
+Kanoniczna baza źródłowa poza pakietem strony. Twierdzenia sprawdzone ze źródłem nie są automatycznie dopuszczone do publikacji; wymagają niezależnej recenzji i testów silników.
 
-| File | Role |
+| Plik | Przeznaczenie |
 | --- | --- |
-| [sources.json](sources.json) | Source registry |
-| [verified-claims.json](verified-claims.json) | Claims, locators, scope and exceptions |
-| [official-curriculum.json](official-curriculum.json) | Official curriculum requirements |
-| [coverage-map.json](coverage-map.json) | Claim-to-competency mapping |
-| [golden-cases.json](golden-cases.json) | Expected cases, not executed engine tests |
-| [lesson-manifest.json](lesson-manifest.json) | Draft course registry |
-| [reading-ledger.json](reading-ledger.json) | Reading progress, gaps and resumption point |
-| [knowledge-index.json](knowledge-index.json) | Derived reverse index |
-| [datasets/](datasets/) | Draft exercise blueprints and domain data |
+| [sources.json](sources.json) | Rejestr źródeł |
+| [verified-claims.json](verified-claims.json) | Twierdzenia, lokalizatory, zakres i wyjątki |
+| [official-curriculum.json](official-curriculum.json) | Wymagania programowe |
+| [coverage-map.json](coverage-map.json) | Powiązanie twierdzeń z wymaganiami |
+| [golden-cases.json](golden-cases.json) | Przypadki wzorcowe, nie wykonane testy silnika |
+| [lesson-manifest.json](lesson-manifest.json) | Rejestr projektów lekcji |
+| [reading-ledger.json](reading-ledger.json) | Postęp odczytu, luki i miejsce wznowienia |
+| [knowledge-index.json](knowledge-index.json) | Indeks pochodny |
+| [datasets/](datasets/) | Projekty schematów ćwiczeń i dane dziedzinowe |
+| [kompendium/hasla.json](kompendium/hasla.json) | Rozbudowane polskie hasła, przykłady i odsyłacze |
 
-Read the [source policy](../docs/research/source-policy.md) and [quality policy](../docs/research/quality-policy.md). Reference notes are in [docs/research](../docs/research/README.md); historic reports and the correction log are in [docs/archive/audits](../docs/archive/audits/). Run `npm run check:research` and `npm run check:structure`. Private scans stay outside Git. Never generate educational content from unsupported model recollection.
+Język merytoryczny: polski (pl-PL). Zachować techniczne identyfikatory i nazwy oryginalne. Hasła kompendium są autorskimi opracowaniami, nie kopiami podręczników. Każde hasło wskazuje twierdzenia i konkretne strony. Brak źródła blokuje treść; nie uzupełniać z pamięci modelu.
+
+Przeczytaj [politykę źródłową](../docs/research/source-policy.md) i [politykę jakości](../docs/research/quality-policy.md). Notatki referencyjne są w [docs/research](../docs/research/README.md), historia korekt w [docs/archive/audits](../docs/archive/audits/). Uruchom `npm run check:research` i `npm run check:structure`. Prywatne skany pozostają poza Git.

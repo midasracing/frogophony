@@ -11,3 +11,5 @@
 - Follow docs/architecture.md. Keep the canonical database in database/ and research outside runtime, demo content separate from approved course data, and private source PDFs outside Git and public assets. Do not add empty placeholder engines or new dependencies just to create folders.
 
 - Keep historical reports under docs/archive/audits/. Never delete evidence to make metrics look cleaner. Resume reading using database/reading-ledger.json; database/knowledge-index.json is derived, not a source. Preserve the new database paths. Run npm run check:structure and npm run check:research before publishing changes.
+
+- Język całej treści merytorycznej bazy i kompendium: polski (pl-PL). Stosuj bezpośrednio odczytane polskie podręczniki, nie automatyczne tłumaczenia. Zachowuj techniczne identyfikatory, oryginalne tytuły oraz jawne konwencje notacji. Przed tworzeniem zadań czytaj również database/kompendium/hasla.json; brak źródłowego pokrycia oznacza blokadę. Nie publikuj niezatwierdzonych haseł.
