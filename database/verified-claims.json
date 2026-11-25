@@ -3699,8 +3699,8 @@
     },
     {
       "id": "ABC-RECAP",
-      "statement": "Repryza w klasycznym modelu sonatowym zmienia plan tonalny ekspozycji i nie musi być jej dosłowną kopią; autorka odróżnia też repryzę pozorną w obrębie przetworzenia.",
-      "scope": "Zakres klasycznej analizy; nie utożsamiać każdego powrotu tematu z repryzą.",
+      "statement": "Repryza w klasycznym modelu sonatowym zmienia plan tonalny ekspozycji i nie musi być jej dosłowną kopią; Wójcik określa repryzę pozorną jako wejście tematu głównego w tonacji innej niż zasadnicza.",
+      "scope": "Ujęcie autorki; odróżniać pozorny powrót od właściwej repryzy na podstawie dalszego przebiegu, nie jednego motywu.",
       "sourceRefs": [
         {
           "sourceId": "WOJ-ABC-UPLOAD",
@@ -17433,6 +17433,1509 @@
       "fixtures": [
         "WHB24"
       ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-GENRE-FORM",
+      "statement": "Gatunek i forma nie są u Wójcik równoważnymi kategoriami: gatunek uwzględnia przeznaczenie, obsadę, tematykę lub udział innych sztuk, podczas gdy w obrębie jednego gatunku mogą występować różne formy.",
+      "scope": "Nie utożsamiać nazwy gatunku z jednoznacznym schematem literowym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 14–15 (PDF 6)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-DIASTEMATICS",
+      "statement": "W systematyce autorki następstwa wysokości w czasie należą do diastematyki horyzontalnej (melodyka), zaś relacje równoczesnych wysokości do wertykalnej (harmonika).",
+      "scope": "Terminologia przyjęta za Chomińskim, nie niezależna teoria.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 15–16 (PDF 6–7)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-TEXTURE-COLOUR",
+      "statement": "Według jakości brzmienia Wójcik rozróżnia fakturę homogeniczną (jednorodną), poligeniczną (zróżnicowaną) i topofoniczną (wykorzystującą przestrzenne rozmieszczenie wykonawców).",
+      "scope": "Kategorie jakości brzmienia, a nie liczby głosów; istnieją typy pośrednie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 16 (PDF 7)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-TEXTURE-HYBRID",
+      "statement": "W ujęciu Wójcik odcinek wielogłosu o osłabionej samodzielności linii jest homofonizujący, a odcinek wykorzystujący zasady polifonii w utworze homofonicznym jest polifonizujący.",
+      "scope": "Oceniać lokalny odcinek, nie automatycznie całość utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 20–22 (PDF 9–10)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CANTUS-FIRMUS",
+      "statement": "W technice cantus firmus wcześniej istniejąca lub własna melodia stanowi podstawę do komponowania kolejnych linii, które mogą mieć względem niej charakter kontrastowy albo imitacyjny.",
+      "scope": "Nie wymagać, by melodia była zawsze w basie, tenorze lub zapożyczona.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 21 (PDF 9)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-PHRASE-MATERIAL",
+      "statement": "Autorka dzieli frazy i zdania na jednorodne motywicznie, wykorzystujące powtórzenie materiału dosłowne, sekwencyjne lub zmodyfikowane, i różnorodne motywicznie.",
+      "scope": "Nie mylić jednorodności z równą liczbą taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 25–26 (PDF 11–12)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FORM-DURATION",
+      "statement": "Rozmiar frazy lub zdania zależy także od czasu rzeczywistego, a nie jedynie od liczby taktów; faktura polifoniczna może zacierać granice fraz przez ich zazębianie.",
+      "scope": "Ocena wymaga tempa i przebiegu głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 28 (PDF 13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-PERIOD-EXPAND",
+      "statement": "Wydłużenie zdania w okresie może wynikać z echa, figuracji, dodania motywu lub jego powtórzenia; skrócenie może powstać przez zazębianie fraz albo elizję.",
+      "scope": "Mechanizmy modyfikacji okresu, nie każda asymetria ma ten sam powód.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 30 (PDF 14)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-TERNARY-SIMPLE-COMPOUND",
+      "statement": "W prostej formie trzyczęściowej cząstki odpowiadają zwykle okresom, czasem zdaniom. W złożonej wystarcza, by jedna z części miała własną formę dwu- lub trzyczęściową.",
+      "scope": "Konwencja autorki, nie wyłącznie liczba taktów; uwzględnić wyjątek formy okresowo-zdaniowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 36 (PDF 17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-PERIOD-HIGHER-LEVEL",
+      "statement": "Zestawienie dwóch okresów może pełnić funkcję poprzednika i następnika wyższego rzędu; kontrast między nimi nie musi dotyczyć melodii, może dotyczyć harmonii, faktury lub dynamiki.",
+      "scope": "Hierarchia formalna, nie każde dwa okresy tworzą większy okres.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 36–37 (PDF 17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-EVOLUTION-TYPES",
+      "statement": "Autorka rozróżnia ewolucjonizm motywiczny figuracyjny, oparty na ciągłej figuracji, i selektywny, wydzielający motywy m.in. pauzami; od nich odróżnia pracę tematyczną rozwijającą większe struktury.",
+      "scope": "Nie utożsamiać figuracji z wyłącznie motoryką.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 37 (PDF 17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-THEMATIC-TRANSFORMS",
+      "statement": "Praca tematyczna może zmieniać harmonizację, fragmenty tematu, interwały, rytm, fakturę, kolorystykę lub używać środków polifonicznych.",
+      "scope": "Zestaw środków, nie warunki wymagane łącznie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 37 (PDF 17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-POLYSERIAL",
+      "statement": "Poliserializm rozszerza organizację seryjną na inne parametry niż wysokości, np. czas trwania, dynamikę, artykulację lub barwę; autorka określa serializację wszystkich elementów jako totalną.",
+      "scope": "Nie utożsamiać każdej dodekafonii z serializmem totalnym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 41 (PDF 19)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ALEATORY",
+      "statement": "Aleatoryzm w opisie Wójcik wprowadza elementy przypadku do realizacji dzieła; w kontrolowanej odmianie część decyzji pozostaje ściśle ustalona, a szczegóły pozostawione są wykonawcom lub przypadkowi.",
+      "scope": "Konkretny zakres swobody zależy od instrukcji utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 42–43 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-COLLAGE",
+      "statement": "Kolaż muzyczny wykorzystuje zestawianie różnorodnego materiału, również pozamuzycznego, np. szumów, dźwięków mowy i nagrań.",
+      "scope": "Nie utożsamiać każdego zestawienia kontrastujących tematów z kolażem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 43 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-INSTRUMENTAL-THEATRE",
+      "statement": "W teatrze instrumentalnym akt wykonywania muzyki staje się elementem przedstawienia; wykonawcy mogą uczestniczyć w działaniach scenicznych, a środki brzmieniowe i scenograficzne współtworzą dzieło.",
+      "scope": "Charakterystyka techniki w ujęciu autorki, nie sztywna definicja każdej praktyki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 44 (PDF 21)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-POLONAISE-CLOSING",
+      "statement": "W typowej formule zakończenia poloneza opisanej przez Wójcik tonika przypada na trzecią ćwierćnutę taktu, a poprzednie dwie obejmują zwykle ornamentowaną dominantę; formuła rytmiczna bywa modyfikowana.",
+      "scope": "Wzorzec stylizacyjny, nie warunek rozpoznania każdego poloneza.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 46 (PDF 22)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MAZURKA-CONTRAST",
+      "statement": "W stylizowanym mazurku części skrajne mogą bazować na jednym typie tańca mazurowego, a środkowa na innym; autorka wskazuje też zmiany rytmu przez rozdrobnienie, punktowanie i rubato.",
+      "scope": "Nie przypisywać wszystkim mazurkom jednej prędkości lub stałego rozkładu akcentów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 48–52 (PDF 23–25)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-KRAKOWIAK",
+      "statement": "Wójcik opisuje krakowiaka przez szybkie tempo, metrum 2/4 i częste synkopy; stylizacje mogą modyfikować rytm i rozbudowywać prostą formę repryzową.",
+      "scope": "Typowe cechy, nie bezwzględne kryteria wszystkich utworów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 52 (PDF 25)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-POLKA",
+      "statement": "W modelu polki autorka wskazuje szybkie tempo, metrum 2/4, ruch ósemkowy z rytmem punktowanym i możliwość synkop.",
+      "scope": "Nie rozpoznawać tańca wyłącznie z metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 54 (PDF 26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CSARDAS",
+      "statement": "Wójcik wyróżnia w czardaszu powolną część wstępną lassu/lassan oraz szybką friska; wskazuje metrum 2/4, przyspieszenia, rytmy punktowane i synkopy.",
+      "scope": "Pochodzenie historyczne nie zostało niezależnie ustalone.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 54–55 (PDF 26)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-WALTZ",
+      "statement": "W modelu walca wiedeńskiego autorka opisuje szybkie metrum 3/4, zestawianie kolejnych odcinków okresowych i typowy akompaniament bas–akord–akord; walc stylizowany może mieć odmienne tempo i budowę.",
+      "scope": "Model historyczny, nie warunek każdej stylizacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 55–56 (PDF 26–27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-BOLERO",
+      "statement": "W opisie bolera autorka wskazuje umiarkowane tempo, metrum 3/4 i powracającą rytmikę akompaniamentu przy zróżnicowanej rytmice melodii.",
+      "scope": "Wzorzec, nie uniwersalna forma wszystkich boler.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 56 (PDF 27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-TARANTELLA",
+      "statement": "Tarantelę autorka charakteryzuje bardzo szybkim tempem, ruchem ósemkowym, metrum 6/8 lub 3/8 oraz przewagą figuracyjnego rozwijania materiału.",
+      "scope": "Możliwe lokalne struktury okresowe i układy repryzowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 56 (PDF 27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MINUET",
+      "statement": "Menuet w typowym modelu Wójcik jest umiarkowanym tańcem trójmiarowym; układ menuet–trio–menuet realizuje powrót pierwszej części, przy czym spotyka się również inne formy menueta.",
+      "scope": "Nie utożsamiać każdego menueta z dokładnym ABA.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 57 (PDF 27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-GAVOTTE-BOURREE",
+      "statement": "Wójcik opisuje bourrée i gawot jako tańce parzyste z przedtaktem, przy czym bourrée jest szybsze, a gawot zwykle umiarkowany.",
+      "scope": "Charakterystyka porównawcza typowych modeli, nie automatyczne rozpoznanie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 57–58 (PDF 27–28)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MARCH-SCHERZO",
+      "statement": "Marsz w opisie autorki najczęściej korzysta z metrum parzystego i rytmów punktowanych; scherzo najczęściej z metrum 3/4 i trójczęściowego układu z triem, ale może mieć złożoną budowę.",
+      "scope": "Nie traktować nazwy scherzo jako gwarancji pogodnego charakteru.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 59–60 (PDF 28–29)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-BARCAROLLE",
+      "statement": "Wójcik opisuje barkarolę przez umiarkowane tempo, metrum 6/8 i kołyszący rytm akompaniamentu, często przybierający postać ostinata.",
+      "scope": "Typowy model gatunku, nie ścisły test.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 60 (PDF 29)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-LYRIC-INSTRUMENTAL",
+      "statement": "Liryka instrumentalna w ujęciu autorki obejmuje miniatury o jednolitym wyrazie oraz utwory kontrastujące wewnętrznie; częsta jest forma repryzowa, ale zmieniony powrót może zmieniać wyraz emocjonalny.",
+      "scope": "Nie klasyfikować wyłącznie z tytułu nokturn, preludium czy etiuda.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 60–61 (PDF 29)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FANTASY-BALLADE",
+      "statement": "Fantazja może korzystać z rozmaitych zasad formalnych, a ballada instrumentalna nawiązuje do idei literackiej bez jednego stałego schematu; obie mogą wykorzystywać formę sonatową lub inne układy.",
+      "scope": "Nie wnioskować o konkretnym programie z samego tytułu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 61–62 (PDF 29–30)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MINIATURE-XX",
+      "statement": "Autorka wyróżnia w miniaturze XX wieku m.in. nawiązanie do romantyzmu, podejście konstruktywistyczne, montaż realizowany przez wykonawcę oraz zapis graficzny.",
+      "scope": "Historyczna typologia autorki, nie wyczerpuje repertuaru.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 62–63 (PDF 30)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FIGURATION-FORM",
+      "statement": "W formach figuracyjnych podział formalny bywa mniej wyrazisty niż w utworach kantylenowych; kolejne fazy mogą być wyznaczane zmianą harmoniki, faktury, rejestru, barwy lub dynamiki.",
+      "scope": "Nie narzucać okresowego rozczłonkowania wszystkim preludiom i etiudom.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 66–67 (PDF 32)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ETUDE-PURPOSE",
+      "statement": "Wójcik rozróżnia etiudy ćwiczeniowe i artystyczne; ich budowę może wyznaczać jeden problem techniczny lub kilka, a typ formy może obejmować np. fazowość, wariacyjność lub ABA.",
+      "scope": "Nie utożsamiać każdej etiudy z jednym ćwiczeniem technicznym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 67–68 (PDF 32–33)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-RONDO-OLD-FRENCH",
+      "statement": "W rondzie starofrancuskim według autorki refren zwykle powraca trzy lub cztery razy w tonacji zasadniczej, kuplety zmieniają tonację, a materiał może być pokrewny refrenowi.",
+      "scope": "Typowy historyczny model, nie obowiązkowa liczba powrotów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 69 (PDF 33)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-RONDO-CLASSICAL",
+      "statement": "W klasycznym rondzie rośnie kontrast odcinków; rozszerzona część centralna może mieć charakter epizodu lub przetworzenia. W opisie ronda XX wieku autorka zauważa również tendencję do uproszczenia konstrukcji.",
+      "scope": "Różne odmiany ronda, nie identyfikować po pojedynczym schemacie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 69–71 (PDF 33–34)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-POLYPHONIC-FORMS",
+      "statement": "Autorka dzieli formy polifoniczne na ścisłe, oparte konstrukcyjnie na imitacji (np. kanon i fuga), oraz swobodne, gdzie imitacja może występować lokalnie.",
+      "scope": "Typologia, nie zakaz współwystępowania różnych technik.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 71 (PDF 34)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CANON-ANALYSIS",
+      "statement": "W analizie kanonu autorka uwzględnia liczbę głosów, interwał i opóźnienie wejścia, transformacje, liczbę imitowanych melodii, plan tonalny oraz zakończenie.",
+      "scope": "Nie wszystkie głosy muszą uczestniczyć w imitacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 75–76 (PDF 36–37)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FUGUE-SUBJECT-TYPES",
+      "statement": "Wójcik dzieli temat fugi na trójczęściowe andamento (czoło, ewolucja, koda), dwuczęściowe soggetto (czoło z ewolucją lub kodą) i jednoczęściowe attacca (czoło).",
+      "scope": "Terminologia autorki; nie każdy analityk stosuje identyczny podział.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 77–78 (PDF 37–38)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-INVERTIBLE-COUNTERPOINT",
+      "statement": "Kontrapunkt wieloraki umożliwia zmianę względnego położenia współbrzmiących linii. Określenia podwójny i potrójny odnoszą się do liczby przestawianych głosów, nie liczby kontrapunktów stałych.",
+      "scope": "Rozróżnić liczbę melodii i liczbę kontrapunktów towarzyszących tematowi.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 79–80 (PDF 38–39)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FUGUE-EPISODES",
+      "statement": "Łączniki i epizody to odcinki bez pełnego wystąpienia tematu; mogą rozwijać jego motywy lub materiał kontrapunktu, a epizody bywają bardziej rozbudowane. Autorka wskazuje także fugi bez łączników.",
+      "scope": "Nie wymagać osobnego epizodu po każdym wejściu tematu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 82–83 (PDF 40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FUGUE-COUNTEREXPOSITION",
+      "statement": "W opisanym modelu czteroczęściowej fugi kontrekspozycja stanowi drugie przeprowadzenie w tonacji głównej, ale zmienia porządek wejść lub środki imitacji względem ekspozycji.",
+      "scope": "Jeden z modeli Sikorskiego przytoczony przez Wójcik, nie obligatoryjna część fugi.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 83 (PDF 40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CHORALE-PRELUDE",
+      "statement": "Przygrywka chorałowa wykorzystuje melodię chorału jako cantus firmus w zestawieniu z głosami kontrapunktującymi; może stosować imitację lub wariacyjność. Melodia może zmieniać głos.",
+      "scope": "Nie utożsamiać każdej przygrywki z fugą chorałową.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 86–87 (PDF 41)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-POLYPHONIC-TOCCATA",
+      "statement": "Toccata polifoniczna może łączyć odcinki figuracyjne i polifoniczne, a nawet osiągać układ kilku ustępów z fugą; inwencje Bacha mogą wykorzystywać środki polifonii ścisłej i swobodnej.",
+      "scope": "Nie odczytywać nazwy gatunku jako jednego schematu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 87 (PDF 41)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-VARIATION-TYPES",
+      "statement": "Wójcik rozróżnia wariacyjność lokalną od formotwórczej; wariacje ornamentalne i figuracyjne zachowują podstawową postać tematu, a charakterystyczne poddają go znaczniejszej przemianie.",
+      "scope": "Typologia stopnia przekształcenia, nie wszystkie środki są rozłączne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 88 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-VARIATION-PARAMETERS",
+      "statement": "Wariacje mogą zmieniać rejestr, fakturę, interwały, rytm, metrum, akcenty, harmonię, tempo, dynamikę, barwę i środki polifoniczne. Przy dużych zmianach melodii wspólność może wynikać z planu harmonicznego.",
+      "scope": "Nie wymagać zachowania identycznej melodii w każdej wariacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 89 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-VARIATION-CONTINUITY",
+      "statement": "Forma wariacyjna może składać się z zamkniętych kolejnych wariacji lub przebiegać ciągle, szczególnie w wariacjach ostinatowych; możliwe jest też łączenie wariacji w grupy.",
+      "scope": "Nie wymagać pauzy albo kadencji między wszystkimi wariacjami.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 90–91 (PDF 43)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SUITE-TONAL-FRAME",
+      "statement": "Typowe tańce suity barokowej łączy tonacja, z możliwą zmianą trybu; kontrast wynika m.in. z metrum i tempa. Częsty model dwuczęściowy odchodzi od toniki i do niej wraca.",
+      "scope": "Nie utożsamiać każdego tańca z tym samym schematem harmonicznym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 97–99 (PDF 46–47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SUITE-DOUBLE",
+      "statement": "W suicie barokowej double oznacza wariacyjne opracowanie tańca; drugi taniec tego samego rodzaju może też tworzyć środkową część układu z powrotem pierwszego.",
+      "scope": "Rozróżnić wariacyjne double od każdego drugiego tańca.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 99 (PDF 47)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-BAROQUE-SONATA-TRIO",
+      "statement": "Sonata triowa w ujęciu Wójcik ma dwie partie solowe oraz basso continuo, które może być realizowane przez więcej niż jeden instrument.",
+      "scope": "Liczba partii nie jest koniecznie liczbą wykonawców.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 101 (PDF 48)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CHIESA-CAMERA",
+      "statement": "Wójcik rozróżnia sonata da chiesa i da camera; model kościelny Corellego obejmuje cztery części wolna–szybka–wolna–szybka, dworski wykazuje pokrewieństwo z suitą, a typy mogą się przenikać.",
+      "scope": "Model historyczny, nie stała liczba części każdego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 101–102 (PDF 48–49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-EXPOSITION",
+      "statement": "W klasycznym modelu ekspozycja obejmuje temat główny, łącznik, temat przeciwstawny i epilog; materiał głównego tematu może być okresowy lub rozwijany ewolucyjnie.",
+      "scope": "Nie traktować schematu jako wyczerpującego wszystkie odmiany.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 104 (PDF 50)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-SECOND-TONAL",
+      "statement": "W klasycznej formie sonatowej temat II w dur zwykle pojawia się w tonacji dominanty, a w moll w paralelnej durowej; autorka zaznacza istnienie odmiennych relacji.",
+      "scope": "Kontrast wyrazowy tematów nie musi być stereotypowo energiczny–liryczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 110 (PDF 53)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-EPILOGUE",
+      "statement": "Epilog ekspozycji zwykle utrzymuje tonację tematu II i może rozwijać nowy materiał albo materiał tematów i łącznika; nie musi być wyłącznie kadencją.",
+      "scope": "Możliwe są grupy końcowe, odcinki łącznikowe i myśli tematyczne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 115 (PDF 55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-CODA",
+      "statement": "Koda formy sonatowej jest według autorki nieobowiązkowa; może mieć charakter figuracyjny, nawiązywać do wcześniejszego materiału lub osiągnąć rozmiary ponownego przetworzenia.",
+      "scope": "Nie wymagać kody ani stałej długości.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 119–120 (PDF 57–58)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-SLOW-MOVEMENT",
+      "statement": "Wolna część cyklu sonatowego może wykorzystywać formę repryzową, wariacyjną, sonatową (także skróconą), dwuczęściową lub rondową.",
+      "scope": "Nie utożsamiać wolnego tempa z jednym rodzajem formy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 120–121 (PDF 58)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-FINALE",
+      "statement": "Finał cyklu sonatowego bywa rondem, rondem sonatowym, formą sonatową, wariacjami, fugą lub tańcem; autorka wyróżnia także finały lekkie i dynamiczne.",
+      "scope": "Typy historyczne, nie warunki każdej sonaty.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 121–123 (PDF 58–59)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-STRING-QUARTET",
+      "statement": "Kwartet smyczkowy ma w klasycznym modelu dwie partie skrzypiec, altówkę i wiolonczelę; role melodyczne i akompaniujące mogą się zmieniać, a materiał jest przekazywany między głosami.",
+      "scope": "Nie zakładać pełnej samodzielności każdego głosu przez cały utwór.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 124–125 (PDF 60)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SYMPHONY-CLASSICAL",
+      "statement": "Symfonia klasyczna w opisie Wójcik korzysta z układu cyklu sonatowego, lecz rozbudowa obsady orkiestrowej umożliwia różnicowanie i nakładanie materiału tematycznego.",
+      "scope": "Nie utożsamiać symfonii z sonatą fortepianową ani stałą obsadą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 125–126 (PDF 60–61)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ROMANTIC-CYCLE",
+      "statement": "Autorka opisuje w sonacie i symfonii romantycznej m.in. powiązania tematyczne części, wpływ liryki, zmianę kolejności ustępów i rozwój programowości.",
+      "scope": "Tendencje, nie cechy wszystkich utworów epoki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 127–129 (PDF 61–62)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATINA",
+      "statement": "Sonatina jest w ujęciu autorki sonatą niewielkich rozmiarów, o prostszej budowie i często zredukowanych środkach formy sonatowej; wyróżnia sonatiny pedagogiczne oraz artystyczne.",
+      "scope": "Nie każde dzieło o tej nazwie ma wyłącznie cel ćwiczeniowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 131 (PDF 63)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SERENADE-DIVERTIMENTO",
+      "statement": "Serenada, divertimento i kasacja wiążą się z muzyką kameralną lub orkiestrową o luźniejszym modelu cyklu; autorka odróżnia typ bliższy suicie i typ pod wpływem sonaty klasycznej.",
+      "scope": "Nie narzucać liczby części ani stałej obsady.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 131–132 (PDF 63–64)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CONCERTO-GROSSO",
+      "statement": "Concerto grosso zestawia grupę solistów concertino z zespołem tutti/ripieni; ich relacja nie musi polegać na odmienności tematycznej. W modelu Vivaldiego pojawia się powracający odcinek tutti.",
+      "scope": "Nie identyfikować każdej partii tutti z dosłownym refrenem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 133–134 (PDF 64–65)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CONCERTO-SOLO",
+      "statement": "Koncert solowy opiera się na współdziałaniu i przeciwstawianiu solisty orkiestrze. W klasycznym modelu autorka wskazuje zwykle cykl szybka–wolna–szybka.",
+      "scope": "Nie jest to uniwersalna liczba części.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 134–135 (PDF 65)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CONCERTO-ROMANTIC",
+      "statement": "W romantycznym koncercie autorka rozróżnia styl brillant, eksponujący wirtuozerię, oraz rozwiązania modyfikujące formę, m.in. wspólną ekspozycję, łączenie części i powiązania tematyczne.",
+      "scope": "Tendencje mogą się nakładać.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 135–136 (PDF 65–66)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-OVERTURE-TYPES",
+      "statement": "Wójcik rozróżnia barokowy typ uwertury francuskiej wolna–szybka–wolna i włoskiej szybka–wolna–szybka; później omawia uwerturę koncertową i programową.",
+      "scope": "Wolny powrót we francuskim modelu może być skrócony; nie każda uwertura ma taki układ.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 138–139 (PDF 67)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SYMPHONIC-POEM",
+      "statement": "Poemat symfoniczny jest gatunkiem programowym, którego forma zależy od pozamuzycznej koncepcji; często jest jednoczęściowy, lecz wykorzystuje rozmaite zasady, np. sonatową, wariacyjną lub rondową.",
+      "scope": "Nie ma jednego obowiązkowego schematu; interpretacja programu wymaga źródła.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 139–140 (PDF 67–68)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-VOCAL-TEXT-COLOUR",
+      "statement": "W muzyce wokalnej instrumenty mogą dublować głosy, uczestniczyć w polifonii, współdziałać z głosem lub tworzyć samodzielne odcinki; tekst nie zawsze występuje w pełnej postaci słownej.",
+      "scope": "Autorka omawia także głos bez tekstu i środki brzmieniowe; nie utożsamiać muzyki wokalnej z pieśnią.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 143–145 (PDF 69–70)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONG-REFRAIN",
+      "statement": "Refren pieśni zwrotkowej może wystąpić wewnątrz zwrotki lub poza nią, na jej początku albo na końcu. Może być materiałowo pokrewny zwrotce lub kontrastujący.",
+      "scope": "Nie wymagać refrenu w każdej pieśni zwrotkowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 150 (PDF 73)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONG-THROUGH-COMPOSED",
+      "statement": "W pieśni przekomponowanej każda zwrotka otrzymuje odmienną muzykę, ale całość może zachować spójność motywiczną i wykorzystywać elementy innych typów pieśni.",
+      "scope": "Nie utożsamiać przekomponowania z brakiem powrotów motywów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 151–152 (PDF 73–74)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CHANT-MODEL",
+      "statement": "Chorał gregoriański autorka opisuje jako jednogłosowy śpiew liturgiczny, w notacji neumatycznej, oparty na skalach modalnych i rytmice związanej z tekstem; odróżnia recytację od właściwego śpiewu.",
+      "scope": "Historyczne tezy o kodyfikacji i dzisiejsze praktyki wymagają odrębnej kontroli.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 153–154 (PDF 74–75)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-TROPE-SEQUENCE",
+      "statement": "Wójcik przedstawia trop jako dodatek tekstowy lub tekstowo-muzyczny do istniejącego śpiewu, a sekwencję wiąże z tekstowaniem melizmatów allelujatycznych i późniejszym usamodzielnieniem.",
+      "scope": "Historyczny model autorki, nie pełna współczesna typologia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 154 (PDF 75)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ORGANUM-CONTRAST",
+      "statement": "Autorka odróżnia wczesne organum z równoległym prowadzeniem głosów od organum melizmatycznego z długimi dźwiękami głosu podstawowego i rozbudowanymi liniami kontrapunktującymi; omawia też odcinki dyskantowe.",
+      "scope": "Nie traktować wszystkich organów jako techniki identycznych równoległości.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 155–157 (PDF 75–76)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CONDUCTUS",
+      "statement": "Conductus w opisie autorki nie wykorzystuje chorałowego cantus firmus, lecz własny materiał; głosy są bardziej równouprawnione rytmicznie i melodycznie niż w modelu organum melizmatycznego.",
+      "scope": "Charakterystyka omawianego gatunku historycznego, nie definicja wszelkich utworów o tej nazwie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 157 (PDF 76)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MOTET-MEDIEVAL",
+      "statement": "Średniowieczny motet autorka opisuje m.in. przez tenor i tekstowane głosy wyższe, mogące mieć różne teksty i języki; w motecie izorytmicznym tenor wykorzystuje powtarzane odcinki rytmiczne.",
+      "scope": "Nie wszystkie motety są wielotekstowe ani izorytmiczne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 157–159 (PDF 76–77)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MOTET-IMITATIVE",
+      "statement": "W renesansowym motecie przeimitowanym poszczególne myśli tekstu otrzymują odcinki imitacyjne; autorka wyróżnia też motety z cantus firmus, odcinkami nota contra notam i układami polichóralnymi.",
+      "scope": "Historyczne typy nie są wzajemnie bezwzględnie rozłączne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 159–162 (PDF 77–79)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MASS-CANTUS-FIRMUS",
+      "statement": "W mszy opartej na cantus firmus melodia może być wykorzystana w całości lub we fragmentach, w długich wartościach lub zrytmizowana; msza tenorowa zachowuje ją w tenorze.",
+      "scope": "Nie każdy cantus firmus jest chorałem; autorka wskazuje również melodie świeckie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 166–168 (PDF 81–82)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MASS-PARODY",
+      "statement": "Missa parodia wykorzystuje materiał istniejącej kompozycji polifonicznej, własnej lub cudzej, i może zmieniać układ głosów oraz przekształcać materiał.",
+      "scope": "Nie oznacza komicznej parodii ani prostego kopiowania całej kompozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 168–170 (PDF 82–83)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MASS-IMITATIVE",
+      "statement": "W mszy przeimitowanej autorka wskazuje rytmiczne zbliżenie głosów i imitacyjne opracowanie kolejnych odcinków; styl palestrinowski opisuje przez równowagę polifonii i nota contra notam oraz dbałość o tekst.",
+      "scope": "Granica historycznych typów może być płynna; nie uogólniać na wszystkie utwory.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 170–172 (PDF 83–84)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-REQUIEM",
+      "statement": "Requiem jest mszą za zmarłych; Wójcik odróżnia opracowania przeznaczone do liturgii i koncertowe, które mogą korzystać także z tekstów nieliturgicznych.",
+      "scope": "Nie narzucać jednego zestawu części wszystkim historycznym i współczesnym requiem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 172–173 (PDF 84)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-OPERA-COMPONENTS",
+      "statement": "Utwór dramatyczno-muzyczny łączy libretto, partie wokalne i instrumentalne, oprawę sceniczną, a niekiedy taniec i tekst mówiony; autorka różnicuje gatunki według dominującej funkcji tych elementów.",
+      "scope": "Nie utożsamiać całej opery z jednym typem formalnym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 173–175 (PDF 84–85)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-RECITATIVE",
+      "statement": "Recytatyw służy w omawianym modelu głównie przekazywaniu akcji; secco korzysta z basso continuo, accompagnato z towarzyszenia orkiestry i bardziej rozwiniętej melodii.",
+      "scope": "Historyczna typologia; późniejsze praktyki mogą łączyć cechy obu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 175–177 (PDF 85–86)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "ABCF10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ARIA-TYPES",
+      "statement": "Autorka wyróżnia m.in. arię zwrotkową, wariacyjną, da capo, dwuczęściową, di bravura i koncertującą; aria może stanowić zamknięty numer, ale w późniejszej operze bywa częścią rozbudowanej sceny.",
+      "scope": "Nie wszystkie arie zatrzymują akcję w identyczny sposób.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 178 (PDF 87)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-OPERA-NUMBER-DRAMA",
+      "statement": "W modelu opery numerowej autonomiczne recytatywy, arie, ensemble i chóry łączą się w akty; dramat muzyczny opisany przez Wójcik kształtuje ciągłe sceny bez takiego podziału na zamknięte numery.",
+      "scope": "Uproszczone porównanie historyczne autorki; istnieją postacie pośrednie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 183–184 (PDF 89–90)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ORATORIO",
+      "statement": "Oratorium w ujęciu Wójcik jest rozbudowanym utworem wokalno-instrumentalnym przedstawiającym zdarzenia za pomocą solistów i chóru; narrator może pełnić rolę świadka, a tradycyjny model nie wymaga dekoracji ani gry scenicznej.",
+      "scope": "Późniejsze realizacje mogą być inscenizowane; nie każde oratorium ma narratora.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 184–187 (PDF 90–91)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-PASSION-TYPES",
+      "statement": "Wójcik rozróżnia pasję chorałową, motetową i kantatowo-oratoryjną; tekst może obejmować jedną Ewangelię, zestawienia tekstów lub inne teksty uzupełniające.",
+      "scope": "Typy mogą współistnieć historycznie; nie wymagać identycznej obsady.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 187–188 (PDF 91–92)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CANTATA-TYPES",
+      "statement": "Kantata może mieć charakter świecki lub religijny, różną obsadę i układ ciągły lub numerowy; autorka opisuje m.in. włoską kantatę solową i niemiecką protestancką z chórem.",
+      "scope": "Nie redukować gatunku do jednego schematu aria–recytatyw.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 188–192 (PDF 92–94)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-BALLET-RELATION",
+      "statement": "Wójcik wyróżnia balety, w których muzyka i choreografia są równorzędne, muzyka jest podporządkowana tańcowi albo inspiruje jego formę; budowa może być suitowa, numerowa lub obrazowa.",
+      "scope": "Nie wnioskować o pierwotnym przeznaczeniu muzyki z samej inscenizacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 193–195 (PDF 94–95)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
     }

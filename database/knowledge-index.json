@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 968,
-    "fixtures": 255,
+    "claims": 1055,
+    "fixtures": 267,
     "competencies": 73,
     "partial": 58
   },
@@ -976,7 +976,94 @@
       "ABC-MASS",
       "ABC-MADRIGAL",
       "ABC-ARIA",
-      "ABC-BALLET"
+      "ABC-BALLET",
+      "ABC-GENRE-FORM",
+      "ABC-DIASTEMATICS",
+      "ABC-TEXTURE-COLOUR",
+      "ABC-TEXTURE-HYBRID",
+      "ABC-CANTUS-FIRMUS",
+      "ABC-PHRASE-MATERIAL",
+      "ABC-FORM-DURATION",
+      "ABC-PERIOD-EXPAND",
+      "ABC-TERNARY-SIMPLE-COMPOUND",
+      "ABC-PERIOD-HIGHER-LEVEL",
+      "ABC-EVOLUTION-TYPES",
+      "ABC-THEMATIC-TRANSFORMS",
+      "ABC-POLYSERIAL",
+      "ABC-ALEATORY",
+      "ABC-COLLAGE",
+      "ABC-INSTRUMENTAL-THEATRE",
+      "ABC-POLONAISE-CLOSING",
+      "ABC-MAZURKA-CONTRAST",
+      "ABC-KRAKOWIAK",
+      "ABC-POLKA",
+      "ABC-CSARDAS",
+      "ABC-WALTZ",
+      "ABC-BOLERO",
+      "ABC-TARANTELLA",
+      "ABC-MINUET",
+      "ABC-GAVOTTE-BOURREE",
+      "ABC-MARCH-SCHERZO",
+      "ABC-BARCAROLLE",
+      "ABC-LYRIC-INSTRUMENTAL",
+      "ABC-FANTASY-BALLADE",
+      "ABC-MINIATURE-XX",
+      "ABC-FIGURATION-FORM",
+      "ABC-ETUDE-PURPOSE",
+      "ABC-RONDO-OLD-FRENCH",
+      "ABC-RONDO-CLASSICAL",
+      "ABC-POLYPHONIC-FORMS",
+      "ABC-CANON-ANALYSIS",
+      "ABC-FUGUE-SUBJECT-TYPES",
+      "ABC-INVERTIBLE-COUNTERPOINT",
+      "ABC-FUGUE-EPISODES",
+      "ABC-FUGUE-COUNTEREXPOSITION",
+      "ABC-CHORALE-PRELUDE",
+      "ABC-POLYPHONIC-TOCCATA",
+      "ABC-VARIATION-TYPES",
+      "ABC-VARIATION-PARAMETERS",
+      "ABC-VARIATION-CONTINUITY",
+      "ABC-SUITE-TONAL-FRAME",
+      "ABC-SUITE-DOUBLE",
+      "ABC-BAROQUE-SONATA-TRIO",
+      "ABC-CHIESA-CAMERA",
+      "ABC-SONATA-EXPOSITION",
+      "ABC-SONATA-SECOND-TONAL",
+      "ABC-SONATA-EPILOGUE",
+      "ABC-SONATA-CODA",
+      "ABC-SONATA-SLOW-MOVEMENT",
+      "ABC-SONATA-FINALE",
+      "ABC-STRING-QUARTET",
+      "ABC-SYMPHONY-CLASSICAL",
+      "ABC-ROMANTIC-CYCLE",
+      "ABC-SONATINA",
+      "ABC-SERENADE-DIVERTIMENTO",
+      "ABC-CONCERTO-GROSSO",
+      "ABC-CONCERTO-SOLO",
+      "ABC-CONCERTO-ROMANTIC",
+      "ABC-OVERTURE-TYPES",
+      "ABC-SYMPHONIC-POEM",
+      "ABC-VOCAL-TEXT-COLOUR",
+      "ABC-SONG-REFRAIN",
+      "ABC-SONG-THROUGH-COMPOSED",
+      "ABC-CHANT-MODEL",
+      "ABC-TROPE-SEQUENCE",
+      "ABC-ORGANUM-CONTRAST",
+      "ABC-CONDUCTUS",
+      "ABC-MOTET-MEDIEVAL",
+      "ABC-MOTET-IMITATIVE",
+      "ABC-MASS-CANTUS-FIRMUS",
+      "ABC-MASS-PARODY",
+      "ABC-MASS-IMITATIVE",
+      "ABC-REQUIEM",
+      "ABC-OPERA-COMPONENTS",
+      "ABC-RECITATIVE",
+      "ABC-ARIA-TYPES",
+      "ABC-OPERA-NUMBER-DRAMA",
+      "ABC-ORATORIO",
+      "ABC-PASSION-TYPES",
+      "ABC-CANTATA-TYPES",
+      "ABC-BALLET-RELATION"
     ],
     "WOJ-NOM-2004-UPLOAD": [
       "CHOM-FORM",
@@ -1394,8 +1481,15 @@
     "II-FORM-01": {
       "status": "partial",
       "claimIds": [
+        "ABC-CANTUS-FIRMUS",
         "ABC-CLASS",
+        "ABC-DIASTEMATICS",
+        "ABC-GENRE-FORM",
+        "ABC-STRING-QUARTET",
         "ABC-TEXTURE",
+        "ABC-TEXTURE-COLOUR",
+        "ABC-TEXTURE-HYBRID",
+        "ABC-VOCAL-TEXT-COLOUR",
         "ABC-VOCAL-TEXTURE",
         "CHOM-FORM",
         "SIK-TEXTURE-TYPES",
@@ -1410,8 +1504,16 @@
     "II-FORM-02": {
       "status": "partial",
       "claimIds": [
+        "ABC-ALEATORY",
+        "ABC-COLLAGE",
+        "ABC-EVOLUTION-TYPES",
+        "ABC-FORM-DURATION",
         "ABC-MOTIF",
+        "ABC-PERIOD-EXPAND",
+        "ABC-PERIOD-HIGHER-LEVEL",
         "ABC-PERIOD-TYPES",
+        "ABC-PHRASE-MATERIAL",
+        "ABC-POLYSERIAL",
         "ABC-SENTENCE",
         "CHOM-EVOL",
         "CHOM-JUXT",
@@ -1427,8 +1529,16 @@
     "II-FORM-03": {
       "status": "partial",
       "claimIds": [
+        "ABC-CANON-ANALYSIS",
+        "ABC-CANTUS-FIRMUS",
+        "ABC-EVOLUTION-TYPES",
         "ABC-IMITATION",
+        "ABC-INVERTIBLE-COUNTERPOINT",
         "ABC-OSTINATO",
+        "ABC-SUITE-DOUBLE",
+        "ABC-THEMATIC-TRANSFORMS",
+        "ABC-VARIATION-PARAMETERS",
+        "ABC-VARIATION-TYPES",
         "CHOM-CANON",
         "CHOM-EVOL",
         "CHOM-VARIATION",
@@ -1439,7 +1549,28 @@
     "II-FORM-04": {
       "status": "partial",
       "claimIds": [
+        "ABC-BARCAROLLE",
+        "ABC-BOLERO",
+        "ABC-CSARDAS",
+        "ABC-ETUDE-PURPOSE",
+        "ABC-FANTASY-BALLADE",
         "ABC-FIGURATION",
+        "ABC-FIGURATION-FORM",
+        "ABC-GAVOTTE-BOURREE",
+        "ABC-KRAKOWIAK",
+        "ABC-LYRIC-INSTRUMENTAL",
+        "ABC-MARCH-SCHERZO",
+        "ABC-MAZURKA-CONTRAST",
+        "ABC-MINUET",
+        "ABC-POLKA",
+        "ABC-POLONAISE-CLOSING",
+        "ABC-RONDO-CLASSICAL",
+        "ABC-RONDO-OLD-FRENCH",
+        "ABC-SONG-REFRAIN",
+        "ABC-SONG-THROUGH-COMPOSED",
+        "ABC-TARANTELLA",
+        "ABC-TERNARY-SIMPLE-COMPOUND",
+        "ABC-WALTZ",
         "CHOM-RONDO",
         "WOJ-DANCE",
         "WOJ-SONG",
@@ -1449,18 +1580,45 @@
     "II-FORM-05": {
       "status": "partial",
       "claimIds": [
+        "ABC-BAROQUE-SONATA-TRIO",
+        "ABC-CANON-ANALYSIS",
+        "ABC-CHIESA-CAMERA",
+        "ABC-CHORALE-PRELUDE",
+        "ABC-CONCERTO-GROSSO",
+        "ABC-CONCERTO-SOLO",
         "ABC-COUNTERSUBJECT",
         "ABC-CYCLE",
         "ABC-DEVELOPMENT",
         "ABC-FUGATO",
         "ABC-FUGUE-ANSWER",
+        "ABC-FUGUE-COUNTEREXPOSITION",
+        "ABC-FUGUE-EPISODES",
         "ABC-FUGUE-EXPOSITION",
+        "ABC-FUGUE-SUBJECT-TYPES",
+        "ABC-INVERTIBLE-COUNTERPOINT",
         "ABC-OSTINATO",
+        "ABC-POLYPHONIC-FORMS",
+        "ABC-POLYPHONIC-TOCCATA",
         "ABC-RECAP",
+        "ABC-SERENADE-DIVERTIMENTO",
         "ABC-SONATA-BRIDGE",
+        "ABC-SONATA-CODA",
         "ABC-SONATA-DIST",
+        "ABC-SONATA-EPILOGUE",
+        "ABC-SONATA-EXPOSITION",
+        "ABC-SONATA-FINALE",
         "ABC-SONATA-MONO",
+        "ABC-SONATA-SECOND-TONAL",
+        "ABC-SONATA-SLOW-MOVEMENT",
+        "ABC-SONATINA",
         "ABC-STRETTO",
+        "ABC-STRING-QUARTET",
+        "ABC-SUITE-DOUBLE",
+        "ABC-SUITE-TONAL-FRAME",
+        "ABC-SYMPHONY-CLASSICAL",
+        "ABC-VARIATION-CONTINUITY",
+        "ABC-VARIATION-PARAMETERS",
+        "ABC-VARIATION-TYPES",
         "CHOM-FUGUE",
         "CHOM-FUGUE-NON3",
         "CHOM-VARIATION",
@@ -1472,16 +1630,52 @@
     "II-FORM-06": {
       "status": "partial",
       "claimIds": [
+        "ABC-ALEATORY",
         "ABC-ARIA",
+        "ABC-ARIA-TYPES",
         "ABC-BALLET",
+        "ABC-BALLET-RELATION",
+        "ABC-CANTATA-TYPES",
+        "ABC-CHANT-MODEL",
         "ABC-CLASS",
+        "ABC-COLLAGE",
         "ABC-CONCERTO",
+        "ABC-CONCERTO-ROMANTIC",
+        "ABC-CONDUCTUS",
+        "ABC-FANTASY-BALLADE",
+        "ABC-GENRE-FORM",
+        "ABC-INSTRUMENTAL-THEATRE",
+        "ABC-LYRIC-INSTRUMENTAL",
         "ABC-MADRIGAL",
         "ABC-MASS",
+        "ABC-MASS-CANTUS-FIRMUS",
+        "ABC-MASS-IMITATIVE",
+        "ABC-MASS-PARODY",
+        "ABC-MINIATURE-XX",
+        "ABC-MOTET-IMITATIVE",
+        "ABC-MOTET-MEDIEVAL",
         "ABC-OPEN",
+        "ABC-OPERA-COMPONENTS",
+        "ABC-OPERA-NUMBER-DRAMA",
+        "ABC-ORATORIO",
+        "ABC-ORGANUM-CONTRAST",
+        "ABC-OVERTURE-TYPES",
+        "ABC-PASSION-TYPES",
         "ABC-POINTILLISM",
+        "ABC-POLYPHONIC-TOCCATA",
+        "ABC-POLYSERIAL",
+        "ABC-RECITATIVE",
+        "ABC-REQUIEM",
+        "ABC-ROMANTIC-CYCLE",
+        "ABC-RONDO-CLASSICAL",
+        "ABC-RONDO-OLD-FRENCH",
+        "ABC-SERENADE-DIVERTIMENTO",
         "ABC-SERIAL",
+        "ABC-SYMPHONIC-POEM",
+        "ABC-SYMPHONY-CLASSICAL",
+        "ABC-TROPE-SEQUENCE",
         "ABC-VOCAL-FORM",
+        "ABC-VOCAL-TEXT-COLOUR",
         "CHOM-FORM",
         "CHOM-GENRE",
         "CHOM-STRUCT",
@@ -13462,6 +13656,920 @@
         "WHB24"
       ],
       "releaseApproved": false
+    },
+    "ABC-GENRE-FORM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "ABCF01"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-DIASTEMATICS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-TEXTURE-COLOUR": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-TEXTURE-HYBRID": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CANTUS-FIRMUS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-PHRASE-MATERIAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [
+        "ABCF02"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-FORM-DURATION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-PERIOD-EXPAND": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-TERNARY-SIMPLE-COMPOUND": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [
+        "ABCF03"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-PERIOD-HIGHER-LEVEL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-EVOLUTION-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-THEMATIC-TRANSFORMS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-POLYSERIAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "ABCF04"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-ALEATORY": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-COLLAGE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-INSTRUMENTAL-THEATRE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-POLONAISE-CLOSING": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MAZURKA-CONTRAST": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-KRAKOWIAK": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-POLKA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CSARDAS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-WALTZ": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-BOLERO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-TARANTELLA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MINUET": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-GAVOTTE-BOURREE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MARCH-SCHERZO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-BARCAROLLE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-LYRIC-INSTRUMENTAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FANTASY-BALLADE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MINIATURE-XX": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FIGURATION-FORM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-ETUDE-PURPOSE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-RONDO-OLD-FRENCH": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-RONDO-CLASSICAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-POLYPHONIC-FORMS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CANON-ANALYSIS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "ABCF05"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-FUGUE-SUBJECT-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-INVERTIBLE-COUNTERPOINT": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "ABCF06"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-FUGUE-EPISODES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FUGUE-COUNTEREXPOSITION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CHORALE-PRELUDE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-POLYPHONIC-TOCCATA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-VARIATION-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-VARIATION-PARAMETERS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-VARIATION-CONTINUITY": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "ABCF12"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-SUITE-TONAL-FRAME": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SUITE-DOUBLE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-BAROQUE-SONATA-TRIO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "ABCF07"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-CHIESA-CAMERA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-EXPOSITION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-SECOND-TONAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [
+        "ABCF08"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-EPILOGUE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-CODA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-SLOW-MOVEMENT": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-FINALE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-STRING-QUARTET": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SYMPHONY-CLASSICAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-ROMANTIC-CYCLE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATINA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SERENADE-DIVERTIMENTO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CONCERTO-GROSSO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CONCERTO-SOLO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CONCERTO-ROMANTIC": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-OVERTURE-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "ABCF09"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-SYMPHONIC-POEM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-VOCAL-TEXT-COLOUR": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONG-REFRAIN": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONG-THROUGH-COMPOSED": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CHANT-MODEL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-TROPE-SEQUENCE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-ORGANUM-CONTRAST": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CONDUCTUS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MOTET-MEDIEVAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MOTET-IMITATIVE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MASS-CANTUS-FIRMUS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MASS-PARODY": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "ABCF11"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-MASS-IMITATIVE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-REQUIEM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-OPERA-COMPONENTS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-RECITATIVE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [
+        "ABCF10"
+      ],
+      "releaseApproved": false
+    },
+    "ABC-ARIA-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-OPERA-NUMBER-DRAMA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-ORATORIO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-PASSION-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CANTATA-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-BALLET-RELATION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -14138,6 +15246,42 @@
     ],
     "WHB24": [
       "WH-EXERCISE-ALTERNATIVE-BASS"
+    ],
+    "ABCF01": [
+      "ABC-GENRE-FORM"
+    ],
+    "ABCF02": [
+      "ABC-PHRASE-MATERIAL"
+    ],
+    "ABCF03": [
+      "ABC-TERNARY-SIMPLE-COMPOUND"
+    ],
+    "ABCF04": [
+      "ABC-POLYSERIAL"
+    ],
+    "ABCF05": [
+      "ABC-CANON-ANALYSIS"
+    ],
+    "ABCF06": [
+      "ABC-INVERTIBLE-COUNTERPOINT"
+    ],
+    "ABCF12": [
+      "ABC-VARIATION-CONTINUITY"
+    ],
+    "ABCF07": [
+      "ABC-BAROQUE-SONATA-TRIO"
+    ],
+    "ABCF08": [
+      "ABC-SONATA-SECOND-TONAL"
+    ],
+    "ABCF09": [
+      "ABC-OVERTURE-TYPES"
+    ],
+    "ABCF11": [
+      "ABC-MASS-PARODY"
+    ],
+    "ABCF10": [
+      "ABC-RECITATIVE"
     ]
   }
 }

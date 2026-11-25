@@ -2316,6 +2316,126 @@
         "affectedClaimCount": 24,
         "sourceRegistry": "WES-HAR-1997-UPLOAD"
       }
+    },
+    {
+      "sourceId": "WOJ-ABC-UPLOAD",
+      "ranges": [
+        [
+          1,
+          96
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "ABC-GENRE-FORM",
+        "ABC-DIASTEMATICS",
+        "ABC-TEXTURE-COLOUR",
+        "ABC-TEXTURE-HYBRID",
+        "ABC-CANTUS-FIRMUS",
+        "ABC-PHRASE-MATERIAL",
+        "ABC-FORM-DURATION",
+        "ABC-PERIOD-EXPAND",
+        "ABC-TERNARY-SIMPLE-COMPOUND",
+        "ABC-PERIOD-HIGHER-LEVEL",
+        "ABC-EVOLUTION-TYPES",
+        "ABC-THEMATIC-TRANSFORMS",
+        "ABC-POLYSERIAL",
+        "ABC-ALEATORY",
+        "ABC-COLLAGE",
+        "ABC-INSTRUMENTAL-THEATRE",
+        "ABC-POLONAISE-CLOSING",
+        "ABC-MAZURKA-CONTRAST",
+        "ABC-KRAKOWIAK",
+        "ABC-POLKA",
+        "ABC-CSARDAS",
+        "ABC-WALTZ",
+        "ABC-BOLERO",
+        "ABC-TARANTELLA",
+        "ABC-MINUET",
+        "ABC-GAVOTTE-BOURREE",
+        "ABC-MARCH-SCHERZO",
+        "ABC-BARCAROLLE",
+        "ABC-LYRIC-INSTRUMENTAL",
+        "ABC-FANTASY-BALLADE",
+        "ABC-MINIATURE-XX",
+        "ABC-FIGURATION-FORM",
+        "ABC-ETUDE-PURPOSE",
+        "ABC-RONDO-OLD-FRENCH",
+        "ABC-RONDO-CLASSICAL",
+        "ABC-POLYPHONIC-FORMS",
+        "ABC-CANON-ANALYSIS",
+        "ABC-FUGUE-SUBJECT-TYPES",
+        "ABC-INVERTIBLE-COUNTERPOINT",
+        "ABC-FUGUE-EPISODES",
+        "ABC-FUGUE-COUNTEREXPOSITION",
+        "ABC-CHORALE-PRELUDE",
+        "ABC-POLYPHONIC-TOCCATA",
+        "ABC-VARIATION-TYPES",
+        "ABC-VARIATION-PARAMETERS",
+        "ABC-VARIATION-CONTINUITY",
+        "ABC-SUITE-TONAL-FRAME",
+        "ABC-SUITE-DOUBLE",
+        "ABC-BAROQUE-SONATA-TRIO",
+        "ABC-CHIESA-CAMERA",
+        "ABC-SONATA-EXPOSITION",
+        "ABC-SONATA-SECOND-TONAL",
+        "ABC-SONATA-EPILOGUE",
+        "ABC-SONATA-CODA",
+        "ABC-SONATA-SLOW-MOVEMENT",
+        "ABC-SONATA-FINALE",
+        "ABC-STRING-QUARTET",
+        "ABC-SYMPHONY-CLASSICAL",
+        "ABC-ROMANTIC-CYCLE",
+        "ABC-SONATINA",
+        "ABC-SERENADE-DIVERTIMENTO",
+        "ABC-CONCERTO-GROSSO",
+        "ABC-CONCERTO-SOLO",
+        "ABC-CONCERTO-ROMANTIC",
+        "ABC-OVERTURE-TYPES",
+        "ABC-SYMPHONIC-POEM",
+        "ABC-VOCAL-TEXT-COLOUR",
+        "ABC-SONG-REFRAIN",
+        "ABC-SONG-THROUGH-COMPOSED",
+        "ABC-CHANT-MODEL",
+        "ABC-TROPE-SEQUENCE",
+        "ABC-ORGANUM-CONTRAST",
+        "ABC-CONDUCTUS",
+        "ABC-MOTET-MEDIEVAL",
+        "ABC-MOTET-IMITATIVE",
+        "ABC-MASS-CANTUS-FIRMUS",
+        "ABC-MASS-PARODY",
+        "ABC-MASS-IMITATIVE",
+        "ABC-REQUIEM",
+        "ABC-OPERA-COMPONENTS",
+        "ABC-RECITATIVE",
+        "ABC-ARIA-TYPES",
+        "ABC-OPERA-NUMBER-DRAMA",
+        "ABC-ORATORIO",
+        "ABC-PASSION-TYPES",
+        "ABC-CANTATA-TYPES",
+        "ABC-BALLET-RELATION"
+      ],
+      "remaining": "Pierwszy przebieg wszystkich 96 stron dostarczonego PDF: odczyt tekstu i przegląd nut na renderach po dwie rozkładówki; końcowa bibliografia na PDF 96. Brak kart tytułowych i początkowych stron spisu, a pomiędzy PDF 40 i 41 brak druk. s.84–85 (koniec fugi i początek swobodnych form polifonicznych). Nie znaleziono erraty w dostępnym skanie; nie ustalono wydania, więc nie wykluczono osobnej erraty. Nie zweryfikowano każdej nuty, nie wykonano analiz wszystkich przykładów ani recenzji niezależnej. Nie uzupełniano luk z pamięci.",
+      "scanGaps": [
+        {
+          "printedPages": [
+            84,
+            85
+          ],
+          "betweenPdfPages": [
+            40,
+            41
+          ]
+        },
+        {
+          "description": "Karty tytułowe i początkowa część spisu treści"
+        }
+      ],
+      "errataReview": {
+        "status": "not-present-in-available-scan",
+        "lastPdfPage": 96,
+        "editionConfirmed": false
+      }
     }
   ]
 }

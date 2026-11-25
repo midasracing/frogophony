@@ -4881,6 +4881,183 @@
       "expected": {
         "uniqueBassRequired": false
       }
+    },
+    {
+      "id": "ABCF01",
+      "domain": "forms",
+      "input": {
+        "genre": "sonata",
+        "movementForm": "rondo"
+      },
+      "expected": {
+        "mutuallyExclusive": false
+      }
+    },
+    {
+      "id": "ABCF02",
+      "domain": "forms",
+      "input": {
+        "motifRelation": "sequential-repeat",
+        "phraseLengths": [
+          3,
+          3
+        ]
+      },
+      "expected": {
+        "motivicClass": "jednorodna",
+        "symmetric": true
+      }
+    },
+    {
+      "id": "ABCF03",
+      "domain": "forms",
+      "input": {
+        "sections": [
+          {
+            "label": "A",
+            "internalForm": "aba"
+          },
+          {
+            "label": "B",
+            "internalForm": "period"
+          },
+          {
+            "label": "A",
+            "internalForm": "aba"
+          }
+        ]
+      },
+      "expected": {
+        "profile": "Wojcik",
+        "form": "trzyczesciowa-zlozona"
+      }
+    },
+    {
+      "id": "ABCF04",
+      "domain": "forms",
+      "input": {
+        "serializedParameters": [
+          "pitch",
+          "duration",
+          "dynamics"
+        ],
+        "allParametersSerialized": false
+      },
+      "expected": {
+        "polyserial": true,
+        "totalSerial": false
+      }
+    },
+    {
+      "id": "ABCF05",
+      "domain": "forms",
+      "input": {
+        "voiceCount": 3,
+        "imitatingVoices": 2,
+        "freeVoices": 1
+      },
+      "expected": {
+        "canonTechniquePossible": true,
+        "allVoicesRequired": false
+      }
+    },
+    {
+      "id": "ABCF06",
+      "domain": "forms",
+      "input": {
+        "lines": [
+          "subject",
+          "lineA"
+        ],
+        "registralOrderBefore": [
+          "subject",
+          "lineA"
+        ],
+        "registralOrderAfter": [
+          "lineA",
+          "subject"
+        ]
+      },
+      "expected": {
+        "reorderedVoiceCount": 2,
+        "counterpointType": "podwojny",
+        "mereReorderingProvesValidity": false
+      }
+    },
+    {
+      "id": "ABCF07",
+      "domain": "forms",
+      "input": {
+        "soloParts": 2,
+        "continuoPlayers": 2
+      },
+      "expected": {
+        "partCount": 3,
+        "performerCount": 4
+      }
+    },
+    {
+      "id": "ABCF08",
+      "domain": "forms",
+      "input": {
+        "mode": "minor",
+        "tonic": "D",
+        "profile": "classical-typical"
+      },
+      "expected": {
+        "typicalSecondThemeKey": "F major",
+        "requiredInEveryWork": false
+      }
+    },
+    {
+      "id": "ABCF09",
+      "domain": "forms",
+      "input": {
+        "historicalModel": "French baroque"
+      },
+      "expected": {
+        "tempoOutline": [
+          "slow",
+          "fast",
+          "slow"
+        ],
+        "finalSlowMayBeShort": true
+      }
+    },
+    {
+      "id": "ABCF10",
+      "domain": "forms",
+      "input": {
+        "profile": "historical-model",
+        "accompaniment": "basso continuo"
+      },
+      "expected": {
+        "recitativeType": "secco"
+      }
+    },
+    {
+      "id": "ABCF11",
+      "domain": "forms",
+      "input": {
+        "modelTexture": "polyphonic",
+        "materialReworked": true
+      },
+      "expected": {
+        "historicalTechnique": "missa parodia",
+        "requiresHumour": false
+      }
+    },
+    {
+      "id": "ABCF12",
+      "domain": "forms",
+      "input": {
+        "ostinato": true,
+        "sectionsSeparatedByPauses": false
+      },
+      "expected": {
+        "variationFormPossible": true,
+        "eachVariationMustClose": false
+      }
     }
   ]
 }
