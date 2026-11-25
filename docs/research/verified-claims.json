@@ -5358,6 +5358,268 @@
       ],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WES-SYNC-ACCENT",
+      "statement": "Synkopa może wytworzyć dodatkowy akcent rytmiczny, mimo że dotychczasowy porządek metryczny pozostaje rozpoznawalny dzięki innym głosom i harmonii.",
+      "scope": "Ujęcie autora; nie wymuszać zmiany metrum na podstawie samej synkopowanej melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18 s.61–62",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-SYNC-SPELL",
+      "statement": "Synkopę można notować łukiem przedłużającym, pojedynczą dłuższą wartością albo wartością z kropką, zależnie od położenia i kontekstu.",
+      "scope": "Zapis równoważny rytmicznie nie zawsze jest równie czytelny; nie stosować kropki przez kreskę taktową w standardowym współczesnym zapisie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18 s.62–63",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-OFFBEAT",
+      "statement": "Wesołowski odróżnia od synkopy m.in. przypadek nut na słabych częściach i pauz na mocnych, który opisuje jako contra-tempo.",
+      "scope": "Terminologia autora; szersze współczesne definicje synkopacji mogą obejmować akcenty offbeat.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18 s.64 przypis a",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METER-CHANGE",
+      "statement": "Zmiana metrum nie implikuje zmiany tempa: przy zachowanej jednostce czasu ta sama wartość nutowa zachowuje czas trwania.",
+      "scope": "Odrębne oznaczenie metronomiczne lub modulacja metryczna mogą zmienić relację czasu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§19 s.66–67",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR17"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ADDITIVE-METER",
+      "statement": "Pięcioczęściowe metrum może mieć podział 2+3 lub 3+2; siedmioczęściowe m.in. 2+2+3, 2+3+2, 3+2+2.",
+      "scope": "Nie jedyne interpretacje; podział powinien wynikać z zapisu, akcentów lub kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§19 s.68–69 przykłady 139–142",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR15",
+        "WR16"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METER-AMBIGUITY",
+      "statement": "Numerator i denominator nie wystarczają do określenia wszystkich grup metrycznych; autor pokazuje różne podziały także taktów sześcioczęściowych i dziewięcioczęściowych.",
+      "scope": "Grupowanie musi być osobnym parametrem ćwiczenia; jeżeli materiał nie rozstrzyga, nie wymuszać jednej odpowiedzi.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§19 s.69–70 przykład 145",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR18"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-COMPLEMENTARY-RHYTHM",
+      "statement": "W rytmice uzupełniającej głosy dopełniają się tak, że ich połączony przebieg tworzy jednostajny ruch.",
+      "scope": "Ujęcie autora, nie wymaganie, by każdy głos indywidualnie miał jednakowe wartości.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§20 s.71 przykład 148",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-POLYMETER-PHASE",
+      "statement": "Wesołowski opisuje jako polimetrię również przesunięcie akcentów dwóch głosów o tej samej nominalnej długości taktu.",
+      "scope": "Szersze ujęcie autora; w innych taksonomiach rozróżnia się przesunięcie metryczne i polimetrię.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§20 s.73",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-UNMETERED",
+      "statement": "Muzyka bez regularnego podziału na takty może posiadać rytm; jako przykład autor podaje chorał gregoriański.",
+      "scope": "Nie uogólniać na całą muzykę średniowieczną ani wszystkie współczesne utwory bez kresek taktowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§21 s.73",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TEMPO-WORDS",
+      "statement": "Słowne oznaczenia tempa, takie jak largo, andante i presto, mają względny charakter; nie wyznaczają uniwersalnego BPM.",
+      "scope": "Wymowa, tempo historyczne i skale metronomiczne wymagają dodatkowego kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22 s.75–77",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TEMPO-CHANGE",
+      "statement": "Accelerando oznacza przyspieszanie, ritardando lub rallentando zwalnianie, a tempo powrót do wcześniejszego tempa, tempo primo do tempa początkowego.",
+      "scope": "Są to wskazania wykonawcze, nie dokładne krzywe BPM.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22 s.76–77",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-RUBATO",
+      "statement": "Wesołowski opisuje rubato jako elastyczną zmianę czasów nut z zachowaniem w przybliżeniu całości frazy lub taktu.",
+      "scope": "To jeden z modeli rubata, nie definicja obejmująca wszystkie praktyki historyczne i wykonawcze.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22 s.77",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CONDUCT",
+      "statement": "Taktowanie wskazuje ruchami jednostki metryczne; liczba ruchów może zależeć od tempa, np. 6/8 na dwa lub sześć.",
+      "scope": "Nie utożsamiać liczby jednostek mianownika z jedynym możliwym pulsem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§23 s.78–79",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DYNAMIC-LEVELS",
+      "statement": "Oznaczenia p, mp, mf, f oraz ich wzmocnione postacie wskazują względne poziomy dynamiki.",
+      "scope": "Nie przypisywać im uniwersalnych dB SPL ani bezwzględnych wartości MIDI velocity.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§24 s.79",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DYNAMIC-CHANGE",
+      "statement": "Crescendo wskazuje narastanie dynamiki, diminuendo i decrescendo jej zmniejszanie; sforzando wskazuje akcentowane wzmocnienie, fp przejście od forte do piano.",
+      "scope": "Nie narzucać jednej krzywej obwiedni; zależy od instrumentu i wykonania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§24 s.80",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

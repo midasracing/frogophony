@@ -116,3 +116,6 @@ Odczyt z prywatnego Dysku Google, kolejno s.1–40, tekst i dostępne obrazy. Do
 
 ## Lektura ciągła Wesołowskiego 41–60
 Kontynuacja bez pomijania rozdziałów. 10 twierdzeń i 4 przypadki wzorcowe; reguły grupowania szkolnego odróżniono od pisowni plastycznej i zapisu wokalnego. Zapisano odrębność czasu i hierarchii akcentów. Obrazy przejrzano, nie przeprowadzono pełnego rozwiązania wszystkich zadań. Następne strony 61–70. Nie zmieniono statusów wydawniczych.
+
+## Lektura ciągła Wesołowskiego 61–80
+15 twierdzeń i 4 przypadki wzorcowe. Rozróżniono akcent rytmiczny i metryczny, różne profile grupowania, tempo i metrum, konwencje polimetrii, rubato i dynamikę. Nie powielono historycznych uogólnień o średniowieczu i historii dyrygowania ani niespójnego opisu podziału ruchu na 12 w s.79. Kolejna partia 81–90. Nie rozwiązano jeszcze wszystkich zadań nutowych.

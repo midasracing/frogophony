@@ -102,7 +102,8 @@
         "WES-REST-TRIPLE",
         "WES-METER-HIERARCHY",
         "WES-METER-EQUAL-DURATION",
-        "WES-SYNCOPATION-TRIPLE"
+        "WES-SYNCOPATION-TRIPLE",
+        "WES-SYNC-ACCENT"
       ],
       "status": "partial"
     },
@@ -152,7 +153,8 @@
       "id": "I-RYT-01",
       "claimIds": [
         "DK-PULSE",
-        "DK-TWO-RHY"
+        "DK-TWO-RHY",
+        "WES-CONDUCT"
       ],
       "status": "partial"
     },
@@ -233,7 +235,8 @@
         "WOJ-CAPPELLA",
         "DROB-TAXONOMY",
         "DROB-KEYBOARD",
-        "DROB-VIOLIN"
+        "DROB-VIOLIN",
+        "WES-DYNAMIC-LEVELS"
       ],
       "status": "partial"
     },
@@ -401,7 +404,8 @@
         "WES-HISTORICAL-CLEFS",
         "WES-CLEF-CHANGE",
         "WES-TUPLET-RATIO",
-        "WES-BEAM-METRIC"
+        "WES-BEAM-METRIC",
+        "WES-ADDITIVE-METER"
       ],
       "status": "partial"
     },
@@ -471,7 +475,8 @@
         "DK-MELODY",
         "DK-ATONAL",
         "DK-INT-DIFF",
-        "DK-FOUR"
+        "DK-FOUR",
+        "WES-COMPLEMENTARY-RHYTHM"
       ],
       "status": "partial"
     },
@@ -665,7 +670,17 @@
         "WES-METER-HIERARCHY",
         "WES-METER-EQUAL-DURATION",
         "WES-METER-REGROUP",
-        "WES-SYNCOPATION-TRIPLE"
+        "WES-SYNCOPATION-TRIPLE",
+        "WES-SYNC-ACCENT",
+        "WES-SYNC-SPELL",
+        "WES-OFFBEAT",
+        "WES-METER-CHANGE",
+        "WES-ADDITIVE-METER",
+        "WES-METER-AMBIGUITY",
+        "WES-COMPLEMENTARY-RHYTHM",
+        "WES-POLYMETER-PHASE",
+        "WES-UNMETERED",
+        "WES-CONDUCT"
       ],
       "status": "partial"
     },
@@ -678,7 +693,13 @@
         "WOJ-PLAY",
         "DROB-TEMPO",
         "WES-MULTIREST",
-        "WES-FERMATA"
+        "WES-FERMATA",
+        "WES-METER-CHANGE",
+        "WES-TEMPO-WORDS",
+        "WES-TEMPO-CHANGE",
+        "WES-RUBATO",
+        "WES-DYNAMIC-LEVELS",
+        "WES-DYNAMIC-CHANGE"
       ],
       "status": "partial"
     },
@@ -833,7 +854,8 @@
         "ABC-TEXTURE",
         "ABC-CONCERTO",
         "DROB-SPECTRUM",
-        "WES-UNISON"
+        "WES-UNISON",
+        "WES-UNMETERED"
       ],
       "status": "partial"
     },

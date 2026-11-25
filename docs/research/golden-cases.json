@@ -1663,6 +1663,81 @@
       "expected": {
         "syncopation": true
       }
+    },
+    {
+      "id": "WR15",
+      "domain": "notation",
+      "input": {
+        "meter": [
+          5,
+          8
+        ],
+        "grouping": [
+          2,
+          3
+        ]
+      },
+      "expected": {
+        "groupStarts": [
+          0,
+          2
+        ],
+        "unit": "eighth"
+      }
+    },
+    {
+      "id": "WR16",
+      "domain": "notation",
+      "input": {
+        "meter": [
+          5,
+          8
+        ],
+        "grouping": [
+          3,
+          2
+        ]
+      },
+      "expected": {
+        "groupStarts": [
+          0,
+          3
+        ],
+        "unit": "eighth"
+      }
+    },
+    {
+      "id": "WR17",
+      "domain": "notation",
+      "input": {
+        "from": [
+          3,
+          4
+        ],
+        "to": [
+          6,
+          8
+        ],
+        "quarterBpm": 120,
+        "preserveNoteDuration": true
+      },
+      "expected": {
+        "eighthSeconds": 0.25
+      }
+    },
+    {
+      "id": "WR18",
+      "domain": "notation",
+      "input": {
+        "meter": [
+          6,
+          8
+        ],
+        "noGroupingOrContext": true
+      },
+      "expected": {
+        "uniqueGrouping": false
+      }
     }
   ]
 }

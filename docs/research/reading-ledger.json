@@ -1316,6 +1316,34 @@
         "WES-SYNCOPATION-TRIPLE"
       ],
       "remaining": "Images and textual instructions inspected; not every musical example individually transcribed. Next continuous range 61–70."
+    },
+    {
+      "sourceId": "WES-1986-UPLOAD",
+      "ranges": [
+        [
+          61,
+          80
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "WES-SYNC-ACCENT",
+        "WES-SYNC-SPELL",
+        "WES-OFFBEAT",
+        "WES-METER-CHANGE",
+        "WES-ADDITIVE-METER",
+        "WES-METER-AMBIGUITY",
+        "WES-COMPLEMENTARY-RHYTHM",
+        "WES-POLYMETER-PHASE",
+        "WES-UNMETERED",
+        "WES-TEMPO-WORDS",
+        "WES-TEMPO-CHANGE",
+        "WES-RUBATO",
+        "WES-CONDUCT",
+        "WES-DYNAMIC-LEVELS",
+        "WES-DYNAMIC-CHANGE"
+      ],
+      "remaining": "Text and available figures reviewed. No complete independent solution of every exercise; examples not transcribed. Next sequential range 81–90."
     }
   ]
 }
