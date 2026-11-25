@@ -12924,5 +12924,5331 @@
       140,
       143
     ]
+  },
+  "modelePentatonikiPoltonowej": [
+    {
+      "id": 1,
+      "odstepy": [
+        1,
+        4,
+        2,
+        1
+      ],
+      "poltony": [
+        0,
+        1,
+        5,
+        7,
+        8
+      ],
+      "odstepDoOktawy": 4,
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§48, s.140, przykł.284"
+        }
+      ],
+      "pochodzenie": "Odczyt oznaczeń odległości z obrazu; odstęp do oktawy obliczony.",
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": 2,
+      "odstepy": [
+        2,
+        4,
+        1,
+        2
+      ],
+      "poltony": [
+        0,
+        2,
+        6,
+        7,
+        9
+      ],
+      "odstepDoOktawy": 3,
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§48, s.140, przykł.284"
+        }
+      ],
+      "pochodzenie": "Odczyt oznaczeń odległości z obrazu; odstęp do oktawy obliczony.",
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    }
+  ],
+  "rozwiazaniaCharakterystyczneMoll": {
+    "opis": "Osiem wybranych modeli z przykładu 207, przeliczonych na 15 tonacji. Indeksy w modelach liczone od zera, powyżej 6 oznaczają następne oktawy. W ćwiczeniu konieczne są kontekst tonalny i określony ruch głosów. Nie jest to pełny zbiór dopuszczalnych rozwiązań.",
+    "modele": [
+      {
+        "id": "II-VI",
+        "wejscie": [
+          1,
+          5
+        ],
+        "wyjscie": [
+          2,
+          4
+        ],
+        "interwalWejsciowy": {
+          "numer": 5,
+          "poltony": 6
+        },
+        "interwalWyjsciowy": {
+          "numer": 3,
+          "poltony": 4
+        },
+        "ruch": "przeciwny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "VI-II",
+        "wejscie": [
+          5,
+          8
+        ],
+        "wyjscie": [
+          4,
+          9
+        ],
+        "interwalWejsciowy": {
+          "numer": 4,
+          "poltony": 6
+        },
+        "interwalWyjsciowy": {
+          "numer": 6,
+          "poltony": 8
+        },
+        "ruch": "przeciwny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "III-VII",
+        "wejscie": [
+          2,
+          6
+        ],
+        "wyjscie": [
+          2,
+          7
+        ],
+        "interwalWejsciowy": {
+          "numer": 5,
+          "poltony": 8
+        },
+        "interwalWyjsciowy": {
+          "numer": 6,
+          "poltony": 9
+        },
+        "ruch": "boczny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "VII-III",
+        "wejscie": [
+          6,
+          9
+        ],
+        "wyjscie": [
+          7,
+          9
+        ],
+        "interwalWejsciowy": {
+          "numer": 4,
+          "poltony": 4
+        },
+        "interwalWyjsciowy": {
+          "numer": 3,
+          "poltony": 3
+        },
+        "ruch": "boczny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "IV-VII",
+        "wejscie": [
+          3,
+          6
+        ],
+        "wyjscie": [
+          2,
+          7
+        ],
+        "interwalWejsciowy": {
+          "numer": 4,
+          "poltony": 6
+        },
+        "interwalWyjsciowy": {
+          "numer": 6,
+          "poltony": 9
+        },
+        "ruch": "przeciwny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "VII-IV",
+        "wejscie": [
+          6,
+          10
+        ],
+        "wyjscie": [
+          7,
+          9
+        ],
+        "interwalWejsciowy": {
+          "numer": 5,
+          "poltony": 6
+        },
+        "interwalWyjsciowy": {
+          "numer": 3,
+          "poltony": 3
+        },
+        "ruch": "przeciwny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "VI-VII",
+        "wejscie": [
+          5,
+          6
+        ],
+        "wyjscie": [
+          4,
+          7
+        ],
+        "interwalWejsciowy": {
+          "numer": 2,
+          "poltony": 3
+        },
+        "interwalWyjsciowy": {
+          "numer": 4,
+          "poltony": 5
+        },
+        "ruch": "przeciwny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "id": "VII-VI",
+        "wejscie": [
+          6,
+          12
+        ],
+        "wyjscie": [
+          7,
+          11
+        ],
+        "interwalWejsciowy": {
+          "numer": 7,
+          "poltony": 9
+        },
+        "interwalWyjsciowy": {
+          "numer": 5,
+          "poltony": 7
+        },
+        "ruch": "przeciwny",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      }
+    ],
+    "przypadki": [
+      {
+        "tonacja": "as-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fes",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fes",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ces",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ces",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ces",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "des",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ces",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fes",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "as-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fes",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ges",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ges",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ges",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ges",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ces",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "es-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ces",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "des",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "des",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "des",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "des",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ges",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "b-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ges",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "des",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "f-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "des",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "as",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "c-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "as",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "es",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "g-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "es",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "b",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "d-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "b",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "f",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "a-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "f",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "c",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "e-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "c",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "g",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "h-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "g",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "d",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "fis-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "d",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "a",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "cis-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "a",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "e",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "gis-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "e",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "eis",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gis",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "gis",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "h",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "ais",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "dis-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "h",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "II-VI",
+        "wejscie": [
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "his",
+            "poltonyOdToniki": 2
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 8
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 7
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "VI-II",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 2,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "his",
+            "poltonyOdToniki": 14
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "III-VII",
+        "wejscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "VII-III",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "boczny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "IV-VII",
+        "wejscie": [
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "dis",
+            "poltonyOdToniki": 5
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "cis",
+            "poltonyOdToniki": 3
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "VII-IV",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 4,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "dis",
+            "poltonyOdToniki": 17
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 3,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "cis",
+            "poltonyOdToniki": 15
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "VI-VII",
+        "wejscie": [
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "fis",
+            "poltonyOdToniki": 8
+          },
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gisis",
+            "poltonyOdToniki": 11
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "eis",
+            "poltonyOdToniki": 7
+          },
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 12
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      },
+      {
+        "tonacja": "ais-moll",
+        "model": "VII-VI",
+        "wejscie": [
+          {
+            "stopien": 7,
+            "przeniesienieOktawowe": 0,
+            "nazwa": "gisis",
+            "poltonyOdToniki": 11
+          },
+          {
+            "stopien": 6,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "fis",
+            "poltonyOdToniki": 20
+          }
+        ],
+        "wyjscie": [
+          {
+            "stopien": 1,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "ais",
+            "poltonyOdToniki": 12
+          },
+          {
+            "stopien": 5,
+            "przeniesienieOktawowe": 1,
+            "nazwa": "eis",
+            "poltonyOdToniki": 19
+          }
+        ],
+        "ruch": "przeciwny",
+        "pochodzenie": "Autorskie przeliczenie relacji stopni z przykładu 207, nie kopia utworu.",
+        "odwolania": [
+          {
+            "sourceId": "WES-1986-UPLOAD",
+            "locator": "§38, s.108, przykł.207"
+          }
+        ],
+        "status": "do-recenzji",
+        "dopuszczoneDoPublikacji": false
+      }
+    ],
+    "dopuszczoneDoPublikacji": false
   }
 }

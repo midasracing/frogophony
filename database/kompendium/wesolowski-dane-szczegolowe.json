@@ -4597,6 +4597,27 @@
       ],
       "status": "projekt-do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "minor-charakterystyczne-przyklad207",
+      "haslo": "ruch-glosow-dysonans",
+      "polecenie": "Rozwiąż interwał charakterystyczny w harmonicznym moll według wskazanego modelu Wesołowskiego.",
+      "parametry": [
+        "tonacja",
+        "interwał wejściowy",
+        "model ruchu",
+        "stopnie",
+        "oktawy"
+      ],
+      "zasadyOceny": "Przy zadaniu o konkretnym modelu 207 sprawdzić obie wysokości i ich pisownię oraz kierunek ruchu. W zadaniu otwartym nie odrzucać innych rozwiązań tylko dlatego, że nie znalazły się w ośmiu modelach.",
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.108; zadania s.110"
+        }
+      ],
+      "status": "projekt-do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ],
   "audyt": [
@@ -4626,9 +4647,9 @@
     },
     {
       "strona": 98,
-      "status": "niejednoznaczna-kolumna-druku",
-      "opis": "W wierszach tercji wielkiej i zwiększonej kolumna nazw nut jest trudna do jednoznacznego odczytania; nie kopiować odczytu OCR c–c i c–cis. Wartości wyprowadzone z jakości interwałów.",
-      "dowod": "obraz PDF 98"
+      "status": "potwierdzona-niescislosc-druku",
+      "opis": "W oryginalnej kolumnie nazw dźwięków wiersz 8 podaje c–c dla tercji wielkiej, a wiersz 9 c–cis dla tercji zwiększonej. Wymiar i nazwa interwału wskazują inne wartości. Nie przyjęto błędnych przykładów literowych; 4 i 5 półtonów wyprowadzono z jakości.",
+      "dowod": "powiększony obraz tabeli PDF 98"
     },
     {
       "strona": 99,

@@ -858,7 +858,7 @@
       "typ": "tresc",
       "rozdzial": 3,
       "przegladMiniatury": true,
-      "kolacjaSzczegolowa": false,
+      "kolacjaSzczegolowa": true,
       "uwaga": null
     },
     {
@@ -1458,7 +1458,7 @@
       "typ": "tresc",
       "rozdzial": 9,
       "przegladMiniatury": true,
-      "kolacjaSzczegolowa": false,
+      "kolacjaSzczegolowa": true,
       "uwaga": null
     },
     {
@@ -1474,7 +1474,7 @@
       "typ": "tresc",
       "rozdzial": 9,
       "przegladMiniatury": true,
-      "kolacjaSzczegolowa": false,
+      "kolacjaSzczegolowa": true,
       "uwaga": null
     },
     {
@@ -1682,7 +1682,7 @@
       "typ": "tresc",
       "rozdzial": 10,
       "przegladMiniatury": true,
-      "kolacjaSzczegolowa": false,
+      "kolacjaSzczegolowa": true,
       "uwaga": null
     },
     {
@@ -1730,7 +1730,7 @@
       "typ": "tresc",
       "rozdzial": 11,
       "przegladMiniatury": true,
-      "kolacjaSzczegolowa": false,
+      "kolacjaSzczegolowa": true,
       "uwaga": null
     },
     {
@@ -1754,7 +1754,7 @@
       "typ": "tresc",
       "rozdzial": 11,
       "przegladMiniatury": true,
-      "kolacjaSzczegolowa": false,
+      "kolacjaSzczegolowa": true,
       "uwaga": null
     },
     {
@@ -2060,7 +2060,7 @@
     {
       "temat": "Wzorce pentatoniki półtonowej",
       "strony": "140",
-      "status": "do-kolacji-nut"
+      "status": "wzorce-odstepow-odczytane-przyklady-repertuarowe-otwarte"
     },
     {
       "temat": "Niezależna recenzja merytoryczna i testy zapisu oraz dźwięku",
@@ -2099,9 +2099,9 @@
       },
       {
         "strona": 98,
-        "status": "niejednoznaczna-kolumna-druku",
-        "opis": "W wierszach tercji wielkiej i zwiększonej kolumna nazw nut jest trudna do jednoznacznego odczytania; nie kopiować odczytu OCR c–c i c–cis. Wartości wyprowadzone z jakości interwałów.",
-        "dowod": "obraz PDF 98"
+        "status": "potwierdzona-niescislosc-druku",
+        "opis": "W oryginalnej kolumnie nazw dźwięków wiersz 8 podaje c–c dla tercji wielkiej, a wiersz 9 c–cis dla tercji zwiększonej. Wymiar i nazwa interwału wskazują inne wartości. Nie przyjęto błędnych przykładów literowych; 4 i 5 półtonów wyprowadzono z jakości.",
+        "dowod": "powiększony obraz tabeli PDF 98"
       },
       {
         "strona": 99,
@@ -2115,6 +2115,9 @@
         "opis": "W wykazie stosunku sekundowego pojawia się G–D; ten przykład nie odpowiada definicji sekundy. Zachowano definicję i nie importowano tego przykładu.",
         "dowod": "tekst i obraz PDF 134"
       }
-    ]
+    ],
+    "modelePentatoniki": 2,
+    "modeleRozwiazanMoll": 8,
+    "przypadkiRozwiazanMoll": 120
   }
 }

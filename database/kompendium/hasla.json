@@ -3907,10 +3907,18 @@
         "kwartola",
         "kwintola",
         "sekstola",
-        "septola"
+        "septola",
+        "oktola",
+        "nowemola",
+        "decymola",
+        "undecymola",
+        "duodecymola",
+        "tercdecymola",
+        "kwartdecymola",
+        "kwintdecymola"
       ],
       "definicja": "Grupa niemiarowa zajmuje czas grupy regularnej, którą zastępuje.",
-      "omowienie": "W podziale dwójkowym autor omawia 3:2, 5–7:4, 9–15:8 oraz 17–31:16. Dla wartości trójdzielnej: 2:3, 4:3, 5:3, 7–11:6 i 13–23:12. Liczba nut rzeczywistych i liczba zastąpionych wartości tworzą proporcję, która określa mnożnik czasu.",
+      "omowienie": "W podziale dwójkowym autor omawia 3:2, 5–7:4, 9–15:8 oraz 17–31:16. Dla wartości trójdzielnej: 2:3, 4:3, 5:3, 7–11:6 i 13–23:12. Liczba nut rzeczywistych i liczba zastąpionych wartości tworzą proporcję, która określa mnożnik czasu. Nazwy dla 8–15 jednostek obejmują oktolę (w podziale trójkowym), nowemolę, decymolę, undecymolę, duodecymolę, tercdecymolę, kwartdecymolę i kwintdecymolę.",
       "przyklady": [
         "Model autorski: Pięć szesnastek w grupie 5:4 zajmuje czas jednej regularnej ćwierćnuty."
       ],
@@ -4454,12 +4462,12 @@
         "ditoniczna"
       ],
       "definicja": "Wesołowski odróżnia pentatonikę zawierającą półtony od bezpółtonowej.",
-      "omowienie": "W opisie wymienia tercję wielką, odstępy całotonowe oraz jedną lub dwie sekundy małe; konkretny układ pokazuje na s.140 w zapisie nutowym. Zachowano rozróżnienie typów bez ekstrapolacji wszystkich możliwych skal.",
+      "omowienie": "Przykład 284 pokazuje dwa pięciodźwiękowe uporządkowania. Kolejne odstępy w pierwszym wynoszą 1, 4, 2 i 1 półtonów, w drugim 2, 4, 1 i 2 półtony. W obu przypadkach zapisanych pięć dźwięków nie obejmuje całej oktawy; uzupełnienie do oktawy jest wyprowadzeniem, a nie dodatkową nutą z przykładu.",
       "przyklady": [
-        "Model autorski: Rozpoznawanie kategorii wymaga sprawdzenia obecności półtonów i liczby stopni."
+        "Autorska transpozycja pierwszego modelu na c: c–des–f–g–as. Drugi na c: c–d–fis–g–a. Są to modele odstępów, a nie transkrypcje pieśni."
       ],
       "ograniczenia": [
-        "Dokładne wzorce nutowe z s.140 wymagają osobnej transkrypcji i recenzji; nie generować ich na podstawie samej nazwy."
+        "Nie utożsamiać dwóch pokazanych modeli z pełną systematyką pentatonik. Nie przypisywać najniższemu dźwiękowi funkcji centralnej bez kontekstu. Przykłady repertuarowe 285 nie zostały przepisane."
       ],
       "podstawa": [
         "WES-PENTATONIC"

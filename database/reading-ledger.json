@@ -1329,7 +1329,7 @@
           "liczbaTerminow": 186,
           "liczbaInterwalow": 27,
           "liczbaRelacjiStopni": 42,
-          "liczbaProjektowZadan": 42,
+          "liczbaProjektowZadan": 43,
           "uwagi": "Dalsza kolacja nut, pełnych tabel skal, ćwiczeń, indeksu i innych rozdziałów pozostaje otwarta. Nie uznawać projektów zadań za wykonane testy silnika.",
           "skaleITonacje": {
             "plik": "database/kompendium/wesolowski-skale-i-tonacje.json",
@@ -1404,12 +1404,23 @@
           "stronyMiniatur": 179,
           "kolacjaSzczegolowa": [
             2,
+            31,
             98,
             99,
+            106,
+            108,
+            134,
+            140,
+            143,
             169
           ],
           "status": "pokrycie-tematyczne-sprawdzone",
-          "uwaga": "Wszystkie 58 paragrafów mają mapowanie; nie oznacza pełnej lektury każdego akapitu ani kolacji nut. Strona 2 pusta; s.169 błąd druku potwierdzony."
+          "uwaga": "Wszystkie 58 paragrafów mają mapowanie; nie oznacza pełnej lektury każdego akapitu ani kolacji nut. Strona 2 pusta; s.169 błąd druku potwierdzony.",
+          "daneUzupelnione": {
+            "modelePentatoniki": 2,
+            "modeleRozwiazanMoll": 8,
+            "przypadkiRozwiazanMoll": 120
+          }
         }
       }
     },
