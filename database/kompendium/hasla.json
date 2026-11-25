@@ -537,6 +537,2273 @@
       ],
       "status": "do-recenzji",
       "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "material-dzwiekowy",
+      "termin": "Materiał dźwiękowy i oktawa",
+      "aliasy": [
+        "szereg podstawowy",
+        "klawiatura"
+      ],
+      "definicja": "W szkolnym modelu autora materiał dźwiękowy jest zasobem dźwięków wykorzystywanych w muzyce, uporządkowanym w oktawy.",
+      "omowienie": "W obrębie oktawy fortepianowej jest siedem białych i pięć czarnych klawiszy. Powtórzenie nazwy podstawowej w kolejnej oktawie nie oznacza tej samej wysokości.",
+      "przyklady": [
+        "Autorski przykład: Od c do c1 w stroju równomiernym występuje dwanaście kroków półtonowych."
+      ],
+      "ograniczenia": [
+        "Nie uogólniać podziału na wszystkie systemy strojenia."
+      ],
+      "podstawa": [
+        "WES-OCTAVE-RATIO",
+        "SOLM-FIXED"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.15–17"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "nazwy-dzwiekow",
+      "termin": "Nazwy literowe i sylabowe",
+      "aliasy": [
+        "solmizacja",
+        "do re mi"
+      ],
+      "definicja": "W solmizacji stałej c, d, e, f, g, a, h odpowiadają do, re, mi, fa, sol, la, si.",
+      "omowienie": "Nazwy powracają w kolejnych oktawach. Wesołowski omawia ich historyczne pochodzenie, którego nie używamy do walidacji nut.",
+      "przyklady": [
+        "Autorski przykład: f = fa, h = si; c i c1 mają tę samą nazwę podstawową."
+      ],
+      "ograniczenia": [
+        "Nie przenosić tej reguły na solmizację względną."
+      ],
+      "podstawa": [
+        "SOLM-FIXED"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4, s.16–17"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "nuta-pieciolinia",
+      "termin": "Nuta i pięciolinia",
+      "aliasy": [
+        "linie",
+        "pola",
+        "notacja"
+      ],
+      "definicja": "W tradycyjnym zapisie nuta określa wysokość i względną wartość czasową dźwięku.",
+      "omowienie": "Pięciolinia ma pięć linii i cztery pola. Kolejne położenia odpowiadają stopniom diatonicznym. Wysokość zależy od klucza i dodatkowych znaków, czas od wartości nuty. Kilka pięciolinii można łączyć klamrą (akoladą).",
+      "przyklady": [
+        "Autorski przykład: Typowy zapis fortepianowy wykorzystuje dwie pięciolinie."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać liczby pięciolinii z liczbą wykonawców. Sama pozycja bez klucza nie określa wysokości."
+      ],
+      "podstawa": [
+        "STAFF",
+        "WES-CLEF-ANCHOR",
+        "WES-DURATION-BINARY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4–5, s.17–18"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "linie-dodane",
+      "termin": "Linie dodane",
+      "aliasy": [
+        "górne",
+        "dolne"
+      ],
+      "definicja": "Linie dodane rozszerzają lokalnie zakres zapisu poza pięciolinią.",
+      "omowienie": "Linie zasadnicze liczy się od dołu. Górne dodane numeruje się od pięciolinii w górę, dolne od pięciolinii w dół. Odróżnia się położenie na linii od położenia nad nią albo pod nią.",
+      "przyklady": [
+        "Autorski przykład: W kluczu wiolinowym c1 leży na pierwszej dodanej dolnej."
+      ],
+      "ograniczenia": [
+        "Nie numerować od najniższej widocznej linii dodanej."
+      ],
+      "podstawa": [
+        "WES-LEDGER-LINES",
+        "CLEF-G"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4–5, s.17–18"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "klucze-muzyczne",
+      "termin": "Klucze muzyczne G, C i F",
+      "aliasy": [
+        "wiolinowy",
+        "basowy",
+        "altowy",
+        "tenorowy"
+      ],
+      "definicja": "Klucz ustala pozycję dźwięku wzorcowego, względem którego odczytuje się pozostałe nuty.",
+      "omowienie": "G wskazuje g1, C wskazuje c1, F wskazuje f oktawy małej. Wiolinowy to G na drugiej linii, altowy C na trzeciej, tenorowy C na czwartej, basowy F na czwartej. Punkt odniesienia wskazuje odpowiednio zaokrąglenie G, środek C lub dwie kropki F.",
+      "przyklady": [
+        "Autorski przykład: c1 leży na trzeciej linii w kluczu altowym, na czwartej w tenorowym."
+      ],
+      "ograniczenia": [
+        "Klucz tenorowy C nie jest transponującym kluczem wiolinowym partii tenoru."
+      ],
+      "podstawa": [
+        "WES-CLEF-ANCHOR",
+        "CLEF-G",
+        "CLEF-F",
+        "WES-C-CLEFS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.18–19"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "klucze-dawne",
+      "termin": "Historyczne klucze",
+      "aliasy": [
+        "dyszkantowy",
+        "sopranowy",
+        "mezzosopranowy",
+        "barytonowy",
+        "subbasowy"
+      ],
+      "definicja": "Klucze jednej rodziny mogą umieszczać dźwięk wzorcowy na różnych liniach.",
+      "omowienie": "G na pierwszej linii: dyszkantowy (starofrancuski); C na pierwszej: sopranowy, na drugiej: mezzosopranowy; F na trzeciej: barytonowy, na piątej: subbasowy. Takie rozmieszczenie pozwalało ograniczać linie dodane.",
+      "przyklady": [
+        "Autorski przykład: c1 na pierwszej linii w kluczu sopranowym."
+      ],
+      "ograniczenia": [
+        "Opis częstości użycia pochodzi z historycznego wydania, nie jest zakazem stosowania tych kluczy."
+      ],
+      "podstawa": [
+        "WES-HISTORICAL-CLEFS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.18–20"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zapis-tenoru",
+      "termin": "Zapis tenoru i zmiana klucza",
+      "aliasy": [
+        "zapis chóralny",
+        "zapowiedź klucza"
+      ],
+      "definicja": "W odpowiedniej konwencji partia tenoru w kluczu wiolinowym brzmi oktawę niżej od zapisu.",
+      "omowienie": "Autor opisuje także wspólny zapis tenoru i basu w kluczu basowym. Zmiana klucza obowiązuje od miejsca pojawienia się nowego znaku; zapowiedź na końcu systemu informuje o następnym kluczu.",
+      "przyklady": [
+        "Autorski przykład: Zapisane g1 tenoru w konwencji oktawowej brzmi jako g małe."
+      ],
+      "ograniczenia": [
+        "Nie obniżać każdego klucza G; historyczne symbole wymagają kontroli graficznej."
+      ],
+      "podstawa": [
+        "WES-TENOR-OCTAVE",
+        "WES-CLEF-CHANGE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5, s.20–21"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "oktawy-nazwy",
+      "termin": "Polskie nazwy i zapis oktaw",
+      "aliasy": [
+        "subkontra",
+        "kontra",
+        "wielka",
+        "mała",
+        "razkreślna",
+        "dwukreślna"
+      ],
+      "definicja": "Oktawy mają odrębne nazwy i oznaczenia literowe.",
+      "omowienie": "Subkontra: wielka litera z dolnym indeksem 2 lub podwójnie podkreślona; kontra: wielka litera z dolnym indeksem 1 lub pojedynczo podkreślona; wielka: wielka litera; mała: mała litera bez indeksu lub z górnym zerem. Następne oktawy mają kolejne górne indeksy 1, 2, 3 itd.",
+      "przyklady": [
+        "Autorski przykład: C, c, c1, c2 oznaczają kolejne oktawy: wielką, małą, razkreślną i dwukreślną."
+      ],
+      "ograniczenia": [
+        "Nie polegać na zniekształconych indeksach OCR. Zakres klawiatury nie definiuje granic systemu."
+      ],
+      "podstawa": [
+        "WES-OCTAVE-NAMES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§6, s.21"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przenosnik-oktawowy",
+      "termin": "Przenośnik oktawowy",
+      "aliasy": [
+        "8 nad nutami",
+        "8 pod nutami"
+      ],
+      "definicja": "Przenośnik oktawowy przesuwa wykonanie oznaczonych nut o oktawę względem zwykłego odczytu.",
+      "omowienie": "Ósemka z linią przerywaną nad pięciolinią oznacza wykonanie wyżej, pod pięciolinią niżej. Zakres obejmuje wskazany odcinek danej pięciolinii, co ogranicza liczbę linii dodanych.",
+      "przyklady": [
+        "Autorski przykład: Zapisane c2 z górnym przenośnikiem brzmi jako c3."
+      ],
+      "ograniczenia": [
+        "Nie rozciągać działania na sąsiednią pięciolinię bez oznaczenia."
+      ],
+      "podstawa": [
+        "WES-OTTAVA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§6, s.21–22"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rytm-muzyczny",
+      "termin": "Rytm muzyczny",
+      "aliasy": [
+        "organizacja czasu"
+      ],
+      "definicja": "Rytm organizuje następstwo zdarzeń dźwiękowych w czasie i ich grupowanie.",
+      "omowienie": "Zmiana wartości czasowych przy zachowaniu wysokości może zmienić charakter przebiegu. Wesołowski podkreśla znaczenie zróżnicowania rytmicznego.",
+      "przyklady": [
+        "Autorski przykład: Cztery ćwierćnuty oraz półnuta, dwie ósemki i ćwierćnuta mają tę samą sumę czasu, lecz inny rytm."
+      ],
+      "ograniczenia": [
+        "Nie przyjmować wartościującej wypowiedzi autora o równych wartościach jako zakazu ich używania."
+      ],
+      "podstawa": [
+        "WES-DURATION-BINARY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§7, s.23"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "wartosci-rytmiczne",
+      "termin": "Wartości rytmiczne i budowa nut",
+      "aliasy": [
+        "cała nuta",
+        "półnuta",
+        "ćwierćnuta",
+        "ósemka",
+        "szesnastka",
+        "chorągiewka",
+        "wiązanie"
+      ],
+      "definicja": "W regularnym podziale dwójkowym kolejna wartość trwa połowę poprzedniej.",
+      "omowienie": "Od całej nuty do sześćdziesięcioczwórki wartości względne wynoszą 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64. Cała nuta nie ma laski; półnuta ma pustą główkę i laskę; ćwierćnuta pełną główkę i laskę. Ósemki i krótsze wartości mają odpowiednio od jednego do czterech wiązań lub chorągiewek. Laska w górę po prawej, w dół po lewej. Autor wspomina też dawną brevis równą dwóm całym nutom.",
+      "przyklady": [
+        "Autorski przykład: Półnuta odpowiada czterem ósemkom."
+      ],
+      "ograniczenia": [
+        "Nie określać sekund bez tempa ani proporcji grupy niemiarowej na podstawie samych wiązań."
+      ],
+      "podstawa": [
+        "WES-DURATION-BINARY",
+        "WES-FLAGS-BEAMS",
+        "WES-STEM-SIDE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.23–25"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pauzy",
+      "termin": "Pauzy i przerwy całotaktowe",
+      "aliasy": [
+        "pauza wielotaktowa",
+        "pauza generalna"
+      ],
+      "definicja": "Pauza oznacza czas przerwy w danej partii.",
+      "omowienie": "Wartości odpowiadają nutom. Znak pauzy całonutowej może oznaczać cały takt niezależnie od metrum. Zwykłe położenie całonutowej jest pod czwartą linią, półnutowej nad trzecią. Pauzy całotaktowe umieszcza się zwykle w środku taktu; wielotaktowa określa liczbę taktów. P.G. oznacza pauzę generalną, której długość zależy od wykonania.",
+      "przyklady": [
+        "Autorski przykład: Pauza całotaktowa w 3/4 trwa trzy ćwierćnuty."
+      ],
+      "ograniczenia": [
+        "Nie mylić pauzy całotaktowej z dokładną wartością całej nuty ani pauzy partii z ciszą całego zespołu."
+      ],
+      "podstawa": [
+        "WES-REST-MEASURE",
+        "WES-MULTIREST"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8, s.25–26"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "kropki-przedluzajace",
+      "termin": "Kropki przedłużające wartości",
+      "aliasy": [
+        "nuta z kropką",
+        "pauza z kropką"
+      ],
+      "definicja": "Pierwsza kropka dodaje połowę wartości pierwotnej, druga jedną czwartą, trzecia jedną ósmą.",
+      "omowienie": "Mnożniki dla jednej, dwóch i trzech kropek to 3/2, 7/4 i 15/8. Zasada dotyczy nut i pauz. Kropkę umieszcza się po prawej od główki, w zapisie jednogłosowym nuty na linii zwykle nieco wyżej; wielogłos wymaga uwzględnienia pozycji głosów.",
+      "przyklady": [
+        "Autorski przykład: Ćwierćnuta z dwiema kropkami trwa siedem szesnastek."
+      ],
+      "ograniczenia": [
+        "Nie mylić z kropką artykulacyjną."
+      ],
+      "podstawa": [
+        "WES-DOT-SERIES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.26–28"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "luk-laczacy",
+      "termin": "Łuk łączący (przetrzymujący)",
+      "aliasy": [
+        "przedłużenie nuty"
+      ],
+      "definicja": "Łuk łączący nuty tej samej wysokości sumuje ich wartości w jednym brzmieniu.",
+      "omowienie": "Umożliwia zapis przedłużenia także przez kreskę taktową. W dwugłosie na jednej pięciolinii autor opisuje łuki górnego głosu nad nutami, dolnego pod nutami.",
+      "przyklady": [
+        "Autorski przykład: Ćwierćnuta i połączona z nią ósemka tej samej wysokości trwają trzy ósemki bez ponownego ataku."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać z łukiem frazowym ani legato."
+      ],
+      "podstawa": [
+        "WES-PHRASE-SLUR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.28"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "fermata",
+      "termin": "Fermata",
+      "aliasy": [
+        "lunga",
+        "corta",
+        "breve"
+      ],
+      "definicja": "Fermata pozwala przedłużyć nutę lub pauzę bez ustalania ścisłego mnożnika wartości.",
+      "omowienie": "Czas przedłużenia zależy od interpretacji; lunga oznacza dłuższą, corta lub breve krótszą. Fermata nad kreską taktową może wyznaczać przerwę między taktami.",
+      "przyklady": [
+        "Autorski przykład: Fermata nad półnutą nie oznacza automatycznie podwojenia jej czasu."
+      ],
+      "ograniczenia": [
+        "Nie wymagać jednego czasu w sekundach bez dodatkowego modelu wykonania."
+      ],
+      "podstawa": [
+        "WES-FERMATA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9, s.28–29"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "grupy-niemiarowe",
+      "termin": "Regularny i nieregularny podział wartości",
+      "aliasy": [
+        "triola",
+        "duola",
+        "kwintola",
+        "sekstola",
+        "septola"
+      ],
+      "definicja": "Grupa niemiarowa zastępuje określony podział regularny, zachowując czas całego odcinka.",
+      "omowienie": "Triola w modelu dwójkowym zajmuje czas dwóch równoważnych graficznie nut; pięć, sześć lub siedem może zastąpić cztery. Wartość trójdzielną można podzielić na dwie lub cztery zamiast trzech. W grupie mogą występować wartości z kropkami.",
+      "przyklady": [
+        "Autorski przykład: Triola ósemkowa trwa ćwierćnutę, duola ósemkowa ćwierćnutę z kropką w omawianych modelach."
+      ],
+      "ograniczenia": [
+        "Nie wyznaczać proporcji wyłącznie z liczby nad grupą. Trzy zwykłe ósemki w wartości trójdzielnej nie są triolą."
+      ],
+      "podstawa": [
+        "WES-TUPLET",
+        "WES-DUPLET",
+        "WES-TUPLET-RATIO",
+        "WES-TUPLET-REST"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.29–31"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rownoczesne-podzialy",
+      "termin": "Równoczesne podziały rytmiczne",
+      "aliasy": [
+        "trójki z dwójkami",
+        "wspólna wielokrotność"
+      ],
+      "definicja": "Równoległe równe podziały wspólnego odcinka można umieścić na siatce najmniejszej wspólnej wielokrotności ich liczebności.",
+      "omowienie": "Dla 2:3 siatka ma sześć jednostek; przy liczeniu od zera początki dwójki to 0, 3, trójki 0, 2, 4. Dla 3:4 siatka ma dwanaście jednostek, początki 0, 4, 8 oraz 0, 3, 6, 9. Autor rozróżnia matematyczną analizę zapisu od słuchowego wykonania.",
+      "przyklady": [
+        "Autorski przykład: Dla 5:3 siatka ma 15 jednostek; początki 0, 3, 6, 9, 12 i 0, 5, 10."
+      ],
+      "ograniczenia": [
+        "Nie kopiować niespójnej numeracji przykładu 21:4 ze s.32. Historyczne konwencje wykonania z s.32–33 wymagają dalszego sprawdzenia."
+      ],
+      "podstawa": [
+        "WES-POLYRHYTHM-GRID",
+        "WES-TUPLET-RATIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10, s.31–33"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "metrum-i-takt",
+      "termin": "Metrum i takt",
+      "aliasy": [
+        "metrum",
+        "akcent metryczny",
+        "kreska taktowa",
+        "oznaczenie taktowe"
+      ],
+      "definicja": "Metrum porządkuje przebieg rytmiczny przez powtarzające się akcenty; takt jest odcinkiem o określonej sumie wartości.",
+      "omowienie": "Licznik wskazuje liczbę jednostek, mianownik ich wartość. Oznaczenie umieszcza się po kluczu i znakach przykluczowych. W prostym takcie dwu- i trzyczęściowym pierwsza część jest mocna, pozostałe słabe. Alla breve oznacza 2/2.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W 3/4 pełny takt mieści trzy ćwierćnuty; nie oznacza to konieczności trzech osobnych dźwięków."
+      ],
+      "ograniczenia": [
+        "Przedtakt i szczególne konwencje wymagają osobnych reguł; akcent metryczny nie oznacza obowiązkowo mocnego uderzenia."
+      ],
+      "podstawa": [
+        "WES-MEASURE-SUM",
+        "WES-METRIC-ACCENT",
+        "WES-ALLA-BREVE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§11, s.35–37"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "klasyfikacja-taktow",
+      "termin": "Klasyfikacja taktów według Wesołowskiego",
+      "aliasy": [
+        "takt prosty",
+        "takt złożony",
+        "takt regularny",
+        "takt nieregularny"
+      ],
+      "definicja": "Autor stosuje tradycyjną klasyfikację taktów, w której takty proste mają zwykle dwie lub trzy części, a złożone składają się z grup tych części.",
+      "omowienie": "W modelu złożonym regularnym grupy są jednego rodzaju; pierwsza grupa ma najsilniejszy akcent. Podział na proste, złożone, dwójkowe, trójkowe i nieregularne zależy od przyjętej klasyfikacji. We wstępie autor wyraźnie odróżnia swój model dydaktyczny od praktyki.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: 6/8 można w typowym modelu pogrupować 3+3, 4/4 jako 2+2."
+      ],
+      "ograniczenia": [
+        "Nie mieszać terminologii Wesołowskiego z innymi klasyfikacjami bez wskazania profilu."
+      ],
+      "podstawa": [
+        "WES-METER-HIERARCHY",
+        "WES-METER-AMBIGUITY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "przedmowa s.8; §11,15, s.35–37,48–50"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rodzaje-rytmu",
+      "termin": "Rytm głównoczęściowy, rozdrobniony i rozszerzony",
+      "aliasy": [
+        "jednostka miarowa",
+        "rozdrabnianie",
+        "rozszerzanie"
+      ],
+      "definicja": "Rodzaje rytmu autor wyróżnia według relacji wartości do jednostki miarowej taktu.",
+      "omowienie": "Głównoczęściowy wykorzystuje wartości równe jednostce; rozdrobniony mniejsze; rozszerzony większe. Wartości mogą współistnieć w jednym przebiegu.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W takcie ćwierćnutowym ćwierćnuta jest wartością głównoczęściową, ósemka rozdrobnioną, półnuta rozszerzoną."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać nazwy rytmu z niezależnym gatunkiem muzyki."
+      ],
+      "podstawa": [
+        "WES-RHYTHM-TYPES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12, s.37–40"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "grupowanie-nut",
+      "termin": "Grupowanie wartości rytmicznych",
+      "aliasy": [
+        "wiązanie",
+        "ortografia muzyczna",
+        "grupy metryczne"
+      ],
+      "definicja": "Poprawny zapis rytmu powinien uwidocznić podział metryczny, a nie tylko zachować sumę czasów.",
+      "omowienie": "W rytmie rozdrobnionym nuty należące do jednostki powinny tworzyć czytelną grupę. W niektórych metrach można pozostawić wspólne wiązanie główne, rozdzielając dalsze wiązania. Dłuższe wartości i pauzy rozpatruje się z uwzględnieniem miejsca akcentu.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W 2/4 cztery ósemki można pokazać jako dwie grupy po dwie, odpowiadające ćwierćnutom."
+      ],
+      "ograniczenia": [
+        "Nie wyznaczać jednego obowiązkowego układu wiązań w każdym tempie i stylu. Przykłady graficzne wymagają kolacji."
+      ],
+      "podstawa": [
+        "PL-RHY-GROUP",
+        "WES-BEAM-METRIC",
+        "WES-DOT-GROUPING",
+        "WES-REST-TRIPLE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12,16, s.37–42,50–51"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "notacja-wokalna",
+      "termin": "Notacja muzyki wokalnej",
+      "aliasy": [
+        "sylaba",
+        "melizmat",
+        "wiązania wokalne"
+      ],
+      "definicja": "W tradycyjnym modelu wokalnym grupowanie nut zależy także od przypisania ich do sylab tekstu.",
+      "omowienie": "Autor opisuje wiązanie nut jednej sylaby, a dla wartości bez wiązania stosowanie łuku. Przedstawia też zapis z wiązaniami metrycznymi i starannym rozmieszczeniem tekstu. Tekst głosu umieszcza się pod jego pięciolinią.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Własny model: dwie ósemki śpiewane na jednej sylabie mogą tworzyć wspólne wiązanie."
+      ],
+      "ograniczenia": [
+        "Nie odrzucać zapisu wokalnego z grupowaniem metrycznym."
+      ],
+      "podstawa": [
+        "WES-VOCAL-BEAMS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§13, s.42–44"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pisownia-plastyczna",
+      "termin": "Pisownia plastyczna",
+      "aliasy": [
+        "odstępstwo od grupowania",
+        "czytelność zapisu"
+      ],
+      "definicja": "Pisownia plastyczna świadomie odbiega od szkolnego grupowania, by ujawnić logikę muzyczną lub ułatwić zapis.",
+      "omowienie": "Autor ilustruje tę zasadę m.in. muzyką fortepianową Chopina. Odmienny zapis nie musi oznaczać odmiennego czasu brzmienia.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Drobne wartości mogą być grupowane według figur melodycznych zamiast wyłącznie według schematu taktu."
+      ],
+      "ograniczenia": [
+        "Nie traktować odstępstw jako zawsze poprawnych; szkolne zadanie może wymagać ścisłego grupowania."
+      ],
+      "podstawa": [
+        "WES-PLASTIC-NOTATION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§14, s.44–45"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przeksztalcanie-taktow",
+      "termin": "Przekształcanie taktów i wartości",
+      "aliasy": [
+        "zmiana grupowania",
+        "proporcjonalna zmiana wartości"
+      ],
+      "definicja": "Autor rozróżnia zmianę jednostki miarowej z proporcjonalnym przeskalowaniem i zmianę metrum przy zachowanej sumie wartości.",
+      "omowienie": "Przy zachowaniu sumy czasowej może być konieczne podzielenie pauz i połączenie nut łukiem, tak by ujawnić nowe grupy. Zmieniać się mogą akcenty. W innym typie zadania wszystkie wartości powiększa się lub pomniejsza proporcjonalnie do jednostki.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: 3/4, 6/8 i 12/16 mają tę samą nominalną sumę, lecz różne typowe grupowania."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać równych sum z identycznym metrum."
+      ],
+      "podstawa": [
+        "WES-METER-EQUAL-DURATION",
+        "WES-METER-REGROUP",
+        "WES-METER-RESCALE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12,17, s.42,52–53"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "synkopa",
+      "termin": "Synkopa",
+      "aliasy": [
+        "akcent rytmiczny",
+        "przedłużenie słabej części"
+      ],
+      "definicja": "W ujęciu Wesołowskiego synkopa powstaje przez przedłużenie wartości ze słabej części na następną część taktu lub grupy.",
+      "omowienie": "W dwuczęściowym metrum może wystąpić przez kreskę taktową, w czteroczęściowym również przez trzecią część. Autor uwzględnia synkopę obejmującą drugą i trzecią część taktu trójdzielnego. Synkopa może stworzyć dodatkowy akcent rytmiczny, mimo zachowania akcentów metrycznych innych głosów.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W 4/4 nuta rozpoczynająca się na drugiej ćwierćnucie i trwająca przez trzecią może tworzyć synkopę."
+      ],
+      "ograniczenia": [
+        "Nie wymagać przesunięcia metrum całego utworu; nie każda nuta na słabej części jest synkopą."
+      ],
+      "podstawa": [
+        "WES-SYNCOPATION-TRIPLE",
+        "WES-SYNC-ACCENT",
+        "WES-SYNC-SPELL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18, s.59–63"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pisownia-synkopy",
+      "termin": "Pisownia synkopy i zjawiska pokrewne",
+      "aliasy": [
+        "łuk",
+        "kropka",
+        "contra-tempo"
+      ],
+      "definicja": "Synkopę można zapisać łukiem, pojedynczą dłuższą wartością albo odpowiednio umieszczoną kropką.",
+      "omowienie": "Łuk pozwala zachować czytelność granic metrycznych. Uproszczone zapisy są możliwe w określonych grupach. Autor odróżnia contra-tempo, czyli dźwięki na słabych częściach przy pauzach na mocnych, oraz akcenty charakterystyczne i grupowe.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Cisza na pierwszej części i krótka nuta na drugiej bez przedłużenia nie jest automatycznie synkopą."
+      ],
+      "ograniczenia": [
+        "Nie stosować kropki przez kreskę taktową według dawnych przykładów; nie mylić z akcentem wykonawczym."
+      ],
+      "podstawa": [
+        "WES-SYNC-SPELL",
+        "WES-OFFBEAT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§18, s.62–64"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zmienne-metrum",
+      "termin": "Zmiana metrum",
+      "aliasy": [
+        "zmiana oznaczenia taktowego",
+        "zapowiedź"
+      ],
+      "definicja": "Zmiana metrum może dotyczyć kolejnych odcinków utworu bez zmiany rzeczywistych czasów tych samych wartości nutowych.",
+      "omowienie": "Autor opisuje pojedyncze lub podwójne kreski przed nowym oznaczeniem, zapowiedź zmiany na końcu systemu i zapis kilku występujących metrów na początku. Przy niezmienionym tempie jednostki dana wartość zachowuje czas.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Przy przejściu z 3/4 do 2/4 przy tej samej ćwierćnucie metronomicznej ćwierćnuta trwa tyle samo."
+      ],
+      "ograniczenia": [
+        "Nie wnioskować z samego oznaczenia początkowego o ścisłej kolejności wszystkich taktów."
+      ],
+      "podstawa": [
+        "WES-METER-CHANGE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§19, s.66–68"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "takty-nieregularne",
+      "termin": "Takty nieregularne",
+      "aliasy": [
+        "metrum addytywne",
+        "pięcioczęściowy",
+        "siedmioczęściowy"
+      ],
+      "definicja": "Takty nieregularne mogą składać się z grup o różnych długościach.",
+      "omowienie": "Pięcioczęściowy może mieć podział 2+3 lub 3+2, siedmioczęściowy różne uporządkowania dwójek i trójek. Autor wskazuje też nieregularne grupowania pozornie regularnych taktów, np. sześcioczęściowych i dziewięcioczęściowych. W analizie pomocne są akcenty, harmonia i pisownia.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W 7/8 grupy 2+2+3 oraz 3+2+2 mają tę samą sumę, lecz inną hierarchię."
+      ],
+      "ograniczenia": [
+        "Nie wyznaczać grupowania wyłącznie z licznika; niektóre przykłady pozostają niejednoznaczne."
+      ],
+      "podstawa": [
+        "WES-ADDITIVE-METER",
+        "WES-METER-AMBIGUITY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§19, s.68–70"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "polirytmia-polimetria",
+      "termin": "Polirytmia, polimetria i rytmika uzupełniająca",
+      "aliasy": [
+        "polirytmia",
+        "polimetria",
+        "uzupełnianie rytmiczne"
+      ],
+      "definicja": "Polirytmia oznacza współdziałanie głosów o samodzielnych przebiegach rytmicznych; w polimetrii dochodzi różnica organizacji metrycznej.",
+      "omowienie": "Wesołowski opisuje polirytmię przy wspólnym metrum i rytmikę uzupełniającą, w której zdarzenia różnych głosów składają się na jednostajny ruch. Przesunięcie akcentów głosów o tej samej nominalnej długości taktu również opisuje jako polimetrię.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Dwie partie o różnym rytmie, lecz tym samym metrum, nie muszą tworzyć polimetrii."
+      ],
+      "ograniczenia": [
+        "Terminologia autora jest szersza od niektórych współczesnych konwencji; nie rozstrzygać po liczbie nut."
+      ],
+      "podstawa": [
+        "WES-COMPLEMENTARY-RHYTHM",
+        "WES-POLYMETER-PHASE",
+        "WES-POLYRHYTHM-GRID"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§20, s.70–73"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przedtakt-ataktowosc",
+      "termin": "Przedtakt i muzyka ataktowa",
+      "aliasy": [
+        "odbitka",
+        "rytm swobodny",
+        "chorał"
+      ],
+      "definicja": "Przedtakt to niepełny takt rozpoczynający utwór lub jego część; muzyka ataktowa nie ma regularnego podziału na takty.",
+      "omowienie": "Przedtakt może obejmować jedną lub kilka nut. Autor opisuje częste dopełnianie przedtaktu przez odpowiednio skrócony takt końcowy. Rytm swobodny może istnieć bez podziału na jednostki taktowe.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Przy przedtakcie długości jednej ćwierćnuty w 3/4 ostatni takt może mieć dwie ćwierćnuty."
+      ],
+      "ograniczenia": [
+        "Nie traktować dopełniania jako obowiązku każdej formy. Nie utożsamiać braku taktów z brakiem rytmu."
+      ],
+      "podstawa": [
+        "WES-UNMETERED",
+        "WES-MEASURE-SUM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§21, s.73–74"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tempo-i-metronom",
+      "termin": "Tempo i oznaczenie metronomiczne",
+      "aliasy": [
+        "agogika",
+        "metronom",
+        "taktomierz"
+      ],
+      "definicja": "Tempo określa szybkość wykonania, a wartości nutowe same określają proporcje czasu.",
+      "omowienie": "Oznaczenie metronomiczne składa się z wartości nutowej i liczby jej wystąpień na minutę. Czas jednostki wynosi 60 podzielone przez tę liczbę. Agogika obejmuje zjawiska związane z tempem.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Ćwierćnuta = 80 daje 0,75 s na ćwierćnutę; ósemka = 80 daje 0,75 s na ósemkę."
+      ],
+      "ograniczenia": [
+        "Nie traktować samej liczby bez jednostki jako pełnego oznaczenia."
+      ],
+      "podstawa": [
+        "WES-TEMPO",
+        "WES-TEMPO-WORDS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22, s.75–77"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "oznaczenia-tempa",
+      "termin": "Słowne oznaczenia tempa",
+      "aliasy": [
+        "largo",
+        "lento",
+        "adagio",
+        "andante",
+        "moderato",
+        "allegro",
+        "presto"
+      ],
+      "definicja": "Włoskie określenia tempa wskazują przybliżoną szybkość i często także charakter wykonania.",
+      "omowienie": "W klasyfikacji autora wolne: largo, larghetto, lento, adagio, grave; umiarkowane: andante, andantino, moderato, allegretto; szybkie: allegro, vivo, vivace, veloce, presto, vivacissimo, prestissimo. Dodatki molto i assai wzmacniają określenie, meno zmniejsza, più zwiększa, non troppo ogranicza, quasi wskazuje przybliżenie.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Allegro non troppo: szybko, ale nie nadmiernie."
+      ],
+      "ograniczenia": [
+        "Nie przypisywać stałych przedziałów metronomicznych bez wskazania źródła i kontekstu."
+      ],
+      "podstawa": [
+        "WES-TEMPO-WORDS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22, s.75–76"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "zmiany-tempa",
+      "termin": "Zmiany tempa i rubato",
+      "aliasy": [
+        "accelerando",
+        "ritardando",
+        "rallentando",
+        "a tempo",
+        "tempo primo",
+        "rubato"
+      ],
+      "definicja": "Agogiczne zmiany tempa obejmują przyspieszanie, zwalnianie i powrót do wcześniej wskazanego tempa.",
+      "omowienie": "Accelerando, affrettando, stringendo oznaczają przyspieszanie; rallentando, ritardando, ritenuto wiążą się ze zwolnieniem; a tempo przywraca poprzednie tempo, tempo primo początkowe. Doppio movimento wskazuje podwojenie tempa względem poprzedniego. Rubato w opisie autora polega na elastycznych przesunięciach czasu w obrębie całości frazy lub taktu.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Po miejscowym rallentando znak a tempo oznacza powrót do wcześniejszego tempa."
+      ],
+      "ograniczenia": [
+        "Rubato ma różne praktyki historyczne; nie narzucać jednego algorytmu ani stałej krzywej zwolnienia."
+      ],
+      "podstawa": [
+        "WES-TEMPO-CHANGE",
+        "WES-RUBATO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§22, s.76–77"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "taktowanie",
+      "termin": "Taktowanie",
+      "aliasy": [
+        "dyrygowanie",
+        "jednostka metryczna"
+      ],
+      "definicja": "Taktowanie to wskazywanie jednostek metrycznych ruchami ręki.",
+      "omowienie": "Jest jednym z elementów dyrygowania. Liczba ruchów zależy od metrum i tempa: w szybszym przebiegu 6/8 może być na dwa, 9/8 na trzy, 12/8 na cztery. W bardzo wolnym tempie ruchy mogą podlegać dalszemu podziałowi.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: 6/8 na dwa: dwa główne ruchy odpowiadają grupom trzech ósemek."
+      ],
+      "ograniczenia": [
+        "Nie odtwarzać schematów kierunku ręki bez kontroli ilustracji. Nie przyjmować sprzecznego opisu podziału 12 na cztery razy cztery."
+      ],
+      "podstawa": [
+        "WES-CONDUCT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§23, s.78–79"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "dynamika",
+      "termin": "Dynamika i oznaczenia natężenia brzmienia",
+      "aliasy": [
+        "piano",
+        "forte",
+        "crescendo",
+        "diminuendo",
+        "sforzando"
+      ],
+      "definicja": "Dynamika obejmuje poziomy i zmiany siły brzmienia.",
+      "omowienie": "Od cichszych do głośniejszych: ppp, pp, p, mp, mf, f, ff, fff. Dalsze powtórzenia liter podkreślają skrajności. Crescendo oznacza narastanie, decrescendo i diminuendo osłabianie; sfz dotyczy zaakcentowanego dźwięku, fp mocnego wejścia i natychmiastowego przejścia do cichego brzmienia.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: p – crescendo – f opisuje stopniowe przejście od cichszego do głośniejszego poziomu."
+      ],
+      "ograniczenia": [
+        "Nie przypisywać oznaczeniom wartości dB ani jednej obwiedni wykonania."
+      ],
+      "podstawa": [
+        "WES-DYNAMIC-LEVELS",
+        "WES-DYNAMIC-CHANGE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§24, s.79–80"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "oznaczenia-wykonawcze",
+      "termin": "Oznaczenia charakteru i wykonania",
+      "aliasy": [
+        "dolce",
+        "cantabile",
+        "marcato",
+        "pesante",
+        "scherzando",
+        "ossia",
+        "solo",
+        "tutti"
+      ],
+      "definicja": "Oznaczenia wykonawcze opisują sposób, charakter lub obsadę wykonania, nie tylko tempo i dynamikę.",
+      "omowienie": "Cantabile: śpiewnie; dolce: łagodnie; marcato: wyraźnie zaznaczając; pesante: ciężko; scherzando: żartobliwie; con fuoco: z ogniem; sotto voce: półgłosem; ossia: wariant; solo: solowo; tutti: cały zespół. Zachować włoskie terminy i ich polskie objaśnienia.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Cantabile nie określa konkretnej liczby uderzeń na minutę."
+      ],
+      "ograniczenia": [
+        "Pełny słownik s.80–82 wymaga dalszej kolacji haseł i uszkodzonych nazw."
+      ],
+      "podstawa": [
+        "WES-EXPRESSIVE",
+        "WES-OSSIA",
+        "WES-SOLO-TUTTI"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§24, s.80–82"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "system-temperowany",
+      "termin": "System równomiernie temperowany",
+      "aliasy": [
+        "półton",
+        "cały ton",
+        "strój"
+      ],
+      "definicja": "W systemie równomiernie temperowanym oktawa dzieli się na dwanaście równych odstępów interwałowych.",
+      "omowienie": "Cały ton odpowiada dwóm półtonom. Równość interwałowa nie oznacza równej różnicy częstotliwości w hercach. Autor odróżnia system dźwiękowy od ustalania bezwzględnej wysokości stroju.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: e–f oraz h–c są półtonami w szeregu podstawowym."
+      ],
+      "ograniczenia": [
+        "Nie przenosić uproszczonej narracji historycznej o stroju Bacha do faktów bez dalszych źródeł."
+      ],
+      "podstawa": [
+        "WES-12TET",
+        "WES-OCTAVE-RATIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§25–26, s.83–84"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "skala-gama-tonacja",
+      "termin": "Skala, gama i tonacja",
+      "aliasy": [
+        "skala muzyczna",
+        "gama",
+        "tryb",
+        "tonalność"
+      ],
+      "definicja": "Skala to model uporządkowania wysokości; gama realizuje go od określonego dźwięku; tonacja obejmuje relacje względem toniki.",
+      "omowienie": "Termin skala może oznaczać również zakres głosu lub instrumentu. Naturalny dur ma półtony III–IV i VII–VIII. Tryb określa rodzaj organizacji materiału.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Gama D-dur realizuje ten sam schemat co C-dur, lecz od dźwięku D."
+      ],
+      "ograniczenia": [
+        "Nie identyfikować tonacji wyłącznie z listą nut ani trybu wyłącznie z pojedynczym interwałem."
+      ],
+      "podstawa": [
+        "WES-SCALE-GAMMA",
+        "MAJOR-PATTERN",
+        "PL-KEY-DETECT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§25,27, s.83–85; §38, s.107"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "stopnie-gamy",
+      "termin": "Stopnie gamy durowej",
+      "aliasy": [
+        "tonika",
+        "medianta",
+        "subdominanta",
+        "dominanta",
+        "submedianta",
+        "dźwięk prowadzący"
+      ],
+      "definicja": "Stopnie gamy oznacza się cyframi rzymskimi i rozpatruje ich funkcjonalną relację do toniki.",
+      "omowienie": "I: tonika, III: medianta, IV: subdominanta, V: dominanta, VI: submedianta, VII: dźwięk prowadzący. Autor omawia II jako dźwięk prowadzący w dół, ale sam zastrzega, że nazwa jest nieścisła. VII w naturalnym dur ciąży ku VIII.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W G-dur V to d, VII fis."
+      ],
+      "ograniczenia": [
+        "Nie traktować tendencji melodycznych jako bezwzględnych nakazów w każdym stylu."
+      ],
+      "podstawa": [
+        "WES-DEGREES",
+        "MAJOR-PATTERN"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§27, s.84–85"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwal-numer-jakosc",
+      "termin": "Interwał: numer i jakość",
+      "aliasy": [
+        "pryma",
+        "sekunda",
+        "tercja",
+        "kwarta",
+        "kwinta",
+        "seksta",
+        "septyma",
+        "oktawa"
+      ],
+      "definicja": "Interwał jest odległością dwóch dźwięków następujących po sobie lub współbrzmiących.",
+      "omowienie": "Numer wynika z liczby objętych stopni z krańcami, jakość z wielkości i pisowni. W ramach oktawy nazwy kolejno to pryma, sekunda, tercja, kwarta, kwinta, seksta, septyma, oktawa. W typowym modelu: czyste 0,5,7,12 półtonów dla 1,4,5,8; wielkie 2,4,9,11 dla 2,3,6,7; małe o półton mniejsze.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: C–Es to tercja mała, a C–Dis sekunda zwiększona mimo tego samego rozmiaru temperowanego."
+      ],
+      "ograniczenia": [
+        "Nie identyfikować jakości wyłącznie z liczbą półtonów. Tabele uszkodzone przez OCR wymagają kontroli obrazu."
+      ],
+      "podstawa": [
+        "WES-INTERVAL-NUMBER",
+        "WES-SEMITONE-SPELL",
+        "WES-DIATONIC-THIRDS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§28–29, s.85–89; §34, s.98–99"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwaly-zlozone",
+      "termin": "Interwały większe od oktawy",
+      "aliasy": [
+        "nona",
+        "decyma",
+        "undecyma",
+        "duodecyma",
+        "tercdecyma",
+        "kwartdecyma",
+        "kwintdecyma"
+      ],
+      "definicja": "Interwały złożone można rozpatrywać jako oktawę i dalszy interwał prosty.",
+      "omowienie": "Nona odpowiada oktawie z sekundą, decyma oktawie z tercją, undecyma oktawie z kwartą, duodecyma z kwintą, tercdecyma z sekstą, kwartdecyma z septymą, kwintdecyma dwóm oktawom. Należy zachować jakość odpowiedniego składnika.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Nona mała ma 13 półtonów w stroju równomiernym."
+      ],
+      "ograniczenia": [
+        "Nie mylić interwału złożonego z jego redukcją do klasy prostej w zadaniu o zapisie."
+      ],
+      "podstawa": [
+        "WES-COMPOUND",
+        "WES-INTERVAL-NUMBER"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§28–29, s.85–88"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przewroty-interwalow",
+      "termin": "Przewroty interwałów",
+      "aliasy": [
+        "odwrócenie",
+        "przewrót septymy"
+      ],
+      "definicja": "Przewrót interwału prostego polega na przeniesieniu jednego z jego dźwięków o oktawę tak, że zamieniają się położeniem.",
+      "omowienie": "W szkolnym modelu numery par przewrotów dają 9: pryma–oktawa, sekunda–septyma, tercja–seksta, kwarta–kwinta. Czysty pozostaje czysty; mały przechodzi w wielki i odwrotnie; zwiększony w zmniejszony i odwrotnie.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Sekunda mała w przewrocie daje septymę wielką."
+      ],
+      "ograniczenia": [
+        "Nie stosować mechanicznie do dowolnych interwałów złożonych bez określenia operacji."
+      ],
+      "podstawa": [
+        "WES-INV-PRACTICE",
+        "WES-INTERVAL-NUMBER"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§30, s.89–90"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "interwaly-melodyczne-harmoniczne",
+      "termin": "Interwały melodyczne i harmoniczne",
+      "aliasy": [
+        "unison",
+        "pryma",
+        "współbrzmienie"
+      ],
+      "definicja": "Interwał melodyczny tworzą kolejno wykonane dźwięki, harmoniczny dwa dźwięki wykonane równocześnie.",
+      "omowienie": "Autor odróżnia melodyczną prymę od współbrzmienia w unisonie. Przy zapisie wielogłosowym możliwe jest współdzielenie główki przez głosy, ale należy zachować ich odrębność rytmiczną. Analiza interwałów może dotyczyć każdej pary głosów.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Dwa następujące po sobie c1 to pryma melodyczna; dwa równocześnie brzmiące c1 w różnych głosach to unison."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać wspólnej główki z jednym głosem w danych."
+      ],
+      "podstawa": [
+        "WES-UNISON",
+        "WES-UNISON-VOICES",
+        "WES-INTERVAL-PAIR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§31, s.90–91"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "diatonika-chromatyka",
+      "termin": "Diatonika i chromatyka",
+      "aliasy": [
+        "dźwięk gamowłaściwy",
+        "alteracja"
+      ],
+      "definicja": "Diatonika w ujęciu autora wykorzystuje dźwięki należące do określonej gamy, chromatyka rozszerza materiał o zmienione stopnie.",
+      "omowienie": "Podwyższenie lub obniżenie stopnia określa się jako alterację. Chromatyka nie musi znosić organizacji tonalnej; może pozostawać podporządkowana tonacji.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W C-dur fis stanowi chromatycznie zmieniony IV stopień."
+      ],
+      "ograniczenia": [
+        "Diatonika nie ogranicza się do dur i moll. Ocena zależy od wskazanej gamy."
+      ],
+      "podstawa": [
+        "WES-DIATONIC"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.92–93"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "znaki-chromatyczne",
+      "termin": "Znaki chromatyczne i polskie nazwy",
+      "aliasy": [
+        "krzyżyk",
+        "bemol",
+        "kasownik",
+        "podwójny krzyżyk",
+        "podwójny bemol"
+      ],
+      "definicja": "Znaki chromatyczne modyfikują wysokość naturalnego stopnia lub odwołują jego zmianę.",
+      "omowienie": "Krzyżyk podwyższa o półton, podwójny o dwa; bemol obniża o półton, podwójny o dwa; kasownik przywraca postać naturalną. Podwyższenia otrzymują końcówki -is i -isis, obniżenia -es/-s oraz -eses/-ses; w polskiej konwencji h obniżone to b, podwójnie obniżone heses, a podwójnie obniżone a to asas.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: fis, fisis, fes, feses; h, b, heses."
+      ],
+      "ograniczenia": [
+        "Nie stosować angielskiego B jako polskiego H; nie traktować znaków jako względnych zmian względem poprzedniej alteracji."
+      ],
+      "podstawa": [
+        "PL-HB",
+        "PL-SHARP",
+        "PL-FLAT",
+        "ACC-NATURAL",
+        "WES-DOUBLE-ACC",
+        "WES-ACCIDENTAL-NAMES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.93–94"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "znaki-przykluczowe-przygodne",
+      "termin": "Znaki przykluczowe i przygodne",
+      "aliasy": [
+        "zakres znaku",
+        "zmiana znaków",
+        "kolizje"
+      ],
+      "definicja": "Znaki przykluczowe określają stałe alteracje, przygodne dotyczą nut w konkretnym kontekście zapisu.",
+      "omowienie": "Przygodny znak w opisie autora obowiązuje także kolejne nuty tej samej wysokości w takcie, chyba że zmieni go inny znak. Przy zmianie zestawu przykluczowego autor omawia odwoływanie starych znaków i wpisanie nowych. Przy współbrzmieniach znaki należy rozmieścić czytelnie.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W jednogłosowym takcie fis zapisane znakiem przygodnym obowiązuje przy kolejnym f tej samej wysokości, dopóki nie zostanie odwołane."
+      ],
+      "ograniczenia": [
+        "Reguły przez kreskę taktową, łuki i wielogłos wymagają dodatkowej kontroli. Nie narzucać historycznej pisowni kasowań wszystkim wydaniom."
+      ],
+      "podstawa": [
+        "WES-ACC-SCOPE",
+        "WES-KEY-CANCEL",
+        "WES-ACCIDENTAL-COLLISION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§32, s.94–96"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "akordy-tercjowe",
+      "termin": "Akordy tercjowe i ich składniki",
+      "aliasy": [
+        "pryma",
+        "tercja",
+        "kwinta",
+        "septyma",
+        "nona",
+        "undecyma",
+        "tercdecyma"
+      ],
+      "definicja": "W szkolnym ujęciu tradycyjnej harmonii akordy można porządkować według kolejnych tercji nad prymą.",
+      "omowienie": "Trójdźwięk ma trzy składniki, septymowy cztery, nonowy pięć, undecymowy sześć, tercdecymowy siedem. W rozłożeniach i przewrotach pryma strukturalna nie musi być najniższym dźwiękiem.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: D–F–A–C tworzy czterodźwięk tercjowy o prymie D."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać liczby głosów z liczbą różnych składników; nie przenosić definicji autora na wszystkie harmoniki."
+      ],
+      "podstawa": [
+        "WES-TERTIAN",
+        "TRI-QUAL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37, s.104–105"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "triada-harmoniczna",
+      "termin": "Triada harmoniczna i dominanty rozszerzone",
+      "aliasy": [
+        "T",
+        "S",
+        "D",
+        "dominanta septymowa",
+        "dominanta nonowa"
+      ],
+      "definicja": "Triada obejmuje trójdźwięki na I, IV i V stopniu: tonikę, subdominantę i dominantę.",
+      "omowienie": "W naturalnym dur trzy główne trójdźwięki są durowe, w harmonicznym moll T i S molowe, D durowa. Dominanta septymowa ma durowy trójdźwięk oraz małą septymę, nonowa dodatkowo nonę małą lub wielką według odpowiedniego modelu.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W c-moll harmonicznej D7 to G–H–D–F; z noną małą również As."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać jakości akordu z funkcją bez kontekstu. Reguły zdwojeń należą do dalszej nauki harmonii."
+      ],
+      "podstawa": [
+        "TRI-QUAL",
+        "TAR-D7",
+        "PL-HARM-V79",
+        "WES-MINOR-HARM-TRIADS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§37–38, s.105–109"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "trojdzwieki-moll-harmoniczna",
+      "termin": "Trójdźwięki gamy molowej harmonicznej",
+      "aliasy": [
+        "stopnie",
+        "akordy gamowłaściwe"
+      ],
+      "definicja": "Jakości trójdźwięków wynikają z budowy gamy harmonicznej i nałożenia tercji na każdym stopniu.",
+      "omowienie": "Kolejno od I: molowy, zmniejszony, zwiększony, molowy, durowy, durowy, zmniejszony. Podwyższenie VII stopnia wpływa m.in. na III, V i VII.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W c-moll harmonicznej III stopień: Es–G–H, trójdźwięk zwiększony."
+      ],
+      "ograniczenia": [
+        "Nie stosować tej tabeli do naturalnego lub doryckiego moll."
+      ],
+      "podstawa": [
+        "WES-MINOR-HARM-TRIADS",
+        "MINOR-HARM"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§38, s.108–109"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "gamy-krzyzykowe-bemolowe",
+      "termin": "Budowanie gam krzyżykowych i bemolowych",
+      "aliasy": [
+        "koło kwintowe",
+        "kolejność znaków",
+        "tetrachordy"
+      ],
+      "definicja": "Kolejne gamy naturalne dur buduje się w szeregu krzyżykowym od V stopnia, w bemolowym od IV stopnia poprzedniej gamy.",
+      "omowienie": "Kolejność krzyżyków: fis, cis, gis, dis, ais, eis, his. Bemoli: b, es, as, des, ges, ces, fes. Nowy krzyżyk dotyczy VII stopnia, nowy bemol IV. Autor omawia też teoretyczne gamy o więcej niż siedmiu znakach, z dodatkowymi alteracjami zapisywanymi przygodnie.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: D-dur ma fis i cis; B-dur ma b i es."
+      ],
+      "ograniczenia": [
+        "Nie wymagać podwójnych znaków przy kluczu w szkolnym profilu autora. Graficzne pozycje znaków w kluczach wymagają sprawdzenia nut."
+      ],
+      "podstawa": [
+        "WES-KEY-SHARP",
+        "WES-KEY-FLAT",
+        "WES-KEY-FIFTHS",
+        "WES-FIFTH-SIGNATURE",
+        "WES-KEY-EXTENDED"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§39–41, s.112–118,123–126"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "enharmonia-gam",
+      "termin": "Enharmonia gam i koło kwintowe",
+      "aliasy": [
+        "gamy enharmoniczne",
+        "krąg kwintowy",
+        "tonacje teoretyczne"
+      ],
+      "definicja": "Gamy tego samego trybu o enharmonicznych tonikach mogą mieć to samo brzmienie przy różnej pisowni.",
+      "omowienie": "Koło kwintowe porządkuje pokrewne gamy. Podwyższenie całej zapisanej gamy o prymę zwiększoną zmienia teoretyczną liczbę krzyżyków o siedem; obniżenie analogicznie zwiększa liczbę bemoli. Wybór enharmonicznego zapisu zależy również od harmonii i czytelności.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Fis-dur i Ges-dur mają po sześć odpowiednich znaków i ten sam zbiór temperowanych wysokości."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać równoważności brzmieniowej z identycznością zapisu. Nie ograniczać wszystkich praktyk do sześciu znaków."
+      ],
+      "podstawa": [
+        "WES-KEY-ENHARMONY",
+        "WES-THEORETICAL-KEYS",
+        "WES-KEY-SIGNATURE-CONTEXT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§40–42, s.117–118,124–127"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "chromatyzacja-moll",
+      "termin": "Gama chromatyczna molowa",
+      "aliasy": [
+        "pisownia chromatyczna moll",
+        "równoległa",
+        "jednoimienna"
+      ],
+      "definicja": "W konwencji Wesołowskiego chromatyczna moll ma różne zasady pisowni w górę i w dół.",
+      "omowienie": "W górę korzysta z nieregularnej chromatycznej dur równoległej, poczynając od VI stopnia. W dół odpowiada nieregularnej chromatycznej dur jednoimiennej.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W c-moll w górę punktem odniesienia jest Es-dur, w dół C-dur."
+      ],
+      "ograniczenia": [
+        "Konwencja konkretnego podręcznika, nie jedyna praktyka pisowni chromatycznej."
+      ],
+      "podstawa": [
+        "WES-MINOR-CHROMATIC-SPELL",
+        "PL-KEY-REL",
+        "PL-KEY-SAME"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§43, s.128"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pokrewienstwo-tonacji",
+      "termin": "Tonalność i pokrewieństwo tonacji",
+      "aliasy": [
+        "stosunek kwintowy",
+        "mediantowy",
+        "submediantowy",
+        "równoległość",
+        "równoimienność"
+      ],
+      "definicja": "Tonalność w omawianym systemie oznacza zależność dźwięków i współbrzmień od centralnego dźwięku; pokrewieństwo gam autor rozpatruje m.in. przez wspólny materiał.",
+      "omowienie": "Gamy naturalne tego samego trybu oddalone o kwintę mają sześć wspólnych klas wysokości. Stosunek mediantowy: druga tonika tercję wyżej; submediantowy: tercję niżej. Równoległe: różny tryb i wspólne znaki; równoimienne: wspólna tonika i różne tryby.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: C-dur i a-moll są równoległe; C-dur i c-moll równoimienne."
+      ],
+      "ograniczenia": [
+        "Nie mylić polskiej terminologii z angielską. Liczba wspólnych stopni zależy od odmiany skali."
+      ],
+      "podstawa": [
+        "WES-FIFTH-RELATION",
+        "WES-THIRD-RELATION",
+        "PL-KEY-REL",
+        "PL-KEY-SAME"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§44, s.133–134"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "rozpoznawanie-tonacji",
+      "termin": "Rozpoznawanie tonacji",
+      "aliasy": [
+        "dźwięk centralny",
+        "znaki przykluczowe",
+        "tercja pikardyjska"
+      ],
+      "definicja": "Tonację rozpoznaje się z przebiegu muzycznego, nie wyłącznie z liczby znaków przykluczowych.",
+      "omowienie": "Autor zaleca obserwację dźwięku i akordu końcowego, dźwięków prowadzących, relacji harmonicznych i słuchowego poczucia centrum. Utwór może chwilowo zmieniać tonację; zakończenie molowego utworu durową toniką jest możliwe.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Jeden krzyżyk przy kluczu nie rozstrzyga pomiędzy G-dur i e-moll."
+      ],
+      "ograniczenia": [
+        "Nie zakładać, że pierwszy lub ostatni dźwięk zawsze wyznacza tonikę."
+      ],
+      "podstawa": [
+        "PL-KEY-DETECT",
+        "WES-KEY-CONTEXT",
+        "WES-KEY-PICARDY"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§45, s.134–135"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "transpozycja",
+      "termin": "Transpozycja",
+      "aliasy": [
+        "przenoszenie melodii",
+        "zmiana klucza",
+        "stopnie gamy"
+      ],
+      "definicja": "Transpozycja przenosi melodię lub utwór o wskazany interwał do innej wysokości lub tonacji.",
+      "omowienie": "Autor opisuje metodę zmiany znaków przy półtonie chromatycznym, orientację według stopni melodii i metodę podstawiania kluczy z odpowiednimi znakami i przesunięciami oktaw. Zadanie ścisłe wymaga zachowania relacji interwałowych i pisowni.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Melodię C–D–E można przenieść o sekundę wielką w górę do D–E–Fis."
+      ],
+      "ograniczenia": [
+        "Zmiana trybu nie jest ścisłą transpozycją. Nie odtwarzać tabel podstawiania kluczy bez osobnej kontroli."
+      ],
+      "podstawa": [
+        "WES-DEGREE-TRANSPOSE",
+        "WES-KEY-FIFTHS",
+        "WES-CLEF-ANCHOR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§39,46, s.113,136–138"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "pentatonika",
+      "termin": "Pentatonika",
+      "aliasy": [
+        "anhemitoniczna",
+        "hemitoniczna",
+        "dźwięk centralny"
+      ],
+      "definicja": "Pentatonika jest skalą o pięciu różnych stopniach w obrębie oktawy.",
+      "omowienie": "W odmianie bezpółtonowej autor opisuje budowę z pięciu kolejnych dźwięków łańcucha kwint po sprowadzeniu do oktawy. Odmiana półtonowa zawiera półtony; jej konkretne modele wymagają uwzględnienia odpowiedniej tabeli.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: C–D–E–G–A to przykład zbioru pentatoniki bezpółtonowej."
+      ],
+      "ograniczenia": [
+        "Nie uogólniać historycznych twierdzeń o pochodzeniu i całych tradycjach muzycznych na podstawie jednego podręcznika."
+      ],
+      "podstawa": [
+        "WES-PENTATONIC",
+        "WES-PENTATONIC-CENTRAL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§48, s.139–140"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tetrachordy-greckie",
+      "termin": "Tetrachordy starogreckie",
+      "aliasy": [
+        "diatoniczny",
+        "chromatyczny",
+        "enharmoniczny"
+      ],
+      "definicja": "Autor przedstawia trzy historyczne rodzaje tetrachordu, różniące się rozłożeniem interwałów.",
+      "omowienie": "W uproszczonym modelu diatoniczny zawiera dwa całe tony i półton, chromatyczny tercję małą oraz dwa półtony, enharmoniczny tercję wielką i dwa ćwierćtony. Skale greckie omawia w kierunku zstępującym.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W modelu enharmonicznym występują odległości spoza zwykłego podziału dwunastopółtonowego."
+      ],
+      "ograniczenia": [
+        "Dawna enharmonia nie oznacza równoważności pisowni w stroju temperowanym. Nie odtwarzać dokładnych historycznych strojów z uproszczonego opisu."
+      ],
+      "podstawa": [
+        "WES-GREEK-GENERA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§49, s.141"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "skale-koscielne",
+      "termin": "Skale kościelne: autentyczne i plagalne",
+      "aliasy": [
+        "finalis",
+        "repercussa",
+        "ambitus",
+        "modalność"
+      ],
+      "definicja": "W historycznym modelu autor wyróżnia pary skal autentycznych i plagalnych ze wspólnym finalis.",
+      "omowienie": "Skale plagalne mają odmienny ambitus, zaczynają się w omawianym modelu kwartę poniżej początku skali autentycznej. Repercussa jest dźwiękiem recytacyjnym; jej położenie nie zawsze wynika mechanicznie z jednej zasady. Autor omawia także późniejsze skale jońską i eolską.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Autentyczna i odpowiadająca jej plagalna mogą mieć ten sam dźwięk końcowy, a mimo to nie być tym samym modus."
+      ],
+      "ograniczenia": [
+        "Nie redukować historycznego modus do nowoczesnej rotacji zbioru wysokości; pełną tabelę repercuss należy zweryfikować wizualnie."
+      ],
+      "podstawa": [
+        "WES-CHURCH-MODES",
+        "WES-MODE-PATTERNS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§50, s.141–144"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "modele-modalne",
+      "termin": "Oktawowe modele skal modalnych",
+      "aliasy": [
+        "dorycka",
+        "frygijska",
+        "lidyjska",
+        "miksolidyjska"
+      ],
+      "definicja": "W szkolnym modelu Wesołowskiego określone skale można zapisywać przy znakach odpowiadających gamie durowej, której odpowiednim stopniem jest finalis.",
+      "omowienie": "Dorycka odpowiada II stopniowi dur, frygijska III, lidyjska IV, miksolidyjska V. Model pozwala wyznaczać znaki przykluczowe i układ sąsiednich odległości.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Dorycka od e korzysta z materiału D-dur; lidyjska od g również ma dwa krzyżyki."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać skali doryckiej z polskim minorem doryckim. Nie orzekać o historycznym modus tylko z użytych klas wysokości."
+      ],
+      "podstawa": [
+        "WES-MODE-PATTERNS",
+        "WES-CHURCH-MODES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§50, s.143–144"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "skale-dwie-sekundy-zwiekszone",
+      "termin": "Skale z dwiema sekundami zwiększonymi i model góralski",
+      "aliasy": [
+        "skala góralska",
+        "skale nazywane przez autora cygańskimi"
+      ],
+      "definicja": "Autor omawia dwie skale o dwu sekundach zwiększonych oraz model skali góralskiej.",
+      "omowienie": "W modelu góralskim półtony występują IV–V i VI–VII. Wcześniej zweryfikowane rekordy wskazują przykłady skal z dwiema sekundami zwiększonymi przez odpowiednie zmiany harmonicznego dur lub moll; dokładne tabele należy sprawdzić z nutami.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Model góralski od C: C–D–E–Fis–G–A–B–C."
+      ],
+      "ograniczenia": [
+        "Historyczne nazewnictwo autora nie opisuje całej muzyki żadnej grupy etnicznej. Nie utożsamiać przykładu skali z każdym utworem regionalnym."
+      ],
+      "podstawa": [
+        "WES-TWO-AUG-SECONDS",
+        "WES-HIGHLAND-MODEL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§51, s.144–145"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "skala-calotonowa-dwunastodzwiekowa",
+      "termin": "Skala całotonowa i materiał dwunastodźwiękowy",
+      "aliasy": [
+        "całotonowa",
+        "dodekafonia",
+        "chromatyka",
+        "atonalność"
+      ],
+      "definicja": "Skala całotonowa ma sześć stopni oddzielonych całymi tonami, a materiał dwunastodźwiękowy obejmuje dwanaście klas wysokości.",
+      "omowienie": "W stroju równomiernym istnieją dwa różne zbiory całotonowe. Autor odróżnia tonalną gamę chromatyczną od materiału dwunastodźwiękowego bez wskazanego centrum tonalno-funkcyjnego. Tożsamość zbioru wysokości nie przesądza o zasadzie organizacji.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: C–D–E–Fis–Gis–Ais–C to jeden model zapisu całotonowego."
+      ],
+      "ograniczenia": [
+        "Nie utożsamiać każdego użycia dwunastu klas z dodekafonią ani całej muzyki atonalnej z jedną techniką."
+      ],
+      "podstawa": [
+        "WES-WHOLETONE",
+        "WES-WHOLETONE-CLASSES",
+        "WES-CHROM-ATONAL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§52, s.145–146"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "artykulacja",
+      "termin": "Artykulacja: łączenie i oddzielanie dźwięków",
+      "aliasy": [
+        "staccato",
+        "legato",
+        "portato",
+        "spiccato"
+      ],
+      "definicja": "Artykulacja określa sposób wydobywania i łączenia kolejnych dźwięków lub współbrzmień.",
+      "omowienie": "Staccato oddziela dźwięki, legato je łączy, portato ma charakter pośredni, a spiccato w szkolnym opisie autora oznacza ostrzejsze oddzielanie. Typowe znaki to kropka staccato i łuk legato.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Kropka nad główką nie przedłuża wartości jak kropka umieszczona z prawej strony."
+      ],
+      "ograniczenia": [
+        "Nie ustalać stałego czasu staccato. W praktyce smyczkowej spiccato ma techniczne znaczenie wymagające osobnego źródła."
+      ],
+      "podstawa": [
+        "WES-ARTIC",
+        "WES-ARTIC-DURATION",
+        "WES-PHRASE-SLUR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.148"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "glissando-portamento",
+      "termin": "Glissando i portamento",
+      "aliasy": [
+        "przejście ciągłe",
+        "przejście stopniowe"
+      ],
+      "definicja": "Portamento oznacza płynne przejście pomiędzy wysokościami; glissando może być ciągłe albo realizowane szybką serią dostępnych stopni.",
+      "omowienie": "Autor odróżnia realizację głosem, na smyczkach i puzonie od klawiaturowego glissanda po białych lub czarnych klawiszach. Oznaczenie glissando może mieć postać linii i skrótu gliss.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Glissando fortepianowe po białych klawiszach nie obejmuje wszystkich pośrednich wysokości."
+      ],
+      "ograniczenia": [
+        "Nie mylić portamento z portato. Realizacja zależy od instrumentu i możliwości wykonawcy."
+      ],
+      "podstawa": [
+        "WES-GLISS-PORTAMENTO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.148–149"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tremolo-arpeggio",
+      "termin": "Tremolo i arpeggio",
+      "aliasy": [
+        "tremolando",
+        "powtarzanie",
+        "rozłożenie akordu"
+      ],
+      "definicja": "Tremolo polega na szybkim powtarzaniu dźwięku lub naprzemiennym powtarzaniu dźwięków i współbrzmień; arpeggio na kolejnych szybkich wejściach składników akordu.",
+      "omowienie": "Wesołowski omawia skrótowy zapis tremola za pomocą przekreśleń oraz arpeggio za pomocą pionowej linii falistej. Jedna linia arpeggia przez dwie pięciolinie może obejmować wspólną realizację, a oddzielne linie odrębne wejścia.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W modelowym akordzie C–E–G arpeggio od dołu rozpoczyna C, potem E, potem G."
+      ],
+      "ograniczenia": [
+        "Nie narzucać jednej prędkości tremola ani zawsze tego samego kierunku arpeggia bez oznaczenia i kontekstu."
+      ],
+      "podstawa": [
+        "WES-TREMOLO",
+        "WES-ARPEGGIO"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.149–151"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "techniki-smyczkowe",
+      "termin": "Wybrane oznaczenia technik smyczkowych",
+      "aliasy": [
+        "arco",
+        "pizzicato",
+        "col legno",
+        "con sordino"
+      ],
+      "definicja": "Oznaczenia technik wykonawczych określają sposób pobudzenia struny lub zmianę brzmienia.",
+      "omowienie": "Arco: gra smyczkiem; pizzicato: szarpanie; col legno: użycie drzewca smyczka, w omawianym opisie uderzanie; con sordino: z tłumikiem.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Po odcinku pizzicato oznaczenie arco przywraca grę smyczkiem."
+      ],
+      "ograniczenia": [
+        "Nie ograniczać całej praktyki col legno do uderzania bez kontekstu."
+      ],
+      "podstawa": [
+        "WES-STRING-TECHNIQUES"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§53, s.152"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "frazowanie",
+      "termin": "Frazowanie i funkcje łuku",
+      "aliasy": [
+        "łuk frazowy",
+        "legato",
+        "łuk łączący"
+      ],
+      "definicja": "Frazowanie oznacza wydzielanie odcinków stanowiących pewne całości wyrazowe, w zapisie lub wykonaniu.",
+      "omowienie": "Łuk może być znakiem frazowania lub legato, a łuk łączący tę samą wysokość spełnia inną funkcję rytmiczną. Autor zwraca uwagę na rolę wykonawcy i opracowania wydawniczego w muzyce dawnej.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Łuk obejmujący frazę może występować nad nutami o innych znakach artykulacji."
+      ],
+      "ograniczenia": [
+        "Nie rozpoznawać funkcji łuku wyłącznie po kształcie ani zawsze wymagać skrócenia ostatniej nuty."
+      ],
+      "podstawa": [
+        "WES-PHRASE-SLUR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§54, s.152–153"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "przednutki",
+      "termin": "Przednutki długie i krótkie",
+      "aliasy": [
+        "appoggiatura",
+        "przednutka krótka",
+        "toczek"
+      ],
+      "definicja": "Przednutki są zapisanymi drobnymi nutami zdobiącymi nutę główną; ich realizacja zależy od typu i kontekstu.",
+      "omowienie": "Długa jest zwykle nieprzekreślona, może przejąć akcent i znaczną część wartości nuty głównej. Krótka zwykle przekreślona, bez ustalonej wartości wykonawczej; akcent pozostaje na głównej. Autor omawia także wielonutowe grupy, m.in. przednutki zamienne, mordentowe, obiegnikowe i toczek.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Własny model: rozpoznaj długą i krótką przednutkę w zadanym profilu historycznym."
+      ],
+      "ograniczenia": [
+        "Nie automatyzować dokładnych czasów i akcentów bez epoki, tempa i kontekstu. Przykłady nutowe nie zostały odtworzone."
+      ],
+      "podstawa": [
+        "WES-GRACE-LONG",
+        "WES-GRACE-SHORT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.153–157"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "mordent",
+      "termin": "Mordent",
+      "aliasy": [
+        "mordent górny",
+        "mordent dolny",
+        "trylik"
+      ],
+      "definicja": "Mordent wykorzystuje szybkie przejście między dźwiękiem głównym i sąsiednim.",
+      "omowienie": "W konwencji autora znak nieprzekreślony oznacza górnego sąsiada, przekreślony dolnego. Znak chromatyczny może określać alterację sąsiada. W dawnym repertuarze realizacje mogą mieć różną liczbę dźwięków i podlegać różnym konwencjom.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W prostym modelu: dźwięk główny, sąsiedni, powrót do głównego."
+      ],
+      "ograniczenia": [
+        "Nie przenosić jednej konwencji nazw i symboli na wszystkie wydania i epoki."
+      ],
+      "podstawa": [
+        "WES-MORDENT"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.157–158"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "obiegnik",
+      "termin": "Obiegnik",
+      "aliasy": [
+        "gruppetto",
+        "sekunda górna",
+        "sekunda dolna"
+      ],
+      "definicja": "Obiegnik wykorzystuje otoczenie dźwięku głównego przez jego górnego i dolnego sąsiada.",
+      "omowienie": "Autor rozróżnia położenie znaku nad nutą oraz między nutami. Początek realizacji zależy m.in. od kierunku melodii i początku myśli; znaki chromatyczne określają zmiany sąsiadów. Znak między nutami wpływa na czas pierwszej nuty.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: W modelowym obiegniku górny sąsiad i dolny sąsiad otaczają dźwięk główny."
+      ],
+      "ograniczenia": [
+        "Nie traktować jednego czterodźwiękowego wzorca jako jedynej realizacji. Potrzebna kolacja historycznych przykładów."
+      ],
+      "podstawa": [
+        "WES-TURN"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.158–160"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "tryl",
+      "termin": "Tryl",
+      "aliasy": [
+        "tr",
+        "tryl łańcuchowy",
+        "ornament"
+      ],
+      "definicja": "Tryl jest szybkim, wielokrotnym naprzemiennym wykonywaniem dźwięku głównego i jego górnego sąsiada.",
+      "omowienie": "Może rozpoczynać się od głównego lub sąsiada; przednutki mogą określać początek i zakończenie. W krótkich wartościach realizacja może przypominać inny ozdobnik. Tryl łańcuchowy obejmuje kolejne nuty o postępie sekundowym.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Własny model: tryl od c z górną sekundą d wykorzystuje naprzemiennie c i d."
+      ],
+      "ograniczenia": [
+        "Nie ustalać automatycznie liczby powtórzeń ani nuty startowej bez kontekstu historycznego i oznaczeń."
+      ],
+      "podstawa": [
+        "WES-TRILL"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§55, s.160–162"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "repetycje",
+      "termin": "Repetycje i zakończenia",
+      "aliasy": [
+        "prima volta",
+        "seconda volta",
+        "bis",
+        "powtórzenie"
+      ],
+      "definicja": "Znaki repetycji wyznaczają odcinek wykonywany ponownie; klamry zakończeń określają różne przebiegi kolejnych wykonań.",
+      "omowienie": "Gdy brak znaku początku powtarzanego odcinka, zwykła repetycja końcowa odsyła do początku. Pierwsze zakończenie wykonuje się za pierwszym razem, podczas powrotu pomija i przechodzi do drugiego. Autor omawia także skróty powtarzanych figur i taktów.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Odcinek A z pierwszym zakończeniem B i drugim C daje przebieg A–B–A–C."
+      ],
+      "ograniczenia": [
+        "Zagnieżdżone repetycje i bardziej złożona nawigacja wymagają osobnych przypadków testowych."
+      ],
+      "podstawa": [
+        "WES-REPEATS",
+        "WES-VOLTA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.162–163"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "nawigacja-utworu",
+      "termin": "Nawigacja w zapisie i zdwojenie oktawowe",
+      "aliasy": [
+        "da capo",
+        "dal segno",
+        "fine",
+        "coda",
+        "coll'ottava"
+      ],
+      "definicja": "Oznaczenia nawigacji wskazują powrót do początku lub znaku i odpowiednie miejsce zakończenia; zdwojenie oktawowe dodaje równoczesny dźwięk oktawowy.",
+      "omowienie": "Da capo al fine oznacza powrót do początku do wskazanego fine. Dal segno odsyła do oznaczonego miejsca; coda to wydzielony odcinek końcowy. Autor rozróżnia dodanie oktawy i przenośnik oktawowy.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Coll'ottava dodaje oktawę, a przenośnik oktawowy zmienia wysokość wykonania zapisanej nuty."
+      ],
+      "ograniczenia": [
+        "Dokładny przebieg złożonych wskazań cody wymaga sprawdzenia zapisu. Nie interpretować samej cyfry 8 poza kontekstem."
+      ],
+      "podstawa": [
+        "WES-NAVIGATION",
+        "WES-OCTAVE-DOUBLING",
+        "WES-OTTAVA"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§56, s.163–164"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "elementy-dziela",
+      "termin": "Elementy dzieła muzycznego",
+      "aliasy": [
+        "rytm",
+        "metrum",
+        "tempo",
+        "melodia",
+        "harmonia",
+        "dynamika",
+        "agogika",
+        "artykulacja",
+        "frazowanie",
+        "kolorystyka",
+        "forma"
+      ],
+      "definicja": "Wesołowski wyróżnia jedenaście elementów dzieła muzycznego w swoim ujęciu dydaktycznym.",
+      "omowienie": "Są to rytm, metrum, tempo, melodia, harmonia, dynamika, agogika, artykulacja, frazowanie, kolorystyka dźwiękowa i struktura formalna. Elementy współdziałają; ich rozróżnienie służy opisowi utworu.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Zmiana tempa nie musi zmieniać proporcji wartości rytmicznych."
+      ],
+      "ograniczenia": [
+        "Nie traktować tej listy jako jedynej systematyki; inne podręczniki grupują elementy odmiennie."
+      ],
+      "podstawa": [
+        "WES-TEMPO",
+        "WES-METRIC-ACCENT",
+        "WES-DYNAMIC-LEVELS"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.166–167"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "melodyka",
+      "termin": "Melodia i rodzaje melodyki",
+      "aliasy": [
+        "melodia diatoniczna",
+        "chromatyczna",
+        "ornamentalna",
+        "wokalna",
+        "instrumentalna"
+      ],
+      "definicja": "Melodia jest uporządkowanym rytmicznie przebiegiem wysokości tworzącym całość muzyczną.",
+      "omowienie": "Autor wyróżnia diatoniczną i chromatycznie rozszerzoną, wokalną i instrumentalną oraz prostą i ornamentalną. Omawia ruch małymi interwałami, dźwiękami akordowymi i skokami, a także kierunek przebiegu.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Melodia może zachować ten sam materiał diatoniczny, ale mieć inny kierunek i rytm."
+      ],
+      "ograniczenia": [
+        "Nie przyjmować ograniczeń ruchliwości głosu jako bezwzględnych reguł wykonawczych ani wymagać melodii o ustalonej wysokości w każdym dziele."
+      ],
+      "podstawa": [
+        "WES-DIATONIC",
+        "WES-MELODIC-CONTOUR"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.167"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "faktura-polifonia-homofonia",
+      "termin": "Faktura, polifonia i homofonia",
+      "aliasy": [
+        "imitacja",
+        "motyw",
+        "akompaniament"
+      ],
+      "definicja": "Faktura opisuje sposób ukształtowania środków kompozytorskich; polifonia wykorzystuje samodzielne linie, homofonia dominującą melodię z podporządkowanymi głosami.",
+      "omowienie": "Wesołowski opisuje pracę motywiczną i imitację jako przejmowanie motywu przez różne głosy. Melodia homofoniczna często jest w najwyższym głosie, lecz to jej rola, nie sama pozycja, decyduje o analizie. Utwór może łączyć obie techniki.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Sam fakt równoczesnego brzmienia trzech nut nie przesądza o polifonii."
+      ],
+      "ograniczenia": [
+        "Nie klasyfikować faktury tylko według liczby głosów; nie utożsamiać imitacji z pełną fugą."
+      ],
+      "podstawa": [
+        "WES-TEXTURE",
+        "WES-IMITATION"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§57, s.168"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
+    },
+    {
+      "id": "podzial-muzyki-obsada",
+      "termin": "Podział muzyki według obsady",
+      "aliasy": [
+        "wokalna",
+        "instrumentalna",
+        "wokalno-instrumentalna",
+        "a cappella",
+        "kwartet",
+        "kwintet"
+      ],
+      "definicja": "Podział według obsady odróżnia muzykę przeznaczoną dla głosu i instrumentów, także ich połączenia.",
+      "omowienie": "A cappella w omawianym znaczeniu oznacza chór bez akompaniamentu. Autor wymienia zespoły solistów, np. duet, tercet wokalny lub trio instrumentalne, kwartet, kwintet i większe. Typowy kwartet smyczkowy: dwoje skrzypiec, altówka, wiolonczela; kwintet fortepianowy: kwartet smyczkowy i fortepian.",
+      "przyklady": [
+        "Przykład autorski lub model objaśniający: Kwartet smyczkowy i kwintet fortepianowy różnią się typową obsadą o fortepian."
+      ],
+      "ograniczenia": [
+        "Nie narzucać jednego składu wszystkim kwartetom. W warstwie tekstowej s.169 kwintet dęty wymienia fortepian; nie przyjmować tego bez kontroli oryginału."
+      ],
+      "podstawa": [
+        "WES-ENSEMBLE"
+      ],
+      "odwolania": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§58, s.169"
+        }
+      ],
+      "status": "do-recenzji",
+      "dopuszczoneDoPublikacji": false
     }
   ]
 }
