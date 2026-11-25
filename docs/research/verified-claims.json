@@ -4720,6 +4720,466 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WES-SOUND-MEDIUM",
+      "statement": "Fale akustyczne wymagają ośrodka materialnego; źródło drgające może przekazywać energię przez gaz, ciecz lub ciało stałe.",
+      "scope": "Klasyczna akustyka; nie mylić z falami elektromagnetycznymi.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§1 s.9–10",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-PURE-TONE",
+      "statement": "Ton sinusoidalny jest idealizacją jednej składowej częstotliwościowej; dźwięk instrumentu często zawiera wiele składowych.",
+      "scope": "Nie każdy dźwięk instrumentu ma harmoniczne widmo.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2 s.11",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-RESONANCE",
+      "statement": "Struna może zostać pobudzona przez inne źródło dźwięku, jeśli częstotliwość pobudzenia odpowiada jednej z jej częstotliwości własnych.",
+      "scope": "Rezonans; rzeczywisty efekt zależy od sprzężenia i tłumienia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§2 s.12",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-OCTAVE-RATIO",
+      "statement": "Oktawie w idealnym modelu odpowiada stosunek częstotliwości 2:1.",
+      "scope": "Nie utożsamiać każdego interwału z tym samym stosunkiem we wszystkich strojach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3 s.12–13",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-REVERB",
+      "statement": "Pogłos powstaje wskutek wielokrotnych odbić dźwięku w pomieszczeniu i może przedłużyć słyszalne wybrzmienie.",
+      "scope": "Nie zmienia zapisanej wartości rytmicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§3 s.13",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-LEDGER-LINES",
+      "statement": "Linie pięciolinii liczy się od dołu; dodane górne od najbliższej pięciolinii ku górze, dodane dolne od najbliższej ku dołowi.",
+      "scope": "Standardowy zapis pięcioliniowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§4 s.17, przykład 10",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CLEF-ANCHOR",
+      "statement": "Klucze G, C i F wyznaczają odpowiednio g razkreślne, c razkreślne i f małe na wskazanej linii.",
+      "scope": "Bez transpozycji oktawowej klucza.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5 s.18–20",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-HISTORICAL-CLEFS",
+      "statement": "Klucz G na pierwszej linii to dyszkantowy, C na pierwszej sopranowy, C na drugiej mezzosopranowy, F na trzeciej barytonowy, F na piątej subbasowy.",
+      "scope": "Historyczne klucze według Wesołowskiego; nie zakładać całkowitego braku współczesnego użycia.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5 s.18–20, przykłady 11,13,14,17,19",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TENOR-OCTAVE",
+      "statement": "W praktyce chóralnej partia tenoru zapisana w odpowiednim kluczu wiolinowym może brzmieć oktawę niżej od zapisu.",
+      "scope": "Nie każdy zwykły klucz G jest automatycznie transponujący; potrzebny kontekst partii.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5 s.20, przykład 20",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CLEF-CHANGE",
+      "statement": "Zmiana klucza w trakcie utworu obowiązuje od miejsca jej wystąpienia; zapowiedź na końcu systemu nie stanowi dodatkowej zmiany wysokości.",
+      "scope": "Oddzielić zmianę semantyczną od znaku przypominającego na końcu systemu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§5 s.21",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-OCTAVE-NAMES",
+      "statement": "Polskie nazwy oktaw od niskich do wysokich to subkontra, kontra, wielka, mała, razkreślna, dwukreślna, trzykreślna itd.",
+      "scope": "c razkreślne to C4; zakres fortepianu nie ogranicza modelu wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§6 s.21–22",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DURATION-BINARY",
+      "statement": "W regularnym podziale dwójkowym każda kolejna wartość od całej nuty do sześćdziesięcioczwórki ma połowę czasu poprzedniej.",
+      "scope": "Proporcje zapisu, nie wartości sekundowe.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8 s.23–24, przykład 25",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-FLAGS-BEAMS",
+      "statement": "Ósemka ma jedną chorągiewkę lub wiązanie, szesnastka dwa, trzydziestodwójka trzy, sześćdziesięcioczwórka cztery.",
+      "scope": "Liczba wiązań nie określa sama tuplet ratio ani czasu wykonania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8 s.24, przykład 28",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-STEM-SIDE",
+      "statement": "W typowym zapisie nuta z laską skierowaną w górę ma ją po prawej stronie główki, z laską w dół po lewej.",
+      "scope": "Standardowe pojedyncze główki; złożone akordy, unison i kolizje pozostawić silnikowi notacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8 s.24, przykład 27",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-REST-MEASURE",
+      "statement": "Znak pauzy całonutowej może oznaczać ciszę przez cały takt niezależnie od jego długości.",
+      "scope": "Whole-measure rest odróżnić od pauzy o dokładnej wartości całej nuty.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8 s.25–26",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MULTIREST",
+      "statement": "Pauza wielotaktowa oznacza określoną liczbę pełnych taktów ciszy.",
+      "scope": "Nie traktować liczby taktów jako liczby całych nut.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§8 s.25–26, przykład 35",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DOT-SERIES",
+      "statement": "Druga kropka przedłuża pierwotną wartość o jedną czwartą, trzecia o jedną ósmą; kropki stosuje się także do pauz.",
+      "scope": "Czas zapisany; nie mylić z kropką artykulacyjną.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9 s.26–27, przykłady 38,41",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR02",
+        "WR03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-FERMATA",
+      "statement": "Fermata może przedłużać nutę lub pauzę, lecz sama nie określa dokładnego mnożnika czasu.",
+      "scope": "Czas wykonania pozostaje decyzją wykonawczą; generator musi określić własny model wykonania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§9 s.28–29, przykład 45",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TUPLET-RATIO",
+      "statement": "Grupa niemiarowa zastępuje grupę regularną o określonym łącznym czasie; możliwe są np. 5:4, 6:4, 7:4, 2:3 oraz 4:3.",
+      "scope": "Proporcja actual:normal; sama liczba nad grupą bez kontekstu nie zawsze wystarcza.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10 s.29–31, przykłady 48–52",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR05",
+        "WR06"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TUPLET-REST",
+      "statement": "Grupy niemiarowe mogą zawierać pauzy i wartości z kropką.",
+      "scope": "Mnożnik grupy stosuje się do wartości nominalnych, w tym pauz.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10 s.31, przykład 53",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-POLYRHYTHM-GRID",
+      "statement": "Równoległe równe podziały wspólnego odcinka można umieścić na siatce o liczbie części równej najmniejszej wspólnej wielokrotności liczebności grup.",
+      "scope": "Własne obliczenie dla 21:4: przy numeracji od zera kroki 4 i 21, od jedynki dodaj 1 do obu szeregów. Nie przepisywać niekonsekwentnej numeracji z s.32.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§10 s.31–32, przykłady 55–56",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MEASURE-SUM",
+      "statement": "W regularnym pełnym takcie n/d łączna zapisana wartość jednej ciągłej partii wynosi n/d całej nuty.",
+      "scope": "Nie sumować równoczesnych głosów i dźwięków akordu; przedtakt i inne niepełne takty osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§11 s.35–36",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ALLA-BREVE",
+      "statement": "Znak przekreślonego C (alla breve) oznacza w omawianej konwencji metrum 2/2.",
+      "scope": "Nie mylić ze znakiem C oznaczającym 4/4.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§11 s.36, przykład 67",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-METRIC-ACCENT",
+      "statement": "W typowym prostym takcie dwu- lub trójdzielnym pierwsza część jest mocna, pozostałe słabe; akcent metryczny nie musi oznaczać mocnego uderzenia.",
+      "scope": "Model podstawowy, odróżnić akcent wykonawczy i synkopę.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§11 s.36–37, przykład 69",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-RHYTHM-TYPES",
+      "statement": "Wesołowski rozróżnia rytm głównoczęściowy, rozdrobniony i rozszerzony w odniesieniu do długości jednostki miarowej.",
+      "scope": "Kategorie opisowe, przebieg może łączyć typy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12 s.37–40",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-BEAM-METRIC",
+      "statement": "W grupowaniu wartości krótszych od jednostki miarowej wiązania mają uwidaczniać części metryczne; dopuszczalne są wspólne wiązania i przerwania wiązań drugorzędnych zależnie od metrum i tempa.",
+      "scope": "Konwencja szkolna autora, nie jeden uniwersalny algorytm grawerowania.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§12 s.38–39, przykłady 72–76",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

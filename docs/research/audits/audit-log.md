@@ -110,3 +110,6 @@ Przeniesiono kopie dziewięciu książek do nieudostępnionego folderu Google Dr
 
 ## Porządkowanie dokumentacji
 Przeniesiono trzy raporty audytowe do audits/. Dane kanoniczne, identyfikatory twierdzeń, źródła, kolejka lektury i przypadki wzorcowe zachowują dotychczasowe ścieżki i zawartość. Historyczne zapisy nie są treścią kursu. Nie usuwano dowodów ani nie zmieniano statusów zatwierdzenia.
+
+## Lektura ciągła Wesołowskiego 1–40
+Odczyt z prywatnego Dysku Google, kolejno s.1–40, tekst i dostępne obrazy. Dodano 26 twierdzeń oraz 10 własnych przypadków wzorcowych. S.32 przykład 21:4 ma niekonsekwentne punkty siatki; poprawny model zerowy to 0,4,...,80 i 0,21,42,63 na 84 częściach. Nie uogólniono historycznego opisu praktyki barokowej, akustyki ani zasad składu nutowego. Odczyt Drive raportuje 178 stron zamiast 179 oryginału, wymaga uzgodnienia; brak części obrazów, nie zamknięto pełnej lektury. Kolejna partia 41–50. Przypadki nie są testami silnika.

@@ -1364,6 +1364,159 @@
       "expected": {
         "sounding": "C6"
       }
+    },
+    {
+      "id": "WR01",
+      "domain": "notation",
+      "input": {
+        "note": "sixteenth"
+      },
+      "expected": {
+        "whole": [
+          1,
+          16
+        ]
+      }
+    },
+    {
+      "id": "WR02",
+      "domain": "notation",
+      "input": {
+        "note": "quarter",
+        "dots": 2
+      },
+      "expected": {
+        "whole": [
+          7,
+          16
+        ]
+      }
+    },
+    {
+      "id": "WR03",
+      "domain": "notation",
+      "input": {
+        "note": "half",
+        "dots": 3
+      },
+      "expected": {
+        "whole": [
+          15,
+          16
+        ]
+      }
+    },
+    {
+      "id": "WR04",
+      "domain": "notation",
+      "input": {
+        "meter": [
+          3,
+          4
+        ],
+        "rest": "whole-measure"
+      },
+      "expected": {
+        "whole": [
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "WR05",
+      "domain": "notation",
+      "input": {
+        "note": "eighth",
+        "actual": 5,
+        "normal": 4
+      },
+      "expected": {
+        "single": [
+          1,
+          10
+        ],
+        "group": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "WR06",
+      "domain": "notation",
+      "input": {
+        "note": "eighth",
+        "actual": 2,
+        "normal": 3
+      },
+      "expected": {
+        "single": [
+          3,
+          16
+        ],
+        "group": [
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "id": "WR07",
+      "domain": "notation",
+      "input": {
+        "divisions": [
+          21,
+          4
+        ]
+      },
+      "expected": {
+        "grid": 84,
+        "firstStep": 4,
+        "secondStep": 21,
+        "origin": 0
+      }
+    },
+    {
+      "id": "WR08",
+      "domain": "notation",
+      "input": {
+        "meter": [
+          7,
+          8
+        ]
+      },
+      "expected": {
+        "whole": [
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "WR09",
+      "domain": "notation",
+      "input": {
+        "writtenMidi": 67,
+        "octaveShift": -1
+      },
+      "expected": {
+        "soundingMidi": 55
+      }
+    },
+    {
+      "id": "WR10",
+      "domain": "notation",
+      "input": {
+        "symbol": "fermata",
+        "duration": [
+          1,
+          4
+        ]
+      },
+      "expected": {
+        "fixedMultiplier": null
+      }
     }
   ]
 }

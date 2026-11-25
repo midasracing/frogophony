@@ -1254,6 +1254,45 @@
         "WES-KEY-SIGNATURE-CONTEXT"
       ],
       "remaining": "Individual musical examples and exercises require review."
+    },
+    {
+      "sourceId": "WES-1986-UPLOAD",
+      "ranges": [
+        [
+          1,
+          40
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "WES-SOUND-MEDIUM",
+        "WES-PURE-TONE",
+        "WES-RESONANCE",
+        "WES-OCTAVE-RATIO",
+        "WES-REVERB",
+        "WES-LEDGER-LINES",
+        "WES-CLEF-ANCHOR",
+        "WES-HISTORICAL-CLEFS",
+        "WES-TENOR-OCTAVE",
+        "WES-CLEF-CHANGE",
+        "WES-OCTAVE-NAMES",
+        "WES-DURATION-BINARY",
+        "WES-FLAGS-BEAMS",
+        "WES-STEM-SIDE",
+        "WES-REST-MEASURE",
+        "WES-MULTIREST",
+        "WES-DOT-SERIES",
+        "WES-FERMATA",
+        "WES-TUPLET-RATIO",
+        "WES-TUPLET-REST",
+        "WES-POLYRHYTHM-GRID",
+        "WES-MEASURE-SUM",
+        "WES-ALLA-BREVE",
+        "WES-METRIC-ACCENT",
+        "WES-RHYTHM-TYPES",
+        "WES-BEAM-METRIC"
+      ],
+      "remaining": "Drive extraction lists 178 pages vs original 179; page 2 blank not displayed, some images omitted. Pages 1–40 inspected sequentially, no note-by-note transcription of repertory examples. Full review batches remain pending until every page and figure is explicitly checked. Next sequential range 41–50."
     }
   ]
 }

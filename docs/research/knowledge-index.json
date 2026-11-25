@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 252,
-    "fixtures": 84,
+    "claims": 278,
+    "fixtures": 94,
     "competencies": 73,
     "partial": 57
   },
@@ -67,7 +67,33 @@
       "WES-KEY-FLAT",
       "WES-KEY-FIFTHS",
       "WES-KEY-EXTENDED",
-      "WES-KEY-SIGNATURE-CONTEXT"
+      "WES-KEY-SIGNATURE-CONTEXT",
+      "WES-SOUND-MEDIUM",
+      "WES-PURE-TONE",
+      "WES-RESONANCE",
+      "WES-OCTAVE-RATIO",
+      "WES-REVERB",
+      "WES-LEDGER-LINES",
+      "WES-CLEF-ANCHOR",
+      "WES-HISTORICAL-CLEFS",
+      "WES-TENOR-OCTAVE",
+      "WES-CLEF-CHANGE",
+      "WES-OCTAVE-NAMES",
+      "WES-DURATION-BINARY",
+      "WES-FLAGS-BEAMS",
+      "WES-STEM-SIDE",
+      "WES-REST-MEASURE",
+      "WES-MULTIREST",
+      "WES-DOT-SERIES",
+      "WES-FERMATA",
+      "WES-TUPLET-RATIO",
+      "WES-TUPLET-REST",
+      "WES-POLYRHYTHM-GRID",
+      "WES-MEASURE-SUM",
+      "WES-ALLA-BREVE",
+      "WES-METRIC-ACCENT",
+      "WES-RHYTHM-TYPES",
+      "WES-BEAM-METRIC"
     ],
     "OMT2-INV": [
       "TRI-INV",
@@ -411,7 +437,11 @@
         "PL-SHARP",
         "STAFF",
         "WES-ACC-SCOPE",
+        "WES-CLEF-ANCHOR",
         "WES-DOUBLE-ACC",
+        "WES-FLAGS-BEAMS",
+        "WES-LEDGER-LINES",
+        "WES-OCTAVE-NAMES",
         "WES-OTTAVA"
       ]
     },
@@ -481,6 +511,11 @@
         "PL-PICKUP",
         "PL-RHY-GROUP",
         "TIE",
+        "WES-DOT-SERIES",
+        "WES-DURATION-BINARY",
+        "WES-MEASURE-SUM",
+        "WES-METRIC-ACCENT",
+        "WES-REST-MEASURE",
         "WES-TEMPO",
         "WES-TUPLET"
       ]
@@ -538,6 +573,8 @@
         "PL-PICKUP",
         "PL-RHY-GROUP",
         "PL-SYNCOPE",
+        "WES-METRIC-ACCENT",
+        "WES-POLYRHYTHM-GRID",
         "WES-TUPLET"
       ]
     },
@@ -742,9 +779,15 @@
         "PL-POLYRHYTHM",
         "STAFF",
         "WES-ACC-SCOPE",
+        "WES-BEAM-METRIC",
         "WES-C-CLEFS",
+        "WES-CLEF-ANCHOR",
+        "WES-CLEF-CHANGE",
         "WES-DOUBLE-ACC",
+        "WES-HISTORICAL-CLEFS",
+        "WES-LEDGER-LINES",
         "WES-OTTAVA",
+        "WES-TUPLET-RATIO",
         "WES-UNISON-VOICES"
       ]
     },
@@ -827,7 +870,8 @@
         "DK-SIGHT",
         "DK-TRANSPOSE",
         "DK-VERTICAL",
-        "PL-TRANSPOSE"
+        "PL-TRANSPOSE",
+        "WES-TENOR-OCTAVE"
       ]
     },
     "II-SLUCH-09": {
@@ -865,7 +909,12 @@
         "DROB-WAVE",
         "WES-C-CLEFS",
         "WES-HARMONICS",
-        "WES-SOUND"
+        "WES-OCTAVE-NAMES",
+        "WES-PURE-TONE",
+        "WES-RESONANCE",
+        "WES-REVERB",
+        "WES-SOUND",
+        "WES-SOUND-MEDIUM"
       ]
     },
     "II-ZAS-02": {
@@ -880,6 +929,7 @@
         "MINOR-NAT",
         "WES-12TET",
         "WES-MAJOR-HARM",
+        "WES-OCTAVE-RATIO",
         "WES-TETRACHORD"
       ]
     },
@@ -963,8 +1013,19 @@
         "PL-RHY-GROUP",
         "PL-SYNCOPE",
         "TIE",
+        "WES-ALLA-BREVE",
+        "WES-BEAM-METRIC",
+        "WES-DOT-SERIES",
         "WES-DUPLET",
-        "WES-TUPLET"
+        "WES-DURATION-BINARY",
+        "WES-FLAGS-BEAMS",
+        "WES-MEASURE-SUM",
+        "WES-POLYRHYTHM-GRID",
+        "WES-REST-MEASURE",
+        "WES-RHYTHM-TYPES",
+        "WES-TUPLET",
+        "WES-TUPLET-RATIO",
+        "WES-TUPLET-REST"
       ]
     },
     "II-ZAS-09": {
@@ -972,6 +1033,8 @@
       "claimIds": [
         "DROB-TEMPO",
         "WES-ARTIC",
+        "WES-FERMATA",
+        "WES-MULTIREST",
         "WES-TEMPO",
         "WES-TREMOLO",
         "WOJ-PLAY"
@@ -980,6 +1043,8 @@
     "II-ZAS-10": {
       "status": "partial",
       "claimIds": [
+        "WES-CLEF-CHANGE",
+        "WES-STEM-SIDE",
         "WES-UNISON-VOICES",
         "XML-DUR",
         "XML-PITCH",
@@ -4041,6 +4106,297 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "WES-SOUND-MEDIUM": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-PURE-TONE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-RESONANCE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-OCTAVE-RATIO": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-REVERB": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-LEDGER-LINES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CLEF-ANCHOR": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-HISTORICAL-CLEFS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TENOR-OCTAVE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [
+        "WR09"
+      ],
+      "releaseApproved": false
+    },
+    "WES-CLEF-CHANGE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01",
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-OCTAVE-NAMES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DURATION-BINARY": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "WR01"
+      ],
+      "releaseApproved": false
+    },
+    "WES-FLAGS-BEAMS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-STEM-SIDE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-REST-MEASURE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "WR04"
+      ],
+      "releaseApproved": false
+    },
+    "WES-MULTIREST": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DOT-SERIES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "WR02",
+        "WR03"
+      ],
+      "releaseApproved": false
+    },
+    "WES-FERMATA": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [
+        "WR10"
+      ],
+      "releaseApproved": false
+    },
+    "WES-TUPLET-RATIO": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "WR05",
+        "WR06"
+      ],
+      "releaseApproved": false
+    },
+    "WES-TUPLET-REST": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-POLYRHYTHM-GRID": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-02",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "WR07"
+      ],
+      "releaseApproved": false
+    },
+    "WES-MEASURE-SUM": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "WR08"
+      ],
+      "releaseApproved": false
+    },
+    "WES-ALLA-BREVE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-METRIC-ACCENT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-RHYTHM-TYPES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-BEAM-METRIC": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -4204,6 +4560,36 @@
     ],
     "AC10": [
       "DROB-TRUMPET"
+    ],
+    "WR09": [
+      "WES-TENOR-OCTAVE"
+    ],
+    "WR01": [
+      "WES-DURATION-BINARY"
+    ],
+    "WR04": [
+      "WES-REST-MEASURE"
+    ],
+    "WR02": [
+      "WES-DOT-SERIES"
+    ],
+    "WR03": [
+      "WES-DOT-SERIES"
+    ],
+    "WR10": [
+      "WES-FERMATA"
+    ],
+    "WR05": [
+      "WES-TUPLET-RATIO"
+    ],
+    "WR06": [
+      "WES-TUPLET-RATIO"
+    ],
+    "WR07": [
+      "WES-POLYRHYTHM-GRID"
+    ],
+    "WR08": [
+      "WES-MEASURE-SUM"
     ]
   }
 }

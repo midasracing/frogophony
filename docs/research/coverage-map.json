@@ -14,7 +14,11 @@
         "ACC-NATURAL",
         "WES-OTTAVA",
         "WES-DOUBLE-ACC",
-        "WES-ACC-SCOPE"
+        "WES-ACC-SCOPE",
+        "WES-LEDGER-LINES",
+        "WES-CLEF-ANCHOR",
+        "WES-OCTAVE-NAMES",
+        "WES-FLAGS-BEAMS"
       ],
       "status": "partial"
     },
@@ -89,7 +93,12 @@
         "WES-TUPLET",
         "WES-TEMPO",
         "DK-RHY-METER",
-        "DROB-TEMPO"
+        "DROB-TEMPO",
+        "WES-DURATION-BINARY",
+        "WES-REST-MEASURE",
+        "WES-DOT-SERIES",
+        "WES-MEASURE-SUM",
+        "WES-METRIC-ACCENT"
       ],
       "status": "partial"
     },
@@ -152,7 +161,9 @@
         "PL-PICKUP",
         "WES-TUPLET",
         "DK-REST",
-        "DK-TUPLET"
+        "DK-TUPLET",
+        "WES-POLYRHYTHM-GRID",
+        "WES-METRIC-ACCENT"
       ],
       "status": "partial"
     },
@@ -379,7 +390,13 @@
         "WES-DOUBLE-ACC",
         "WES-ACC-SCOPE",
         "DK-TUPLET",
-        "WES-UNISON-VOICES"
+        "WES-UNISON-VOICES",
+        "WES-LEDGER-LINES",
+        "WES-CLEF-ANCHOR",
+        "WES-HISTORICAL-CLEFS",
+        "WES-CLEF-CHANGE",
+        "WES-TUPLET-RATIO",
+        "WES-BEAM-METRIC"
       ],
       "status": "partial"
     },
@@ -468,7 +485,8 @@
         "DK-SIGHT",
         "DK-ACCOMP",
         "DK-VERTICAL",
-        "DK-TRANSPOSE"
+        "DK-TRANSPOSE",
+        "WES-TENOR-OCTAVE"
       ],
       "status": "partial"
     },
@@ -509,7 +527,12 @@
         "DROB-HARM",
         "DROB-MISSING",
         "DROB-STRING",
-        "DROB-PIPE"
+        "DROB-PIPE",
+        "WES-SOUND-MEDIUM",
+        "WES-PURE-TONE",
+        "WES-RESONANCE",
+        "WES-REVERB",
+        "WES-OCTAVE-NAMES"
       ],
       "status": "partial"
     },
@@ -525,7 +548,8 @@
         "DROB-JUST",
         "DROB-CENT",
         "DROB-ET",
-        "WES-TETRACHORD"
+        "WES-TETRACHORD",
+        "WES-OCTAVE-RATIO"
       ],
       "status": "partial"
     },
@@ -615,7 +639,18 @@
         "PL-POLYMETER",
         "PL-PICKUP",
         "WES-TUPLET",
-        "WES-DUPLET"
+        "WES-DUPLET",
+        "WES-DURATION-BINARY",
+        "WES-FLAGS-BEAMS",
+        "WES-REST-MEASURE",
+        "WES-DOT-SERIES",
+        "WES-TUPLET-RATIO",
+        "WES-TUPLET-REST",
+        "WES-POLYRHYTHM-GRID",
+        "WES-MEASURE-SUM",
+        "WES-ALLA-BREVE",
+        "WES-RHYTHM-TYPES",
+        "WES-BEAM-METRIC"
       ],
       "status": "partial"
     },
@@ -626,7 +661,9 @@
         "WES-TREMOLO",
         "WES-TEMPO",
         "WOJ-PLAY",
-        "DROB-TEMPO"
+        "DROB-TEMPO",
+        "WES-MULTIREST",
+        "WES-FERMATA"
       ],
       "status": "partial"
     },
@@ -637,7 +674,9 @@
         "XML-DUR",
         "XML-TIE",
         "XML-PITCH-STRUCT",
-        "WES-UNISON-VOICES"
+        "WES-UNISON-VOICES",
+        "WES-CLEF-CHANGE",
+        "WES-STEM-SIDE"
       ],
       "status": "partial"
     },
