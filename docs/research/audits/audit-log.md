@@ -163,3 +163,6 @@ Kontrola końcowa przypadków TN48–49: jawnie rozdzielono prymę funkcyjną pr
 
 ## Sikorski — ciągła lektura PDF 101–184
 48 twierdzeń, 15 przypadków oczekiwanych. D7 i D9, rozwiązania regularne i swobodne, akordy bez prymy, opóźnienia, akordy poboczne. Szczególne reguły zdwojeń i przewrotów zapisane w profilu autora. Wykryto rzeczywisty brak rozdziałów VI–VIII (§§34–44) cz.I: PDF 180 kończy się na druk.190, a PDF 181 otwiera cz.II; spis cz.II od §45. Nie uznawać 499 stron za kompletny tekst obu tomów. Nie uzupełniano braków z wiedzy modelu. Kontrola wszystkich przykładów nuta po nucie i testy silnika pozostają otwarte.
+
+## Sikorski — PDF 185–288
+35 twierdzeń, 6 własnych przypadków wzorcowych. Odczyt obrazów, nie niezależne rozwiązanie przykładów. Rozdzielono szkielet harmoniczny od figuracji, opóźnienia od akordów samodzielnych, realne głosy od oktawowych zdwojeń; historyczne twierdzenia nie zostały przeniesione jako fakty. Brak testów muzycznych i recenzji.

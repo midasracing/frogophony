@@ -13265,6 +13265,613 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "SIK-NONCHORD-TAXONOMY",
+      "statement": "Autor dzieli dźwięki obce na opóźniające, przypadające na początek akordu, oraz przejściowe, pomocnicze, zamienne, wyprzedzające i oderwane, pojawiające się podczas jego trwania.",
+      "scope": "Systematyka autora; funkcję ustalać z przebiegu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 9–9 (PDF 188–188)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-DIRECTION-II",
+      "statement": "Pojedyncze opóźnienie może pochodzić z góry lub z dołu; dolne preferuje półton, górne sekundę gamowłaściwą.",
+      "scope": "Preferencje profilu, nie bezwzględny wymóg.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 10–12 (PDF 189–191)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-DOUBLE-MEMBER",
+      "statement": "Dopuszczalne jest współbrzmienie dźwięku opóźniającego i zdwojonego składnika opóźnionego, z ograniczeniami odległości i położenia.",
+      "scope": "Nie każdy przypadek zdwojenia jest równoważny.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 12–14 (PDF 191–193)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-CHANGE-CHORD",
+      "statement": "Rozwiązanie opóźnienia może zbiec się ze zmianą akordu, zachowując kierunek ruchu ku składnikowi nowego akordu.",
+      "scope": "Wymaga identyfikacji głosu i funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 15–16 (PDF 194–195)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-INDIRECT",
+      "statement": "Rozwiązanie opóźnienia może być pośrednie przez inny składnik akordu lub dźwięk zamienny.",
+      "scope": "Odróżniać od opóźnienia bez rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 16–17 (PDF 195–196)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-CHOPIN",
+      "statement": "Autor opisuje niezrealizowane opóźnienie kwinty przez sekstę jako możliwy samodzielny składnik dominanty, również w akordzie nonowym (postać akordu Chopinowskiego).",
+      "scope": "Analiza zależy od kontekstu; nie wyczerpuje definicji akordu Chopinowskiego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 18–19 (PDF 197–198)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIGURED-BASS-SUSP-II",
+      "statement": "Cyfry basu cyfrowanego odnoszą się do aktualnego basu; ukośna kreska może wskazywać opóźnienie basu, a pozioma zachowanie harmonii.",
+      "scope": "Konwencja autora, nie każdej historycznej edycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 20–23 (PDF 199–202)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PASSING-NOTE",
+      "statement": "Dźwięk przejściowy wypełnia odstęp między dźwiękami ruchem sekundowym w jednym kierunku; może być diatoniczny lub chromatyczny.",
+      "scope": "Klasyfikacja wymaga poprzednika i następnika.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 25–27 (PDF 204–206)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK29"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PASSING-CHROMATIC",
+      "statement": "W chromatycznym przejściu autor najczęściej podwyższa pierwszy stopień w ruchu wstępującym lub obniża w zstępującym, uwzględniając pisownię gamy nieregularnej.",
+      "scope": "Nie wymuszać jednej pisowni każdego chromatycznego przebiegu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 26–27 (PDF 205–206)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-AUXILIARY-NOTE",
+      "statement": "Dźwięk pomocniczy jest sekundowym odchyleniem od powtarzanej wysokości; górny jest zwykle gamowłaściwy, dolny przeważnie półtonowy, z wyjątkiem wskazanego przypadku dźwięku prowadzącego.",
+      "scope": "Ujęcie autora, także w połączeniu z innymi dźwiękami obcymi.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 28–29 (PDF 207–208)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK30"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-EXCHANGE-NOTE",
+      "statement": "Dźwięk zamienny osiąga się skokiem, po czym prowadzi sekundą do kolejnego dźwięku akordowego lub obcego.",
+      "scope": "Nie mylić z oderwanym, którego ruch jest odwrotny.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 30–31 (PDF 209–210)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK31"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-ANTICIPATION",
+      "statement": "Dźwięk wyprzedzający powtarza z góry w tym samym głosie bezpośrednio następujący dźwięk; jego wartość jest zwykle krótsza, najwyżej równa następnej.",
+      "scope": "Ujęcie §47, nie dowolna nuta należąca do kolejnego akordu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 31–32 (PDF 210–211)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK33"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-DETACHED-NOTE",
+      "statement": "Dźwięk oderwany osiągany jest sekundą, a opuszczany skokiem; jeżeli należy do następnego akordu, może być interpretowany jako swobodne wyprzedzenie w innym głosie.",
+      "scope": "Zachować kierunek ruchu i kontekst.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 32–33 (PDF 211–212)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK32"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIGURATION-TWO-STAGES",
+      "statement": "Figuracja melodyczna może polegać na samych dźwiękach obcych albo najpierw na urozmaiceniu głosu składnikami akordu, potem na dodaniu dźwięków obcych.",
+      "scope": "Podczas figuracji chwilowy brak tercji na słabej części może być dopuszczalny.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 34–36 (PDF 213–215)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIGURATION-PARALLELS",
+      "statement": "Wstawienie dźwięku obcego nie usuwa automatycznie zakazanych kwint i oktaw szkieletu; autor dopuszcza niektóre następstwa zaczynające się na słabej części albo rozdzielone dźwiękami akordowymi w powtórzeniu.",
+      "scope": "Sprawdzać szkielet oraz figurację oddzielnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 37–37 (PDF 216–216)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIGURATION-RHYTHM",
+      "statement": "W początkowych ćwiczeniach autor zaleca stopniowo zagęszczać rytm i uspokajać go przed kadencją, unikać nieuzasadnionych kontrastów oraz nadmiaru skoków i chromatyki.",
+      "scope": "Zalecenia kompozycyjne, nie ścisłe zakazy każdej melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 38–38 (PDF 217–217)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MULTI-SUSPENSION",
+      "statement": "Dwa różne składniki mogą być opóźnione z tego samego lub przeciwnych kierunków; opóźnienie obu wystąpień zdwojonego składnika może pochodzić tylko z dwóch przeciwnych kierunków.",
+      "scope": "Profil §49; inne warunki nadal obowiązują.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 45–47 (PDF 224–226)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TRIPLE-SUSPENSION",
+      "statement": "W czterogłosowym trójdźwięku potrójne opóźnienie wymaga zdwojenia jednego ze składników docelowych; autor preferuje prymę zdwojoną poniżej opóźnianej prymy.",
+      "scope": "Dotyczy trzech różnych opóźnianych składników.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 48–48 (PDF 227–227)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-QUADRUPLE-SUSPENSION",
+      "statement": "Cztery opóźnienia mogą tworzyć znany akord i wówczas autor preferuje analizę jako połączenie dwóch akordów; właściwy charakter poczwórnego opóźnienia zachowuje współbrzmienie dysonansowe niebędące jednym z omówionych akordów.",
+      "scope": "Rozróżnienie analityczne, nie sam test liczby dźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 51–52 (PDF 230–231)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MULTI-SUSPENSION-STAGGER",
+      "statement": "Dwa, trzy lub cztery opóźnienia mogą rozwiązywać się bezpośrednio albo pośrednio, kolejno zamiast równocześnie.",
+      "scope": "Oceniać każdy głos i moment rozwiązania.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 53–54 (PDF 232–233)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MULTI-NONCHORD",
+      "statement": "Dźwięki obce drugiego rodzaju mogą występować równocześnie w kilku głosach, tworząc współbrzmienia konsonansowe lub dysonansowe; autor zaleca unikać ostrych dysonansów przy ich bezpośrednim zetknięciu.",
+      "scope": "Zalecenie brzmieniowe określonego profilu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 57–59 (PDF 236–238)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PASSING-CHORD",
+      "statement": "Cztery równoczesne dźwięki obce mogą utworzyć akord przejściowy o budowie znanego akordu bez nadania mu samodzielnej funkcji.",
+      "scope": "Rozpoznanie wymaga szkieletu harmonicznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 62–63 (PDF 241–242)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SUSPENSION-PLUS-NONCHORD",
+      "statement": "Podczas trwania dźwięku opóźniającego w innych głosach mogą pojawiać się dźwięki obce drugiego rodzaju; chwilowe zdwojenie opóźniającego autor dopuszcza pod warunkiem wejścia w odległości co najmniej oktawy.",
+      "scope": "Szczególny przypadek §50.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 64–65 (PDF 243–244)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIGURATION-COMPLEMENTARY",
+      "statement": "Figurując wiele głosów autor preferuje rytmiczne uzupełnianie się głosów, ogranicza długie jednorodne ruchy i proponuje początkowo plan figuracji, później swobodę.",
+      "scope": "Zalecenie dydaktyczne, nie jedyna dopuszczalna faktura.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 66–68 (PDF 245–247)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-HARMONIZE-FIGURED",
+      "statement": "W harmonizacji melodii figurowanej najpierw rozpoznaje się szkielet akordowy i dźwięki obce, następnie tworzy pozostałe głosy, poprawia prowadzenie i dopiero je figuruje; podana melodia jest niezmiennym cantus firmus.",
+      "scope": "Metodyka autora, nie jedyna poprawna harmonizacja.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 74–77 (PDF 253–256)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-THREE-VOICE-OMISSION",
+      "statement": "W trzy­głosowym trójdźwięku dur lub moll autor preferuje opuszczenie kwinty, gdy nie da się zachować wszystkich składników; w akordzie zmniejszonym lub zwiększonym brak prymy lub kwinty usuwa istotny dysonans.",
+      "scope": "Nie stosować automatycznie zasad czterogłosowych.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 78–79 (PDF 257–258)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TWO-VOICE-OMISSION",
+      "statement": "W dwugłosie trójdźwięk dur lub moll najczęściej reprezentuje się bez kwinty; w zmniejszonym i zwiększonym autor preferuje pozostawienie charakterystycznej kwinty i prymy.",
+      "scope": "W kadencji końcowej oraz określonych funkcjach obowiązują wyjątki.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 80–81 (PDF 259–260)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-REDUCED-VOICES-AMBIGUITY",
+      "statement": "Usunięcie składników w dwu- i trzygłosie może uczynić funkcję wieloznaczną; autor wyjaśnia ją za pomocą następstwa harmonii i ruchu melodii.",
+      "scope": "Nie zgadywać brakującej prymy z samego dwudźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 83–84 (PDF 262–263)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-OCTAVE-REINFORCEMENT",
+      "statement": "Zdwojenia oktawowe jednego realnego głosu nie zwiększają liczby samodzielnych głosów; wynikające z takiego wzmocnienia równoległe kwinty nie są błędem między niezależnymi liniami.",
+      "scope": "Odróżniać instrumentację i strukturę kontrapunktyczną.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 89–93 (PDF 268–272)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK34"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TEXTURE-TYPES",
+      "statement": "Sikorski odróżnia polifonię samodzielnych linii, homofonię melodii z podporządkowanymi głosami i pośrednią technikę polifonizującą, w której głosy akompaniujące uzyskują pewną niezależność.",
+      "scope": "Opis typów faktury, nie jedyny model klasyfikacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 95–95 (PDF 274–274)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHORD-FIGURATION",
+      "statement": "Figuracja akordowa polega na rozkładaniu akordu na składniki lub grupy, w odróżnieniu od figuracji melodycznej opartej głównie na dźwiękach obcych; autor omawia rozłożone, powtarzane akordy i model bas–akord.",
+      "scope": "Faktura homofoniczna nie jest tożsama ze ścisłym SATB.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 96–102 (PDF 275–281)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODULATION-DEFINITION-II",
+      "statement": "Modulacja właściwa ustanawia nową tonację przez kadencję; krótkie wychylenie zachowujące więź z główną tonacją autor nazywa zboczeniem modulacyjnym.",
+      "scope": "Terminologia Sikorskiego, bez sztywnej liczby taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 103–104 (PDF 282–283)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODULATION-TYPES-II",
+      "statement": "Zmiana funkcji akordu bez istotnej zmiany jego składników daje modulację diatoniczną, przy zmianie chromatycznej — chromatyczną, przy enharmonicznej — enharmoniczną; chromatyczne dźwięki obce nie zmieniają same typu modulacji.",
+      "scope": "Rozpatrywać akordy i ich funkcje, nie każdą nutę.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 104–104 (PDF 283–283)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODULATION-PIVOT-II",
+      "statement": "W diatonicznej modulacji akord wieloznaczny staje się akordem wejściowym nowej tonacji; jego nową funkcję potwierdza następujący przebieg kadencyjny.",
+      "scope": "Sam akord wspólny nie ustanawia tonacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 103–107 (PDF 282–286)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MODULATION-CHAR-DISSONANCE",
+      "statement": "Autor wzmacnia nową funkcję przez odpowiedni przewrót i zdwojenie lub dodanie charakterystycznego dysonansu: małej septymy dominanty, wielkiej seksty subdominanty, wielkiej lub małej nony dominanty.",
+      "scope": "Profil Sikorskiego; dysonans może być dodany dopiero po zmianie funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz.II druk. 108–109 (PDF 287–288)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

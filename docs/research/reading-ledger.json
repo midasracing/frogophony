@@ -1954,6 +1954,54 @@
         "SIK-SECONDARY-CHORD-CONTEXT"
       ],
       "remaining": "Odczyt kolejnych obrazów PDF 101–184 z osadzonych JPEG. PDF 180 kończy cz.I druk. s.190, §33, PDF 181–184 rozpoczyna cz.II (PWM 1979, ISBN 83-224-0101-9), której spis zaczyna się od rozdz.IX §45. Brak rozdz. VI–VIII i §§34–44 cz.I w dostarczonym pliku. Nie wypełniać luk z pamięci. Przykłady i zadania obejrzane w montażach po 4 strony, nie wszystkie nuty zweryfikowano. Następny PDF 185."
+    },
+    {
+      "sourceId": "SIK-HAR-UPLOAD",
+      "ranges": [
+        [
+          185,
+          288
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "SIK-NONCHORD-TAXONOMY",
+        "SIK-SUSPENSION-DIRECTION-II",
+        "SIK-SUSPENSION-DOUBLE-MEMBER",
+        "SIK-SUSPENSION-CHANGE-CHORD",
+        "SIK-SUSPENSION-INDIRECT",
+        "SIK-SUSPENSION-CHOPIN",
+        "SIK-FIGURED-BASS-SUSP-II",
+        "SIK-PASSING-NOTE",
+        "SIK-PASSING-CHROMATIC",
+        "SIK-AUXILIARY-NOTE",
+        "SIK-EXCHANGE-NOTE",
+        "SIK-ANTICIPATION",
+        "SIK-DETACHED-NOTE",
+        "SIK-FIGURATION-TWO-STAGES",
+        "SIK-FIGURATION-PARALLELS",
+        "SIK-FIGURATION-RHYTHM",
+        "SIK-MULTI-SUSPENSION",
+        "SIK-TRIPLE-SUSPENSION",
+        "SIK-QUADRUPLE-SUSPENSION",
+        "SIK-MULTI-SUSPENSION-STAGGER",
+        "SIK-MULTI-NONCHORD",
+        "SIK-PASSING-CHORD",
+        "SIK-SUSPENSION-PLUS-NONCHORD",
+        "SIK-FIGURATION-COMPLEMENTARY",
+        "SIK-HARMONIZE-FIGURED",
+        "SIK-THREE-VOICE-OMISSION",
+        "SIK-TWO-VOICE-OMISSION",
+        "SIK-REDUCED-VOICES-AMBIGUITY",
+        "SIK-OCTAVE-REINFORCEMENT",
+        "SIK-TEXTURE-TYPES",
+        "SIK-CHORD-FIGURATION",
+        "SIK-MODULATION-DEFINITION-II",
+        "SIK-MODULATION-TYPES-II",
+        "SIK-MODULATION-PIVOT-II",
+        "SIK-MODULATION-CHAR-DISSONANCE"
+      ],
+      "remaining": "Odczyt kolejnych obrazów PDF 185–288 (druk. cz.II 6–109), montaż po 4 strony. Opracowanie dźwięków obcych, figuracji, faktury i początku modulacji; przykłady nutowe obejrzane, nie rozwiązane indywidualnie. Następny PDF 289."
     }
   ]
 }

@@ -4070,6 +4070,131 @@
         "preferredBass": "A",
         "preferredDoubledPitch": "A"
       }
+    },
+    {
+      "id": "SK29",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "C4",
+          "D4",
+          "E4"
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "middleRole": "passing",
+        "direction": "up"
+      }
+    },
+    {
+      "id": "SK30",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "E4",
+          "F4",
+          "E4"
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "middleRole": "upper-auxiliary"
+      }
+    },
+    {
+      "id": "SK31",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "C4",
+          "F4",
+          "E4"
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "middleRole": "zamienny"
+      }
+    },
+    {
+      "id": "SK32",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "E4",
+          "F4",
+          "C4"
+        ],
+        "chord": [
+          "C",
+          "E",
+          "G"
+        ]
+      },
+      "expected": {
+        "middleRole": "oderwany"
+      }
+    },
+    {
+      "id": "SK33",
+      "domain": "harmony",
+      "input": {
+        "melody": [
+          "E4",
+          "D4",
+          "D4"
+        ],
+        "chords": [
+          [
+            "C",
+            "E",
+            "G"
+          ],
+          [
+            "C",
+            "E",
+            "G"
+          ],
+          [
+            "G",
+            "B",
+            "D"
+          ]
+        ],
+        "durations": [
+          2,
+          1,
+          2
+        ]
+      },
+      "expected": {
+        "middleRole": "anticipation"
+      }
+    },
+    {
+      "id": "SK34",
+      "domain": "harmony",
+      "input": {
+        "independentLines": 3,
+        "octaveDoubles": 2
+      },
+      "expected": {
+        "realVoices": 3,
+        "soundingParts": 5
+      }
     }
   ]
 }
