@@ -1738,6 +1738,265 @@
       "expected": {
         "uniqueGrouping": false
       }
+    },
+    {
+      "id": "WR19",
+      "domain": "theory",
+      "input": {
+        "letters": 7,
+        "alterations": [
+          -2,
+          -1,
+          0,
+          1,
+          2
+        ]
+      },
+      "expected": {
+        "spellings": 35,
+        "classesWithTwo": [
+          8
+        ],
+        "classesWithThree": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11
+        ]
+      }
+    },
+    {
+      "id": "WR20",
+      "domain": "theory",
+      "input": {
+        "tonic": "C",
+        "mode": "harmonic-minor"
+      },
+      "expected": {
+        "qualities": [
+          "minor",
+          "diminished",
+          "augmented",
+          "minor",
+          "major",
+          "major",
+          "diminished"
+        ]
+      }
+    },
+    {
+      "id": "WR21",
+      "domain": "theory",
+      "input": {
+        "tonic": "D",
+        "mode": "major"
+      },
+      "expected": {
+        "augmentedFourth": [
+          "G",
+          "C#"
+        ],
+        "diminishedFifth": [
+          "C#",
+          "G"
+        ]
+      }
+    },
+    {
+      "id": "WR22",
+      "domain": "theory",
+      "input": {
+        "tonic": "D",
+        "nextSharpKey": true
+      },
+      "expected": {
+        "tonic": "A",
+        "newSharp": "G#"
+      }
+    },
+    {
+      "id": "WR23",
+      "domain": "theory",
+      "input": {
+        "tonic": "G",
+        "fifths": 1,
+        "chromaticRaise": true
+      },
+      "expected": {
+        "tonic": "G#",
+        "theoreticalFifths": 8
+      }
+    },
+    {
+      "id": "WR24",
+      "domain": "theory",
+      "input": {
+        "tonics": [
+          "F#",
+          "Gb"
+        ],
+        "mode": "major"
+      },
+      "expected": {
+        "samePitchClasses": true,
+        "sameSpelling": false,
+        "fifths": [
+          6,
+          -6
+        ]
+      }
+    },
+    {
+      "id": "WR25",
+      "domain": "theory",
+      "input": {
+        "keys": [
+          "C",
+          "G"
+        ],
+        "mode": "major"
+      },
+      "expected": {
+        "commonPitchClasses": [
+          0,
+          2,
+          4,
+          7,
+          9,
+          11
+        ]
+      }
+    },
+    {
+      "id": "WR26",
+      "domain": "theory",
+      "input": {
+        "mode": "dorian",
+        "tonic": "D"
+      },
+      "expected": {
+        "offsets": [
+          0,
+          2,
+          3,
+          5,
+          7,
+          9,
+          10,
+          12
+        ]
+      }
+    },
+    {
+      "id": "WR27",
+      "domain": "theory",
+      "input": {
+        "starts": [
+          0,
+          1,
+          2
+        ]
+      },
+      "expected": {
+        "sets": [
+          [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10
+          ],
+          [
+            1,
+            3,
+            5,
+            7,
+            9,
+            11
+          ],
+          [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10
+          ]
+        ]
+      }
+    },
+    {
+      "id": "WR28",
+      "domain": "theory",
+      "input": {
+        "tonic": "C"
+      },
+      "expected": {
+        "offsets": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12
+        ]
+      }
+    },
+    {
+      "id": "WR29",
+      "domain": "theory",
+      "input": {
+        "body": [
+          1,
+          2,
+          3
+        ],
+        "first": [
+          4
+        ],
+        "second": [
+          5
+        ]
+      },
+      "expected": {
+        "playback": [
+          1,
+          2,
+          3,
+          4,
+          1,
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "id": "WR30",
+      "domain": "theory",
+      "input": {
+        "midi": 60,
+        "direction": "up"
+      },
+      "expected": {
+        "doubling": [
+          60,
+          72
+        ],
+        "transposition": [
+          72
+        ]
+      }
     }
   ]
 }

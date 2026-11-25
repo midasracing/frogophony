@@ -1344,6 +1344,78 @@
         "WES-DYNAMIC-CHANGE"
       ],
       "remaining": "Text and available figures reviewed. No complete independent solution of every exercise; examples not transcribed. Next sequential range 81–90."
+    },
+    {
+      "sourceId": "WES-1986-UPLOAD",
+      "ranges": [
+        [
+          81,
+          169
+        ],
+        [
+          170,
+          178
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "WES-EXPRESSIVE",
+        "WES-OSSIA",
+        "WES-SOLO-TUTTI",
+        "WES-SCALE-GAMMA",
+        "WES-DEGREES",
+        "WES-DIATONIC-TRITONES",
+        "WES-DIATONIC-THIRDS",
+        "WES-INTERVAL-PAIR",
+        "WES-ACCIDENTAL-NAMES",
+        "WES-ENHARMONIC-COUNT",
+        "WES-CHROMATIC-TONE",
+        "WES-KEY-CANCEL",
+        "WES-ACCIDENTAL-COLLISION",
+        "WES-HARM-MAJOR-INTERVALS",
+        "WES-CONSONANCE",
+        "WES-DISSONANCE-RESOLVE",
+        "WES-TERTIAN",
+        "WES-MINOR-HARM-TRIADS",
+        "WES-MINOR-MIX",
+        "WES-DEGREE-TRANSPOSE",
+        "WES-FIFTH-SIGNATURE",
+        "WES-THEORETICAL-KEYS",
+        "WES-KEY-ENHARMONY",
+        "WES-MINOR-CHROMATIC-SPELL",
+        "WES-FIFTH-RELATION",
+        "WES-THIRD-RELATION",
+        "WES-KEY-PICARDY",
+        "WES-KEY-CONTEXT",
+        "WES-CLEF-TRANSPOSE",
+        "WES-PENTATONIC",
+        "WES-PENTATONIC-CENTRAL",
+        "WES-GREEK-GENERA",
+        "WES-CHURCH-MODES",
+        "WES-MODE-PATTERNS",
+        "WES-TWO-AUG-SECONDS",
+        "WES-HIGHLAND-MODEL",
+        "WES-WHOLETONE-CLASSES",
+        "WES-ARTIC-DURATION",
+        "WES-GLISS-PORTAMENTO",
+        "WES-ARPEGGIO",
+        "WES-STRING-TECHNIQUES",
+        "WES-PHRASE-SLUR",
+        "WES-GRACE-LONG",
+        "WES-GRACE-SHORT",
+        "WES-MORDENT",
+        "WES-TURN",
+        "WES-TRILL",
+        "WES-REPEATS",
+        "WES-VOLTA",
+        "WES-NAVIGATION",
+        "WES-OCTAVE-DOUBLING",
+        "WES-MELODIC-CONTOUR",
+        "WES-TEXTURE",
+        "WES-IMITATION",
+        "WES-ENSEMBLE"
+      ],
+      "remaining": "S.81–169: tekst i udostępnione ilustracje; 170–178 indeks przejrzany jako narzędzie lokalizacji (część wyjścia narzędzia obcięta). Drive raportuje 178 stron wobec oryginału 179; brak uzgodnienia. Nie rozwiązano wszystkich zadań, nie odczytano każdej nuty i nie wykonano pełnej kontroli wszystkich ilustracji. Wszystkie pełne partie audytowe pozostają pending-full-review."
     }
   ]
 }

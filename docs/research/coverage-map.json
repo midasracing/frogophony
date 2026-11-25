@@ -236,7 +236,11 @@
         "DROB-TAXONOMY",
         "DROB-KEYBOARD",
         "DROB-VIOLIN",
-        "WES-DYNAMIC-LEVELS"
+        "WES-DYNAMIC-LEVELS",
+        "WES-MELODIC-CONTOUR",
+        "WES-TEXTURE",
+        "WES-IMITATION",
+        "WES-ENSEMBLE"
       ],
       "status": "partial"
     },
@@ -560,7 +564,10 @@
         "DROB-CENT",
         "DROB-ET",
         "WES-TETRACHORD",
-        "WES-OCTAVE-RATIO"
+        "WES-OCTAVE-RATIO",
+        "WES-SCALE-GAMMA",
+        "WES-DEGREES",
+        "WES-MINOR-MIX"
       ],
       "status": "partial"
     },
@@ -579,7 +586,16 @@
         "WES-KEY-FLAT",
         "WES-KEY-FIFTHS",
         "WES-KEY-EXTENDED",
-        "WES-KEY-SIGNATURE-CONTEXT"
+        "WES-KEY-SIGNATURE-CONTEXT",
+        "WES-KEY-CANCEL",
+        "WES-DEGREE-TRANSPOSE",
+        "WES-FIFTH-SIGNATURE",
+        "WES-THEORETICAL-KEYS",
+        "WES-FIFTH-RELATION",
+        "WES-THIRD-RELATION",
+        "WES-KEY-PICARDY",
+        "WES-KEY-CONTEXT",
+        "WES-CLEF-TRANSPOSE"
       ],
       "status": "partial"
     },
@@ -595,7 +611,12 @@
         "WES-CHROM-REG",
         "WES-CHROM-IRREG",
         "DROB-PYTH",
-        "WES-KEY-EXTENDED"
+        "WES-KEY-EXTENDED",
+        "WES-ACCIDENTAL-NAMES",
+        "WES-ENHARMONIC-COUNT",
+        "WES-CHROMATIC-TONE",
+        "WES-KEY-ENHARMONY",
+        "WES-MINOR-CHROMATIC-SPELL"
       ],
       "status": "partial"
     },
@@ -603,7 +624,15 @@
       "id": "II-ZAS-05",
       "claimIds": [
         "WES-WHOLETONE",
-        "WES-CHROM-ATONAL"
+        "WES-CHROM-ATONAL",
+        "WES-PENTATONIC",
+        "WES-PENTATONIC-CENTRAL",
+        "WES-GREEK-GENERA",
+        "WES-CHURCH-MODES",
+        "WES-MODE-PATTERNS",
+        "WES-TWO-AUG-SECONDS",
+        "WES-HIGHLAND-MODEL",
+        "WES-WHOLETONE-CLASSES"
       ],
       "status": "partial"
     },
@@ -620,7 +649,12 @@
         "WES-INTERVAL-NUMBER",
         "WES-COMPOUND",
         "WES-INV-PRACTICE",
-        "WES-UNISON"
+        "WES-UNISON",
+        "WES-DIATONIC-TRITONES",
+        "WES-DIATONIC-THIRDS",
+        "WES-INTERVAL-PAIR",
+        "WES-CONSONANCE",
+        "WES-TERTIAN"
       ],
       "status": "partial"
     },
@@ -632,7 +666,10 @@
         "PL-HARM-V79",
         "SIK-D7-INV",
         "TAR-D7",
-        "TAR-D7-RES"
+        "TAR-D7-RES",
+        "WES-HARM-MAJOR-INTERVALS",
+        "WES-DISSONANCE-RESOLVE",
+        "WES-MINOR-HARM-TRIADS"
       ],
       "status": "partial"
     },
@@ -699,7 +736,24 @@
         "WES-TEMPO-CHANGE",
         "WES-RUBATO",
         "WES-DYNAMIC-LEVELS",
-        "WES-DYNAMIC-CHANGE"
+        "WES-DYNAMIC-CHANGE",
+        "WES-EXPRESSIVE",
+        "WES-OSSIA",
+        "WES-SOLO-TUTTI",
+        "WES-ARTIC-DURATION",
+        "WES-GLISS-PORTAMENTO",
+        "WES-ARPEGGIO",
+        "WES-STRING-TECHNIQUES",
+        "WES-PHRASE-SLUR",
+        "WES-GRACE-LONG",
+        "WES-GRACE-SHORT",
+        "WES-MORDENT",
+        "WES-TURN",
+        "WES-TRILL",
+        "WES-REPEATS",
+        "WES-VOLTA",
+        "WES-NAVIGATION",
+        "WES-OCTAVE-DOUBLING"
       ],
       "status": "partial"
     },
@@ -714,7 +768,8 @@
         "WES-CLEF-CHANGE",
         "WES-STEM-SIDE",
         "WES-VOCAL-BEAMS",
-        "WES-PLASTIC-NOTATION"
+        "WES-PLASTIC-NOTATION",
+        "WES-ACCIDENTAL-COLLISION"
       ],
       "status": "partial"
     },

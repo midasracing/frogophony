@@ -5620,6 +5620,965 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WES-EXPRESSIVE",
+      "statement": "Dolce wskazuje łagodny charakter, marcato wyraźne podkreślanie dźwięków, pesante ciężki charakter, scherzando żartobliwy, cantabile śpiewny.",
+      "scope": "Wskazania jakościowe, nie stałe parametry syntezy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.80–82",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-OSSIA",
+      "statement": "Ossia oznacza alternatywny wariant wykonania lub zapisu.",
+      "scope": "Wybór wariantu zgodnie z partyturą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.81",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-SOLO-TUTTI",
+      "statement": "Solo wskazuje wykonawcę lub partię solową, tutti wykonanie przez cały zespół.",
+      "scope": "W konkretnym kontekście obsady.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.82",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-SCALE-GAMMA",
+      "statement": "Skala określa model uporządkowanych wysokości, gama konkretyzuje ten model od danej wysokości.",
+      "scope": "W konwencji dydaktycznej autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§25–27, s.83–85",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DEGREES",
+      "statement": "W systemie dur-moll I to tonika, III medianta, IV subdominanta, V dominanta, VI submedianta; VII w dur jest dźwiękiem prowadzącym.",
+      "scope": "Nazwy stopni, odróżniać od funkcji akordów; w moll naturalnym VII nie jest półtonowym dźwiękiem prowadzącym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.84–85,108–110",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DIATONIC-TRITONES",
+      "statement": "W gamie durowej naturalnej IV–VII w górę daje kwartę zwiększoną, VII–IV w górę kwintę zmniejszoną.",
+      "scope": "Zachować kolejność stopni i rejestr; obie mają sześć półtonów w 12-TET.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.89",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR21"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DIATONIC-THIRDS",
+      "statement": "W naturalnym dur tercje wielkie w górę od I, IV i V stopnia, pozostałe tercje diatoniczne są małe.",
+      "scope": "Tabela s.89; przypis z VI zamiast V jest niespójny z tabelą i stopniami gamy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.89",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-INTERVAL-PAIR",
+      "statement": "Interwały w strukturze wielogłosowej bada się parami głosów, zarówno sąsiednimi, jak i niesąsiednimi.",
+      "scope": "Odróżniać interwał pionowy od melodycznego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.91,99–100",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ACCIDENTAL-NAMES",
+      "statement": "Polskie nazwy przy podwójnych obniżeniach obejmują m.in. ceses, eses, asas, heses; obniżone h pojedynczo to b.",
+      "scope": "Polski system literowy, nie anglosaski B/Bb.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.93,97",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ENHARMONIC-COUNT",
+      "statement": "W 12-TET i zbiorze pisowni z siedmiu liter oraz alteracji od −2 do +2 klasa gis/as ma dwie pisownie, pozostałe jedenaście po trzy.",
+      "scope": "Zliczenie w ograniczonym zbiorze, nie twierdzenie o wszystkich możliwych alteracjach.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.97, przykład 185",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR19"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CHROMATIC-TONE",
+      "statement": "Cały ton diatoniczny ma nazwę sekundy wielkiej, chromatyczny całotonowy ruch tej samej litery — prymy podwójnie zwiększonej.",
+      "scope": "Klasyfikacja uwzględnia pisownię, nie samo brzmienie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.98",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-CANCEL",
+      "statement": "Przy zmianie znaków przykluczowych można odwołać dawne alteracje kasownikami, następnie zapisać nowy zestaw.",
+      "scope": "Konwencja edytorska s.94–95, nie wymuszać podwójnej kreski w każdej edycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.94–95",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ACCIDENTAL-COLLISION",
+      "statement": "Położenie znaków chromatycznych współbrzmiących nut musi zapewniać czytelność i unikać kolizji.",
+      "scope": "Układ graficzny zależny od glifów i kontekstu; silnik notacji odpowiedzialny za rozmieszczenie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.96",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-HARM-MAJOR-INTERVALS",
+      "statement": "W harmonicznym dur charakterystyczne interwały obejmują VI–VII sekundę zwiększoną, VI–II kwartę zwiększoną, VI–III kwintę zwiększoną i ich przewroty.",
+      "scope": "Liczone w górę z odpowiednim przeniesieniem oktawowym.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.101–102",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CONSONANCE",
+      "statement": "Tradycyjna klasyfikacja wyróżnia konsonanse doskonałe (pryma, oktawa, kwarta i kwinta czyste) i niedoskonałe (tercje i seksty małe/wielkie); kontekst wpływa na funkcję i odczucie współbrzmienia.",
+      "scope": "Kwarta nad basem może mieć funkcję dysonansową; klasyfikacja szkolna nie jest uniwersalnym prawem percepcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.103–104",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DISSONANCE-RESOLVE",
+      "statement": "W tradycyjnym ruchu przeciwnym kwarta zwiększona często rozchodzi się na sekstę, kwinta zmniejszona schodzi do tercji; istnieją też inne rozwiązania.",
+      "scope": "Zależne od tonacji, stopni i funkcji; nie narzucać jednego rozwiązania wszystkim stylom.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.104",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TERTIAN",
+      "statement": "Akordy tercjowe można uporządkować według prymy, tercji, kwinty, septymy, nony, undecymy i tercdecymy.",
+      "scope": "Pryma akordu nie zawsze jest najniższym dźwiękiem w przewrocie; nazwy dotyczą struktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.104–105",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MINOR-HARM-TRIADS",
+      "statement": "W harmonicznym moll trójdźwięki I–VII mają kolejno jakości: molowa, zmniejszona, zwiększona, molowa, durowa, durowa, zmniejszona.",
+      "scope": "Przykład c harmoniczna przenoszony według tej samej struktury.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.108–109",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR20"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MINOR-MIX",
+      "statement": "W ramach utworu molowego mogą współistnieć różne odmiany VI i VII stopnia; nie należy przypisywać całego utworu do jednego sztywnego wariantu.",
+      "scope": "Rozpoznawanie na podstawie rzeczywistego przebiegu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.109–110",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-DEGREE-TRANSPOSE",
+      "statement": "Melodię można przenosić między tonacjami, zachowując stopnie skali, o ile właściwie uwzględni się tryb, odmianę oraz alteracje.",
+      "scope": "Zmiana trybu nie musi zachować wszystkich interwałów; transpozycja ścisła zachowuje interwały.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.114–115,118–120,131",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-FIFTH-SIGNATURE",
+      "statement": "W szeregu gam durowych krzyżykowych kolejna tonika jest kwintę wyżej, a nowy krzyżyk przypada na VII stopień nowej gamy; w szeregu bemolowym kolejna tonika jest kwartę wyżej, nowy bemol na IV stopniu.",
+      "scope": "Konwencjonalne znaki przykluczowe do siedmiu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.116–118,123–124",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR22"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-THEORETICAL-KEYS",
+      "statement": "Podwyższenie wszystkich stopni zapisanej gamy o prymę zwiększoną zmienia teoretyczną liczbę krzyżyków o siedem; obniżenie analogicznie zwiększa liczbę bemoli.",
+      "scope": "Dla podpisanej liczby znaków; poza siedmioma tradycyjny zapis wymaga przygodnych znaków.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.117–118,126",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR23"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-ENHARMONY",
+      "statement": "Gamy o tym samym trybie i enharmonicznych tonikach mogą brzmieć identycznie w 12-TET, choć mają różne nazwy i pisownię.",
+      "scope": "Nie utożsamiać ich zapisu ani liczby znaków.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.126–127",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR24"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MINOR-CHROMATIC-SPELL",
+      "statement": "W konwencji Wesołowskiego chromatyczna moll w górę przyjmuje pisownię nieregularnej gamy równoległej dur od jej VI stopnia; w dół — nieregularnej jednoimiennej dur.",
+      "scope": "Konwencja konkretnego podręcznika, nie jedyna praktyka muzyczna.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.128",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-FIFTH-RELATION",
+      "statement": "Dwie naturalne gamy tego samego trybu o tonikach oddalonych o kwintę czystą mają sześć wspólnych klas wysokości.",
+      "scope": "Dotyczy naturalnych skal diatonicznych, nie wszystkich odmian harmonicznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.133",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR25"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-THIRD-RELATION",
+      "statement": "W ujęciu autora stosunek mediantowy oznacza tonikę drugiej tonacji o tercję wyżej, submediantowy o tercję niżej.",
+      "scope": "Odróżnić pokrewieństwo tonacji od funkcji akordów; autor dopuszcza odpowiedniki enharmoniczne.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.134",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-PICARDY",
+      "statement": "Zakończenie utworu molowego akordem tonicznym durowym nie dowodzi, że cały utwór jest w dur.",
+      "scope": "Podwyższona tercja końcowej toniki, kontekst historyczny; rozpoznawać tonację z przebiegu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.135",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-CONTEXT",
+      "statement": "Znaki przykluczowe, dźwięk i akord końcowy, dźwięki prowadzące oraz przebieg harmonii pomagają określić tonację; same znaki nie przesądzają jej jednoznacznie.",
+      "scope": "Nie wymuszać tonacji w muzyce atonalnej; rozróżniać tonację główną i lokalną.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.134–135",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CLEF-TRANSPOSE",
+      "statement": "Transpozycja za pomocą kluczy może zachować pozycje graficzne nut, ale wymaga zmiany klucza, znaków i czasem oktawy.",
+      "scope": "Metoda praktyczna, nie automatyczne utożsamienie zmiany klucza z transpozycją.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.136–137",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-PENTATONIC",
+      "statement": "Pentatonika zawiera pięć różnych stopni w oktawie; odmiana anhemitoniczna nie ma półtonów, hemitoniczna je zawiera.",
+      "scope": "Powtórzenie pierwszego stopnia w oktawie nie zwiększa liczby klas.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.139–140",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-PENTATONIC-CENTRAL",
+      "statement": "Pięć kolejnych klas wysokości w łańcuchu czystych kwint daje pentatonikę bezpółtonową po sprowadzeniu do oktawy.",
+      "scope": "Środkowa klasa łańcucha jest dźwiękiem centralnym w konstrukcji autora, niekoniecznie najniższym stopniem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.139–140",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-GREEK-GENERA",
+      "statement": "W opisie autora greckie tetrachordy diatoniczny, chromatyczny i enharmoniczny różnią się rozkładem interwałów.",
+      "scope": "Historyczne modele uproszczone; nie utożsamiać starogreckiej enharmonii z 12-TET ani przypisywać współczesnych częstotliwości bez dalszych źródeł.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.141",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-CHURCH-MODES",
+      "statement": "W tradycyjnych parach kościelnych skala autentyczna i plagalna mają wspólną finalis, ale różnią się ambitus i zwykle repercussą.",
+      "scope": "Model historyczny; nie redukować rozpoznania modus do samego zbioru wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.142–143",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MODE-PATTERNS",
+      "statement": "Współczesne oktawowe modele dorycki, frygijski, lidyjski i miksolidyjski odpowiadają rotacjom naturalnego dur rozpoczynanym odpowiednio od II, III, IV i V stopnia.",
+      "scope": "Model interwałowy, nie pełna teoria modalności historycznej; odróżnić dorycki od polskiego moll doryckiego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.143–144",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR26"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TWO-AUG-SECONDS",
+      "statement": "Dwa modele nazywane przez autora skalami cygańskimi odpowiadają harmonicznemu moll z podwyższonym IV oraz harmonicznemu dur z obniżonym II.",
+      "scope": "Historyczna terminologia źródła; nie uogólniać na muzykę całej grupy etnicznej.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.144–145",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-HIGHLAND-MODEL",
+      "statement": "Podany model skali góralskiej ma półtony IV–V i VI–VII, a podwyższony IV i obniżony VII względem naturalnego dur.",
+      "scope": "Jeden model dydaktyczny, nie definicja całego folkloru Podhala.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.145, przykład 292",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR28"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-WHOLETONE-CLASSES",
+      "statement": "W 12-TET sześciostopniowa skala całotonowa ma tylko dwa różne zbiory klas wysokości, zależnie od parzystości klasy startowej.",
+      "scope": "Pisownia i kolejność mogą być różne; zbiór nie określa centrum utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.145",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR27"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ARTIC-DURATION",
+      "statement": "Staccato oddziela dźwięki, legato je łączy, portato ma charakter pośredni.",
+      "scope": "Wartości wykonawcze zależą od tempa, stylu i instrumentu; nie wprowadzać sztywnego skrócenia 50%.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.148–149",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-GLISS-PORTAMENTO",
+      "statement": "Portamento jest płynnym przejściem wysokości, glissando może realizować przejście ciągłe lub szybki szereg dostępnych stopni, np. na klawiaturze.",
+      "scope": "Odróżnić od portato; możliwości zależą od instrumentu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.148–149",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ARPEGGIO",
+      "statement": "Arpeggio rozkłada współbrzmienie na szybkie kolejne wejścia; jedna linia przez dwie pięciolinie może wskazywać wspólną realizację, oddzielne linie odrębne realizacje.",
+      "scope": "Typowy kierunek w górę, możliwy inny zgodnie z oznaczeniem; nie ustalać stałego czasu między nutami.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.151",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-STRING-TECHNIQUES",
+      "statement": "Arco wskazuje grę smyczkiem, pizzicato szarpanie strun, col legno użycie drzewca, con sordino użycie tłumika.",
+      "scope": "Col legno obejmuje różne techniki; nie przypisywać wszystkim jednego efektu audio.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.152",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-PHRASE-SLUR",
+      "statement": "Łuk może oznaczać frazę lub legato, a łuk łączący tę samą wysokość jest odmiennym znakiem semantycznym przedłużenia.",
+      "scope": "Nie rozpoznawać funkcji łuku tylko na podstawie kształtu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.152–153; s.26–28",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-GRACE-LONG",
+      "statement": "Przednutka długa w opisanym modelu historycznym może przejąć akcent i znaczącą część wartości nuty głównej.",
+      "scope": "Realizacja zależy od stylu, epoki i metrum; nie wymuszać jednej proporcji dla każdego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.153–154",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-GRACE-SHORT",
+      "statement": "Krótka przednutka ma zwykle mały zapis z przekreśleniem; jej czas wykonania nie jest bezwzględnie określony.",
+      "scope": "Może korzystać z czasu nuty poprzedniej lub głównej, zależnie od praktyki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.154–156",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MORDENT",
+      "statement": "Mordent wykorzystuje szybkie wychylenie od nuty głównej do sąsiedniego stopnia; w konwencji autora znak przekreślony wskazuje dolny.",
+      "scope": "Nazewnictwo i realizacja historyczna bywają różne; zachować profil źródła.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.157–158",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TURN",
+      "statement": "Obiegnik obejmuje nutę główną i jej górną oraz dolną sekundę; położenie znaku i alteracje wpływają na realizację.",
+      "scope": "Kolejność rozpoczęcia i podział czasu zależą od kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.158–160",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TRILL",
+      "statement": "Tryl wielokrotnie alternuje dźwięk główny i górny sąsiedni; może rozpocząć się od jednego z nich i mieć dopisane zakończenie.",
+      "scope": "Nie ustalać jednego startu ani liczby nut dla wszystkich epok.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.160–162",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-REPEATS",
+      "statement": "Repetycja ogranicza odcinek do powtórzenia; jeżeli brak znaku początkowego, zwykła repetycja końcowa odsyła do początku.",
+      "scope": "Prosty przypadek bez zagnieżdżeń i dodatkowych instrukcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.162–163",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-VOLTA",
+      "statement": "Prima volta jest pierwszym zakończeniem, seconda volta drugim; przy powtórzeniu pomija się pierwsze zakończenie.",
+      "scope": "W typowym przypadku dwóch przebiegów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.163",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR29"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-NAVIGATION",
+      "statement": "Da capo odsyła do początku, dal segno do wskazanego znaku, fine wyznacza koniec w odpowiednim przebiegu; coda jest wydzielonym odcinkiem końcowym.",
+      "scope": "Należy uwzględnić pełną instrukcję skoku i konkretne znaczniki, nie tylko pojedynczy symbol.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.163–164",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-OCTAVE-DOUBLING",
+      "statement": "Coll'ottava oznacza dodanie oktawy do dźwięku, w odróżnieniu od przeniesienia pojedynczej nuty znakiem ottava.",
+      "scope": "Kierunek według oznaczenia; rozróżnić podwojenie i transpozycję oktawową.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.164",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "WR30"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-MELODIC-CONTOUR",
+      "statement": "Przebieg melodii może być poziomy, rosnący, malejący lub zmienny; ruch sekundowy i skoki stanowią odmienne typy ruchu.",
+      "scope": "Opis lokalny; nie wymagać jednej etykiety dla całego utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.167",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TEXTURE",
+      "statement": "Polifonia opiera się na względnie samodzielnych głosach, homofonia na dominującej melodii i podporządkowanych głosach; utwór może łączyć faktury.",
+      "scope": "Faktura jest kontekstowa, nie klasyfikować wyłącznie po liczbie głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.168",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-IMITATION",
+      "statement": "Imitacja polega na przejmowaniu rozpoznawalnego motywu przez kolejny głos.",
+      "scope": "Może być ścisła lub zmieniona; pełna teoria kontrapunktu wymaga dodatkowych źródeł.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.168",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-ENSEMBLE",
+      "statement": "Typowy kwartet smyczkowy tworzą dwoje skrzypiec, altówka i wiolonczela; kwintet fortepianowy to w typowej obsadzie kwartet smyczkowy z fortepianem.",
+      "scope": "Istnieją inne obsady; nie przyjmować fortepianu jako standardowego członu kwintetu dętego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "s.169",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

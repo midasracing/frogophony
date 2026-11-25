@@ -119,3 +119,6 @@ Kontynuacja bez pomijania rozdziałów. 10 twierdzeń i 4 przypadki wzorcowe; re
 
 ## Lektura ciągła Wesołowskiego 61–80
 15 twierdzeń i 4 przypadki wzorcowe. Rozróżniono akcent rytmiczny i metryczny, różne profile grupowania, tempo i metrum, konwencje polimetrii, rubato i dynamikę. Nie powielono historycznych uogólnień o średniowieczu i historii dyrygowania ani niespójnego opisu podziału ruchu na 12 w s.79. Kolejna partia 81–90. Nie rozwiązano jeszcze wszystkich zadań nutowych.
+
+## Lektura ciągła Wesołowskiego 81–178
+55 twierdzeń, 12 przypadków wzorcowych. Przeszedł cały zakres rozdziałów dostępny w ekstrakcji Drive, indeks tylko jako pomoc. Wykryte problemy: s.89 przypis niespójny z tabelą tercji, s.85 niespójny przykład literowy, s.133 stosunek kwintowy sześciu wspólnych stopni ograniczyć do naturalnych skal, s.169 nie przyjmować fortepianu jako standardowej obsady kwintetu dętego; historyczne uogólnienia o skalach, ornamentach i harmonii wymagają dalszych źródeł. Nie przepisywano ćwiczeń ani repertuaru. Nie twierdzić, że wykonano pełny audyt wszystkich ilustracji, przykładów, zadań lub dziewięciu książek. Rozbieżność 178/179 pozostaje. Przypadki WR19–30 są wartościami oczekiwanymi, nie dowodem wykonania testów silnika.

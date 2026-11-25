@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 303,
-    "fixtures": 102,
+    "claims": 358,
+    "fixtures": 114,
     "competencies": 73,
     "partial": 57
   },
@@ -118,7 +118,62 @@
       "WES-RUBATO",
       "WES-CONDUCT",
       "WES-DYNAMIC-LEVELS",
-      "WES-DYNAMIC-CHANGE"
+      "WES-DYNAMIC-CHANGE",
+      "WES-EXPRESSIVE",
+      "WES-OSSIA",
+      "WES-SOLO-TUTTI",
+      "WES-SCALE-GAMMA",
+      "WES-DEGREES",
+      "WES-DIATONIC-TRITONES",
+      "WES-DIATONIC-THIRDS",
+      "WES-INTERVAL-PAIR",
+      "WES-ACCIDENTAL-NAMES",
+      "WES-ENHARMONIC-COUNT",
+      "WES-CHROMATIC-TONE",
+      "WES-KEY-CANCEL",
+      "WES-ACCIDENTAL-COLLISION",
+      "WES-HARM-MAJOR-INTERVALS",
+      "WES-CONSONANCE",
+      "WES-DISSONANCE-RESOLVE",
+      "WES-TERTIAN",
+      "WES-MINOR-HARM-TRIADS",
+      "WES-MINOR-MIX",
+      "WES-DEGREE-TRANSPOSE",
+      "WES-FIFTH-SIGNATURE",
+      "WES-THEORETICAL-KEYS",
+      "WES-KEY-ENHARMONY",
+      "WES-MINOR-CHROMATIC-SPELL",
+      "WES-FIFTH-RELATION",
+      "WES-THIRD-RELATION",
+      "WES-KEY-PICARDY",
+      "WES-KEY-CONTEXT",
+      "WES-CLEF-TRANSPOSE",
+      "WES-PENTATONIC",
+      "WES-PENTATONIC-CENTRAL",
+      "WES-GREEK-GENERA",
+      "WES-CHURCH-MODES",
+      "WES-MODE-PATTERNS",
+      "WES-TWO-AUG-SECONDS",
+      "WES-HIGHLAND-MODEL",
+      "WES-WHOLETONE-CLASSES",
+      "WES-ARTIC-DURATION",
+      "WES-GLISS-PORTAMENTO",
+      "WES-ARPEGGIO",
+      "WES-STRING-TECHNIQUES",
+      "WES-PHRASE-SLUR",
+      "WES-GRACE-LONG",
+      "WES-GRACE-SHORT",
+      "WES-MORDENT",
+      "WES-TURN",
+      "WES-TRILL",
+      "WES-REPEATS",
+      "WES-VOLTA",
+      "WES-NAVIGATION",
+      "WES-OCTAVE-DOUBLING",
+      "WES-MELODIC-CONTOUR",
+      "WES-TEXTURE",
+      "WES-IMITATION",
+      "WES-ENSEMBLE"
     ],
     "OMT2-INV": [
       "TRI-INV",
@@ -652,7 +707,11 @@
         "DROB-TAXONOMY",
         "DROB-VIOLIN",
         "WES-DYNAMIC-LEVELS",
+        "WES-ENSEMBLE",
+        "WES-IMITATION",
+        "WES-MELODIC-CONTOUR",
         "WES-SOUND",
+        "WES-TEXTURE",
         "WOJ-CAPPELLA",
         "WOJ-COLOUR",
         "WOJ-ELEMENTS",
@@ -964,8 +1023,11 @@
         "MAJOR-PATTERN",
         "MINOR-NAT",
         "WES-12TET",
+        "WES-DEGREES",
         "WES-MAJOR-HARM",
+        "WES-MINOR-MIX",
         "WES-OCTAVE-RATIO",
+        "WES-SCALE-GAMMA",
         "WES-TETRACHORD"
       ]
     },
@@ -980,11 +1042,20 @@
         "PL-KEY-REL",
         "PL-KEY-SAME",
         "PL-TRANSPOSE",
+        "WES-CLEF-TRANSPOSE",
+        "WES-DEGREE-TRANSPOSE",
+        "WES-FIFTH-RELATION",
+        "WES-FIFTH-SIGNATURE",
+        "WES-KEY-CANCEL",
+        "WES-KEY-CONTEXT",
         "WES-KEY-EXTENDED",
         "WES-KEY-FIFTHS",
         "WES-KEY-FLAT",
+        "WES-KEY-PICARDY",
         "WES-KEY-SHARP",
-        "WES-KEY-SIGNATURE-CONTEXT"
+        "WES-KEY-SIGNATURE-CONTEXT",
+        "WES-THEORETICAL-KEYS",
+        "WES-THIRD-RELATION"
       ]
     },
     "II-ZAS-04": {
@@ -994,11 +1065,16 @@
         "PL-HB",
         "TAR-ENH",
         "TRITONE-AUDIO",
+        "WES-ACCIDENTAL-NAMES",
         "WES-CHROM-IRREG",
         "WES-CHROM-REG",
+        "WES-CHROMATIC-TONE",
         "WES-DIATONIC",
+        "WES-ENHARMONIC-COUNT",
         "WES-ENHARMONY",
+        "WES-KEY-ENHARMONY",
         "WES-KEY-EXTENDED",
+        "WES-MINOR-CHROMATIC-SPELL",
         "WES-SEMITONE-SPELL"
       ]
     },
@@ -1006,7 +1082,15 @@
       "status": "partial",
       "claimIds": [
         "WES-CHROM-ATONAL",
-        "WES-WHOLETONE"
+        "WES-CHURCH-MODES",
+        "WES-GREEK-GENERA",
+        "WES-HIGHLAND-MODEL",
+        "WES-MODE-PATTERNS",
+        "WES-PENTATONIC",
+        "WES-PENTATONIC-CENTRAL",
+        "WES-TWO-AUG-SECONDS",
+        "WES-WHOLETONE",
+        "WES-WHOLETONE-CLASSES"
       ]
     },
     "II-ZAS-06": {
@@ -1019,9 +1103,14 @@
         "PL-INV-QUALITY",
         "TRI-QUAL",
         "WES-COMPOUND",
+        "WES-CONSONANCE",
+        "WES-DIATONIC-THIRDS",
+        "WES-DIATONIC-TRITONES",
         "WES-INTERVAL-NUMBER",
+        "WES-INTERVAL-PAIR",
         "WES-INV-PRACTICE",
         "WES-SEMITONE-SPELL",
+        "WES-TERTIAN",
         "WES-UNISON"
       ]
     },
@@ -1033,7 +1122,10 @@
         "SEV-QUAL",
         "SIK-D7-INV",
         "TAR-D7",
-        "TAR-D7-RES"
+        "TAR-D7-RES",
+        "WES-DISSONANCE-RESOLVE",
+        "WES-HARM-MAJOR-INTERVALS",
+        "WES-MINOR-HARM-TRIADS"
       ]
     },
     "II-ZAS-08": {
@@ -1087,23 +1179,41 @@
       "status": "partial",
       "claimIds": [
         "DROB-TEMPO",
+        "WES-ARPEGGIO",
         "WES-ARTIC",
+        "WES-ARTIC-DURATION",
         "WES-DYNAMIC-CHANGE",
         "WES-DYNAMIC-LEVELS",
+        "WES-EXPRESSIVE",
         "WES-FERMATA",
+        "WES-GLISS-PORTAMENTO",
+        "WES-GRACE-LONG",
+        "WES-GRACE-SHORT",
         "WES-METER-CHANGE",
+        "WES-MORDENT",
         "WES-MULTIREST",
+        "WES-NAVIGATION",
+        "WES-OCTAVE-DOUBLING",
+        "WES-OSSIA",
+        "WES-PHRASE-SLUR",
+        "WES-REPEATS",
         "WES-RUBATO",
+        "WES-SOLO-TUTTI",
+        "WES-STRING-TECHNIQUES",
         "WES-TEMPO",
         "WES-TEMPO-CHANGE",
         "WES-TEMPO-WORDS",
         "WES-TREMOLO",
+        "WES-TRILL",
+        "WES-TURN",
+        "WES-VOLTA",
         "WOJ-PLAY"
       ]
     },
     "II-ZAS-10": {
       "status": "partial",
       "claimIds": [
+        "WES-ACCIDENTAL-COLLISION",
         "WES-CLEF-CHANGE",
         "WES-PLASTIC-NOTATION",
         "WES-STEM-SIDE",
@@ -4740,6 +4850,580 @@
       ],
       "fixtureIds": [],
       "releaseApproved": false
+    },
+    "WES-EXPRESSIVE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-OSSIA": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-SOLO-TUTTI": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-SCALE-GAMMA": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DEGREES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DIATONIC-TRITONES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [
+        "WR21"
+      ],
+      "releaseApproved": false
+    },
+    "WES-DIATONIC-THIRDS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-INTERVAL-PAIR": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ACCIDENTAL-NAMES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ENHARMONIC-COUNT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [
+        "WR19"
+      ],
+      "releaseApproved": false
+    },
+    "WES-CHROMATIC-TONE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-CANCEL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ACCIDENTAL-COLLISION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-HARM-MAJOR-INTERVALS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CONSONANCE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DISSONANCE-RESOLVE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TERTIAN": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-MINOR-HARM-TRIADS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-07"
+      ],
+      "fixtureIds": [
+        "WR20"
+      ],
+      "releaseApproved": false
+    },
+    "WES-MINOR-MIX": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DEGREE-TRANSPOSE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-FIFTH-SIGNATURE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [
+        "WR22"
+      ],
+      "releaseApproved": false
+    },
+    "WES-THEORETICAL-KEYS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [
+        "WR23"
+      ],
+      "releaseApproved": false
+    },
+    "WES-KEY-ENHARMONY": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [
+        "WR24"
+      ],
+      "releaseApproved": false
+    },
+    "WES-MINOR-CHROMATIC-SPELL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-FIFTH-RELATION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [
+        "WR25"
+      ],
+      "releaseApproved": false
+    },
+    "WES-THIRD-RELATION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-PICARDY": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-CONTEXT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CLEF-TRANSPOSE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-PENTATONIC": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-PENTATONIC-CENTRAL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-GREEK-GENERA": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CHURCH-MODES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-MODE-PATTERNS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [
+        "WR26"
+      ],
+      "releaseApproved": false
+    },
+    "WES-TWO-AUG-SECONDS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-HIGHLAND-MODEL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [
+        "WR28"
+      ],
+      "releaseApproved": false
+    },
+    "WES-WHOLETONE-CLASSES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [
+        "WR27"
+      ],
+      "releaseApproved": false
+    },
+    "WES-ARTIC-DURATION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-GLISS-PORTAMENTO": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ARPEGGIO": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-STRING-TECHNIQUES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-PHRASE-SLUR": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-GRACE-LONG": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-GRACE-SHORT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-MORDENT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TURN": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TRILL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-REPEATS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-VOLTA": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [
+        "WR29"
+      ],
+      "releaseApproved": false
+    },
+    "WES-NAVIGATION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-OCTAVE-DOUBLING": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [
+        "WR30"
+      ],
+      "releaseApproved": false
+    },
+    "WES-MELODIC-CONTOUR": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TEXTURE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-IMITATION": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ENSEMBLE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -4957,6 +5641,42 @@
     ],
     "WR18": [
       "WES-METER-AMBIGUITY"
+    ],
+    "WR21": [
+      "WES-DIATONIC-TRITONES"
+    ],
+    "WR19": [
+      "WES-ENHARMONIC-COUNT"
+    ],
+    "WR20": [
+      "WES-MINOR-HARM-TRIADS"
+    ],
+    "WR22": [
+      "WES-FIFTH-SIGNATURE"
+    ],
+    "WR23": [
+      "WES-THEORETICAL-KEYS"
+    ],
+    "WR24": [
+      "WES-KEY-ENHARMONY"
+    ],
+    "WR25": [
+      "WES-FIFTH-RELATION"
+    ],
+    "WR26": [
+      "WES-MODE-PATTERNS"
+    ],
+    "WR28": [
+      "WES-HIGHLAND-MODEL"
+    ],
+    "WR27": [
+      "WES-WHOLETONE-CLASSES"
+    ],
+    "WR29": [
+      "WES-VOLTA"
+    ],
+    "WR30": [
+      "WES-OCTAVE-DOUBLING"
     ]
   }
 }
