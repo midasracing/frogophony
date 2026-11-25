@@ -8607,8 +8607,8 @@
     },
     {
       "id": "TAR-D7-FREE-SEVENTH",
-      "statement": "Targosz dopuszcza swobodne rozwiązanie septymy D7 sekundą w górę, szczególnie przy tonice w pierwszym przewrocie lub pozycji tercji, pod warunkami układu głosów.",
-      "scope": "Nie kodować warunku rozmieszczenia jako reguły automatycznej przed sprawdzeniem obrazu s. 155–157: odczyt tekstowy zawiera niejednoznaczność dotyczącą wzajemnego położenia tercji i septymy.",
+      "statement": "W typowym swobodnym rozwiązaniu septymy D7 sekundą w górę tonika występuje w pierwszym przewrocie lub pozycji tercji, a septyma dominanty znajduje się poniżej jej tercji.",
+      "scope": "Reguła z ramki s. 156 zgodna z s. 155 i przykładami 183–184. Na s. 156 akapit powyżej przykładu 184 podaje odwrotne położenie tercji i septymy — rzeczywista sprzeczność druku, nie błąd OCR. Interpretacja robocza opiera się na regule ramkowej i przykładach; przy obu składnikach idących w górę zapobiega równoległym kwintom. Osobny rzadki wyjątek z obydwoma składnikami rozwiązanymi swobodnie opisuje s. 156–157 (przykład 185). Wymagana recenzja nauczycielska.",
       "sourceRefs": [
         {
           "sourceId": "TARGOSZ-2004-UPLOAD",

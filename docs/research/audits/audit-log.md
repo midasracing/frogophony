@@ -137,3 +137,6 @@ Przejrzano wszystkie obrazy stron dostępnych w pliku. Dodano 34 twierdzeń i 15
 
 ## Targosz — lektura ciągła s. 147–170 (część rozdziału V)
 14 twierdzeń i 4 autorskie przypadki wzorcowe. D7 pełna, niepełna, bez prymy, przewroty i ścisłe rozwiązania, swobodne rozwiązanie septymy, subdominanta z sekstą i jej wieloznaczność. Obrazy tylko s. 147–150, dalsze przykłady nutowe wymagają kontroli. Na s. 155–157 odczyt tekstu jest niejednoznaczny w zakresie położenia tercji i septymy; nie przyjęto automatycznej reguły. Wzorce nie są wynikami testów.
+
+### Kontrola oryginału Targosza s. 155–157
+Na s. 156 akapit przed przykładem 184 podaje tercję pod septymą, lecz ramka na tej samej stronie i s. 155 podają septymę pod tercją. Przykłady 183–184 potwierdzają tę drugą wersję. To sprzeczność w druku, nie artefakt OCR. Zachowano oba odczyty w uwagach, przyjęto roboczo regułę ramkową i wydzielono wyjątek przykładu 185; bez zatwierdzenia wydawniczego.
