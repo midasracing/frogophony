@@ -47,3 +47,6 @@ WOJ-NOM-2004-UPLOAD, wyd. III, 2004, 104 strony. Nie prosić ponownie o egzempla
 
 ### Otrzymano Dzielską i Kaszyckiego (2026-11-25)
 DK-EAR-1989-UPLOAD, wyd. III, 92 strony skanu, dostępne obrazy. Nie prosić ponownie. Przegląd wszystkich trzech działów i wybranych instrukcji; szczegółowa kontrola pojedynczych ćwiczeń pozostaje otwarta. Zob. aural-training-reference.md. Następne: Wójcik ABC form, Drobner, Wesołowski Nauka harmonii.
+
+### Otrzymano Wójcik — ABC form muzycznych (2026-11-25)
+WOJ-ABC-UPLOAD: 96 stron skanu, brak części początkowej i metadanych wydania, ale czytelny główny tekst. Nie prosić ponownie o egzemplarz; opcjonalnie karta tytułowa. Mapa i porównanie w wojcik-abc-reference.md. Następne: Drobner i Wesołowski Nauka harmonii.

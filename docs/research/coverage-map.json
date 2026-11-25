@@ -220,7 +220,10 @@
         "WOJ-TERNARY",
         "WOJ-SONATAFORM",
         "WOJ-SONG",
-        "WOJ-PASSION"
+        "WOJ-PASSION",
+        "ABC-MASS",
+        "ABC-ARIA",
+        "ABC-BALLET"
       ],
       "status": "partial"
     },
@@ -262,7 +265,10 @@
         "WOJ-COLOUR",
         "WOJ-TEXTURE",
         "WOJ-HOMOPHONY",
-        "WOJ-POLYPHONY"
+        "WOJ-POLYPHONY",
+        "ABC-CLASS",
+        "ABC-TEXTURE",
+        "ABC-VOCAL-TEXTURE"
       ],
       "status": "partial"
     },
@@ -275,7 +281,10 @@
         "CHOM-PERIOD-CAD",
         "CHOM-JUXT",
         "CHOM-EVOL",
-        "WOJ-PERIOD"
+        "WOJ-PERIOD",
+        "ABC-MOTIF",
+        "ABC-SENTENCE",
+        "ABC-PERIOD-TYPES"
       ],
       "status": "partial"
     },
@@ -285,7 +294,9 @@
         "CHOM-EVOL",
         "CHOM-CANON",
         "CHOM-VARIATION",
-        "WOJ-POLYPHONY"
+        "WOJ-POLYPHONY",
+        "ABC-IMITATION",
+        "ABC-OSTINATO"
       ],
       "status": "partial"
     },
@@ -295,7 +306,8 @@
         "CHOM-RONDO",
         "WOJ-TERNARY",
         "WOJ-DANCE",
-        "WOJ-SONG"
+        "WOJ-SONG",
+        "ABC-FIGURATION"
       ],
       "status": "partial"
     },
@@ -307,7 +319,19 @@
         "CHOM-VARIATION",
         "WOJ-SONATAFORM",
         "WOJ-SONATARONDO",
-        "WOJ-SUITE"
+        "WOJ-SUITE",
+        "ABC-STRETTO",
+        "ABC-FUGATO",
+        "ABC-FUGUE-ANSWER",
+        "ABC-COUNTERSUBJECT",
+        "ABC-FUGUE-EXPOSITION",
+        "ABC-OSTINATO",
+        "ABC-CYCLE",
+        "ABC-SONATA-DIST",
+        "ABC-SONATA-BRIDGE",
+        "ABC-DEVELOPMENT",
+        "ABC-RECAP",
+        "ABC-SONATA-MONO"
       ],
       "status": "partial"
     },
@@ -317,7 +341,17 @@
         "TAR-ANALYSIS",
         "CHOM-FORM",
         "CHOM-GENRE",
-        "CHOM-STRUCT"
+        "CHOM-STRUCT",
+        "ABC-CLASS",
+        "ABC-SERIAL",
+        "ABC-POINTILLISM",
+        "ABC-OPEN",
+        "ABC-CONCERTO",
+        "ABC-VOCAL-FORM",
+        "ABC-MASS",
+        "ABC-MADRIGAL",
+        "ABC-ARIA",
+        "ABC-BALLET"
       ],
       "status": "partial"
     },
@@ -674,7 +708,9 @@
         "WOJ-RHYTHM",
         "WOJ-MELODY",
         "WOJ-SYLLABLE",
-        "WOJ-TEXTURE"
+        "WOJ-TEXTURE",
+        "ABC-TEXTURE",
+        "ABC-CONCERTO"
       ],
       "status": "partial"
     },
@@ -698,14 +734,19 @@
       "claimIds": [
         "WOJ-PLAY",
         "WOJ-BAGPIPE",
-        "WOJ-FOLK-HORNS"
+        "WOJ-FOLK-HORNS",
+        "ABC-SONORISM"
       ],
       "status": "partial"
     },
     {
       "id": "II-NOM-04",
       "claimIds": [
-        "DK-GRAPHIC"
+        "DK-GRAPHIC",
+        "ABC-SERIAL",
+        "ABC-POINTILLISM",
+        "ABC-SONORISM",
+        "ABC-OPEN"
       ],
       "status": "partial"
     },

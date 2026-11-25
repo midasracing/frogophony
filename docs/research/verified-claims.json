@@ -1718,6 +1718,11 @@
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.56–57",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 13–14 (PDF 5–6)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1825,6 +1830,11 @@
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 208–209 (PDF 207–208)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 29 (PDF 13)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1841,6 +1851,11 @@
         {
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 226–227 (PDF 225–226)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 39 (PDF 18)",
           "access": "direct-read"
         }
       ],
@@ -1864,6 +1879,11 @@
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.67",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 37 (PDF 17)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1880,6 +1900,11 @@
         {
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 414 (PDF 413)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 75–76 (PDF 36–37)",
           "access": "direct-read"
         }
       ],
@@ -1898,6 +1923,11 @@
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 423–424 (PDF 422–423)",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 76,82 (PDF 37,40)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -1914,6 +1944,11 @@
         {
           "sourceId": "CHOM-FORM1-1983-UPLOAD",
           "locator": "druk. s. 424 (PDF 423)",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 83 (PDF 40)",
           "access": "direct-read"
         }
       ],
@@ -1953,6 +1988,11 @@
         {
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.68",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 69–70 (PDF 33–34)",
           "access": "direct-read"
         }
       ],
@@ -2576,6 +2616,11 @@
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.62–65",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 29–30 (PDF 13–14)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -2593,6 +2638,11 @@
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.65–66",
           "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 36 (PDF 17)",
+          "access": "direct-read"
         }
       ],
       "status": "source-checked",
@@ -2609,6 +2659,11 @@
         {
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.78–79",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 103–104,119 (PDF 49–50,57)",
           "access": "direct-read"
         }
       ],
@@ -2643,6 +2698,11 @@
         {
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.80",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 94–95,98–99 (PDF 45,47)",
           "access": "direct-read"
         }
       ],
@@ -2694,6 +2754,11 @@
         {
           "sourceId": "WOJ-NOM-2004-UPLOAD",
           "locator": "s.85–86",
+          "access": "direct-read"
+        },
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 150–151 (PDF 73)",
           "access": "direct-read"
         }
       ],
@@ -3226,6 +3291,516 @@
         {
           "sourceId": "DK-EAR-1989-UPLOAD",
           "locator": "s.86–90, III/42–52",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CLASS",
+      "statement": "Wójcik klasyfikuje formy według kilku niezależnych kryteriów, m.in. obsady, faktury, liczby części i budowy wewnętrznej.",
+      "scope": "Konkretny utwór może należeć równocześnie do kilku kategorii; szkolna systematyka autorki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 14–15 (PDF 6)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-TEXTURE",
+      "statement": "Wójcik odróżnia fakturę według środków wykonawczych od faktury rozpatrywanej jako relacja melodii i harmonii; w obu przypadkach podaje osobne kategorie.",
+      "scope": "Nie mieszać określeń fortepianowa, homofoniczna i polifoniczna jako wykluczających się w jednym wymiarze.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 16–17 (PDF 7)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MOTIF",
+      "statement": "Autorka klasyfikuje motywy niezależnie według położenia akcentów, kierunku melodii i podłoża harmonicznego.",
+      "scope": "Typy mogą się nakładać; nie utożsamiać motywu z pojedynczym taktem.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 22–23 (PDF 10)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SENTENCE",
+      "statement": "Zdanie muzyczne może mieć budowę ciągłą bez czytelnego podziału na frazy, a jego symetria nie zależy od parzystości całkowitej liczby taktów.",
+      "scope": "W ujęciu Wójcik; przykłady s.27.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 27–28 (PDF 12–13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-PERIOD-TYPES",
+      "statement": "Autorka wyróżnia okres odpowiadający, uzupełniający i okrężny według relacji materiału poprzednika i następnika; osobno klasyfikuje wielkość i symetrię.",
+      "scope": "Terminologia Wójcik; nie klasyfikować wyłącznie po kadencji ani liczbie taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 29–30 (PDF 13–14)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SERIAL",
+      "statement": "Autorka przedstawia dodekafoniczną serię i jej cztery zasadnicze postacie: podstawową, rak, inwersję oraz rak inwersji, z możliwością transpozycji.",
+      "scope": "Zakres klasycznej techniki dwunastotonowej; nie utożsamiać z całą muzyką atonalną, serializm może dotyczyć innych parametrów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 39–41 (PDF 18–19)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-POINTILLISM",
+      "statement": "Punktualizm w opisie Wójcik polega na eksponowaniu wyizolowanych dźwięków lub współbrzmień różnicowanych m.in. barwą, rejestrem i dynamiką.",
+      "scope": "Historyczna charakterystyka techniki, nie automatyczne rozpoznanie z pojedynczej pauzy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 42 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONORISM",
+      "statement": "Sonorystyka w ujęciu autorki eksponuje jakości brzmieniowe; materiał może być kształtowany m.in. przez nietypową artykulację i nowe źródła dźwięku.",
+      "scope": "Nie ograniczać do instrumentów elektronicznych ani szumów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 42 (PDF 20)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-OPEN",
+      "statement": "Forma otwarta może dopuszczać wybór kolejności, wariantu lub czasu realizacji odcinków przez wykonawcę.",
+      "scope": "Wymagana znajomość instrukcji konkretnego dzieła; otwartość nie oznacza braku wszystkich reguł.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 43–44 (PDF 20–21)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FIGURATION",
+      "statement": "Wójcik wyróżnia figurację melodyczną, harmoniczną i melodyczno-harmoniczną; figuracja harmoniczna może wykorzystywać rozłożone akordy wzbogacone dźwiękami obcymi.",
+      "scope": "Rozróżniać typ figuracji i architektoniczną formę utworu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 63–64 (PDF 30–31)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-IMITATION",
+      "statement": "Imitacja może zachowywać kierunek interwałów, odwracać go lub wykorzystywać ruch wsteczny; zmiany rytmiczne obejmują augmentację i diminucję.",
+      "scope": "Klasyfikacja Wójcik, transformacje mogą współwystępować; inwersja tonalna może wymagać modyfikacji interwałów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 72 (PDF 35)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-STRETTO",
+      "statement": "Stretto polega na zagęszczeniu wejść przez rozpoczęcie kolejnego tematu przed zakończeniem poprzedniego.",
+      "scope": "W kontekście imitacji fugowej; nie utożsamiać z każdym przyspieszeniem tempa.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 74 (PDF 36)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FUGATO",
+      "statement": "Fugato to zastosowanie techniki imitacyjnej w odcinku większego utworu; nie jest równoznaczne z pełną fugą.",
+      "scope": "W ujęciu Wójcik s.75.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 75 (PDF 36)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FUGUE-ANSWER",
+      "statement": "Odpowiedź realna zachowuje następstwo interwałów tematu, odpowiedź tonalna może je zmienić zgodnie z relacjami tonalnymi.",
+      "scope": "Klasyczna fuga tonalna; nie zakładać zawsze identycznej transpozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 78 (PDF 38)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-COUNTERSUBJECT",
+      "statement": "Kontrapunkt stały to linia powracająca przy kolejnych wejściach tematu; nie każda fuga musi zawierać kontrapunkt stały.",
+      "scope": "Konwencja analizy fugi, odróżnić kontrapunkt stały od zmiennego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 79–80 (PDF 38–39)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-FUGUE-EXPOSITION",
+      "statement": "Pierwsze przeprowadzenie fugi nazywa się ekspozycją; autorka odróżnia przeprowadzenia kompletne, niekompletne i nadkompletne według wystąpień tematu w głosach.",
+      "scope": "Kategorie Wójcik, nie wymagać każdego typu w każdej fudze.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 82 (PDF 40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-OSTINATO",
+      "statement": "Ostinato jest powracającą formułą melodyczną lub harmoniczną; Wójcik opisuje wariacje ostinatowe m.in. w passacaglii i chaconnie.",
+      "scope": "Nie narzucać ostinatu zawsze w basie ani bezwzględnej historycznej różnicy między gatunkami.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 90–91 (PDF 43)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CYCLE",
+      "statement": "Wójcik odróżnia cykle swobodne od ustabilizowanych; części cyklu mogą być zróżnicowane, lecz pełnią funkcje w większej całości.",
+      "scope": "Granica między kategoriami jest płynna według autorki.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 93–94 (PDF 44–45)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-DIST",
+      "statement": "Sonata w klasycznym znaczeniu jest utworem cyklicznym, forma sonatowa sposobem organizacji pojedynczej części lub utworu, a allegro sonatowe określeniem realizacji formy związanej z szybkim tempem.",
+      "scope": "Definicje Wójcik dotyczą klasycznej terminologii; istnieją sonaty jednoczęściowe i historyczne odstępstwa.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 103,123 (PDF 49,59)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-BRIDGE",
+      "statement": "Łącznik między tematami ekspozycji może wykorzystywać wcześniejszy lub odmienny materiał, a w klasycznej formie często pełni funkcję modulacyjną.",
+      "scope": "Nie utożsamiać łącznika z obowiązkowo odrębnym tematem lub stałą liczbą taktów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 108 (PDF 52)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-DEVELOPMENT",
+      "statement": "Przetworzenie rozwija materiał ekspozycji i może wprowadzać nowy; jego organizacja nie sprowadza się do stałego schematu kolejności tematów.",
+      "scope": "Nie wymagać mechanicznie przetworzenia obu tematów.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 117 (PDF 56)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-RECAP",
+      "statement": "Repryza w klasycznym modelu sonatowym zmienia plan tonalny ekspozycji i nie musi być jej dosłowną kopią; autorka odróżnia też repryzę pozorną w obrębie przetworzenia.",
+      "scope": "Zakres klasycznej analizy; nie utożsamiać każdego powrotu tematu z repryzą.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 117–119 (PDF 56–57)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-SONATA-MONO",
+      "statement": "Wójcik opisuje formę sonatową monotematyczną oraz nietypowe układy cyklu sonatowego.",
+      "scope": "Kontrprzykład dla zasady obowiązkowych dwóch kontrastujących tematów i czterech części.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 120,123 (PDF 58–59)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-CONCERTO",
+      "statement": "W modelu koncertu klasycznego autorka przedstawia podwójną ekspozycję: orkiestrową i z udziałem solisty, oraz miejsce kadencji solistycznej.",
+      "scope": "Typowy model historyczny, nie warunek każdego koncertu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 135 (PDF 65)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-VOCAL-TEXTURE",
+      "statement": "Wójcik rozróżnia synchroniczne i alternujące traktowanie tekstu w wielogłosie wokalnym.",
+      "scope": "Odnosi się do równoczesności lub kolejności słów, nie wyłącznie synchronizacji dźwięków.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 146 (PDF 71)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-VOCAL-FORM",
+      "statement": "Budowa tekstu może wpływać na rozmiary fraz i zdań, powtarzanie materiału oraz kształt okresu w muzyce wokalnej.",
+      "scope": "Nie zakładać jednoznacznego przyporządkowania jednego wersu do jednej frazy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 146–147 (PDF 71)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MASS",
+      "statement": "W ujęciu autorki rozróżnia się ordinarium missae, czyli stałe teksty liturgiczne, i proprium missae, teksty zmienne; cykl kompozycyjny mszy nie musi odtwarzać całego porządku liturgicznego.",
+      "scope": "Model historycznego obrządku omawianego w książce, nie uniwersalny opis wszystkich liturgii.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 165–166 (PDF 80–81)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-MADRIGAL",
+      "statement": "Wójcik odróżnia średniowieczny madrygał od renesansowego, a w późnym renesansie omawia przejście ku madrygałowi koncertującemu.",
+      "scope": "Nie traktować nazwy gatunku jako niezmiennej struktury na przestrzeni epok.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 162–164 (PDF 79–80)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-ARIA",
+      "statement": "Aria da capo ma model ABA z powrotem pierwszej części; Wójcik omawia również inne typy arii i ich historyczne przekształcenia.",
+      "scope": "Nie utożsamiać każdej arii z da capo ani zakładać dosłownego powrotu w wykonaniu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 178 (PDF 87)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "ABC-BALLET",
+      "statement": "Muzyka baletowa może być komponowana specjalnie dla baletu albo wykorzystywać muzykę istniejącą wcześniej; współdziałanie muzyki i choreografii może mieć różne postacie.",
+      "scope": "Nie wnioskować o pierwotnym przeznaczeniu kompozycji jedynie z jej użycia w balecie.",
+      "sourceRefs": [
+        {
+          "sourceId": "WOJ-ABC-UPLOAD",
+          "locator": "druk. s. 193–195 (PDF 94–95)",
           "access": "direct-read"
         }
       ],

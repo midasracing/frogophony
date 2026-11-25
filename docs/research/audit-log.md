@@ -92,3 +92,6 @@ Sprawdzono 104-stronicowy PDF, kartę tytułową, spis, tekst i wybrane obrazy. 
 
 ## Dzielska–Kaszycki — przegląd metodyki (2026-11-25)
 Potwierdzono 92 strony i brak warstwy tekstowej, kolofon w powiększeniu. Odczytano wybrane obrazy wszystkich trzech działów oraz spis. Dodano 24 twierdzenia dotyczące metodyki i powiązania, nie transkrypcje ćwiczeń. Zidentyfikowano lokalną konwencję znaków chromatycznych s.60, odrębne zadania pamięciowe, niejednoznaczność akordów s.82–83 i ograniczenia automatycznej oceny. Nie zweryfikowano wszystkich nut, nie testowano silników ani skuteczności dydaktycznej; bez zmian runtime.
+
+## Wójcik ABC — pierwsza lektura (2026-11-25)
+Zweryfikowano 96 stron PDF bez tekstu, odczytano obrazy wybranych stron, w tym formy wokalne i cykliczne. Dodano 30 twierdzeń oraz 13 powiązań źródłowych. Dwa podręczniki autorki i Chomiński nie są niezależnymi tradycjami. Nie ustalono roku/ISBN z powodu brakujących kart, nie przeanalizowano każdego przykładu, bez recenzji ani zmian runtime. Wpisy nie oznaczają pełnego pokrycia kompetencji.

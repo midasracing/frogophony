@@ -24,3 +24,6 @@
 - W wariacjach pytać, co zachowano i co zmieniono. Dopuszczać różne rodzaje odpowiedzi zależnie od materiału.
 - Rozróżnić schemat, gatunek, technikę i strukturę; przy analizie wymagającej interpretacji stosować rubrykę i odsyłacz do konkretnego fragmentu.
 - Dalsza praca: teoria motywu, zdania i okresu w całości, faktura, rytmika historyczna, serializm, sonologia, tańce i przykłady nutowe. Duże formy instrumentalne (tom II), pieśń (III), opera i dramat (IV), wielkie formy wokalne (V) nie są zawartością tego pliku; nie udawać pokrycia ich szczegółowej teorii. Kontekst historyczny publikacji 1983 wymaga uzupełnienia dla najnowszej muzyki i techniki.
+
+## Uzupełnienie po lekturze ABC form muzycznych
+Zob. wojcik-abc-reference.md, zwłaszcza rozróżnienie sonaty i formy sonatowej, odpowiedzi realnej i tonalnej, repryzy pozornej, ostinato oraz klasyfikacji okresów. Wójcik wskazuje zależność od Chomińskiego, dlatego dodatkowe odwołania nie są niezależnymi potwierdzeniami.

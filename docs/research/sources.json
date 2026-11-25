@@ -1133,6 +1133,15 @@
       "note": "URL bibliograficzny, odczyt z PDF użytkownika. Jadwiga Dzielska, L. M. Kaszycki, Podręcznik do kształcenia słuchu / A Textbook of Aural Training, PWM, wyd. III, druk 1989, copyright 1976, ISBN 83-224-2846-4. 92 strony, 6968179 bajtów, brak warstwy tekstowej. Odczyt obrazów s.1–19,33,38,49–52,57–69,70–92 w wybranych fragmentach; przejrzano strukturę pozostałych stron. Kolofon s.2 odczytany z powiększenia. Historyczne zatwierdzenie 1969 nie jest bieżącą podstawą programową. Nie przepisano nut ani nie przeprowadzono niezależnej recenzji każdego przykładu.",
       "accessKind": "user-upload",
       "fileName": "ilide.info-dzielska-podrcznik-do-ksztacenia-suchu-pdf-pr_fb113990f9323df2b00c0e43765ac4ee.pdf"
+    },
+    {
+      "id": "WOJ-ABC-UPLOAD",
+      "type": "theory",
+      "url": "https://pwm.sklep.pl/product/view/1771",
+      "status": "verified-partial",
+      "note": "URL katalogowy; odczyt z PDF użytkownika. Danuta Wójcik, ABC form muzycznych. 96 stron PDF, 10389051 bajtów, skan bez tekstu, przeważnie dwie strony drukowane na stronie PDF. Brak kart tytułowych/kolofonu i początkowej części spisu, nie ustalono wydania, roku ani ISBN. Odczyt wybranych obrazów m.in. druk. s.9–17,20–30,36–44,63–64,68–83,88–90,93–95,98–104,108,110,115–123,132–141,144–151,162–167,178–194. Nie przeanalizowano wszystkich przykładów. Autorka jawnie korzysta z Chomińskiego (s.11,13), nie jest całkowicie niezależnym potwierdzeniem jego systemu.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-danuta-wojcik-abc-form-muzycznychpdf-pdf-free-pr_1ace21dadf645db8f022afd9afba59d3.pdf"
     }
   ]
 }

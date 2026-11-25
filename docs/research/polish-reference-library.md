@@ -50,3 +50,5 @@ WES-1986-UPLOAD: właściwy PDF Wesołowskiego otrzymany od użytkownika; ma pie
 WOJ-NOM-2004-UPLOAD: otrzymany egzemplarz Nauki o muzyce, mapa i konflikty w wojcik-nauka-reference.md; priorytetowe źródło wprowadzenia do form, instrumentów i folkloru, wymaga uzupełnienia nowszymi źródłami specjalistycznymi.
 
 DK-EAR-1989-UPLOAD: otrzymany podręcznik Dzielskiej i Kaszyckiego, pierwszoplanowy dla ćwiczeń praktycznych na poziomie zaawansowanym; mapa i zasady projektowe w aural-training-reference.md. Nie zastępuje materiałów początkujących CEA ani aktualnej podstawy.
+
+WOJ-ABC-UPLOAD: egzemplarz ABC form muzycznych dostępny; wydanie nieustalone, mapa i porównanie z Chomińskim w wojcik-abc-reference.md.

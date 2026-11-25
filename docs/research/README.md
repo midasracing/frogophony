@@ -34,3 +34,5 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Wójcik — Nauka o muzyce](wojcik-nauka-reference.md): mapa lektury, korekty, instrumentoznawstwo i formy.
 
 - [Dzielska i Kaszycki — kształcenie słuchu](aural-training-reference.md): metodyka, typy ćwiczeń, konwencje zapisu i granice oceniania.
+
+- [Wójcik — ABC form muzycznych](wojcik-abc-reference.md): formy instrumentalne i wokalne, techniki XX w., zasady analizy.
