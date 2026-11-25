@@ -104,3 +104,6 @@ Potwierdzono rzeczywiste 259 stron w pliku i rozbieżność z podglądem ogranic
 
 ## Archiwum i rejestr lektury
 Dziewięć oryginałów przeniesiono do folderu biblioteki użytkownika, nie do publicznego repo. Przygotowano rejestr pełnych partii, indeks wiedzy i politykę prywatnego archiwum. Dalszy odczyt Wesołowskiego s.85–91,112–118,122–125; 11 nowych twierdzeń. Żadnej książki nie oznaczono jako całkowicie przeczytanej. Prywatne archiwum zewnętrzne nie jest jeszcze gotowe. Bez zmian runtime.
+
+## Porządkowanie projektu i archiwum zewnętrzne
+Przeniesiono kopie dziewięciu książek do nieudostępnionego folderu Google Drive; Sikorski w czterech częściach. Zweryfikowano listę i uprawnienia folderu, nie pełną zgodność bajtową każdego pliku. Oddzielono kod interfejsu, demonstracyjne dane, odtwarzacz, logikę postępów i maskotkę. Nie dodawano treści kursu w tym etapie.

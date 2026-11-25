@@ -1,4 +1,4 @@
-# Contributing to Frogphony
+# Contributing to Frogophony
 
 Frogphony is an early-stage educational project. Contributions that make lessons clearer, the code easier to maintain or the interface more accessible are especially useful.
 
@@ -24,11 +24,11 @@ Before requesting review, verify the production build:
 npm run build
 ```
 
-The project does not yet have an automated test suite. If a PR changes the lesson flow, please also describe which lessons and interactions you tested manually.
+Run `node scripts/check-research.mjs` for provenance checks. There is not yet a runtime interaction or music-engine test suite. If a PR changes the lesson flow, please also describe which lessons and interactions you tested manually.
 
 ## Lesson contributions
 
-For a new exercise, provide:
+Follow [architecture](docs/architecture.md) and [source policy](docs/research/source-policy.md). Never put textbook PDFs in the repository. For a new exercise, provide:
 
 1. **Learning goal** — what the learner should understand or hear.
 2. **Question and answers** — including the correct option.

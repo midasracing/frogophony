@@ -55,17 +55,21 @@ The app is deployed from `main` via [GitHub Actions](.github/workflows/pages.yml
 ## Project structure
 
 ```text
-frogphony/
-├── src/
-│   ├── App.tsx            # Lessons, practice, progress and navigation
-│   ├── styles.css         # Responsive interface
-│   └── main.tsx           # App entry point
-├── public/
-│   ├── kumka.png          # Mascot artwork
-│   └── animations/        # Rive runtime asset
-├── design/kumka-rive/     # Editable animation source and build scripts
-└── .github/workflows/    # GitHub Pages deployment
+src/
+├── App.tsx            # App composition
+├── app/               # Global styles
+├── components/        # Layout and Rive mascot
+├── features/          # Learning, lesson, progress, settings
+├── content/demo/      # Unapproved prototype questions
+└── music/audio/       # Prototype playback adapter
+public/                # Runtime assets only
+design/                # Editable design sources
+docs/research/         # Evidence database and research
+scripts/               # Validation tools
+.github/workflows/     # CI and Pages
 ```
+
+See [architecture](docs/architecture.md). Source textbooks are kept privately outside this repository.
 
 ## What's next
 
@@ -101,7 +105,7 @@ Original source code in this repository is licensed under the [MIT License](LICE
 
 ## Animated mascot (Rive)
 
-The animated Kumka is rendered by `@rive-app/react-webgl2` in `src/Kumka.tsx`, using the native file at `public/animations/kumka.riv`. It runs the `KumkaController` state machine on the `Kumka` artboard, with ViewModel triggers `blink`, `look`, `wave`, `success` (the schema is documented in `design/kumka-animation/rig-manifest.json`).
+The animated Kumka is rendered by `@rive-app/react-webgl2` in `src/components/mascot/Kumka.tsx`, using the native file at `public/animations/kumka.riv`. It runs the `KumkaController` state machine on the `Kumka` artboard, with ViewModel triggers `blink`, `look`, `wave`, `success` (the schema is documented in `design/kumka-animation/rig-manifest.json`).
 
 Click Kumka on the home screen to wave. In practice questions, correct answers trigger celebration, and incorrect answers trigger a look; the finishing screen also celebrates. If Rive hasn't loaded, the approved `kumka.png` is displayed instead.
 
