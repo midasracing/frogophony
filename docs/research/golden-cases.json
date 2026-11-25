@@ -2795,6 +2795,186 @@
         ],
         "apparent": true
       }
+    },
+    {
+      "id": "TN20",
+      "domain": "harmony",
+      "input": {
+        "key": "D major",
+        "sourceDegree": 7,
+        "targetDegree": 3,
+        "addSeventh": true
+      },
+      "expected": {
+        "source": [
+          "C#",
+          "E",
+          "G",
+          "B"
+        ],
+        "target": [
+          "F#",
+          "A",
+          "C#"
+        ],
+        "quality": "half-diminished"
+      }
+    },
+    {
+      "id": "TN21",
+      "domain": "harmony",
+      "input": {
+        "key": "D natural minor",
+        "sourceDegree": 7,
+        "targetDegree": 3
+      },
+      "expected": {
+        "source": [
+          "C",
+          "E",
+          "G"
+        ],
+        "target": [
+          "F",
+          "A",
+          "C"
+        ],
+        "apparent": false
+      }
+    },
+    {
+      "id": "TN22",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "apparentDominantRoot": "G",
+        "expectedRoot": "C"
+      },
+      "expected": {
+        "actualRoot": "A",
+        "expectedDegree": 5,
+        "actualDegree": 3
+      }
+    },
+    {
+      "id": "TN23",
+      "domain": "harmony",
+      "input": {
+        "key": "D minor",
+        "variant": "natural",
+        "cadence": "S-D-T"
+      },
+      "expected": {
+        "triads": [
+          [
+            "G",
+            "Bb",
+            "D"
+          ],
+          [
+            "A",
+            "C",
+            "E"
+          ],
+          [
+            "D",
+            "F",
+            "A"
+          ]
+        ],
+        "dominantQuality": "minor"
+      }
+    },
+    {
+      "id": "TN24",
+      "domain": "harmony",
+      "input": {
+        "pitches": [
+          "G",
+          "Bb",
+          "D",
+          "E"
+        ],
+        "context": null
+      },
+      "expected": {
+        "possibleRoots": [
+          "G",
+          "E"
+        ],
+        "possibleStructures": [
+          "minor-triad-added-major-sixth",
+          "half-diminished-seventh"
+        ],
+        "unique": false
+      }
+    },
+    {
+      "id": "TN25",
+      "domain": "harmony",
+      "input": {
+        "key": "C major",
+        "pattern": [
+          "C4",
+          "E4"
+        ],
+        "diatonicStep": 1,
+        "iterations": 3
+      },
+      "expected": {
+        "members": [
+          [
+            "C4",
+            "E4"
+          ],
+          [
+            "D4",
+            "F4"
+          ],
+          [
+            "E4",
+            "G4"
+          ]
+        ],
+        "semitoneWidths": [
+          4,
+          3,
+          3
+        ]
+      }
+    },
+    {
+      "id": "TN26",
+      "domain": "harmony",
+      "input": {
+        "pattern": [
+          "C4",
+          "E4"
+        ],
+        "semitoneStep": 2,
+        "iterations": 3
+      },
+      "expected": {
+        "members": [
+          [
+            "C4",
+            "E4"
+          ],
+          [
+            "D4",
+            "F#4"
+          ],
+          [
+            "E4",
+            "G#4"
+          ]
+        ],
+        "semitoneWidths": [
+          4,
+          4,
+          4
+        ]
+      }
     }
   ]
 }

@@ -859,7 +859,11 @@
         "TAR-APPARENT-DOMINANT",
         "TAR-APPARENT-II-MINOR",
         "TAR-APPARENT-VI",
-        "TAR-APPARENT-III"
+        "TAR-APPARENT-III",
+        "TAR-APPARENT-VII",
+        "TAR-VII-NATURAL-MINOR",
+        "TAR-APPARENT-SUBDOMINANT",
+        "TAR-S6-SEVENTH-ANALYSIS"
       ],
       "status": "partial"
     },
@@ -945,7 +949,10 @@
         "TAR-SVI-VOICE",
         "TAR-D6-RES",
         "TAR-APPARENT-THIRD",
-        "TAR-APPARENT-II-MINOR"
+        "TAR-APPARENT-II-MINOR",
+        "TAR-DIMINISHED-VOICING",
+        "TAR-ELLIPSIS-VOICE",
+        "TAR-SEQUENCE-FOUR-VOICE"
       ],
       "status": "partial"
     },
@@ -976,7 +983,15 @@
         "TAR-DECEPTIVE-MIXTURE",
         "TAR-APPARENT-VI",
         "TAR-APPARENT-CHAIN",
-        "TAR-VI-ROLE-CHANGE"
+        "TAR-VI-ROLE-CHANGE",
+        "TAR-APPARENT-IV-I",
+        "TAR-ELLIPSIS",
+        "TAR-ELLIPSIS-VOICE",
+        "TAR-AEOLIAN-CADENCE",
+        "TAR-SEQUENCE-DEFINITION",
+        "TAR-SEQUENCE-TONAL",
+        "TAR-SEQUENCE-EXACT",
+        "TAR-SEQUENCE-FOUR-VOICE"
       ],
       "status": "partial"
     },
@@ -1002,7 +1017,10 @@
         "TAR-S6-COMPARE",
         "TAR-HARMONIZE-ORDER",
         "TAR-HARMONIC-RHYTHM-FORM",
-        "TAR-APPARENT-REFERENCE"
+        "TAR-APPARENT-REFERENCE",
+        "TAR-ELLIPSIS-CONTINUATION",
+        "TAR-DEGREE-TRANSITION-TABLES",
+        "TAR-HARMONIZE-ALTERNATIVES"
       ],
       "status": "partial"
     },
@@ -1045,7 +1063,9 @@
         "TAR-D9-REPEAT",
         "TAR-D9-CONTEXT",
         "TAR-D9-SUSPENSION",
-        "TAR-APPARENT-CHROMATIC"
+        "TAR-APPARENT-CHROMATIC",
+        "TAR-ADDED-SIXTH-TIME",
+        "TAR-CHROMATIC-NONCHORD"
       ],
       "status": "partial"
     },
@@ -1069,7 +1089,10 @@
         "TAR-APPARENT-CHROMATIC",
         "TAR-APPARENT-ALTERED-FIFTH",
         "TAR-NEAPOLITAN-TONICIZATION",
-        "TAR-APPARENT-III"
+        "TAR-APPARENT-III",
+        "TAR-VII-NATURAL-MINOR",
+        "TAR-CHROMATIC-NONCHORD",
+        "TAR-SEQUENCE-EXACT"
       ],
       "status": "partial"
     },
@@ -1097,7 +1120,17 @@
         "TAR-HARMONIC-RHYTHM-FORM",
         "TAR-APPARENT-DOMINANT",
         "TAR-APPARENT-REFERENCE",
-        "TAR-VI-ROLE-CHANGE"
+        "TAR-VI-ROLE-CHANGE",
+        "TAR-APPARENT-VII",
+        "TAR-APPARENT-IV-I",
+        "TAR-ELLIPSIS",
+        "TAR-ELLIPSIS-CONTINUATION",
+        "TAR-APPARENT-SUBDOMINANT",
+        "TAR-AEOLIAN-CADENCE",
+        "TAR-ADDED-SIXTH-TIME",
+        "TAR-S6-SEVENTH-ANALYSIS",
+        "TAR-DEGREE-TRANSITION-TABLES",
+        "TAR-FUNCTION-DUAL-RELATION"
       ],
       "status": "partial"
     },

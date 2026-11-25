@@ -1681,6 +1681,38 @@
         "TAR-APPARENT-III"
       ],
       "remaining": "Tekst 20 stron i kontrola wszystkich renderów w układzie przeglądowym. Nie rozwiązano każdej harmonizacji i nie zweryfikowano każdej nuty. Następna partia 221–230."
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "ranges": [
+        [
+          221,
+          240
+        ]
+      ],
+      "status": "sequential-reading-text-and-available-images",
+      "claimIds": [
+        "TAR-APPARENT-VII",
+        "TAR-VII-NATURAL-MINOR",
+        "TAR-DIMINISHED-VOICING",
+        "TAR-APPARENT-IV-I",
+        "TAR-ELLIPSIS",
+        "TAR-ELLIPSIS-VOICE",
+        "TAR-ELLIPSIS-CONTINUATION",
+        "TAR-APPARENT-SUBDOMINANT",
+        "TAR-AEOLIAN-CADENCE",
+        "TAR-ADDED-SIXTH-TIME",
+        "TAR-S6-SEVENTH-ANALYSIS",
+        "TAR-DEGREE-TRANSITION-TABLES",
+        "TAR-CHROMATIC-NONCHORD",
+        "TAR-HARMONIZE-ALTERNATIVES",
+        "TAR-FUNCTION-DUAL-RELATION",
+        "TAR-SEQUENCE-DEFINITION",
+        "TAR-SEQUENCE-TONAL",
+        "TAR-SEQUENCE-EXACT",
+        "TAR-SEQUENCE-FOUR-VOICE"
+      ],
+      "remaining": "Tekst stron 221–240 odczytany z Drive; obrazy tych samych 20 stron z oryginalnego 387-stronicowego PDF obejrzane w montażach przeglądowych. Ekstrakcja Drive raportuje 382 strony: rozbieżność 5 stron do uzgodnienia na końcu książki. Tablice 228–230 i przykłady wymagają odrębnej kontroli wszystkich symboli i nut. Nie rozwiązano wszystkich zadań. Następna partia 241–250."
     }
   ]
 }

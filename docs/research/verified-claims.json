@@ -9613,6 +9613,343 @@
       ],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-VII",
+      "statement": "W naturalnym dur VII stopień może występować jako samodzielna dominanta pozorna względem III stopnia; Targosz zaleca w tym przypadku postać septymową.",
+      "scope": "Dotyczy profilu autora; nie utożsamiać z funkcją VII stopnia jako D7 bez prymy.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.221, przykł. 290",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN20"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-VII-NATURAL-MINOR",
+      "statement": "W moll naturalnym durowy akord na obniżonym VII stopniu jest rzeczywistą dominantą wobec durowego akordu III stopnia.",
+      "scope": "Odniesienie lokalne w systemie autora, nie automatyczna modulacja.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.221",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN21"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DIMINISHED-VOICING",
+      "statement": "W omawianych ćwiczeniach autor preferuje trójdźwięk zmniejszony w pierwszym przewrocie z podwojoną tercją; przy samodzielnym użyciu w postaci zasadniczej zaleca dodanie septymy.",
+      "scope": "Zalecenie Targosza uzasadniane brzmieniem, nie uniwersalny zakaz innych zdwojeń.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.221, przypis",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-IV-I",
+      "statement": "W rozważanym ciągu dominant pozornych akord IV stopnia może być odniesiony do VII, a I do IV.",
+      "scope": "Następstwa diatoniczne; relacja IV–VII w dur nie jest kwintą czystą, dlatego nie redukować całego ciągu do stałego kroku siedmiu półtonów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.221–222, przykł. 291",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ELLIPSIS",
+      "statement": "Elipsą Targosz nazywa zwodnicze rozwiązanie dominanty pozornej, prowadzące do akordu położonego tercję niżej od oczekiwanego akordu odniesienia.",
+      "scope": "W profilu autora oznaczenie oczekiwanej, lecz nieobecnej funkcji zachowuje się w nawiasie kwadratowym; rozróżniać cel spodziewany i faktyczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.222–223, przykł. 292",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN22"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ELLIPSIS-VOICE",
+      "statement": "W przedstawionym wzorze elipsy pełny czterodźwięk septymowy w postaci zasadniczej przechodzi na trójdźwięk zasadniczy ze zdwojoną tercją.",
+      "scope": "Wzór techniczny analogiczny do D7–VI; nie każde zwodnicze połączenie musi spełnić ten układ.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.223, przykł. 292–293 i przypis",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ELLIPSIS-CONTINUATION",
+      "statement": "Po elipsie autor nie narzuca jednej dalszej funkcji; możliwe jest ponowne ustawienie osiągniętego akordu, dodanie składnika charakterystycznego albo dalsze następstwo tercjowe.",
+      "scope": "W analizie i harmonizacji uwzględniać kontekst zamiast jednej sztywnej odpowiedzi.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.223–224, przykł. 293–294",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-APPARENT-SUBDOMINANT",
+      "statement": "Akord może być subdominantą pozorną względem lokalnego akordu odniesienia, np. w ramach plagalnego połączenia lub pełnego zwrotu S–D–T.",
+      "scope": "Terminologia Targosza; nie przypisywać funkcji wyłącznie na podstawie stopnia.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.224–225, przykł. 295",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-AEOLIAN-CADENCE",
+      "statement": "W omawianej kadencji eolskiej funkcja dominantowa ma postać molową; autor ilustruje taki zwrot względem VI stopnia tonacji dur.",
+      "scope": "Konkretny model kadencyjny; nie stosować reguł półtonowego dźwięku prowadzącego z dominanty durowej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.225, przykł. 295",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN23"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-ADDED-SIXTH-TIME",
+      "statement": "Wprowadzenie seksty lub septymy do wcześniej brzmiącego trójdźwięku stanowi wskazówkę do zachowania wcześniej rozpoznanej podstawy harmonicznej.",
+      "scope": "Nie zakładać, że czas wprowadzenia sam rozstrzyga każde współbrzmienie we wszystkich stylach.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.225–226, przykł. 296–297",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-S6-SEVENTH-ANALYSIS",
+      "statement": "W ujęciu Targosza identyczny materiał czterodźwiękowy może zostać zinterpretowany jako trójdźwięk z dodaną sekstą albo jako akord septymowy; autor pokazuje dwie analizy tego samego następstwa.",
+      "scope": "Rozróżniać podstawę słyszaną i zbiór wysokości; nie oznaczać jednej odpowiedzi jako błędnej bez kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.225–226, przykł. 297–298",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN24"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-DEGREE-TRANSITION-TABLES",
+      "statement": "Autor zestawia możliwe funkcje akordów głównych i pobocznych oraz ich otoczenie osobno dla użycia zastępczego i samodzielnego.",
+      "scope": "Tablice stanowią podsumowanie przyjętego profilu, a nie kompletną gramatykę wszelkiej muzyki tonalnej. Nie zakodowano jeszcze wszystkich ich przejść.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.228–230, tablice",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-CHROMATIC-NONCHORD",
+      "statement": "Podwyższony chromatycznie dźwięk sopranu może być tercją dominanty pozornej przekształcanej w rzeczywistą, lecz może też być opóźnieniem lub innym dźwiękiem obcym.",
+      "scope": "Sprawdzić pochodzenie dźwięku i dalszy ruch; nie przypisywać automatycznie dominanty wtrąconej.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.231–232, przykł. 299–301",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-HARMONIZE-ALTERNATIVES",
+      "statement": "Autor podaje alternatywne, równie przydatne harmonizacje fragmentu melodii przy niejednoznacznej sugestii harmonicznej.",
+      "scope": "Przykład metodyki oceniania: nie wymagać identycznej harmonizacji z wzorcem.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.232–233, przykł. 302",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-FUNCTION-DUAL-RELATION",
+      "statement": "W przykładzie harmonizacji autor wykorzystuje symbol równoważności do opisania dwóch funkcji tego samego akordu: względem poprzedzającego oraz następującego przebiegu.",
+      "scope": "Konwencja notacyjna profilu Targosza; zachować oba odniesienia, nie mylić z enharmoniczną identycznością wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.236, przypis i przykł. 307",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SEQUENCE-DEFINITION",
+      "statement": "Progresja w ujęciu autora polega na powtarzaniu wzoru melodycznego lub melodyczno-harmonicznego na kolejnych wysokościach według ustalonego kroku.",
+      "scope": "Krok może być diatoniczny lub dokładny; nie wystarcza sama powtarzalność rytmu.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.239, przykł. 309",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SEQUENCE-TONAL",
+      "statement": "W progresji niemodulującej (tonalnej) wzór przesuwany jest w materiale jednej tonacji, a jakości interwałów mogą ulegać zmianom.",
+      "scope": "Nie traktować diatonicznego przesunięcia jako transpozycji zachowującej każdą liczbę półtonów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.239",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN25"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SEQUENCE-EXACT",
+      "statement": "Targosz przeciwstawia progresji tonalnej progresję modulującą, w której zachowuje się dokładne interwały wzoru i stały krok przesunięcia.",
+      "scope": "Rozróżnienie autora, nie automatyczny dowód ustalenia nowej tonacji po każdym członie we wszystkich rodzajach materiału.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.239",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "TN26"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "TAR-SEQUENCE-FOUR-VOICE",
+      "statement": "W przykładzie progresji tonalnej autor przesuwa wszystkie cztery głosy o sekundę diatoniczną; końcowy człon może zostać zmodyfikowany w celu przejścia do dalszego przebiegu.",
+      "scope": "Nie wymuszać niezmienionego ostatniego członu i niezależnie sprawdzać poprawność głosów.",
+      "sourceRefs": [
+        {
+          "sourceId": "TARGOSZ-2004-UPLOAD",
+          "locator": "s.240, przykł. 310–312",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

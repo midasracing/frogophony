@@ -2,8 +2,8 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 532,
-    "fixtures": 153,
+    "claims": 551,
+    "fixtures": 160,
     "competencies": 73,
     "partial": 58
   },
@@ -395,7 +395,26 @@
       "TAR-APPARENT-CHAIN",
       "TAR-VI-ROLE-CHANGE",
       "TAR-NEAPOLITAN-TONICIZATION",
-      "TAR-APPARENT-III"
+      "TAR-APPARENT-III",
+      "TAR-APPARENT-VII",
+      "TAR-VII-NATURAL-MINOR",
+      "TAR-DIMINISHED-VOICING",
+      "TAR-APPARENT-IV-I",
+      "TAR-ELLIPSIS",
+      "TAR-ELLIPSIS-VOICE",
+      "TAR-ELLIPSIS-CONTINUATION",
+      "TAR-APPARENT-SUBDOMINANT",
+      "TAR-AEOLIAN-CADENCE",
+      "TAR-ADDED-SIXTH-TIME",
+      "TAR-S6-SEVENTH-ANALYSIS",
+      "TAR-DEGREE-TRANSITION-TABLES",
+      "TAR-CHROMATIC-NONCHORD",
+      "TAR-HARMONIZE-ALTERNATIVES",
+      "TAR-FUNCTION-DUAL-RELATION",
+      "TAR-SEQUENCE-DEFINITION",
+      "TAR-SEQUENCE-TONAL",
+      "TAR-SEQUENCE-EXACT",
+      "TAR-SEQUENCE-FOUR-VOICE"
     ],
     "WES-1986-TEXT": [
       "MINOR-HARM",
@@ -1451,7 +1470,9 @@
         "TAR-APPARENT-DOMINANT",
         "TAR-APPARENT-II-MINOR",
         "TAR-APPARENT-III",
+        "TAR-APPARENT-SUBDOMINANT",
         "TAR-APPARENT-VI",
+        "TAR-APPARENT-VII",
         "TAR-COMPONENT-NUMBER",
         "TAR-D6-CHOPIN",
         "TAR-D6-REPLACE",
@@ -1481,9 +1502,11 @@
         "TAR-S6-MINOR",
         "TAR-S6-REPLACE",
         "TAR-S6-ROOT-AMBIGUITY",
+        "TAR-S6-SEVENTH-ANALYSIS",
         "TAR-SECOND-INV-AMBIGUITY",
         "TAR-SIXTH-FUNCTION",
         "TAR-SUBSTITUTE-MAP",
+        "TAR-VII-NATURAL-MINOR",
         "TRIAD-MAIN",
         "WH-CHOPIN-CHORD"
       ]
@@ -1525,7 +1548,9 @@
         "TAR-D9-SUSPENSION",
         "TAR-DECEPTIVE-BASE",
         "TAR-DECEPTIVE-TRIAD",
+        "TAR-DIMINISHED-VOICING",
         "TAR-DIRECT-PERFECT",
+        "TAR-ELLIPSIS-VOICE",
         "TAR-FIFTH-CONTRARY",
         "TAR-FIFTH-NEAREST",
         "TAR-FIRST-INV-BASS",
@@ -1559,6 +1584,7 @@
         "TAR-SECOND-INV-METRIC",
         "TAR-SECOND-INV-NEIGHBOR",
         "TAR-SECOND-INV-PASSING",
+        "TAR-SEQUENCE-FOUR-VOICE",
         "TAR-SPACING",
         "TAR-STRICT-PROFILE",
         "TAR-SUSP-DOUBLING",
@@ -1577,7 +1603,9 @@
       "status": "partial",
       "claimIds": [
         "CAD-NONI",
+        "TAR-AEOLIAN-CADENCE",
         "TAR-APPARENT-CHAIN",
+        "TAR-APPARENT-IV-I",
         "TAR-APPARENT-VI",
         "TAR-CADENCE",
         "TAR-D7-FULL-RES",
@@ -1585,6 +1613,8 @@
         "TAR-DECEPTIVE-BASE",
         "TAR-DECEPTIVE-MIXTURE",
         "TAR-DECEPTIVE-TONIC-SIXTH",
+        "TAR-ELLIPSIS",
+        "TAR-ELLIPSIS-VOICE",
         "TAR-FIRST-INV-D-RES",
         "TAR-FIRST-INV-ROLE",
         "TAR-FIRST-INV-S-RES",
@@ -1598,6 +1628,10 @@
         "TAR-S6-T-RES",
         "TAR-SECOND-INV-PASSING",
         "TAR-SECOND-INV-PEDAL",
+        "TAR-SEQUENCE-DEFINITION",
+        "TAR-SEQUENCE-EXACT",
+        "TAR-SEQUENCE-FOUR-VOICE",
+        "TAR-SEQUENCE-TONAL",
         "TAR-SUSP-D64",
         "TAR-SUSPENDED-CADENCE",
         "TAR-VI-ROLE-CHANGE"
@@ -1609,7 +1643,9 @@
         "SIK-BASS6",
         "SIK-REPEAT",
         "TAR-APPARENT-REFERENCE",
+        "TAR-DEGREE-TRANSITION-TABLES",
         "TAR-EIGHTH-PAIR",
+        "TAR-ELLIPSIS-CONTINUATION",
         "TAR-FIGURATION-TWO-METHODS",
         "TAR-FIGURED",
         "TAR-FIRST-INV-PROCEDURE",
@@ -1620,6 +1656,7 @@
         "TAR-HARMONIC-RHYTHM-FORM",
         "TAR-HARMONIZATION-CANDIDATES",
         "TAR-HARMONIZATION-PLAN",
+        "TAR-HARMONIZE-ALTERNATIVES",
         "TAR-HARMONIZE-ORDER",
         "TAR-PRACTICE",
         "TAR-S6-COMPARE",
@@ -1631,10 +1668,12 @@
     "II-HAR-05": {
       "status": "partial",
       "claimIds": [
+        "TAR-ADDED-SIXTH-TIME",
         "TAR-ANTICIPATION",
         "TAR-ANTICIPATION-CHAIN",
         "TAR-APPARENT-CHROMATIC",
         "TAR-CHANGING-TONE",
+        "TAR-CHROMATIC-NONCHORD",
         "TAR-D7-REPEAT",
         "TAR-D9-CONTEXT",
         "TAR-D9-DELAY",
@@ -1678,6 +1717,7 @@
         "TAR-APPARENT-ALTERED-FIFTH",
         "TAR-APPARENT-CHROMATIC",
         "TAR-APPARENT-III",
+        "TAR-CHROMATIC-NONCHORD",
         "TAR-CROSS-RELATION",
         "TAR-DECEPTIVE-MIXTURE",
         "TAR-MOD",
@@ -1686,6 +1726,8 @@
         "TAR-NEAPOLITAN-RES",
         "TAR-NEAPOLITAN-TONICIZATION",
         "TAR-SECONDARY",
+        "TAR-SEQUENCE-EXACT",
+        "TAR-VII-NATURAL-MINOR",
         "WES-KEY-SIGNATURE-CONTEXT",
         "WH-D7-CHAIN",
         "WH-EXT-TONALITY",
@@ -1696,20 +1738,30 @@
     "II-HAR-07": {
       "status": "partial",
       "claimIds": [
+        "TAR-ADDED-SIXTH-TIME",
+        "TAR-AEOLIAN-CADENCE",
         "TAR-ANALYSIS",
         "TAR-APPARENT-DOMINANT",
+        "TAR-APPARENT-IV-I",
         "TAR-APPARENT-REFERENCE",
+        "TAR-APPARENT-SUBDOMINANT",
+        "TAR-APPARENT-VII",
         "TAR-D6-CHOPIN",
         "TAR-D6-REPLACE",
         "TAR-D9-CONTEXT",
         "TAR-D9-ROOTLESS-NINTH-BASS",
         "TAR-DECEPTIVE-TONIC-SIXTH",
+        "TAR-DEGREE-TRANSITION-TABLES",
+        "TAR-ELLIPSIS",
+        "TAR-ELLIPSIS-CONTINUATION",
+        "TAR-FUNCTION-DUAL-RELATION",
         "TAR-FUNCTION-RETROSPECTIVE",
         "TAR-HARMONIC-RHYTHM-FORM",
         "TAR-NONCHORD-TENSION",
         "TAR-PRACTICE",
         "TAR-S6-CADENCE",
         "TAR-S6-ROOT-AMBIGUITY",
+        "TAR-S6-SEVENTH-ANALYSIS",
         "TAR-SECOND-INV-AMBIGUITY",
         "TAR-SECOND-INV-PEDAL",
         "TAR-SIXTH-FUNCTION",
@@ -7701,6 +7753,224 @@
         "TN19"
       ],
       "releaseApproved": false
+    },
+    "TAR-APPARENT-VII": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "TN20"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-VII-NATURAL-MINOR": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "TN21"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-DIMINISHED-VOICING": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-APPARENT-IV-I": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ELLIPSIS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "TN22"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-ELLIPSIS-VOICE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ELLIPSIS-CONTINUATION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-APPARENT-SUBDOMINANT": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-AEOLIAN-CADENCE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "TN23"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-ADDED-SIXTH-TIME": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-S6-SEVENTH-ANALYSIS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-01",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [
+        "TN24"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-DEGREE-TRANSITION-TABLES": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-CHROMATIC-NONCHORD": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-HARMONIZE-ALTERNATIVES": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FUNCTION-DUAL-RELATION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SEQUENCE-DEFINITION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SEQUENCE-TONAL": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03"
+      ],
+      "fixtureIds": [
+        "TN25"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-SEQUENCE-EXACT": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [
+        "TN26"
+      ],
+      "releaseApproved": false
+    },
+    "TAR-SEQUENCE-FOUR-VOICE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
     }
   },
   "byFixture": {
@@ -8071,6 +8341,27 @@
     ],
     "TN19": [
       "TAR-APPARENT-III"
+    ],
+    "TN20": [
+      "TAR-APPARENT-VII"
+    ],
+    "TN21": [
+      "TAR-VII-NATURAL-MINOR"
+    ],
+    "TN22": [
+      "TAR-ELLIPSIS"
+    ],
+    "TN23": [
+      "TAR-AEOLIAN-CADENCE"
+    ],
+    "TN24": [
+      "TAR-S6-SEVENTH-ANALYSIS"
+    ],
+    "TN25": [
+      "TAR-SEQUENCE-TONAL"
+    ],
+    "TN26": [
+      "TAR-SEQUENCE-EXACT"
     ]
   }
 }
