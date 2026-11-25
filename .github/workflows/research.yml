@@ -2,7 +2,7 @@ name: Research provenance
 on:
   push:
     branches: [main]
-    paths: ['docs/research/**', 'scripts/check-research.mjs', '.github/workflows/research.yml']
+    paths: ['docs/research/**', 'scripts/**', 'src/**', 'public/**', 'package.json', '.github/workflows/research.yml']
   workflow_dispatch:
 permissions:
   contents: read
@@ -15,3 +15,4 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/check-research.mjs
+      - run: node scripts/check-structure.mjs

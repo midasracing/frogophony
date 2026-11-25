@@ -24,7 +24,7 @@ Before requesting review, verify the production build:
 npm run build
 ```
 
-Run `node scripts/check-research.mjs` for provenance checks. There is not yet a runtime interaction or music-engine test suite. If a PR changes the lesson flow, please also describe which lessons and interactions you tested manually.
+Run `npm run check:research` for provenance checks and `npm run check:structure` for structural checks. There is not yet a runtime interaction or music-engine test suite. If a PR changes the lesson flow, please also describe which lessons and interactions you tested manually.
 
 ## Lesson contributions
 

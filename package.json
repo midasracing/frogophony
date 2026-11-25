@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "check:research": "node scripts/check-research.mjs",
+    "check:structure": "node scripts/check-structure.mjs"
   },
   "dependencies": {
     "lucide-react": "1.31.0",

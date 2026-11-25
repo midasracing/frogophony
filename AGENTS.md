@@ -4,8 +4,10 @@
 - Do not invent musical facts, answers, definitions, historical dates, names, exam requirements, citations or sample licenses. Do not use model recollection as sole evidence. If a required fact is missing, stop that content item, locate and read an appropriate authoritative source, record exact section/page and scoped claim, then review. Keep unknowns explicitly blocked.
 - Curriculum scope is not evidence for a definition. A library README is not a benchmark. A book catalogue is not a read textbook. No automatic certification of pedagogical correctness.
 - Every teaching explanation, answer and generator invariant must map to source-checked claims. Published lessons require separate real musical/pedagogical review and tested implementation. Never manufacture reviewer names, dates or test results.
-- Run node scripts/check-research.mjs before changing educational data. Its checks cover provenance metadata, not music correctness. See source-policy.md for current limitations. Update audit-log.md and source registry on corrections. Do not mark all old research as verified automatically.
+- Run node scripts/check-research.mjs before changing educational data. Its checks cover provenance metadata, not music correctness. See source-policy.md for current limitations. Update docs/research/audits/audit-log.md and source registry on corrections. Do not mark all old research as verified automatically.
 
 - For Polish musical theory, terminology and school harmony, consult docs/research/polish-reference-library.md FIRST. Use an actually read passage of a recognized Polish specialist source; use foreign sources for independent cross-checks and explicit foreign conventions. Technical standards retain their original authoritative documentation. If a Polish claim cannot be verified, leave it blocked. Catalogues are not read books.
 
 - Follow docs/architecture.md. Keep research outside runtime, demo content separate from approved course data, and private source PDFs outside Git and public assets. Do not add empty placeholder engines or new dependencies just to create folders.
+
+- Keep historical reports under docs/research/audits/. Never delete evidence to make metrics look cleaner. Run npm run check:structure and npm run check:research before publishing changes.

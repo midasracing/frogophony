@@ -107,3 +107,6 @@ Dziewięć oryginałów przeniesiono do folderu biblioteki użytkownika, nie do 
 
 ## Porządkowanie projektu i archiwum zewnętrzne
 Przeniesiono kopie dziewięciu książek do nieudostępnionego folderu Google Drive; Sikorski w czterech częściach. Zweryfikowano listę i uprawnienia folderu, nie pełną zgodność bajtową każdego pliku. Oddzielono kod interfejsu, demonstracyjne dane, odtwarzacz, logikę postępów i maskotkę. Nie dodawano treści kursu w tym etapie.
+
+## Porządkowanie dokumentacji
+Przeniesiono trzy raporty audytowe do audits/. Dane kanoniczne, identyfikatory twierdzeń, źródła, kolejka lektury i przypadki wzorcowe zachowują dotychczasowe ścieżki i zawartość. Historyczne zapisy nie są treścią kursu. Nie usuwano dowodów ani nie zmieniano statusów zatwierdzenia.

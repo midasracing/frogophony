@@ -3,7 +3,7 @@ Audyt 2026-11-24, runda 5. Dokumentacja robocza, nie certyfikacja pedagogiczna. 
 
 ## Kolejność korzystania z dokumentów
 1. [Rejestr źródeł](sources.json): typ, adres, status sprawdzenia i ograniczenia.
-2. [Program i rekrutacja](curriculum-audit.md): matryca pokrycia i poprawki do planu.
+2. [Program i rekrutacja](audits/curriculum-audit.md): matryca pokrycia i poprawki do planu.
 3. [Kompendium muzyczne](music-reference.md): reguły, przykłady, wyjątki i wymagania dla autorów.
 4. [Silniki i testy](engine-audit.md): ocena bibliotek, ryzyka, kryteria wdrożenia.
 5. [Przypadki wzorcowe](golden-cases.json): autorskie dane testowe, do zaimplementowania i sprawdzenia.
@@ -11,7 +11,7 @@ Audyt 2026-11-24, runda 5. Dokumentacja robocza, nie certyfikacja pedagogiczna. 
 7. [Rozwinięcie II stopnia i harmonii](advanced-curriculum.md): moduły, źródła i zadania.
 8. [Plan jakości zapisu i odsłuchu](notation-contract.md): semantyka, testy i reguły importu.
 9. [Plan repertuaru i wiedzy o muzyce](repertoire-reference.md): wiarygodne katalogi, zadania, metadane.
-10. [Bibliografia polska](bibliography-audit.md): zweryfikowane tytuły, zakres lektury, priorytety.
+10. [Bibliografia polska](audits/bibliography-audit.md): zweryfikowane tytuły, zakres lektury, priorytety.
 11. [Oficjalna macierz kompetencji](official-curriculum.json): zakres z konkretnymi stronami urzędowego PDF.
 12. [Twierdzenia sprawdzone źródłowo](verified-claims.json): ograniczona lista dopuszczalnych faktów.
 13. [Polityka źródłowa](source-policy.md): obowiązkowa procedura i zakaz domysłów.
@@ -19,7 +19,7 @@ Audyt 2026-11-24, runda 5. Dokumentacja robocza, nie certyfikacja pedagogiczna. 
 15. [Konwencje i rozbieżności](conventions.md): polskie i angielskie systemy, wykryte błędy.
 16. [Mapa luk](coverage-map.json): częściowe wsparcie źródłowe.
 17. [Polska biblioteka referencyjna](polish-reference-library.md): priorytetowe kompendia, dostępność i kolejność weryfikacji.
-18. [Raport zmian](audit-log.md): błędy, rozstrzygnięcia i luki.
+18. [Raport zmian](audits/audit-log.md): błędy, rozstrzygnięcia i luki.
 
 Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md w katalogu głównym. W razie sprzeczności z wcześniejszymi rundami obowiązuje nowsza korekta poparta źródłem. Nie deklarować zgodności z całym szkolnictwem, dopóki macierz wymagań nie zostanie zamknięta. Status source-reviewed oznacza weryfikację materiałów źródłowych, nie zatwierdzenie przez nauczyciela ani test wykonany na urządzeniu.
 
@@ -42,3 +42,9 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Drobner — instrumentoznawstwo i akustyka](drobner-reference.md): strojenie, modele fizyczne, transpozycja i ograniczenia.
 
 - [Archiwum i pełna lektura](archive-policy.md), [rejestr lektury](reading-ledger.json), [indeks wiedzy](knowledge-index.json): plan przeglądu wszystkich stron oraz powiązania twierdzeń ze źródłami, kompetencjami i testami.
+
+## Organizacja
+- Dane kanoniczne: `sources.json`, `verified-claims.json`, `official-curriculum.json`, `coverage-map.json`, `golden-cases.json`, `lesson-manifest.json`.
+- Indeks pochodny: `knowledge-index.json`. Stan lektury: `reading-ledger.json`.
+- `audits/`: raporty audytów i historia korekt, nie źródło runtime.
+- Pozostałe opracowania i polityki: dokumentacja referencyjna, nie zatwierdzone lekcje. Utrzymujemy stabilne ścieżki do opracowań i danych, aby nie zerwać wcześniejszych odwołań.

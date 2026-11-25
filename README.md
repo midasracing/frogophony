@@ -65,6 +65,7 @@ src/
 public/                # Runtime assets only
 design/                # Editable design sources
 docs/research/         # Evidence database and research
+  audits/              # Historical audit reports
 scripts/               # Validation tools
 .github/workflows/     # CI and Pages
 ```
@@ -112,4 +113,4 @@ Click Kumka on the home screen to wave. In practice questions, correct answers t
 The Rive asset was built locally with the Rive CLI and may need a signed publish/export if a particular Rive web runtime refuses the binary. Verify on the deployed GitHub Pages site. All asset URLs use Vite's `import.meta.env.BASE_URL` to work under the repository subpath.
 
 ## Evidence policy
-Educational content follows [the source policy](docs/research/source-policy.md), [the official curriculum map](docs/research/official-curriculum.json) and [the scoped claims registry](docs/research/verified-claims.json). The current demo is not an approved curriculum. Run `node scripts/check-research.mjs` to validate research metadata. This is not a music or pedagogy test.
+Educational content follows [the source policy](docs/research/source-policy.md), [the official curriculum map](docs/research/official-curriculum.json) and [the scoped claims registry](docs/research/verified-claims.json). The current demo is not an approved curriculum. Run `npm run check:research` to validate research metadata and `npm run check:structure` to check the source layout. This is not a music or pedagogy test.
