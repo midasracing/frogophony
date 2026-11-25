@@ -1,0 +1,352 @@
+[
+  {
+    "chunk_id": 12,
+    "path": "js/12-e3b3a191.js",
+    "groups": [
+      "practice-hub"
+    ],
+    "bytes": 9989,
+    "sha256": "1b78323ee0130dcb844046b5f9be19bae5c65b3e4640aa74bee757cea5da32d0"
+  },
+  {
+    "chunk_id": 411,
+    "path": "css/settingsPage-b7a969e2.css",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 35002,
+    "sha256": "986185d956ec3ebc5420d1a53936a270288bad32075a025fd3d22563c593d222"
+  },
+  {
+    "chunk_id": 411,
+    "path": "js/settingsPage-2e7ca9f8.js",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 80610,
+    "sha256": "7c0cd293eb9432b8e3d9503f8690642df185ca7ab673b88f3334f91fafb5f4d6"
+  },
+  {
+    "chunk_id": 720,
+    "path": "js/720-d16116dd.js",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 64260,
+    "sha256": "7aff1ecf18c6577be308ccabf5bdfa8f1182a282c301c442b5e7341a09459f96"
+  },
+  {
+    "chunk_id": 854,
+    "path": "css/854-b1cb6f7e.css",
+    "groups": [
+      "chess"
+    ],
+    "bytes": 8867,
+    "sha256": "97ab6f35793be831dec609506a4c2ccc3f1bd1dccf06685790ef2b67b12b0227"
+  },
+  {
+    "chunk_id": 854,
+    "path": "js/854-4a6a0546.js",
+    "groups": [
+      "chess"
+    ],
+    "bytes": 7876,
+    "sha256": "35b1bec5db4e4ec297ed4595e0d1aa94bdaf0509e3fae560d6ac5f89a524b366"
+  },
+  {
+    "chunk_id": 940,
+    "path": "js/940-89d71be6.js",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 282,
+    "sha256": "3388538c197b12820b4b278298312a0b2f7a4e10eacdf34a69e55659e2c6118c"
+  },
+  {
+    "chunk_id": 1917,
+    "path": "css/1917-1e4d7a6c.css",
+    "groups": [
+      "shop"
+    ],
+    "bytes": 11905,
+    "sha256": "2f5f84596d5d5d9de8d60cad9c09361a6210a5ee08177dff4d8e82524e753b42"
+  },
+  {
+    "chunk_id": 1917,
+    "path": "js/1917-6811a751.js",
+    "groups": [
+      "shop"
+    ],
+    "bytes": 19988,
+    "sha256": "7e471896098f9d5ea6ef4e47c0c3548ecb42cc726c13ee22e3a464784ec001aa"
+  },
+  {
+    "chunk_id": 1976,
+    "path": "js/1976-3fb99f62.js",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 8198,
+    "sha256": "10e4baa2565e18028c40e95e3cd9982022bb1811a177869c5446e69f2e005b08"
+  },
+  {
+    "chunk_id": 2820,
+    "path": "css/2820-7658c82e.css",
+    "groups": [
+      "practice-hub"
+    ],
+    "bytes": 5023,
+    "sha256": "b25d63233f3d2f620ffcaab9e830bbec50f7e3bb6abd7a4a429f5cfa12c72c66"
+  },
+  {
+    "chunk_id": 2820,
+    "path": "js/2820-1a7ecaf9.js",
+    "groups": [
+      "practice-hub"
+    ],
+    "bytes": 9407,
+    "sha256": "29baebddc5c6643b214c263eee33c79324ff01ba54beadc4aae52119cde88ac4"
+  },
+  {
+    "chunk_id": 2837,
+    "path": "js/2837-0a97c589.js",
+    "groups": [
+      "leaderboard",
+      "practice-hub",
+      "quests"
+    ],
+    "bytes": 26430,
+    "sha256": "03f3a2f15b33c4c8aa4a1015da24f478cdc2499438770821423221e1fb734287"
+  },
+  {
+    "chunk_id": 3406,
+    "path": "css/3406-2fbeaccb.css",
+    "groups": [
+      "settings",
+      "shop"
+    ],
+    "bytes": 60526,
+    "sha256": "adc6434791b7773756d8db1211927b8dff97245f0d9dcbedf9690ecc4cead5bd"
+  },
+  {
+    "chunk_id": 3406,
+    "path": "js/3406-15d8ead2.js",
+    "groups": [
+      "settings",
+      "shop"
+    ],
+    "bytes": 142184,
+    "sha256": "add215c43c9728992ff7810726abd929acbba0cdbda4034ca55fd899133e3581"
+  },
+  {
+    "chunk_id": 4769,
+    "path": "css/4769-628e48ee.css",
+    "groups": [
+      "leaderboard",
+      "practice-hub",
+      "quests"
+    ],
+    "bytes": 11228,
+    "sha256": "16e3f533c774467427ee060f254fde6e2eac32349e4fb835cfd44e2ef039c611"
+  },
+  {
+    "chunk_id": 4769,
+    "path": "js/4769-5ca3b089.js",
+    "groups": [
+      "leaderboard",
+      "practice-hub",
+      "quests"
+    ],
+    "bytes": 22985,
+    "sha256": "8732c723bce4edfad5567ea84cb65e9488ab5ae2d3ad4a69b7868e8119b74db6"
+  },
+  {
+    "chunk_id": 4805,
+    "path": "css/4805-ad809f3c.css",
+    "groups": [
+      "math"
+    ],
+    "bytes": 8588,
+    "sha256": "fffc71b3399ac6d26c2aa0016d491117de459ccb088a5ebcbca3772c28d8a99c"
+  },
+  {
+    "chunk_id": 4805,
+    "path": "js/4805-4a4a362f.js",
+    "groups": [
+      "math"
+    ],
+    "bytes": 7711,
+    "sha256": "7fab7532b6646e11fbd21327c84eac80e78f82f7c52c2ba49a5fa39c6ec69973"
+  },
+  {
+    "chunk_id": 5348,
+    "path": "js/5348-0bca84c3.js",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 8196,
+    "sha256": "473bada3250c93b6ecf33100ab51b77d97996f2425a0647c334a17cc4206be5d"
+  },
+  {
+    "chunk_id": 5823,
+    "path": "css/5823-e9fa7068.css",
+    "groups": [
+      "quests"
+    ],
+    "bytes": 20931,
+    "sha256": "e327b5711b1da2080af3697f132469ea39cbdc9b4ad227866c422a31d6c6208d"
+  },
+  {
+    "chunk_id": 5823,
+    "path": "js/5823-7f2836d7.js",
+    "groups": [
+      "quests"
+    ],
+    "bytes": 35983,
+    "sha256": "9c66f41d06298c0802fd807e64e98e0d0e2b7f0e34c43da27c4c6449e23be2aa"
+  },
+  {
+    "chunk_id": 6743,
+    "path": "js/6743-8d1e0be7.js",
+    "groups": [
+      "settings",
+      "shop"
+    ],
+    "bytes": 16760,
+    "sha256": "04f9dec2588499f76c145f5f114d4c316d87d8b8c2d3089807d3bba4997e4641"
+  },
+  {
+    "chunk_id": 7476,
+    "path": "css/7476-1ab956d5.css",
+    "groups": [
+      "catalog"
+    ],
+    "bytes": 2088,
+    "sha256": "2d59c6cfa51cc5a06529c18fc6bf2cd93f9b0df7e7098117d56d46cee2057a58"
+  },
+  {
+    "chunk_id": 7476,
+    "path": "js/7476-fe77b4f6.js",
+    "groups": [
+      "catalog"
+    ],
+    "bytes": 5514,
+    "sha256": "baee1d5cd97abb73754b7f52e460f85a7392aae0fb337a0c903c6764f16146ce"
+  },
+  {
+    "chunk_id": 7501,
+    "path": "css/7501-91dd5d9e.css",
+    "groups": [
+      "leaderboard",
+      "practice-hub",
+      "quests"
+    ],
+    "bytes": 19320,
+    "sha256": "71437ff7e264652aea848873208a2265d9d15cb6e9029b2fc09d736dc8ce68fd"
+  },
+  {
+    "chunk_id": 7501,
+    "path": "js/7501-92fb0288.js",
+    "groups": [
+      "leaderboard",
+      "practice-hub",
+      "quests"
+    ],
+    "bytes": 14886,
+    "sha256": "1cbef9ec84d4b61de22bb1b29eafc7d81ecaf59179ad76905f61917157c69a5d"
+  },
+  {
+    "chunk_id": 7581,
+    "path": "js/7581-23749748.js",
+    "groups": [
+      "leaderboard",
+      "settings",
+      "shop"
+    ],
+    "bytes": 198904,
+    "sha256": "c3789a01e0a277262eadebd3e0007634c47299c9011669bb523021ffe36df562"
+  },
+  {
+    "chunk_id": 7607,
+    "path": "css/7607-147ff4c0.css",
+    "groups": [
+      "leaderboard"
+    ],
+    "bytes": 10794,
+    "sha256": "71d032cb49bf4088011a3dd43ad4532042719df4c410172e9d3bed8d665c9d32"
+  },
+  {
+    "chunk_id": 7607,
+    "path": "js/7607-e9ea1d23.js",
+    "groups": [
+      "leaderboard"
+    ],
+    "bytes": 29573,
+    "sha256": "52789fbedea3f6750b232480173b591604dbeb87b037ba73f90ee098f9c619b4"
+  },
+  {
+    "chunk_id": 7668,
+    "path": "css/7668-39900faa.css",
+    "groups": [
+      "practice-hub"
+    ],
+    "bytes": 10982,
+    "sha256": "4c6e56f98fef588f85824dd3167412c8364d511e4dae99310df38944e6bbea4e"
+  },
+  {
+    "chunk_id": 7668,
+    "path": "js/7668-f150ac20.js",
+    "groups": [
+      "practice-hub"
+    ],
+    "bytes": 24332,
+    "sha256": "fbaa9478f5e59524c6639169e5e5e197a08720c27f3ab81299e2dbd6da827317"
+  },
+  {
+    "chunk_id": 8106,
+    "path": "js/8106-2450d00b.js",
+    "groups": [
+      "leaderboard",
+      "practice-hub",
+      "quests"
+    ],
+    "bytes": 12687,
+    "sha256": "23b2da0697c1dc18f6a18b71ff95e02c47d382692090aac64bf80586ef160254"
+  },
+  {
+    "chunk_id": 8579,
+    "path": "js/8579-79d5155c.js",
+    "groups": [
+      "quests",
+      "settings"
+    ],
+    "bytes": 10875,
+    "sha256": "356b49f75663048c8986b96d1c030897731f571921a40debe306d44ddd819698"
+  },
+  {
+    "chunk_id": 8694,
+    "path": "css/8694-e2d5ee14.css",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 12936,
+    "sha256": "fd58d747d93375608998696cb01d76f5c079be1921f32b2199669bb6bcd18fcd"
+  },
+  {
+    "chunk_id": 8694,
+    "path": "js/8694-b8bd53c5.js",
+    "groups": [
+      "settings"
+    ],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "chunk_id": 8929,
+    "path": "js/8929-cbfb6f5d.js",
+    "groups": [
+      "settings"
+    ],
+    "bytes": 10788,
+    "sha256": "08208b5c96ab2fba9f328a08ea862939f8c22f520f208789c46163a8f32d86ee"
+  }
+]
