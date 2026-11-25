@@ -2826,6 +2826,414 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "DK-PROGRESSION",
+      "statement": "Autorzy stopniują trudność w obrębie każdego działu i proponują pracę z każdym działem podczas lekcji.",
+      "scope": "Zalecenie metodyczne autorów, nie dowód optymalnej częstotliwości w aplikacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.4, Sposób korzystania z podręcznika",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-DICTATION",
+      "statement": "Autorzy proponują wybór dyktand dostosowany do poziomu uczniów oraz użycie różnych instrumentów, głosów i nagrań, obok fortepianu.",
+      "scope": "Zalecenie dydaktyczne; nie kopiować ich zbioru ćwiczeń, nie wnioskować o skuteczności konkretnej barwy.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.5–6",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-PULSE",
+      "statement": "Ćwiczenia łączą realizację rytmu głosem z wystukiwaniem jednostki metrycznej; można zamieniać role obu czynności.",
+      "scope": "Ćwiczenie koordynacji, nie sam test identyfikacji metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.7–8, I/1 A–D",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-TWO-RHY",
+      "statement": "W ćwiczeniach dwugłosowych uczeń wykonuje niezależne rytmy obiema rękami, a w wariantach śpiewa jeden głos i wystukuje drugi.",
+      "scope": "Praktyka wykonawcza, jeden kanał mikrofonu nie rozdzieli pewnie obu źródeł.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.9–12, I/6,17",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-REST",
+      "statement": "Autorzy ćwiczą dokładne zachowanie czasu pauz bez zewnętrznego taktowania; w innym wariancie pauzy są zaznaczane osobnym stuknięciem.",
+      "scope": "Odrębne warianty ćwiczenia, nie traktować pauzy jako brakującej nuty.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.13–15, I/21–25",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-RHY-METER",
+      "statement": "Autorzy zmieniają oznaczenia metryczne przy tym samym schemacie rytmicznym oraz stosują ćwiczenia bez podanego metrum.",
+      "scope": "Wymaga odrębnego grupowania i kontekstu akcentowego; sam ciąg długości nie rozstrzyga metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.14, I/24; s.17–19, I/30–31",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-TUPLET",
+      "statement": "W grupach niemiarowych autorzy zalecają najpierw precyzyjne wykonanie rytmiczne, potem dodatkowe warianty; początkowo można użyć metronomu.",
+      "scope": "Metodyka, nie osobna reguła proporcji zapisu.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.19, I/32–109, wstęp",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-CANON",
+      "statement": "W słuchowym kanonie rytmicznym uczeń odtwarza z pamięci wcześniej podany takt, gdy nauczyciel wykonuje następny.",
+      "scope": "Warianty przesunięcia o jeden lub dwa takty; pamięć i niezależność przebiegów.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.33, I/110",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-MELODY",
+      "statement": "Dział Melika stopniowo odchodzi od systemu dur-moll, wprowadzając trudniejsze przebiegi interwałowe i rytmiczne do czytania głosem.",
+      "scope": "Założenie podręcznika dla uczniów z przygotowaniem tonalnym, nie start kursu dla początkujących.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.6,38",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-SIGHT",
+      "statement": "Autorzy zwracają uwagę na intonację, frazowanie, oddech i realizację metryczną w ćwiczeniach melodycznych.",
+      "scope": "Nie redukować wykonania do liczby trafionych wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.38",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-ACCOMP",
+      "statement": "W ćwiczeniach z akompaniamentem nauczyciel gra, uczeń śpiewa własną partię; występuje także wariant z dwojgiem uczniów.",
+      "scope": "W aplikacji akompaniament musi być niezależny od partii ocenianej.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.50–51, II/100–103",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-VERTICAL",
+      "statement": "Pionowe śpiewanie dwugłosu przez jednego ucznia polega na kolejnym odczytywaniu dźwięków obu głosów z zachowaniem pamięci poziomych linii.",
+      "scope": "To serialna realizacja przez jednego wykonawcę, nie śpiew dwóch wysokości jednocześnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.51–52, II/105–110",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-ATONAL",
+      "statement": "W ćwiczeniach niezależnych tonalnie autorzy zalecają precyzję intonacji i rytmu, analizę błędów, powtórzenie z pamięci, przestawianie fragmentów oraz przyspieszanie.",
+      "scope": "W s.60–61 stosują lokalny zapis, w którym znak chromatyczny dotyczy tylko danej nuty; nie przenosić na zwykłą notację.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.60–61, II/162–170",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-SCALE-SING",
+      "statement": "Ćwiczenia gam obejmują śpiew od różnych stopni i w różnych schematach rytmicznych oraz śpiew według sekwencji stopni z pamięci.",
+      "scope": "Nie ograniczać śpiewu do ruchu sekundowego od toniki do oktawy.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.63–66, III A/1–5",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-SCALE-LISTEN",
+      "statement": "Po odsłuchu fragmentu skali uczeń może rozpoznawać skalę, śpiewać tonikę albo określać ostatni dźwięk.",
+      "scope": "Zadanie musi zawierać dość danych; jeżeli fragment pasuje do kilku skal, dopuścić wszystkie uzasadnione odpowiedzi.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.67–68, III A/6",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-INT-ANS",
+      "statement": "W rozpoznawaniu interwałów autorzy rozróżniają odpowiedź przez odśpiewanie, nazwę interwału oraz nazwy dźwięków przy znanym punkcie odniesienia.",
+      "scope": "Nie żądać absolutnej nazwy bez odniesienia w zadaniu przeznaczonym dla słuchu względnego.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.69, III B/9",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-INT-DIFF",
+      "statement": "Trudność rozpoznawania interwałów autorzy zwiększają przez tempo, rejestr, długość brzmienia, skrócenie czasu odpowiedzi i dźwięki mylące.",
+      "scope": "Nie używać czasu odpowiedzi jako zastępczej miary poprawności; parametry powinny być kontrolowane osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.70–73, III B/10–20",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-TRANSPOSE",
+      "statement": "Autorzy ćwiczą śpiew kolejnych interwałów według stałego wzoru, zaczynając od różnych podanych dźwięków.",
+      "scope": "Transpozycja wzoru interwałowego, nie tylko powtarzanie jednej melodii.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.74, III B/22",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-MEMORY",
+      "statement": "W ćwiczeniach pamięciowych należy odtworzyć melodię lub akord po bodźcu zakłócającym, np. po innym materiale melodycznym lub akordowym.",
+      "scope": "Wersja zaawansowana; bodziec zakłócający nie jest elementem odpowiedzi.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.74, III B/23; s.80, III C/34",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-COMPLETE",
+      "statement": "Autorzy ćwiczą dośpiewywanie składników trójdźwięku do zadanego dźwięku, także w różnych układach i rejestrach.",
+      "scope": "Zadanie musi określić jakość akordu i rolę dźwięku odniesienia lub dopuszczalne realizacje.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.75–76, III B/26",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-CHORD",
+      "statement": "W rozpoznawaniu akordów autorzy rozróżniają tryb, przewrót i pozycję oraz wprowadzają dźwięk mylący lub dodatkowy składnik.",
+      "scope": "Nie utożsamiać pozycji z przewrotem; bez kontekstu dopuszczać alternatywne interpretacje.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.78–79, III C/30–33",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-AMBIGUOUS",
+      "statement": "Podręcznik przedstawia alternatywne interpretacje niektórych czterodźwięków jako akordu z sekstą lub z septymą.",
+      "scope": "Identyczny zbiór wysokości może mieć różne interpretacje; wymagana jawna rubryka oceny, nie tylko rozpoznanie pitch class set.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.82–83, III C/39",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-FOUR",
+      "statement": "Ćwiczenia czterodźwięków obejmują śpiew przewrotów od jednej nuty i rozpoznawanie składników granych w odległych rejestrach.",
+      "scope": "Rozróżniać kolejność podania, rzeczywisty bas i interpretację funkcji.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.82–85, III C/38–41",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "DK-GRAPHIC",
+      "statement": "W ćwiczeniach aleatorycznych autorzy używają graficznych konturów jako wskazówek do realizacji głosem, również w wieloosobowych zespołach.",
+      "scope": "Nie jest to standardowy zapis nutowy; ocena dokładnych wysokości nie jest uzasadniona bez dodatkowych reguł.",
+      "sourceRefs": [
+        {
+          "sourceId": "DK-EAR-1989-UPLOAD",
+          "locator": "s.86–90, III/42–52",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

@@ -27,7 +27,8 @@
         "INV-M6-M3",
         "PL-INV-QUALITY",
         "PL-INT-TIME",
-        "WES-SEMITONE-SPELL"
+        "WES-SEMITONE-SPELL",
+        "DK-INT-ANS"
       ],
       "status": "partial"
     },
@@ -53,7 +54,8 @@
         "MINOR-PL-DOR",
         "PL-KEY-REL",
         "PL-KEY-SAME",
-        "PL-KEY-DETECT"
+        "PL-KEY-DETECT",
+        "DK-SCALE-SING"
       ],
       "status": "partial"
     },
@@ -79,33 +81,46 @@
         "PL-RHY-GROUP",
         "PL-PICKUP",
         "WES-TUPLET",
-        "WES-TEMPO"
+        "WES-TEMPO",
+        "DK-RHY-METER"
       ],
       "status": "partial"
     },
     {
       "id": "I-SLUCH-07",
       "claimIds": [
-        "SOLM-FIXED"
+        "SOLM-FIXED",
+        "DK-TWO-RHY",
+        "DK-ACCOMP",
+        "DK-TRANSPOSE"
       ],
       "status": "partial"
     },
     {
       "id": "I-SLUCH-08",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-PULSE",
+        "DK-TWO-RHY",
+        "DK-REST",
+        "DK-RHY-METER"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-SLUCH-09",
       "claimIds": [
-        "CAD-NONI"
+        "CAD-NONI",
+        "DK-DICTATION",
+        "DK-MEMORY"
       ],
       "status": "partial"
     },
     {
       "id": "I-SLUCH-10",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-GRAPHIC"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-SLUCH-11",
@@ -114,8 +129,11 @@
     },
     {
       "id": "I-RYT-01",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-PULSE",
+        "DK-TWO-RHY"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-RYT-02",
@@ -125,7 +143,9 @@
         "PL-SYNCOPE",
         "PL-RHY-GROUP",
         "PL-PICKUP",
-        "WES-TUPLET"
+        "WES-TUPLET",
+        "DK-REST",
+        "DK-TUPLET"
       ],
       "status": "partial"
     },
@@ -139,7 +159,8 @@
       "claimIds": [
         "INT-QUALITY",
         "TRI-QUAL",
-        "MAJOR-PATTERN"
+        "MAJOR-PATTERN",
+        "DK-CANON"
       ],
       "status": "partial"
     },
@@ -311,7 +332,8 @@
         "WES-C-CLEFS",
         "WES-OTTAVA",
         "WES-DOUBLE-ACC",
-        "WES-ACC-SCOPE"
+        "WES-ACC-SCOPE",
+        "DK-TUPLET"
       ],
       "status": "partial"
     },
@@ -321,7 +343,11 @@
         "INT-QUALITY",
         "TRI-INV",
         "SEV-INV",
-        "SIK-POS"
+        "SIK-POS",
+        "DK-INT-ANS",
+        "DK-INT-DIFF",
+        "DK-COMPLETE",
+        "DK-CHORD"
       ],
       "status": "partial"
     },
@@ -336,7 +362,9 @@
         "TAR-D7-ROOTLESS",
         "TAR-S6",
         "TAR-D9",
-        "TAR-D9-ROOTLESS"
+        "TAR-D9-ROOTLESS",
+        "DK-AMBIGUOUS",
+        "DK-FOUR"
       ],
       "status": "partial"
     },
@@ -348,7 +376,9 @@
         "PL-KEY-DETECT",
         "TAR-DOR-S",
         "WES-MAJOR-HARM",
-        "WES-WHOLETONE"
+        "WES-WHOLETONE",
+        "DK-SCALE-SING",
+        "DK-SCALE-LISTEN"
       ],
       "status": "partial"
     },
@@ -366,30 +396,50 @@
     },
     {
       "id": "II-SLUCH-06",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-MELODY",
+        "DK-ATONAL",
+        "DK-INT-DIFF",
+        "DK-FOUR"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-SLUCH-07",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-DICTATION"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-SLUCH-08",
       "claimIds": [
-        "PL-TRANSPOSE"
+        "PL-TRANSPOSE",
+        "DK-MELODY",
+        "DK-SIGHT",
+        "DK-ACCOMP",
+        "DK-VERTICAL",
+        "DK-TRANSPOSE"
       ],
       "status": "partial"
     },
     {
       "id": "II-SLUCH-09",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-CANON",
+        "DK-VERTICAL",
+        "DK-ATONAL",
+        "DK-MEMORY",
+        "DK-GRAPHIC"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-SLUCH-10",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-PROGRESSION"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-ZAS-01",
@@ -654,8 +704,10 @@
     },
     {
       "id": "II-NOM-04",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-GRAPHIC"
+      ],
+      "status": "partial"
     },
     {
       "id": "II-NOM-05",

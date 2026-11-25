@@ -1124,6 +1124,15 @@
       "url": "https://ilf.fizyka.pw.edu.pl/podrecznik/3/5/13?type=standard",
       "status": "verified-partial",
       "note": "Multimedialny podręcznik fizyki Politechniki Warszawskiej, §5.13 Fale akustyczne, wzór 5.57 i część Głośność dźwięku. Natężenie W/m², poziom dB, głośność zależy również od częstotliwości."
+    },
+    {
+      "id": "DK-EAR-1989-UPLOAD",
+      "type": "pedagogy",
+      "url": "https://www.gov.pl/web/zposm3warszawa/bibliografia-nut",
+      "status": "verified-partial",
+      "note": "URL bibliograficzny, odczyt z PDF użytkownika. Jadwiga Dzielska, L. M. Kaszycki, Podręcznik do kształcenia słuchu / A Textbook of Aural Training, PWM, wyd. III, druk 1989, copyright 1976, ISBN 83-224-2846-4. 92 strony, 6968179 bajtów, brak warstwy tekstowej. Odczyt obrazów s.1–19,33,38,49–52,57–69,70–92 w wybranych fragmentach; przejrzano strukturę pozostałych stron. Kolofon s.2 odczytany z powiększenia. Historyczne zatwierdzenie 1969 nie jest bieżącą podstawą programową. Nie przepisano nut ani nie przeprowadzono niezależnej recenzji każdego przykładu.",
+      "accessKind": "user-upload",
+      "fileName": "ilide.info-dzielska-podrcznik-do-ksztacenia-suchu-pdf-pr_fb113990f9323df2b00c0e43765ac4ee.pdf"
     }
   ]
 }

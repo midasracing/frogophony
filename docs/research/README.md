@@ -32,3 +32,5 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Wesołowski — mapa lektury i ortografia](wesolowski-reference.md): dostarczony PDF, korekty terminologii i reguły zapisu.
 
 - [Wójcik — Nauka o muzyce](wojcik-nauka-reference.md): mapa lektury, korekty, instrumentoznawstwo i formy.
+
+- [Dzielska i Kaszycki — kształcenie słuchu](aural-training-reference.md): metodyka, typy ćwiczeń, konwencje zapisu i granice oceniania.

@@ -89,3 +89,6 @@ Sprawdzono plik i wybrane fragmenty/obrazy. Dodano 20 twierdzeń oraz 21 odwoła
 
 ## Wójcik — pierwsza lektura Nauki o muzyce (2026-11-25)
 Sprawdzono 104-stronicowy PDF, kartę tytułową, spis, tekst i wybrane obrazy. Dodano 28 twierdzeń z książki, dwa twierdzenia korygujące (Mozarteum i PW), sześć dodatkowych odwołań do wcześniejszych twierdzeń. Uwaga na klasyfikacje szkolne i historyczne uogólnienia. Nie odczytano całej książki, nie analizowano kompletnych przykładów muzycznych; bez recenzji pedagogicznej i zmian runtime. Nie kopiowano PDF.
+
+## Dzielska–Kaszycki — przegląd metodyki (2026-11-25)
+Potwierdzono 92 strony i brak warstwy tekstowej, kolofon w powiększeniu. Odczytano wybrane obrazy wszystkich trzech działów oraz spis. Dodano 24 twierdzenia dotyczące metodyki i powiązania, nie transkrypcje ćwiczeń. Zidentyfikowano lokalną konwencję znaków chromatycznych s.60, odrębne zadania pamięciowe, niejednoznaczność akordów s.82–83 i ograniczenia automatycznej oceny. Nie zweryfikowano wszystkich nut, nie testowano silników ani skuteczności dydaktycznej; bez zmian runtime.

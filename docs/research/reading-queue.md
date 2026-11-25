@@ -44,3 +44,6 @@ WES-1986-UPLOAD: 179 stron, PDF z tekstem i obrazami. Nie prosić ponownie o egz
 
 ### Otrzymano Wójcik — Nauka o muzyce (2026-11-25)
 WOJ-NOM-2004-UPLOAD, wyd. III, 2004, 104 strony. Nie prosić ponownie o egzemplarz. Odczyt wybranych fragmentów, korekty w wojcik-nauka-reference.md. ABC form muzycznych pozostaje osobnym brakującym źródłem.
+
+### Otrzymano Dzielską i Kaszyckiego (2026-11-25)
+DK-EAR-1989-UPLOAD, wyd. III, 92 strony skanu, dostępne obrazy. Nie prosić ponownie. Przegląd wszystkich trzech działów i wybranych instrukcji; szczegółowa kontrola pojedynczych ćwiczeń pozostaje otwarta. Zob. aural-training-reference.md. Następne: Wójcik ABC form, Drobner, Wesołowski Nauka harmonii.
