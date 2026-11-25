@@ -101,3 +101,6 @@ Potwierdzono metadane i 104 strony skanu; odczytano spis, przedmowę i wybrane r
 
 ## Drobner — pierwsza lektura (2026-11-25)
 Potwierdzono rzeczywiste 259 stron w pliku i rozbieżność z podglądem ograniczonym do 150. Odczyt wybranych stron obrazowych, w tym trąbki poza limitem podglądu. Dodano 26 twierdzeń, 3 potwierdzenia i 11 oczekiwanych przypadków. Zapisano ograniczenia historyczne i fizyczne, w szczególności dB a dynamika, klasyfikacja instrumentów, strojenie i transpozycja. Brak pełnej lektury, recenzji, testów audio i zmian runtime. Nie publikowano skanu.
+
+## Archiwum i rejestr lektury
+Dziewięć oryginałów przeniesiono do folderu biblioteki użytkownika, nie do publicznego repo. Przygotowano rejestr pełnych partii, indeks wiedzy i politykę prywatnego archiwum. Dalszy odczyt Wesołowskiego s.85–91,112–118,122–125; 11 nowych twierdzeń. Żadnej książki nie oznaczono jako całkowicie przeczytanej. Prywatne archiwum zewnętrzne nie jest jeszcze gotowe. Bez zmian runtime.

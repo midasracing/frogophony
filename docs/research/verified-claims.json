@@ -4533,6 +4533,193 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "WES-INTERVAL-NUMBER",
+      "statement": "Numer interwału określa liczbę objętych stopni diatonicznych, łącznie z obydwoma krańcami; jakość ustala się osobno.",
+      "scope": "Identyczna odległość półtonowa nie ustala nazwy.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§28–29, s.85–88",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-COMPOUND",
+      "statement": "Interwał złożony można określić przez oktawę i odpowiedni interwał prosty, np. nona mała = oktawa czysta i sekunda mała.",
+      "scope": "Interwały większe niż oktawa; zachować pisownię.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§29, s.88",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-INV-PRACTICE",
+      "statement": "Wyznaczenie septymy wielkiej w górę można wykonać przez sekundę małą w dół, a następnie przesunięcie otrzymanego dźwięku o oktawę wyżej.",
+      "scope": "Przewrót interwału prostego.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§30, s.90, przykład 166",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-UNISON",
+      "statement": "Wesołowski rozróżnia melodyczne powtórzenie wysokości od współbrzmienia w unisonie; wykonanie unisono może obejmować zdwojenia oktawowe.",
+      "scope": "Terminologia autora.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§31, s.90, przypis 1",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-UNISON-VOICES",
+      "statement": "W zapisie prymy harmonicznej Wesołowski dopuszcza współdzielenie główki przez dwa głosy z niezależnymi laskami.",
+      "scope": "Zależne od wartości i kontekstu; zachować odrębność głosów w modelu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§31, s.90–91, przykład 169",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-TETRACHORD",
+      "statement": "Naturalna gama durowa zawiera dwa tetrachordy o układzie cały ton, cały ton, półton, oddzielone całym tonem.",
+      "scope": "Stopnie I–IV i V–VIII.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§39, s.112, przykład 217",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-SHARP",
+      "statement": "Standardowa kolejność krzyżyków przykluczowych to fis, cis, gis, dis, ais, eis, his.",
+      "scope": "Polska nomenklatura; położenie graficzne zależy od klucza.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§40, s.116–118, przykład 229",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-FLAT",
+      "statement": "Standardowa kolejność bemoli przykluczowych to b, es, as, des, ges, ces, fes.",
+      "scope": "Polska nomenklatura.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§41, s.124, przykład 250",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-FIFTHS",
+      "statement": "Kolejne gamy durowe krzyżykowe powstają od V stopnia poprzedniej gamy, bemolowe od IV, z zachowaniem układu interwałów dur.",
+      "scope": "Tradycyjna pisownia; dalsze teoretyczne tonacje osobno.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§39–41, s.112–118,123–124",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-EXTENDED",
+      "statement": "Wesołowski omawia teoretyczne gamy o ponad siedmiu krzyżykach i zaleca zapisywanie dodatkowych podwyższeń przygodnie.",
+      "scope": "Konwencja tego podręcznika, nie jedyna możliwa praktyka notacyjna.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§40, s.117–118",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "WES-KEY-SIGNATURE-CONTEXT",
+      "statement": "Autor wskazuje przykłady fragmentów as-moll zapisanych przy czterech bemolach właściwych As-dur z dodatkowymi znakami przygodnymi.",
+      "scope": "Znaki przykluczowe mogą pozostać związane z tonacją główną mimo zmiany trybu.",
+      "sourceRefs": [
+        {
+          "sourceId": "WES-1986-UPLOAD",
+          "locator": "§41, s.124–125",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

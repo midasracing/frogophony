@@ -1,0 +1,4209 @@
+{
+  "version": 1,
+  "counts": {
+    "sources": 162,
+    "claims": 252,
+    "fixtures": 84,
+    "competencies": 73,
+    "partial": 57
+  },
+  "bySource": {
+    "OMT2-INT": [
+      "INT-QUALITY",
+      "INT-AUG"
+    ],
+    "OMT2-TRI": [
+      "TRI-QUAL"
+    ],
+    "WES-1986-UPLOAD": [
+      "TRI-QUAL",
+      "MINOR-NAT",
+      "MINOR-HARM",
+      "MINOR-MEL",
+      "MINOR-PL-DOR",
+      "MINOR-KEYSIG",
+      "STAFF",
+      "CLEF-G",
+      "CLEF-F",
+      "PL-HB",
+      "PL-SHARP",
+      "PL-FLAT",
+      "ACC-NATURAL",
+      "SOLM-FIXED",
+      "MAJOR-PATTERN",
+      "PL-KEY-REL",
+      "PL-KEY-SAME",
+      "PL-RHY-GROUP",
+      "PL-HARM-V79",
+      "PL-KEY-DETECT",
+      "TAR-D7",
+      "WES-HARMONICS",
+      "WES-SOUND",
+      "WES-12TET",
+      "WES-C-CLEFS",
+      "WES-OTTAVA",
+      "WES-TUPLET",
+      "WES-DUPLET",
+      "WES-DIATONIC",
+      "WES-DOUBLE-ACC",
+      "WES-ACC-SCOPE",
+      "WES-ENHARMONY",
+      "WES-SEMITONE-SPELL",
+      "WES-MAJOR-HARM",
+      "WES-CHROM-REG",
+      "WES-CHROM-IRREG",
+      "WES-WHOLETONE",
+      "WES-CHROM-ATONAL",
+      "WES-ARTIC",
+      "WES-TREMOLO",
+      "WES-TEMPO",
+      "WES-INTERVAL-NUMBER",
+      "WES-COMPOUND",
+      "WES-INV-PRACTICE",
+      "WES-UNISON",
+      "WES-UNISON-VOICES",
+      "WES-TETRACHORD",
+      "WES-KEY-SHARP",
+      "WES-KEY-FLAT",
+      "WES-KEY-FIFTHS",
+      "WES-KEY-EXTENDED",
+      "WES-KEY-SIGNATURE-CONTEXT"
+    ],
+    "OMT2-INV": [
+      "TRI-INV",
+      "SEV-INV"
+    ],
+    "SIK-HAR-UPLOAD": [
+      "TRI-INV",
+      "SEV-INV",
+      "MINOR-HARM",
+      "SIK-TRIAD",
+      "SIK-FUNCTION",
+      "SIK-SATB",
+      "SIK-POS",
+      "SIK-SPACING",
+      "SIK-MOTION",
+      "SIK-PARALLEL",
+      "SIK-STRICT5",
+      "SIK-STRICT2",
+      "SIK-REPEAT",
+      "SIK-DOUBLING",
+      "SIK-BASS6",
+      "SIK-D7-INV"
+    ],
+    "OMT2-7": [
+      "SEV-QUAL"
+    ],
+    "OMT2-NR": [
+      "DOT",
+      "TIE"
+    ],
+    "XML-MIDI": [
+      "XML-PITCH",
+      "XML-PITCH-STRUCT"
+    ],
+    "XML-DURATION": [
+      "XML-DUR"
+    ],
+    "XML-TIED": [
+      "XML-TIE"
+    ],
+    "OMT2-MINOR": [
+      "MINOR-NAT",
+      "MINOR-HARM",
+      "MINOR-MEL",
+      "MINOR-KEYSIG"
+    ],
+    "ZPE-MOLL": [
+      "MINOR-NAT",
+      "MINOR-MEL",
+      "MINOR-PL-DOR"
+    ],
+    "TARGOSZ-2004-UPLOAD": [
+      "MINOR-HARM",
+      "MINOR-MEL",
+      "MINOR-PL-DOR",
+      "SIK-TRIAD",
+      "SIK-POS",
+      "SIK-SPACING",
+      "SIK-DOUBLING",
+      "TAR-FUNCTION",
+      "TAR-CADENCE",
+      "TAR-STRICT-PROFILE",
+      "TAR-DOR-S",
+      "TAR-FOREIGN",
+      "TAR-SUSP",
+      "TAR-PASS",
+      "TAR-NEIGHBOR",
+      "TAR-ANTICIPATION",
+      "TAR-D7",
+      "TAR-D7-RES",
+      "TAR-D7-ROOTLESS",
+      "TAR-S6",
+      "TAR-D9",
+      "TAR-D9-ROOTLESS",
+      "TAR-DEGREES",
+      "TAR-FIGURED",
+      "TAR-MOD",
+      "TAR-MOD-DIAT",
+      "TAR-SECONDARY",
+      "TAR-ALTER",
+      "TAR-ENH",
+      "TAR-ANALYSIS"
+    ],
+    "WES-1986-TEXT": [
+      "MINOR-HARM",
+      "MINOR-MEL",
+      "MINOR-PL-DOR",
+      "INV-M6-M3",
+      "PL-KEY-REL",
+      "PL-KEY-SAME",
+      "PL-INV-QUALITY",
+      "PL-INT-TIME",
+      "PL-METER-REG",
+      "PL-RHY-GROUP",
+      "PL-SYNCOPE",
+      "PL-HARM-V79"
+    ],
+    "HENLE-MOZART-K265": [
+      "MOZART-K265"
+    ],
+    "ZPE-CLEF": [
+      "STAFF",
+      "CLEF-G",
+      "CLEF-F"
+    ],
+    "ZPE-ACC": [
+      "PL-HB",
+      "PL-SHARP",
+      "PL-FLAT",
+      "ACC-NATURAL"
+    ],
+    "ZPE-SCALE": [
+      "PL-HB",
+      "SOLM-FIXED",
+      "MAJOR-PATTERN"
+    ],
+    "ZPE-TRI": [
+      "TRIAD-MAIN"
+    ],
+    "ZPE-METER": [
+      "METER-PL"
+    ],
+    "UPS-METER": [
+      "METER-EN",
+      "METER-68"
+    ],
+    "UPS-MINCH": [
+      "MINOR-V"
+    ],
+    "UPS-CAD": [
+      "CAD-NONI"
+    ],
+    "UPS-INT": [
+      "TRITONE-AUDIO"
+    ],
+    "UPS-INV": [
+      "INV-M6-M3"
+    ],
+    "WES-1986-ALT": [
+      "PL-KEY-REL",
+      "PL-KEY-SAME",
+      "PL-POLYRHYTHM",
+      "PL-POLYMETER",
+      "PL-PICKUP",
+      "PL-KEY-DETECT",
+      "PL-TRANSPOSE"
+    ],
+    "WES-HAR-1997-UPLOAD": [
+      "TAR-D7",
+      "TAR-D7-RES",
+      "TAR-MOD",
+      "TAR-MOD-DIAT",
+      "TAR-SECONDARY",
+      "WH-PRACTICE",
+      "WH-EXT-TONALITY",
+      "WH-D7-FIFTH",
+      "WH-D7-EXCEPTION",
+      "WH-D7-SEVENTH",
+      "WH-D7-LIMIT",
+      "WH-D7-CHAIN",
+      "WH-CHOPIN-CHORD",
+      "WH-CONTINUO",
+      "WH-DOUBLING",
+      "WH-PEDAL",
+      "WH-MOD-CAD",
+      "WH-MOD-TYPES"
+    ],
+    "CHOM-FORM1-1983-UPLOAD": [
+      "CHOM-FORM",
+      "CHOM-GENRE",
+      "CHOM-STRUCT",
+      "CHOM-MOTIF",
+      "CHOM-PHRASE",
+      "CHOM-PERIOD",
+      "CHOM-PERIOD-CAD",
+      "CHOM-JUXT",
+      "CHOM-EVOL",
+      "CHOM-CANON",
+      "CHOM-FUGUE",
+      "CHOM-FUGUE-NON3",
+      "CHOM-VARIATION",
+      "CHOM-RONDO"
+    ],
+    "WOJ-ABC-UPLOAD": [
+      "CHOM-FORM",
+      "CHOM-PERIOD-CAD",
+      "CHOM-JUXT",
+      "CHOM-EVOL",
+      "CHOM-CANON",
+      "CHOM-FUGUE",
+      "CHOM-FUGUE-NON3",
+      "CHOM-RONDO",
+      "WOJ-PERIOD",
+      "WOJ-TERNARY",
+      "WOJ-SONATAFORM",
+      "WOJ-SUITE",
+      "WOJ-SONG",
+      "ABC-CLASS",
+      "ABC-TEXTURE",
+      "ABC-MOTIF",
+      "ABC-SENTENCE",
+      "ABC-PERIOD-TYPES",
+      "ABC-SERIAL",
+      "ABC-POINTILLISM",
+      "ABC-SONORISM",
+      "ABC-OPEN",
+      "ABC-FIGURATION",
+      "ABC-IMITATION",
+      "ABC-STRETTO",
+      "ABC-FUGATO",
+      "ABC-FUGUE-ANSWER",
+      "ABC-COUNTERSUBJECT",
+      "ABC-FUGUE-EXPOSITION",
+      "ABC-OSTINATO",
+      "ABC-CYCLE",
+      "ABC-SONATA-DIST",
+      "ABC-SONATA-BRIDGE",
+      "ABC-DEVELOPMENT",
+      "ABC-RECAP",
+      "ABC-SONATA-MONO",
+      "ABC-CONCERTO",
+      "ABC-VOCAL-TEXTURE",
+      "ABC-VOCAL-FORM",
+      "ABC-MASS",
+      "ABC-MADRIGAL",
+      "ABC-ARIA",
+      "ABC-BALLET"
+    ],
+    "WOJ-NOM-2004-UPLOAD": [
+      "CHOM-FORM",
+      "CHOM-PHRASE",
+      "CHOM-EVOL",
+      "CHOM-RONDO",
+      "WES-ARTIC",
+      "WES-TREMOLO",
+      "WOJ-ELEMENTS",
+      "WOJ-RHYTHM",
+      "WOJ-RHY-TYPES",
+      "WOJ-MELODY",
+      "WOJ-SYLLABLE",
+      "WOJ-COLOUR",
+      "WOJ-PLAY",
+      "WOJ-FAMILY",
+      "WOJ-REEDS",
+      "WOJ-STRINGS",
+      "WOJ-HARP",
+      "WOJ-SATB",
+      "WOJ-TEXTURE",
+      "WOJ-HOMOPHONY",
+      "WOJ-POLYPHONY",
+      "WOJ-PERIOD",
+      "WOJ-TERNARY",
+      "WOJ-SONATAFORM",
+      "WOJ-SONATARONDO",
+      "WOJ-SUITE",
+      "WOJ-DANCE",
+      "WOJ-STYLIZATION",
+      "WOJ-SONG",
+      "WOJ-CAPPELLA",
+      "WOJ-PASSION",
+      "WOJ-FOLK",
+      "WOJ-BAGPIPE",
+      "WOJ-FOLK-HORNS"
+    ],
+    "DROB-1986-UPLOAD": [
+      "WES-HARMONICS",
+      "WES-12TET",
+      "WES-TEMPO",
+      "DROB-PERIOD",
+      "DROB-AMPLITUDE",
+      "DROB-DAMP",
+      "DROB-WAVE",
+      "DROB-SPEED",
+      "DROB-BEATS",
+      "DROB-TEMPO",
+      "DROB-SPECTRUM",
+      "DROB-HARM",
+      "DROB-MISSING",
+      "DROB-EAR",
+      "DROB-TAXONOMY",
+      "DROB-KEYBOARD",
+      "DROB-STRING",
+      "DROB-HARMONIC-NODE",
+      "DROB-VIOLIN",
+      "DROB-HARMONIC-TOUCH",
+      "DROB-RATIOS",
+      "DROB-PYTH",
+      "DROB-JUST",
+      "DROB-CENT",
+      "DROB-ET",
+      "DROB-PIPE",
+      "DROB-PICCOLO",
+      "DROB-TRUMPET",
+      "DROB-VALVES"
+    ],
+    "MOZARTEUM-K457": [
+      "MOZART-K457-459"
+    ],
+    "MOZARTEUM-K459": [
+      "MOZART-K457-459"
+    ],
+    "PW-ACOUSTIC-LEVEL": [
+      "ACOUSTIC-DB"
+    ],
+    "DK-EAR-1989-UPLOAD": [
+      "DK-PROGRESSION",
+      "DK-DICTATION",
+      "DK-PULSE",
+      "DK-TWO-RHY",
+      "DK-REST",
+      "DK-RHY-METER",
+      "DK-TUPLET",
+      "DK-CANON",
+      "DK-MELODY",
+      "DK-SIGHT",
+      "DK-ACCOMP",
+      "DK-VERTICAL",
+      "DK-ATONAL",
+      "DK-SCALE-SING",
+      "DK-SCALE-LISTEN",
+      "DK-INT-ANS",
+      "DK-INT-DIFF",
+      "DK-TRANSPOSE",
+      "DK-MEMORY",
+      "DK-COMPLETE",
+      "DK-CHORD",
+      "DK-AMBIGUOUS",
+      "DK-FOUR",
+      "DK-GRAPHIC"
+    ]
+  },
+  "byCompetency": {
+    "I-SLUCH-01": {
+      "status": "partial",
+      "claimIds": [
+        "ACC-NATURAL",
+        "CLEF-F",
+        "CLEF-G",
+        "PL-FLAT",
+        "PL-HB",
+        "PL-SHARP",
+        "STAFF",
+        "WES-ACC-SCOPE",
+        "WES-DOUBLE-ACC",
+        "WES-OTTAVA"
+      ]
+    },
+    "I-SLUCH-02": {
+      "status": "partial",
+      "claimIds": [
+        "DK-INT-ANS",
+        "DROB-EAR",
+        "INT-AUG",
+        "INT-QUALITY",
+        "INV-M6-M3",
+        "PL-INT-TIME",
+        "PL-INV-QUALITY",
+        "TRITONE-AUDIO",
+        "WES-INTERVAL-NUMBER",
+        "WES-INV-PRACTICE",
+        "WES-SEMITONE-SPELL"
+      ]
+    },
+    "I-SLUCH-03": {
+      "status": "partial",
+      "claimIds": [
+        "PL-HARM-V79",
+        "SEV-QUAL",
+        "SIK-D7-INV",
+        "TAR-D7",
+        "TAR-D7-RES",
+        "TRI-INV",
+        "TRI-QUAL"
+      ]
+    },
+    "I-SLUCH-04": {
+      "status": "partial",
+      "claimIds": [
+        "DK-SCALE-SING",
+        "MAJOR-PATTERN",
+        "MINOR-HARM",
+        "MINOR-NAT",
+        "MINOR-PL-DOR",
+        "PL-KEY-DETECT",
+        "PL-KEY-REL",
+        "PL-KEY-SAME",
+        "WES-KEY-FLAT",
+        "WES-KEY-SHARP",
+        "WES-TETRACHORD"
+      ]
+    },
+    "I-SLUCH-05": {
+      "status": "partial",
+      "claimIds": [
+        "CAD-NONI",
+        "PL-TRANSPOSE",
+        "SIK-TRIAD",
+        "TAR-CADENCE",
+        "TRIAD-MAIN"
+      ]
+    },
+    "I-SLUCH-06": {
+      "status": "partial",
+      "claimIds": [
+        "DK-RHY-METER",
+        "DOT",
+        "DROB-TEMPO",
+        "METER-68",
+        "METER-PL",
+        "PL-METER-REG",
+        "PL-PICKUP",
+        "PL-RHY-GROUP",
+        "TIE",
+        "WES-TEMPO",
+        "WES-TUPLET"
+      ]
+    },
+    "I-SLUCH-07": {
+      "status": "partial",
+      "claimIds": [
+        "DK-ACCOMP",
+        "DK-TRANSPOSE",
+        "DK-TWO-RHY",
+        "SOLM-FIXED"
+      ]
+    },
+    "I-SLUCH-08": {
+      "status": "partial",
+      "claimIds": [
+        "DK-PULSE",
+        "DK-REST",
+        "DK-RHY-METER",
+        "DK-TWO-RHY"
+      ]
+    },
+    "I-SLUCH-09": {
+      "status": "partial",
+      "claimIds": [
+        "CAD-NONI",
+        "DK-DICTATION",
+        "DK-MEMORY"
+      ]
+    },
+    "I-SLUCH-10": {
+      "status": "partial",
+      "claimIds": [
+        "DK-GRAPHIC"
+      ]
+    },
+    "I-SLUCH-11": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "I-RYT-01": {
+      "status": "partial",
+      "claimIds": [
+        "DK-PULSE",
+        "DK-TWO-RHY"
+      ]
+    },
+    "I-RYT-02": {
+      "status": "partial",
+      "claimIds": [
+        "DK-REST",
+        "DK-TUPLET",
+        "DOT",
+        "METER-PL",
+        "PL-PICKUP",
+        "PL-RHY-GROUP",
+        "PL-SYNCOPE",
+        "WES-TUPLET"
+      ]
+    },
+    "I-RYT-03": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "I-RYT-04": {
+      "status": "partial",
+      "claimIds": [
+        "DK-CANON",
+        "INT-QUALITY",
+        "MAJOR-PATTERN",
+        "TRI-QUAL"
+      ]
+    },
+    "I-RYT-05": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "I-RYT-06": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "I-RYT-07": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "I-WOM-01": {
+      "status": "partial",
+      "claimIds": [
+        "CHOM-GENRE"
+      ]
+    },
+    "I-WOM-02": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "I-WOM-03": {
+      "status": "partial",
+      "claimIds": [
+        "DROB-KEYBOARD",
+        "DROB-TAXONOMY",
+        "DROB-VIOLIN",
+        "WES-SOUND",
+        "WOJ-CAPPELLA",
+        "WOJ-COLOUR",
+        "WOJ-ELEMENTS",
+        "WOJ-FAMILY",
+        "WOJ-HOMOPHONY",
+        "WOJ-MELODY",
+        "WOJ-REEDS",
+        "WOJ-RHY-TYPES",
+        "WOJ-RHYTHM",
+        "WOJ-SATB",
+        "WOJ-STRINGS",
+        "WOJ-SYLLABLE",
+        "WOJ-TEXTURE"
+      ]
+    },
+    "I-WOM-04": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-ARIA",
+        "ABC-BALLET",
+        "ABC-MASS",
+        "CHOM-CANON",
+        "CHOM-RONDO",
+        "CHOM-VARIATION",
+        "WOJ-PASSION",
+        "WOJ-SONATAFORM",
+        "WOJ-SONG",
+        "WOJ-TERNARY"
+      ]
+    },
+    "I-WOM-05": {
+      "status": "partial",
+      "claimIds": [
+        "WOJ-DANCE",
+        "WOJ-FOLK",
+        "WOJ-STYLIZATION"
+      ]
+    },
+    "I-WOM-06": {
+      "status": "partial",
+      "claimIds": [
+        "WOJ-BAGPIPE",
+        "WOJ-FOLK-HORNS"
+      ]
+    },
+    "I-WOM-07": {
+      "status": "partial",
+      "claimIds": [
+        "MOZART-K265",
+        "MOZART-K457-459"
+      ]
+    },
+    "I-WOM-08": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-FORM-01": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-CLASS",
+        "ABC-TEXTURE",
+        "ABC-VOCAL-TEXTURE",
+        "CHOM-FORM",
+        "WOJ-COLOUR",
+        "WOJ-HOMOPHONY",
+        "WOJ-POLYPHONY",
+        "WOJ-RHY-TYPES",
+        "WOJ-TEXTURE"
+      ]
+    },
+    "II-FORM-02": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-MOTIF",
+        "ABC-PERIOD-TYPES",
+        "ABC-SENTENCE",
+        "CHOM-EVOL",
+        "CHOM-JUXT",
+        "CHOM-MOTIF",
+        "CHOM-PERIOD",
+        "CHOM-PERIOD-CAD",
+        "CHOM-PHRASE",
+        "WOJ-PERIOD"
+      ]
+    },
+    "II-FORM-03": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-IMITATION",
+        "ABC-OSTINATO",
+        "CHOM-CANON",
+        "CHOM-EVOL",
+        "CHOM-VARIATION",
+        "WH-PEDAL",
+        "WOJ-POLYPHONY"
+      ]
+    },
+    "II-FORM-04": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-FIGURATION",
+        "CHOM-RONDO",
+        "WOJ-DANCE",
+        "WOJ-SONG",
+        "WOJ-TERNARY"
+      ]
+    },
+    "II-FORM-05": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-COUNTERSUBJECT",
+        "ABC-CYCLE",
+        "ABC-DEVELOPMENT",
+        "ABC-FUGATO",
+        "ABC-FUGUE-ANSWER",
+        "ABC-FUGUE-EXPOSITION",
+        "ABC-OSTINATO",
+        "ABC-RECAP",
+        "ABC-SONATA-BRIDGE",
+        "ABC-SONATA-DIST",
+        "ABC-SONATA-MONO",
+        "ABC-STRETTO",
+        "CHOM-FUGUE",
+        "CHOM-FUGUE-NON3",
+        "CHOM-VARIATION",
+        "WOJ-SONATAFORM",
+        "WOJ-SONATARONDO",
+        "WOJ-SUITE"
+      ]
+    },
+    "II-FORM-06": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-ARIA",
+        "ABC-BALLET",
+        "ABC-CLASS",
+        "ABC-CONCERTO",
+        "ABC-MADRIGAL",
+        "ABC-MASS",
+        "ABC-OPEN",
+        "ABC-POINTILLISM",
+        "ABC-SERIAL",
+        "ABC-VOCAL-FORM",
+        "CHOM-FORM",
+        "CHOM-GENRE",
+        "CHOM-STRUCT",
+        "TAR-ANALYSIS"
+      ]
+    },
+    "II-SLUCH-01": {
+      "status": "partial",
+      "claimIds": [
+        "CLEF-F",
+        "CLEF-G",
+        "DK-TUPLET",
+        "METER-PL",
+        "PL-POLYRHYTHM",
+        "STAFF",
+        "WES-ACC-SCOPE",
+        "WES-C-CLEFS",
+        "WES-DOUBLE-ACC",
+        "WES-OTTAVA",
+        "WES-UNISON-VOICES"
+      ]
+    },
+    "II-SLUCH-02": {
+      "status": "partial",
+      "claimIds": [
+        "DK-CHORD",
+        "DK-COMPLETE",
+        "DK-INT-ANS",
+        "DK-INT-DIFF",
+        "DROB-EAR",
+        "INT-QUALITY",
+        "SEV-INV",
+        "SIK-POS",
+        "TRI-INV",
+        "WES-COMPOUND"
+      ]
+    },
+    "II-SLUCH-03": {
+      "status": "partial",
+      "claimIds": [
+        "DK-AMBIGUOUS",
+        "DK-FOUR",
+        "PL-HARM-V79",
+        "SEV-INV",
+        "SEV-QUAL",
+        "SIK-D7-INV",
+        "TAR-D7",
+        "TAR-D7-ROOTLESS",
+        "TAR-D9",
+        "TAR-D9-ROOTLESS",
+        "TAR-S6",
+        "WH-CHOPIN-CHORD"
+      ]
+    },
+    "II-SLUCH-04": {
+      "status": "partial",
+      "claimIds": [
+        "DK-SCALE-LISTEN",
+        "DK-SCALE-SING",
+        "MAJOR-PATTERN",
+        "MINOR-MEL",
+        "PL-KEY-DETECT",
+        "TAR-DOR-S",
+        "WES-MAJOR-HARM",
+        "WES-WHOLETONE"
+      ]
+    },
+    "II-SLUCH-05": {
+      "status": "partial",
+      "claimIds": [
+        "CAD-NONI",
+        "SIK-FUNCTION",
+        "TAR-DEGREES",
+        "TAR-FUNCTION",
+        "TAR-MOD",
+        "TRIAD-MAIN"
+      ]
+    },
+    "II-SLUCH-06": {
+      "status": "partial",
+      "claimIds": [
+        "DK-ATONAL",
+        "DK-FOUR",
+        "DK-INT-DIFF",
+        "DK-MELODY"
+      ]
+    },
+    "II-SLUCH-07": {
+      "status": "partial",
+      "claimIds": [
+        "DK-DICTATION"
+      ]
+    },
+    "II-SLUCH-08": {
+      "status": "partial",
+      "claimIds": [
+        "DK-ACCOMP",
+        "DK-MELODY",
+        "DK-SIGHT",
+        "DK-TRANSPOSE",
+        "DK-VERTICAL",
+        "PL-TRANSPOSE"
+      ]
+    },
+    "II-SLUCH-09": {
+      "status": "partial",
+      "claimIds": [
+        "DK-ATONAL",
+        "DK-CANON",
+        "DK-GRAPHIC",
+        "DK-MEMORY",
+        "DK-VERTICAL"
+      ]
+    },
+    "II-SLUCH-10": {
+      "status": "partial",
+      "claimIds": [
+        "DK-PROGRESSION"
+      ]
+    },
+    "II-ZAS-01": {
+      "status": "partial",
+      "claimIds": [
+        "ACOUSTIC-DB",
+        "CLEF-F",
+        "CLEF-G",
+        "DROB-AMPLITUDE",
+        "DROB-BEATS",
+        "DROB-DAMP",
+        "DROB-HARM",
+        "DROB-MISSING",
+        "DROB-PERIOD",
+        "DROB-PIPE",
+        "DROB-SPECTRUM",
+        "DROB-SPEED",
+        "DROB-STRING",
+        "DROB-WAVE",
+        "WES-C-CLEFS",
+        "WES-HARMONICS",
+        "WES-SOUND"
+      ]
+    },
+    "II-ZAS-02": {
+      "status": "partial",
+      "claimIds": [
+        "DROB-CENT",
+        "DROB-ET",
+        "DROB-JUST",
+        "DROB-PYTH",
+        "DROB-RATIOS",
+        "MAJOR-PATTERN",
+        "MINOR-NAT",
+        "WES-12TET",
+        "WES-MAJOR-HARM",
+        "WES-TETRACHORD"
+      ]
+    },
+    "II-ZAS-03": {
+      "status": "partial",
+      "claimIds": [
+        "DROB-PICCOLO",
+        "DROB-TRUMPET",
+        "MAJOR-PATTERN",
+        "MINOR-KEYSIG",
+        "PL-KEY-DETECT",
+        "PL-KEY-REL",
+        "PL-KEY-SAME",
+        "PL-TRANSPOSE",
+        "WES-KEY-EXTENDED",
+        "WES-KEY-FIFTHS",
+        "WES-KEY-FLAT",
+        "WES-KEY-SHARP",
+        "WES-KEY-SIGNATURE-CONTEXT"
+      ]
+    },
+    "II-ZAS-04": {
+      "status": "partial",
+      "claimIds": [
+        "DROB-PYTH",
+        "PL-HB",
+        "TAR-ENH",
+        "TRITONE-AUDIO",
+        "WES-CHROM-IRREG",
+        "WES-CHROM-REG",
+        "WES-DIATONIC",
+        "WES-ENHARMONY",
+        "WES-KEY-EXTENDED",
+        "WES-SEMITONE-SPELL"
+      ]
+    },
+    "II-ZAS-05": {
+      "status": "partial",
+      "claimIds": [
+        "WES-CHROM-ATONAL",
+        "WES-WHOLETONE"
+      ]
+    },
+    "II-ZAS-06": {
+      "status": "partial",
+      "claimIds": [
+        "DROB-BEATS",
+        "DROB-RATIOS",
+        "INT-QUALITY",
+        "MINOR-V",
+        "PL-INV-QUALITY",
+        "TRI-QUAL",
+        "WES-COMPOUND",
+        "WES-INTERVAL-NUMBER",
+        "WES-INV-PRACTICE",
+        "WES-SEMITONE-SPELL",
+        "WES-UNISON"
+      ]
+    },
+    "II-ZAS-07": {
+      "status": "partial",
+      "claimIds": [
+        "PL-HARM-V79",
+        "SEV-INV",
+        "SEV-QUAL",
+        "SIK-D7-INV",
+        "TAR-D7",
+        "TAR-D7-RES"
+      ]
+    },
+    "II-ZAS-08": {
+      "status": "partial",
+      "claimIds": [
+        "DOT",
+        "METER-EN",
+        "METER-PL",
+        "PL-METER-REG",
+        "PL-PICKUP",
+        "PL-POLYMETER",
+        "PL-POLYRHYTHM",
+        "PL-RHY-GROUP",
+        "PL-SYNCOPE",
+        "TIE",
+        "WES-DUPLET",
+        "WES-TUPLET"
+      ]
+    },
+    "II-ZAS-09": {
+      "status": "partial",
+      "claimIds": [
+        "DROB-TEMPO",
+        "WES-ARTIC",
+        "WES-TEMPO",
+        "WES-TREMOLO",
+        "WOJ-PLAY"
+      ]
+    },
+    "II-ZAS-10": {
+      "status": "partial",
+      "claimIds": [
+        "WES-UNISON-VOICES",
+        "XML-DUR",
+        "XML-PITCH",
+        "XML-PITCH-STRUCT",
+        "XML-TIE"
+      ]
+    },
+    "II-HAR-01": {
+      "status": "partial",
+      "claimIds": [
+        "MINOR-V",
+        "SEV-QUAL",
+        "SIK-FUNCTION",
+        "SIK-TRIAD",
+        "TAR-D7",
+        "TAR-D7-ROOTLESS",
+        "TAR-D9",
+        "TAR-D9-ROOTLESS",
+        "TAR-DEGREES",
+        "TAR-DOR-S",
+        "TAR-FUNCTION",
+        "TAR-S6",
+        "TRIAD-MAIN",
+        "WH-CHOPIN-CHORD"
+      ]
+    },
+    "II-HAR-02": {
+      "status": "partial",
+      "claimIds": [
+        "SIK-DOUBLING",
+        "SIK-MOTION",
+        "SIK-PARALLEL",
+        "SIK-POS",
+        "SIK-REPEAT",
+        "SIK-SATB",
+        "SIK-SPACING",
+        "SIK-STRICT2",
+        "SIK-STRICT5",
+        "TAR-D7-RES",
+        "TAR-STRICT-PROFILE",
+        "WH-D7-EXCEPTION",
+        "WH-D7-FIFTH",
+        "WH-D7-LIMIT",
+        "WH-D7-SEVENTH",
+        "WH-DOUBLING"
+      ]
+    },
+    "II-HAR-03": {
+      "status": "partial",
+      "claimIds": [
+        "CAD-NONI",
+        "TAR-CADENCE"
+      ]
+    },
+    "II-HAR-04": {
+      "status": "partial",
+      "claimIds": [
+        "SIK-BASS6",
+        "SIK-REPEAT",
+        "TAR-FIGURED",
+        "WH-CONTINUO",
+        "WH-PRACTICE"
+      ]
+    },
+    "II-HAR-05": {
+      "status": "partial",
+      "claimIds": [
+        "TAR-ANTICIPATION",
+        "TAR-FOREIGN",
+        "TAR-NEIGHBOR",
+        "TAR-PASS",
+        "TAR-SUSP",
+        "WH-PEDAL"
+      ]
+    },
+    "II-HAR-06": {
+      "status": "partial",
+      "claimIds": [
+        "TAR-ALTER",
+        "TAR-MOD",
+        "TAR-MOD-DIAT",
+        "TAR-SECONDARY",
+        "WES-KEY-SIGNATURE-CONTEXT",
+        "WH-D7-CHAIN",
+        "WH-EXT-TONALITY",
+        "WH-MOD-CAD",
+        "WH-MOD-TYPES"
+      ]
+    },
+    "II-HAR-07": {
+      "status": "partial",
+      "claimIds": [
+        "TAR-ANALYSIS",
+        "WH-DOUBLING",
+        "WH-PRACTICE"
+      ]
+    },
+    "II-HIS-01": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-HIS-02": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-HIS-03": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-HIS-04": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-HIS-05": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-NOM-01": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-CONCERTO",
+        "ABC-TEXTURE",
+        "CHOM-FORM",
+        "DROB-SPECTRUM",
+        "WES-DIATONIC",
+        "WES-TEMPO",
+        "WES-UNISON",
+        "WOJ-ELEMENTS",
+        "WOJ-MELODY",
+        "WOJ-RHYTHM",
+        "WOJ-SYLLABLE",
+        "WOJ-TEXTURE"
+      ]
+    },
+    "II-NOM-02": {
+      "status": "partial",
+      "claimIds": [
+        "CHOM-MOTIF",
+        "CHOM-PERIOD",
+        "CHOM-PHRASE",
+        "DROB-KEYBOARD",
+        "DROB-PICCOLO",
+        "DROB-PIPE",
+        "DROB-TAXONOMY",
+        "DROB-TRUMPET",
+        "DROB-VALVES",
+        "DROB-VIOLIN",
+        "WOJ-FAMILY",
+        "WOJ-HARP",
+        "WOJ-PERIOD",
+        "WOJ-REEDS",
+        "WOJ-SATB",
+        "WOJ-STRINGS"
+      ]
+    },
+    "II-NOM-03": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-SONORISM",
+        "DROB-HARMONIC-NODE",
+        "DROB-HARMONIC-TOUCH",
+        "WOJ-BAGPIPE",
+        "WOJ-FOLK-HORNS",
+        "WOJ-PLAY"
+      ]
+    },
+    "II-NOM-04": {
+      "status": "partial",
+      "claimIds": [
+        "ABC-OPEN",
+        "ABC-POINTILLISM",
+        "ABC-SERIAL",
+        "ABC-SONORISM",
+        "DK-GRAPHIC"
+      ]
+    },
+    "II-NOM-05": {
+      "status": "partial",
+      "claimIds": [
+        "WOJ-STYLIZATION",
+        "WOJ-SUITE"
+      ]
+    },
+    "II-NOM-06": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-NOM-07": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-NOM-08": {
+      "status": "unmapped",
+      "claimIds": []
+    },
+    "II-NOM-09": {
+      "status": "unmapped",
+      "claimIds": []
+    }
+  },
+  "byClaim": {
+    "INT-QUALITY": {
+      "sourceIds": [
+        "OMT2-INT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "I-RYT-04",
+        "II-SLUCH-02",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [
+        "I01",
+        "I02",
+        "I03",
+        "I04",
+        "I08"
+      ],
+      "releaseApproved": false
+    },
+    "INT-AUG": {
+      "sourceIds": [
+        "OMT2-INT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02"
+      ],
+      "fixtureIds": [
+        "I01",
+        "I03",
+        "I11"
+      ],
+      "releaseApproved": false
+    },
+    "TRI-QUAL": {
+      "sourceIds": [
+        "OMT2-TRI",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "I-RYT-04",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [
+        "H01",
+        "H02",
+        "H05",
+        "H06"
+      ],
+      "releaseApproved": false
+    },
+    "TRI-INV": {
+      "sourceIds": [
+        "OMT2-INV",
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "II-SLUCH-02"
+      ],
+      "fixtureIds": [
+        "H01",
+        "H02",
+        "H05",
+        "H06"
+      ],
+      "releaseApproved": false
+    },
+    "SEV-INV": {
+      "sourceIds": [
+        "OMT2-INV",
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02",
+        "II-SLUCH-03",
+        "II-ZAS-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SEV-QUAL": {
+      "sourceIds": [
+        "OMT2-7"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "II-SLUCH-03",
+        "II-ZAS-07",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DOT": {
+      "sourceIds": [
+        "OMT2-NR"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "R04",
+        "R07"
+      ],
+      "releaseApproved": false
+    },
+    "TIE": {
+      "sourceIds": [
+        "OMT2-NR"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "R05",
+        "N03"
+      ],
+      "releaseApproved": false
+    },
+    "XML-PITCH": {
+      "sourceIds": [
+        "XML-MIDI"
+      ],
+      "competencyIds": [
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [
+        "N01"
+      ],
+      "releaseApproved": false
+    },
+    "XML-DUR": {
+      "sourceIds": [
+        "XML-DURATION"
+      ],
+      "competencyIds": [
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [
+        "N04",
+        "N05"
+      ],
+      "releaseApproved": false
+    },
+    "XML-TIE": {
+      "sourceIds": [
+        "XML-TIED"
+      ],
+      "competencyIds": [
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [
+        "N02",
+        "N03"
+      ],
+      "releaseApproved": false
+    },
+    "MINOR-NAT": {
+      "sourceIds": [
+        "OMT2-MINOR",
+        "WES-1986-UPLOAD",
+        "ZPE-MOLL"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "MINOR-HARM": {
+      "sourceIds": [
+        "OMT2-MINOR",
+        "SIK-HAR-UPLOAD",
+        "TARGOSZ-2004-UPLOAD",
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04"
+      ],
+      "fixtureIds": [
+        "G02"
+      ],
+      "releaseApproved": false
+    },
+    "MINOR-MEL": {
+      "sourceIds": [
+        "OMT2-MINOR",
+        "TARGOSZ-2004-UPLOAD",
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD",
+        "ZPE-MOLL"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04"
+      ],
+      "fixtureIds": [
+        "G04",
+        "G05"
+      ],
+      "releaseApproved": false
+    },
+    "MINOR-PL-DOR": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD",
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD",
+        "ZPE-MOLL"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04"
+      ],
+      "fixtureIds": [
+        "G06"
+      ],
+      "releaseApproved": false
+    },
+    "MINOR-KEYSIG": {
+      "sourceIds": [
+        "OMT2-MINOR",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "XML-PITCH-STRUCT": {
+      "sourceIds": [
+        "XML-MIDI"
+      ],
+      "competencyIds": [
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [
+        "N01"
+      ],
+      "releaseApproved": false
+    },
+    "MOZART-K265": {
+      "sourceIds": [
+        "HENLE-MOZART-K265"
+      ],
+      "competencyIds": [
+        "I-WOM-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "STAFF": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-CLEF"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CLEF-G": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-CLEF"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01",
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [
+        "C01"
+      ],
+      "releaseApproved": false
+    },
+    "CLEF-F": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-CLEF"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01",
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [
+        "C02"
+      ],
+      "releaseApproved": false
+    },
+    "PL-HB": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-ACC",
+        "ZPE-SCALE"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [
+        "P01",
+        "P02"
+      ],
+      "releaseApproved": false
+    },
+    "PL-SHARP": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-ACC"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-FLAT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-ACC"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ACC-NATURAL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-ACC"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SOLM-FIXED": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-SCALE"
+      ],
+      "competencyIds": [
+        "I-SLUCH-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "MAJOR-PATTERN": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "ZPE-SCALE"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "I-RYT-04",
+        "II-SLUCH-04",
+        "II-ZAS-02",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [
+        "G01",
+        "G08",
+        "G09"
+      ],
+      "releaseApproved": false
+    },
+    "TRIAD-MAIN": {
+      "sourceIds": [
+        "ZPE-TRI"
+      ],
+      "competencyIds": [
+        "I-SLUCH-05",
+        "II-SLUCH-05",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "METER-PL": {
+      "sourceIds": [
+        "ZPE-METER"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02",
+        "II-SLUCH-01",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "R11"
+      ],
+      "releaseApproved": false
+    },
+    "METER-EN": {
+      "sourceIds": [
+        "UPS-METER"
+      ],
+      "competencyIds": [
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [
+        "R01",
+        "R02",
+        "R12",
+        "R13"
+      ],
+      "releaseApproved": false
+    },
+    "METER-68": {
+      "sourceIds": [
+        "UPS-METER"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06"
+      ],
+      "fixtureIds": [
+        "R01"
+      ],
+      "releaseApproved": false
+    },
+    "MINOR-V": {
+      "sourceIds": [
+        "UPS-MINCH"
+      ],
+      "competencyIds": [
+        "II-ZAS-06",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [
+        "H09",
+        "H10"
+      ],
+      "releaseApproved": false
+    },
+    "CAD-NONI": {
+      "sourceIds": [
+        "UPS-CAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-05",
+        "I-SLUCH-09",
+        "II-SLUCH-05",
+        "II-HAR-03"
+      ],
+      "fixtureIds": [
+        "A08"
+      ],
+      "releaseApproved": false
+    },
+    "TRITONE-AUDIO": {
+      "sourceIds": [
+        "UPS-INT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [
+        "I03",
+        "I04",
+        "A05"
+      ],
+      "releaseApproved": false
+    },
+    "INV-M6-M3": {
+      "sourceIds": [
+        "UPS-INV",
+        "WES-1986-TEXT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02"
+      ],
+      "fixtureIds": [
+        "I12"
+      ],
+      "releaseApproved": false
+    },
+    "PL-KEY-REL": {
+      "sourceIds": [
+        "WES-1986-ALT",
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-KEY-SAME": {
+      "sourceIds": [
+        "WES-1986-ALT",
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-INV-QUALITY": {
+      "sourceIds": [
+        "WES-1986-TEXT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-INT-TIME": {
+      "sourceIds": [
+        "WES-1986-TEXT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-METER-REG": {
+      "sourceIds": [
+        "WES-1986-TEXT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-RHY-GROUP": {
+      "sourceIds": [
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-SYNCOPE": {
+      "sourceIds": [
+        "WES-1986-TEXT"
+      ],
+      "competencyIds": [
+        "I-RYT-02",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-HARM-V79": {
+      "sourceIds": [
+        "WES-1986-TEXT",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "II-SLUCH-03",
+        "II-ZAS-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-POLYRHYTHM": {
+      "sourceIds": [
+        "WES-1986-ALT"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-POLYMETER": {
+      "sourceIds": [
+        "WES-1986-ALT"
+      ],
+      "competencyIds": [
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-PICKUP": {
+      "sourceIds": [
+        "WES-1986-ALT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-KEY-DETECT": {
+      "sourceIds": [
+        "WES-1986-ALT",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-SLUCH-04",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "PL-TRANSPOSE": {
+      "sourceIds": [
+        "WES-1986-ALT"
+      ],
+      "competencyIds": [
+        "I-SLUCH-05",
+        "II-SLUCH-08",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-TRIAD": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD",
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-05",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-FUNCTION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-05",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-SATB": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-POS": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD",
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-SPACING": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD",
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-MOTION": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-PARALLEL": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-STRICT5": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-STRICT2": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-REPEAT": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-DOUBLING": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD",
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-BASS6": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "SIK-D7-INV": {
+      "sourceIds": [
+        "SIK-HAR-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "II-SLUCH-03",
+        "II-ZAS-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FUNCTION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-05",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-CADENCE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-05",
+        "II-HAR-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-STRICT-PROFILE": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-DOR-S": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FOREIGN": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SUSP": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-PASS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-NEIGHBOR": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ANTICIPATION": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-D7": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD",
+        "WES-1986-UPLOAD",
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "II-SLUCH-03",
+        "II-ZAS-07",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-D7-RES": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD",
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-03",
+        "II-ZAS-07",
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-D7-ROOTLESS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-S6": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-D9": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-D9-ROOTLESS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-DEGREES": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-05",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-FIGURED": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-MOD": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD",
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-05",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-MOD-DIAT": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD",
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-SECONDARY": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD",
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ALTER": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ENH": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "TAR-ANALYSIS": {
+      "sourceIds": [
+        "TARGOSZ-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FORM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-GENRE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-STRUCT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MOTIF": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PHRASE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD-CAD": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-JUXT": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-EVOL": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CANON": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-FUGUE-NON3": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-VARIATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-RONDO": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD",
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-HARMONICS": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-SOUND": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-12TET": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-C-CLEFS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01",
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-OTTAVA": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TUPLET": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02",
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DUPLET": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DIATONIC": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-DOUBLE-ACC": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ACC-SCOPE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-01",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ENHARMONY": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-SEMITONE-SPELL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-ZAS-04",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-MAJOR-HARM": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04",
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CHROM-REG": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CHROM-IRREG": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-WHOLETONE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04",
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-CHROM-ATONAL": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-ARTIC": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TREMOLO": {
+      "sourceIds": [
+        "WES-1986-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TEMPO": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD",
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-09",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-ELEMENTS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-RHYTHM": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-RHY-TYPES": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-MELODY": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-SYLLABLE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-COLOUR": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-PLAY": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-09",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-FAMILY": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-REEDS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-STRINGS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-HARP": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-SATB": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-TEXTURE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-FORM-01",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-HOMOPHONY": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-POLYPHONY": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-PERIOD": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-TERNARY": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-SONATAFORM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-SONATARONDO": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-SUITE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05",
+        "II-NOM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-DANCE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-05",
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-STYLIZATION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-05",
+        "II-NOM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-SONG": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD",
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-CAPPELLA": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-PASSION": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-FOLK": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-BAGPIPE": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-06",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WOJ-FOLK-HORNS": {
+      "sourceIds": [
+        "WOJ-NOM-2004-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-06",
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "MOZART-K457-459": {
+      "sourceIds": [
+        "MOZARTEUM-K457",
+        "MOZARTEUM-K459"
+      ],
+      "competencyIds": [
+        "I-WOM-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ACOUSTIC-DB": {
+      "sourceIds": [
+        "PW-ACOUSTIC-LEVEL"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-PROGRESSION": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-10"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-DICTATION": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-09",
+        "II-SLUCH-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-PULSE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-08",
+        "I-RYT-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-TWO-RHY": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-07",
+        "I-SLUCH-08",
+        "I-RYT-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-REST": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-08",
+        "I-RYT-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-RHY-METER": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-TUPLET": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-02",
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-CANON": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-04",
+        "II-SLUCH-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-MELODY": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06",
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SIGHT": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ACCOMP": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-07",
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-VERTICAL": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08",
+        "II-SLUCH-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ATONAL": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06",
+        "II-SLUCH-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SCALE-SING": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-SLUCH-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SCALE-LISTEN": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-INT-ANS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-SLUCH-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-INT-DIFF": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02",
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-TRANSPOSE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-07",
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-MEMORY": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-09",
+        "II-SLUCH-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-COMPLETE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-CHORD": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-AMBIGUOUS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-FOUR": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03",
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-GRAPHIC": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-10",
+        "II-SLUCH-09",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CLASS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-TEXTURE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MOTIF": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SENTENCE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-PERIOD-TYPES": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SERIAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-POINTILLISM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONORISM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-OPEN": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-NOM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FIGURATION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-IMITATION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-STRETTO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FUGATO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FUGUE-ANSWER": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-COUNTERSUBJECT": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-FUGUE-EXPOSITION": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-OSTINATO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CYCLE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-DIST": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-BRIDGE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-DEVELOPMENT": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-RECAP": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-SONATA-MONO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-CONCERTO": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-VOCAL-TEXTURE": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-VOCAL-FORM": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MASS": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-MADRIGAL": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-ARIA": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "ABC-BALLET": {
+      "sourceIds": [
+        "WOJ-ABC-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-04",
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-PRACTICE": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-EXT-TONALITY": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-FIFTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-EXCEPTION": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-SEVENTH": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-LIMIT": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-D7-CHAIN": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CHOPIN-CHORD": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03",
+        "II-HAR-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-CONTINUO": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-DOUBLING": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-02",
+        "II-HAR-07"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-PEDAL": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03",
+        "II-HAR-05"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-CAD": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WH-MOD-TYPES": {
+      "sourceIds": [
+        "WES-HAR-1997-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-PERIOD": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [
+        "AC01"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-AMPLITUDE": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-DAMP": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-WAVE": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [
+        "AC02"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-SPEED": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-BEATS": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-TEMPO": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "II-ZAS-09"
+      ],
+      "fixtureIds": [
+        "AC03"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-SPECTRUM": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-HARM": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [
+        "AC04"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-MISSING": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-EAR": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-SLUCH-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-TAXONOMY": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-KEYBOARD": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-STRING": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-HARMONIC-NODE": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-VIOLIN": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-WOM-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-HARMONIC-TOUCH": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-RATIOS": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [
+        "AC07"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-PYTH": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02",
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-JUST": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DROB-CENT": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [
+        "AC05"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-ET": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [
+        "AC06"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-PIPE": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-01",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "AC08",
+        "AC09"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-PICCOLO": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "AC11"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-TRUMPET": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03",
+        "II-NOM-02"
+      ],
+      "fixtureIds": [
+        "AC10"
+      ],
+      "releaseApproved": false
+    },
+    "DROB-VALVES": {
+      "sourceIds": [
+        "DROB-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-NOM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-INTERVAL-NUMBER": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-COMPOUND": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-INV-PRACTICE": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-02",
+        "II-ZAS-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-UNISON": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-06",
+        "II-NOM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-UNISON-VOICES": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01",
+        "II-ZAS-10"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-TETRACHORD": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-ZAS-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-SHARP": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-FLAT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-04",
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-FIFTHS": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-EXTENDED": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03",
+        "II-ZAS-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "WES-KEY-SIGNATURE-CONTEXT": {
+      "sourceIds": [
+        "WES-1986-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-ZAS-03",
+        "II-HAR-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    }
+  },
+  "byFixture": {
+    "I01": [
+      "INT-QUALITY",
+      "INT-AUG"
+    ],
+    "I02": [
+      "INT-QUALITY"
+    ],
+    "I03": [
+      "INT-QUALITY",
+      "INT-AUG",
+      "TRITONE-AUDIO"
+    ],
+    "I04": [
+      "INT-QUALITY",
+      "TRITONE-AUDIO"
+    ],
+    "I08": [
+      "INT-QUALITY"
+    ],
+    "I11": [
+      "INT-AUG"
+    ],
+    "H01": [
+      "TRI-QUAL",
+      "TRI-INV"
+    ],
+    "H02": [
+      "TRI-QUAL",
+      "TRI-INV"
+    ],
+    "H05": [
+      "TRI-QUAL",
+      "TRI-INV"
+    ],
+    "H06": [
+      "TRI-QUAL",
+      "TRI-INV"
+    ],
+    "R04": [
+      "DOT"
+    ],
+    "R07": [
+      "DOT"
+    ],
+    "R05": [
+      "TIE"
+    ],
+    "N03": [
+      "TIE",
+      "XML-TIE"
+    ],
+    "N01": [
+      "XML-PITCH",
+      "XML-PITCH-STRUCT"
+    ],
+    "N04": [
+      "XML-DUR"
+    ],
+    "N05": [
+      "XML-DUR"
+    ],
+    "N02": [
+      "XML-TIE"
+    ],
+    "G02": [
+      "MINOR-HARM"
+    ],
+    "G04": [
+      "MINOR-MEL"
+    ],
+    "G05": [
+      "MINOR-MEL"
+    ],
+    "G06": [
+      "MINOR-PL-DOR"
+    ],
+    "C01": [
+      "CLEF-G"
+    ],
+    "C02": [
+      "CLEF-F"
+    ],
+    "P01": [
+      "PL-HB"
+    ],
+    "P02": [
+      "PL-HB"
+    ],
+    "G01": [
+      "MAJOR-PATTERN"
+    ],
+    "G08": [
+      "MAJOR-PATTERN"
+    ],
+    "G09": [
+      "MAJOR-PATTERN"
+    ],
+    "R11": [
+      "METER-PL"
+    ],
+    "R01": [
+      "METER-EN",
+      "METER-68"
+    ],
+    "R02": [
+      "METER-EN"
+    ],
+    "R12": [
+      "METER-EN"
+    ],
+    "R13": [
+      "METER-EN"
+    ],
+    "H09": [
+      "MINOR-V"
+    ],
+    "H10": [
+      "MINOR-V"
+    ],
+    "A08": [
+      "CAD-NONI"
+    ],
+    "A05": [
+      "TRITONE-AUDIO"
+    ],
+    "I12": [
+      "INV-M6-M3"
+    ],
+    "AC01": [
+      "DROB-PERIOD"
+    ],
+    "AC02": [
+      "DROB-WAVE"
+    ],
+    "AC03": [
+      "DROB-TEMPO"
+    ],
+    "AC04": [
+      "DROB-HARM"
+    ],
+    "AC07": [
+      "DROB-RATIOS"
+    ],
+    "AC05": [
+      "DROB-CENT"
+    ],
+    "AC06": [
+      "DROB-ET"
+    ],
+    "AC08": [
+      "DROB-PIPE"
+    ],
+    "AC09": [
+      "DROB-PIPE"
+    ],
+    "AC11": [
+      "DROB-PICCOLO"
+    ],
+    "AC10": [
+      "DROB-TRUMPET"
+    ]
+  }
+}

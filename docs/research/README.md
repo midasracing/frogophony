@@ -40,3 +40,5 @@ Przed opracowywaniem lekcji obowiązkowo przeczytaj source-policy.md i AGENTS.md
 - [Wesołowski — Nauka harmonii](wesolowski-harmony-reference.md): wyjątki, praktyka, faktura i modulacje.
 
 - [Drobner — instrumentoznawstwo i akustyka](drobner-reference.md): strojenie, modele fizyczne, transpozycja i ograniczenia.
+
+- [Archiwum i pełna lektura](archive-policy.md), [rejestr lektury](reading-ledger.json), [indeks wiedzy](knowledge-index.json): plan przeglądu wszystkich stron oraz powiązania twierdzeń ze źródłami, kompetencjami i testami.

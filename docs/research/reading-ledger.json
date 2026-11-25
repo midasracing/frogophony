@@ -1,0 +1,1259 @@
+{
+  "version": 1,
+  "policy": "PDF pages, 1-based. Previous partial readings are evidence, not complete page reviews. Each page requires explicit disposition. Pending batches include previously sampled pages until complete review.",
+  "books": [
+    {
+      "sourceId": "SIK-HAR-UPLOAD",
+      "pageCount": 499,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 121,
+          "end": 130,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 131,
+          "end": 140,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 151,
+          "end": 160,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 161,
+          "end": 170,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 171,
+          "end": 180,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 181,
+          "end": 190,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 191,
+          "end": 200,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 201,
+          "end": 210,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 211,
+          "end": 220,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 221,
+          "end": 230,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 241,
+          "end": 250,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 251,
+          "end": 260,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 261,
+          "end": 270,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 271,
+          "end": 280,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 281,
+          "end": 290,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 291,
+          "end": 300,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 301,
+          "end": 310,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 311,
+          "end": 320,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 321,
+          "end": 330,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 331,
+          "end": 340,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 341,
+          "end": 350,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 351,
+          "end": 360,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 361,
+          "end": 370,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 371,
+          "end": 380,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 381,
+          "end": 390,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 391,
+          "end": 400,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 401,
+          "end": 410,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 411,
+          "end": 420,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 421,
+          "end": 430,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 431,
+          "end": 440,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 441,
+          "end": 450,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 451,
+          "end": 460,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 461,
+          "end": 470,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 471,
+          "end": 480,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 481,
+          "end": 490,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 491,
+          "end": 499,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "TARGOSZ-2004-UPLOAD",
+      "pageCount": 387,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 121,
+          "end": 130,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 131,
+          "end": 140,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 151,
+          "end": 160,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 161,
+          "end": 170,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 171,
+          "end": 180,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 181,
+          "end": 190,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 191,
+          "end": 200,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 201,
+          "end": 210,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 211,
+          "end": 220,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 221,
+          "end": 230,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 241,
+          "end": 250,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 251,
+          "end": 260,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 261,
+          "end": 270,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 271,
+          "end": 280,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 281,
+          "end": 290,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 291,
+          "end": 300,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 301,
+          "end": 310,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 311,
+          "end": 320,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 321,
+          "end": 330,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 331,
+          "end": 340,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 341,
+          "end": 350,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 351,
+          "end": 360,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 361,
+          "end": 370,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 371,
+          "end": 380,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 381,
+          "end": 387,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "CHOM-FORM1-1983-UPLOAD",
+      "pageCount": 573,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 121,
+          "end": 130,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 131,
+          "end": 140,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 151,
+          "end": 160,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 161,
+          "end": 170,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 171,
+          "end": 180,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 181,
+          "end": 190,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 191,
+          "end": 200,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 201,
+          "end": 210,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 211,
+          "end": 220,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 221,
+          "end": 230,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 241,
+          "end": 250,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 251,
+          "end": 260,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 261,
+          "end": 270,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 271,
+          "end": 280,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 281,
+          "end": 290,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 291,
+          "end": 300,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 301,
+          "end": 310,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 311,
+          "end": 320,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 321,
+          "end": 330,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 331,
+          "end": 340,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 341,
+          "end": 350,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 351,
+          "end": 360,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 361,
+          "end": 370,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 371,
+          "end": 380,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 381,
+          "end": 390,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 391,
+          "end": 400,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 401,
+          "end": 410,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 411,
+          "end": 420,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 421,
+          "end": 430,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 431,
+          "end": 440,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 441,
+          "end": 450,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 451,
+          "end": 460,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 461,
+          "end": 470,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 471,
+          "end": 480,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 481,
+          "end": 490,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 491,
+          "end": 500,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 501,
+          "end": 510,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 511,
+          "end": 520,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 521,
+          "end": 530,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 531,
+          "end": 540,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 541,
+          "end": 550,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 551,
+          "end": 560,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 561,
+          "end": 570,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 571,
+          "end": 573,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "WES-1986-UPLOAD",
+      "pageCount": 179,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 121,
+          "end": 130,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 131,
+          "end": 140,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 151,
+          "end": 160,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 161,
+          "end": 170,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 171,
+          "end": 179,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "WOJ-NOM-2004-UPLOAD",
+      "pageCount": 104,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 104,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "DK-EAR-1989-UPLOAD",
+      "pageCount": 92,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 92,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "WOJ-ABC-UPLOAD",
+      "pageCount": 96,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 96,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "WES-HAR-1997-UPLOAD",
+      "pageCount": 104,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 104,
+          "status": "pending-full-review"
+        }
+      ]
+    },
+    {
+      "sourceId": "DROB-1986-UPLOAD",
+      "pageCount": 259,
+      "batches": [
+        {
+          "start": 1,
+          "end": 10,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 81,
+          "end": 90,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 101,
+          "end": 110,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 121,
+          "end": 130,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 131,
+          "end": 140,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 151,
+          "end": 160,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 161,
+          "end": 170,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 171,
+          "end": 180,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 181,
+          "end": 190,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 191,
+          "end": 200,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 201,
+          "end": 210,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 211,
+          "end": 220,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 221,
+          "end": 230,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 231,
+          "end": 240,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 241,
+          "end": 250,
+          "status": "pending-full-review"
+        },
+        {
+          "start": 251,
+          "end": 259,
+          "status": "pending-full-review"
+        }
+      ]
+    }
+  ],
+  "newPasses": [
+    {
+      "sourceId": "WES-1986-UPLOAD",
+      "ranges": [
+        [
+          85,
+          91
+        ],
+        [
+          112,
+          118
+        ],
+        [
+          122,
+          125
+        ]
+      ],
+      "status": "selected-text-and-images-reviewed",
+      "claimIds": [
+        "WES-INTERVAL-NUMBER",
+        "WES-COMPOUND",
+        "WES-INV-PRACTICE",
+        "WES-UNISON",
+        "WES-UNISON-VOICES",
+        "WES-TETRACHORD",
+        "WES-KEY-SHARP",
+        "WES-KEY-FLAT",
+        "WES-KEY-FIFTHS",
+        "WES-KEY-EXTENDED",
+        "WES-KEY-SIGNATURE-CONTEXT"
+      ],
+      "remaining": "Individual musical examples and exercises require review."
+    }
+  ]
+}

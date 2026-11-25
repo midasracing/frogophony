@@ -56,3 +56,5 @@ WES-HAR-1997-UPLOAD, 104 strony skanu, wyd. I 1997. Czytelny po obrocie. Pierwsz
 
 ### Otrzymano Drobnera (2026-11-25)
 DROB-1986-UPLOAD, PWM 1986, rzeczywisty PDF 259 stron, podgląd Files 150; kończy się na druk. 258, bibliografia i indeks nieobecne. Nie prosić ponownie o książkę, chyba że potrzebna będzie wkładka skal lub brakujące końcowe strony. Lektura częściowa w drobner-reference.md. Wszystkie dziewięć zapowiedzianych plików otrzymano. Następne: audyt zebranej wiedzy, historia muzyki i pozostałe braki programu.
+
+Pełna lektura jest teraz śledzona przez reading-ledger.json. Nie traktować wcześniejszych notatek jako zamkniętych partii.

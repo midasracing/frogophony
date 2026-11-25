@@ -29,7 +29,9 @@
         "PL-INT-TIME",
         "WES-SEMITONE-SPELL",
         "DK-INT-ANS",
-        "DROB-EAR"
+        "DROB-EAR",
+        "WES-INTERVAL-NUMBER",
+        "WES-INV-PRACTICE"
       ],
       "status": "partial"
     },
@@ -56,7 +58,10 @@
         "PL-KEY-REL",
         "PL-KEY-SAME",
         "PL-KEY-DETECT",
-        "DK-SCALE-SING"
+        "DK-SCALE-SING",
+        "WES-TETRACHORD",
+        "WES-KEY-SHARP",
+        "WES-KEY-FLAT"
       ],
       "status": "partial"
     },
@@ -373,7 +378,8 @@
         "WES-OTTAVA",
         "WES-DOUBLE-ACC",
         "WES-ACC-SCOPE",
-        "DK-TUPLET"
+        "DK-TUPLET",
+        "WES-UNISON-VOICES"
       ],
       "status": "partial"
     },
@@ -388,7 +394,8 @@
         "DK-INT-DIFF",
         "DK-COMPLETE",
         "DK-CHORD",
-        "DROB-EAR"
+        "DROB-EAR",
+        "WES-COMPOUND"
       ],
       "status": "partial"
     },
@@ -517,7 +524,8 @@
         "DROB-PYTH",
         "DROB-JUST",
         "DROB-CENT",
-        "DROB-ET"
+        "DROB-ET",
+        "WES-TETRACHORD"
       ],
       "status": "partial"
     },
@@ -531,7 +539,12 @@
         "PL-KEY-DETECT",
         "PL-TRANSPOSE",
         "DROB-PICCOLO",
-        "DROB-TRUMPET"
+        "DROB-TRUMPET",
+        "WES-KEY-SHARP",
+        "WES-KEY-FLAT",
+        "WES-KEY-FIFTHS",
+        "WES-KEY-EXTENDED",
+        "WES-KEY-SIGNATURE-CONTEXT"
       ],
       "status": "partial"
     },
@@ -546,7 +559,8 @@
         "WES-SEMITONE-SPELL",
         "WES-CHROM-REG",
         "WES-CHROM-IRREG",
-        "DROB-PYTH"
+        "DROB-PYTH",
+        "WES-KEY-EXTENDED"
       ],
       "status": "partial"
     },
@@ -567,7 +581,11 @@
         "PL-INV-QUALITY",
         "WES-SEMITONE-SPELL",
         "DROB-BEATS",
-        "DROB-RATIOS"
+        "DROB-RATIOS",
+        "WES-INTERVAL-NUMBER",
+        "WES-COMPOUND",
+        "WES-INV-PRACTICE",
+        "WES-UNISON"
       ],
       "status": "partial"
     },
@@ -618,7 +636,8 @@
         "XML-PITCH",
         "XML-DUR",
         "XML-TIE",
-        "XML-PITCH-STRUCT"
+        "XML-PITCH-STRUCT",
+        "WES-UNISON-VOICES"
       ],
       "status": "partial"
     },
@@ -705,7 +724,8 @@
         "WH-EXT-TONALITY",
         "WH-D7-CHAIN",
         "WH-MOD-CAD",
-        "WH-MOD-TYPES"
+        "WH-MOD-TYPES",
+        "WES-KEY-SIGNATURE-CONTEXT"
       ],
       "status": "partial"
     },
@@ -756,7 +776,8 @@
         "WOJ-TEXTURE",
         "ABC-TEXTURE",
         "ABC-CONCERTO",
-        "DROB-SPECTRUM"
+        "DROB-SPECTRUM",
+        "WES-UNISON"
       ],
       "status": "partial"
     },
