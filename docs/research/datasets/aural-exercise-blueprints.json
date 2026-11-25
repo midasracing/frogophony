@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "sourceId": "DK-EAR-1989-UPLOAD",
+  "status": "draft",
+  "note": "Schematy danych, nie gotowe ani zatwierdzone ćwiczenia. Każdy generator wymaga niezależnej walidacji muzycznej i technicznej.",
+  "templates": [
+    {
+      "id": "rhythm-two-channels",
+      "claimIds": [
+        "DK-TWO-RHY",
+        "DK-PULSE",
+        "DK-SWAP-HANDS"
+      ],
+      "parameters": [
+        "meter",
+        "tempo",
+        "voiceCount",
+        "pulseUnit",
+        "swapHands"
+      ],
+      "assessment": "separate-onsets-per-channel",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "rhythm-silence",
+      "claimIds": [
+        "DK-REST",
+        "DK-SILENT-BEAT",
+        "DK-SMALL-UNITS"
+      ],
+      "parameters": [
+        "meter",
+        "tempo",
+        "restPositions",
+        "countMode"
+      ],
+      "assessment": "onset-and-silence",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "rhythm-rebar",
+      "claimIds": [
+        "DK-REBAR",
+        "DK-ACCENT-VARIANTS"
+      ],
+      "parameters": [
+        "sourceRhythm",
+        "targetMeter",
+        "lastBarPolicy"
+      ],
+      "assessment": "duration-preservation-and-bar-fill",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "rhythm-canon",
+      "claimIds": [
+        "DK-CANON",
+        "DK-CANON-DELAY"
+      ],
+      "parameters": [
+        "meter",
+        "tempo",
+        "delayBars",
+        "stimulusKind"
+      ],
+      "assessment": "delayed-onsets",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "rhythm-coordination",
+      "claimIds": [
+        "DK-THREE-CHANNELS",
+        "DK-VOICE-ROLES"
+      ],
+      "parameters": [
+        "independentParts",
+        "pulseUnit",
+        "tempo"
+      ],
+      "assessment": "teacher-or-multichannel",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "melody-open-rhythm",
+      "claimIds": [
+        "DK-FREE-METER",
+        "DK-ISOLATE-RHYTHM"
+      ],
+      "parameters": [
+        "pitchSequence",
+        "rhythmConstraints"
+      ],
+      "assessment": "constraint-rubric",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "melody-accidentals",
+      "claimIds": [
+        "DK-LOCAL-ACCIDENTALS",
+        "DK-NONKEY-SIGNATURE"
+      ],
+      "parameters": [
+        "notationPolicy",
+        "pitchSequence",
+        "tempo"
+      ],
+      "assessment": "explicit-accidental-scope",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "scale-with-background",
+      "claimIds": [
+        "DK-SCALE-DISTRACTOR",
+        "DK-SCALE-SING"
+      ],
+      "parameters": [
+        "scale",
+        "startDegree",
+        "voiceRange",
+        "background",
+        "rhythm"
+      ],
+      "assessment": "target-pitches-in-declared-range",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "scale-ambiguity",
+      "claimIds": [
+        "DK-SCALE-AMBIGUITY",
+        "DK-SCALE-LISTEN"
+      ],
+      "parameters": [
+        "pitchCollection",
+        "givenReference",
+        "tonalContext"
+      ],
+      "assessment": "multiple-valid-answers-when-underdetermined",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "interval-layered",
+      "claimIds": [
+        "DK-SIMULTANEOUS-INTERVALS",
+        "DK-RELEASE-ISOLATION",
+        "DK-AMBITUS"
+      ],
+      "parameters": [
+        "voicePairs",
+        "registers",
+        "durations",
+        "releaseTimes"
+      ],
+      "assessment": "designated-pair-or-extremes",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "interval-quadrilateral",
+      "claimIds": [
+        "DK-QUADRILATERAL",
+        "DK-MOVING-INTERVALS"
+      ],
+      "parameters": [
+        "voiceIdentity",
+        "twoOnsets",
+        "pitchPairs"
+      ],
+      "assessment": "vertical-and-horizontal-intervals",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "chord-memory",
+      "claimIds": [
+        "DK-MEMORY",
+        "DK-MEMORY-DIFFICULTY"
+      ],
+      "parameters": [
+        "targetChord",
+        "distractorCount",
+        "register",
+        "presentation",
+        "recallMode"
+      ],
+      "assessment": "declared-target-not-distractors",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "chord-interpretation",
+      "claimIds": [
+        "DK-AMBIGUOUS-VOICING",
+        "DK-ADDED-NOTE",
+        "DK-CHORD-ORDER"
+      ],
+      "parameters": [
+        "voicing",
+        "context",
+        "presentationOrder",
+        "answerMode"
+      ],
+      "assessment": "accept-supported-alternatives",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "chord-voice-roles",
+      "claimIds": [
+        "DK-CHORD-SING-ROLES",
+        "DK-ARPEGGIATED-PROGRESSION"
+      ],
+      "parameters": [
+        "chordQuality",
+        "partAssignment",
+        "voiceRange",
+        "allowedInversions"
+      ],
+      "assessment": "teacher-or-voice-specific",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    },
+    {
+      "id": "graphic-contour",
+      "claimIds": [
+        "DK-GRAPHIC",
+        "DK-GRAPHIC-TIME"
+      ],
+      "parameters": [
+        "contour",
+        "duration",
+        "dynamicProfile",
+        "performerCount"
+      ],
+      "assessment": "interpretive-rubric",
+      "status": "draft",
+      "releaseApproved": false,
+      "origin": "original design derived from source-checked pedagogical claims; no copied score"
+    }
+  ]
+}

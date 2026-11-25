@@ -1416,6 +1416,53 @@
         "WES-ENSEMBLE"
       ],
       "remaining": "S.81–169: tekst i udostępnione ilustracje; 170–178 indeks przejrzany jako narzędzie lokalizacji (część wyjścia narzędzia obcięta). Drive raportuje 178 stron wobec oryginału 179; brak uzgodnienia. Nie rozwiązano wszystkich zadań, nie odczytano każdej nuty i nie wykonano pełnej kontroli wszystkich ilustracji. Wszystkie pełne partie audytowe pozostają pending-full-review."
+    },
+    {
+      "sourceId": "DK-EAR-1989-UPLOAD",
+      "ranges": [
+        [
+          1,
+          92
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "DK-ANALYSIS-SYNTHESIS",
+        "DK-BEAM-CONVENTION",
+        "DK-PREREQUISITE",
+        "DK-ISOLATE-RHYTHM",
+        "DK-REBAR",
+        "DK-SILENT-BEAT",
+        "DK-SMALL-UNITS",
+        "DK-THREE-CHANNELS",
+        "DK-ACCENT-VARIANTS",
+        "DK-SLOWER",
+        "DK-SWAP-HANDS",
+        "DK-CANON-DELAY",
+        "DK-ENSEMBLE-RHYTHM",
+        "DK-FREE-METER",
+        "DK-NONKEY-SIGNATURE",
+        "DK-TWO-PLANES",
+        "DK-VERTICAL-RHYTHM",
+        "DK-VOICE-ROLES",
+        "DK-LOCAL-ACCIDENTALS",
+        "DK-SCALE-DISTRACTOR",
+        "DK-SCALE-AMBIGUITY",
+        "DK-DUAL-SCALE",
+        "DK-SIMULTANEOUS-INTERVALS",
+        "DK-RELEASE-ISOLATION",
+        "DK-AMBITUS",
+        "DK-QUADRILATERAL",
+        "DK-MOVING-INTERVALS",
+        "DK-ADDED-NOTE",
+        "DK-MEMORY-DIFFICULTY",
+        "DK-CHORD-SING-ROLES",
+        "DK-ARPEGGIATED-PROGRESSION",
+        "DK-AMBIGUOUS-VOICING",
+        "DK-CHORD-ORDER",
+        "DK-GRAPHIC-TIME"
+      ],
+      "remaining": "Przejrzano obrazy wszystkich 92 stron, łącznie ze spisem; nie przepisano i nie rozwiązano niezależnie każdego przykładu nutowego. Przycięcia marginesów i odręczne dopiski nie są podstawą twierdzeń. Batches pełnego audytu pozostają pending-full-review."
     }
   ]
 }

@@ -2,10 +2,10 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 358,
+    "claims": 392,
     "fixtures": 114,
     "competencies": 73,
-    "partial": 57
+    "partial": 58
   },
   "bySource": {
     "OMT2-INT": [
@@ -502,7 +502,41 @@
       "DK-CHORD",
       "DK-AMBIGUOUS",
       "DK-FOUR",
-      "DK-GRAPHIC"
+      "DK-GRAPHIC",
+      "DK-ANALYSIS-SYNTHESIS",
+      "DK-BEAM-CONVENTION",
+      "DK-PREREQUISITE",
+      "DK-ISOLATE-RHYTHM",
+      "DK-REBAR",
+      "DK-SILENT-BEAT",
+      "DK-SMALL-UNITS",
+      "DK-THREE-CHANNELS",
+      "DK-ACCENT-VARIANTS",
+      "DK-SLOWER",
+      "DK-SWAP-HANDS",
+      "DK-CANON-DELAY",
+      "DK-ENSEMBLE-RHYTHM",
+      "DK-FREE-METER",
+      "DK-NONKEY-SIGNATURE",
+      "DK-TWO-PLANES",
+      "DK-VERTICAL-RHYTHM",
+      "DK-VOICE-ROLES",
+      "DK-LOCAL-ACCIDENTALS",
+      "DK-SCALE-DISTRACTOR",
+      "DK-SCALE-AMBIGUITY",
+      "DK-DUAL-SCALE",
+      "DK-SIMULTANEOUS-INTERVALS",
+      "DK-RELEASE-ISOLATION",
+      "DK-AMBITUS",
+      "DK-QUADRILATERAL",
+      "DK-MOVING-INTERVALS",
+      "DK-ADDED-NOTE",
+      "DK-MEMORY-DIFFICULTY",
+      "DK-CHORD-SING-ROLES",
+      "DK-ARPEGGIATED-PROGRESSION",
+      "DK-AMBIGUOUS-VOICING",
+      "DK-CHORD-ORDER",
+      "DK-GRAPHIC-TIME"
     ]
   },
   "byCompetency": {
@@ -582,6 +616,7 @@
     "I-SLUCH-06": {
       "status": "partial",
       "claimIds": [
+        "DK-REBAR",
         "DK-RHY-METER",
         "DOT",
         "DROB-TEMPO",
@@ -617,9 +652,12 @@
     "I-SLUCH-08": {
       "status": "partial",
       "claimIds": [
+        "DK-ISOLATE-RHYTHM",
         "DK-PULSE",
         "DK-REST",
         "DK-RHY-METER",
+        "DK-SILENT-BEAT",
+        "DK-SLOWER",
         "DK-TWO-RHY"
       ]
     },
@@ -627,6 +665,7 @@
       "status": "partial",
       "claimIds": [
         "CAD-NONI",
+        "DK-CANON-DELAY",
         "DK-DICTATION",
         "DK-MEMORY",
         "WES-RHYTHM-OPEN-TASK"
@@ -635,6 +674,7 @@
     "I-SLUCH-10": {
       "status": "partial",
       "claimIds": [
+        "DK-FREE-METER",
         "DK-GRAPHIC"
       ]
     },
@@ -646,6 +686,8 @@
       "status": "partial",
       "claimIds": [
         "DK-PULSE",
+        "DK-SWAP-HANDS",
+        "DK-THREE-CHANNELS",
         "DK-TWO-RHY",
         "WES-CONDUCT"
       ]
@@ -653,7 +695,10 @@
     "I-RYT-02": {
       "status": "partial",
       "claimIds": [
+        "DK-ACCENT-VARIANTS",
+        "DK-REBAR",
         "DK-REST",
+        "DK-SMALL-UNITS",
         "DK-TUPLET",
         "DOT",
         "METER-PL",
@@ -683,8 +728,10 @@
       "claimIds": []
     },
     "I-RYT-06": {
-      "status": "unmapped",
-      "claimIds": []
+      "status": "partial",
+      "claimIds": [
+        "DK-ENSEMBLE-RHYTHM"
+      ]
     },
     "I-RYT-07": {
       "status": "unmapped",
@@ -866,6 +913,9 @@
       "claimIds": [
         "CLEF-F",
         "CLEF-G",
+        "DK-BEAM-CONVENTION",
+        "DK-LOCAL-ACCIDENTALS",
+        "DK-NONKEY-SIGNATURE",
         "DK-TUPLET",
         "METER-PL",
         "PL-POLYRHYTHM",
@@ -887,6 +937,7 @@
     "II-SLUCH-02": {
       "status": "partial",
       "claimIds": [
+        "DK-ADDED-NOTE",
         "DK-CHORD",
         "DK-COMPLETE",
         "DK-INT-ANS",
@@ -903,6 +954,8 @@
       "status": "partial",
       "claimIds": [
         "DK-AMBIGUOUS",
+        "DK-AMBIGUOUS-VOICING",
+        "DK-CHORD-ORDER",
         "DK-FOUR",
         "PL-HARM-V79",
         "SEV-INV",
@@ -919,6 +972,8 @@
     "II-SLUCH-04": {
       "status": "partial",
       "claimIds": [
+        "DK-SCALE-AMBIGUITY",
+        "DK-SCALE-DISTRACTOR",
         "DK-SCALE-LISTEN",
         "DK-SCALE-SING",
         "MAJOR-PATTERN",
@@ -943,10 +998,16 @@
     "II-SLUCH-06": {
       "status": "partial",
       "claimIds": [
+        "DK-AMBITUS",
+        "DK-ANALYSIS-SYNTHESIS",
         "DK-ATONAL",
         "DK-FOUR",
         "DK-INT-DIFF",
         "DK-MELODY",
+        "DK-MOVING-INTERVALS",
+        "DK-QUADRILATERAL",
+        "DK-RELEASE-ISOLATION",
+        "DK-SIMULTANEOUS-INTERVALS",
         "WES-COMPLEMENTARY-RHYTHM"
       ]
     },
@@ -961,10 +1022,17 @@
       "status": "partial",
       "claimIds": [
         "DK-ACCOMP",
+        "DK-ARPEGGIATED-PROGRESSION",
+        "DK-CHORD-SING-ROLES",
+        "DK-DUAL-SCALE",
         "DK-MELODY",
+        "DK-PREREQUISITE",
         "DK-SIGHT",
         "DK-TRANSPOSE",
+        "DK-TWO-PLANES",
         "DK-VERTICAL",
+        "DK-VERTICAL-RHYTHM",
+        "DK-VOICE-ROLES",
         "PL-TRANSPOSE",
         "WES-TENOR-OCTAVE"
       ]
@@ -975,7 +1043,9 @@
         "DK-ATONAL",
         "DK-CANON",
         "DK-GRAPHIC",
+        "DK-GRAPHIC-TIME",
         "DK-MEMORY",
+        "DK-MEMORY-DIFFICULTY",
         "DK-VERTICAL"
       ]
     },
@@ -5421,6 +5491,347 @@
       ],
       "competencyIds": [
         "I-WOM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ANALYSIS-SYNTHESIS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-BEAM-CONVENTION": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-PREREQUISITE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ISOLATE-RHYTHM": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-REBAR": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-06",
+        "I-RYT-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SILENT-BEAT": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SMALL-UNITS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-THREE-CHANNELS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ACCENT-VARIANTS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SLOWER": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SWAP-HANDS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-CANON-DELAY": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ENSEMBLE-RHYTHM": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-RYT-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-FREE-METER": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "I-SLUCH-10"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-NONKEY-SIGNATURE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-TWO-PLANES": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-VERTICAL-RHYTHM": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-VOICE-ROLES": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-LOCAL-ACCIDENTALS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SCALE-DISTRACTOR": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SCALE-AMBIGUITY": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-DUAL-SCALE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-SIMULTANEOUS-INTERVALS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-RELEASE-ISOLATION": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-AMBITUS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-QUADRILATERAL": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-MOVING-INTERVALS": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ADDED-NOTE": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-MEMORY-DIFFICULTY": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-09"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-CHORD-SING-ROLES": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-ARPEGGIATED-PROGRESSION": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-08"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-AMBIGUOUS-VOICING": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-CHORD-ORDER": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "DK-GRAPHIC-TIME": {
+      "sourceIds": [
+        "DK-EAR-1989-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-SLUCH-09"
       ],
       "fixtureIds": [],
       "releaseApproved": false

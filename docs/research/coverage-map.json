@@ -103,7 +103,8 @@
         "WES-METER-HIERARCHY",
         "WES-METER-EQUAL-DURATION",
         "WES-SYNCOPATION-TRIPLE",
-        "WES-SYNC-ACCENT"
+        "WES-SYNC-ACCENT",
+        "DK-REBAR"
       ],
       "status": "partial"
     },
@@ -123,7 +124,10 @@
         "DK-PULSE",
         "DK-TWO-RHY",
         "DK-REST",
-        "DK-RHY-METER"
+        "DK-RHY-METER",
+        "DK-ISOLATE-RHYTHM",
+        "DK-SILENT-BEAT",
+        "DK-SLOWER"
       ],
       "status": "partial"
     },
@@ -133,14 +137,16 @@
         "CAD-NONI",
         "DK-DICTATION",
         "DK-MEMORY",
-        "WES-RHYTHM-OPEN-TASK"
+        "WES-RHYTHM-OPEN-TASK",
+        "DK-CANON-DELAY"
       ],
       "status": "partial"
     },
     {
       "id": "I-SLUCH-10",
       "claimIds": [
-        "DK-GRAPHIC"
+        "DK-GRAPHIC",
+        "DK-FREE-METER"
       ],
       "status": "partial"
     },
@@ -154,7 +160,9 @@
       "claimIds": [
         "DK-PULSE",
         "DK-TWO-RHY",
-        "WES-CONDUCT"
+        "WES-CONDUCT",
+        "DK-THREE-CHANNELS",
+        "DK-SWAP-HANDS"
       ],
       "status": "partial"
     },
@@ -170,7 +178,10 @@
         "DK-REST",
         "DK-TUPLET",
         "WES-POLYRHYTHM-GRID",
-        "WES-METRIC-ACCENT"
+        "WES-METRIC-ACCENT",
+        "DK-REBAR",
+        "DK-SMALL-UNITS",
+        "DK-ACCENT-VARIANTS"
       ],
       "status": "partial"
     },
@@ -196,8 +207,10 @@
     },
     {
       "id": "I-RYT-06",
-      "claimIds": [],
-      "status": "unmapped"
+      "claimIds": [
+        "DK-ENSEMBLE-RHYTHM"
+      ],
+      "status": "partial"
     },
     {
       "id": "I-RYT-07",
@@ -409,7 +422,10 @@
         "WES-CLEF-CHANGE",
         "WES-TUPLET-RATIO",
         "WES-BEAM-METRIC",
-        "WES-ADDITIVE-METER"
+        "WES-ADDITIVE-METER",
+        "DK-BEAM-CONVENTION",
+        "DK-NONKEY-SIGNATURE",
+        "DK-LOCAL-ACCIDENTALS"
       ],
       "status": "partial"
     },
@@ -425,7 +441,8 @@
         "DK-COMPLETE",
         "DK-CHORD",
         "DROB-EAR",
-        "WES-COMPOUND"
+        "WES-COMPOUND",
+        "DK-ADDED-NOTE"
       ],
       "status": "partial"
     },
@@ -443,7 +460,9 @@
         "TAR-D9-ROOTLESS",
         "DK-AMBIGUOUS",
         "DK-FOUR",
-        "WH-CHOPIN-CHORD"
+        "WH-CHOPIN-CHORD",
+        "DK-AMBIGUOUS-VOICING",
+        "DK-CHORD-ORDER"
       ],
       "status": "partial"
     },
@@ -457,7 +476,9 @@
         "WES-MAJOR-HARM",
         "WES-WHOLETONE",
         "DK-SCALE-SING",
-        "DK-SCALE-LISTEN"
+        "DK-SCALE-LISTEN",
+        "DK-SCALE-DISTRACTOR",
+        "DK-SCALE-AMBIGUITY"
       ],
       "status": "partial"
     },
@@ -480,7 +501,13 @@
         "DK-ATONAL",
         "DK-INT-DIFF",
         "DK-FOUR",
-        "WES-COMPLEMENTARY-RHYTHM"
+        "WES-COMPLEMENTARY-RHYTHM",
+        "DK-ANALYSIS-SYNTHESIS",
+        "DK-SIMULTANEOUS-INTERVALS",
+        "DK-RELEASE-ISOLATION",
+        "DK-AMBITUS",
+        "DK-QUADRILATERAL",
+        "DK-MOVING-INTERVALS"
       ],
       "status": "partial"
     },
@@ -501,7 +528,14 @@
         "DK-ACCOMP",
         "DK-VERTICAL",
         "DK-TRANSPOSE",
-        "WES-TENOR-OCTAVE"
+        "WES-TENOR-OCTAVE",
+        "DK-PREREQUISITE",
+        "DK-TWO-PLANES",
+        "DK-VERTICAL-RHYTHM",
+        "DK-VOICE-ROLES",
+        "DK-DUAL-SCALE",
+        "DK-CHORD-SING-ROLES",
+        "DK-ARPEGGIATED-PROGRESSION"
       ],
       "status": "partial"
     },
@@ -512,7 +546,9 @@
         "DK-VERTICAL",
         "DK-ATONAL",
         "DK-MEMORY",
-        "DK-GRAPHIC"
+        "DK-GRAPHIC",
+        "DK-MEMORY-DIFFICULTY",
+        "DK-GRAPHIC-TIME"
       ],
       "status": "partial"
     },
