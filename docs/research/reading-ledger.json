@@ -1833,6 +1833,66 @@
         "TAR-ANALYSIS-CM-PRELUDE"
       ],
       "remaining": "Oryginalny PDF: odczyt dostępnego tekstu i montaż przeglądowy wszystkich stron 241–387. Ostatnia strona zawiera zakończenie książki. Kolejność skanu jest nieprawidłowa w parach PDF 332–333, 346–347 i 364–365 (numery drukowane zamienione). Strony z samymi nutami i tabelami obejrzano, lecz nie przeprowadzono niezależnej kontroli wszystkich głosów, znaków i rozwiązań zadań. Rozbieżność 382/387 w ekstrakcji Drive nie została uzgodniona, do lektury końcowej użyto oryginalnego pliku 387-stronicowego. Pierwszy przebieg całego egzemplarza zakończony, pełny audyt partii pozostaje pending-full-review."
+    },
+    {
+      "sourceId": "SIK-HAR-UPLOAD",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "status": "sequential-reading-all-page-images",
+      "claimIds": [
+        "SIK-PEDAGOGY",
+        "SIK-CHORD-DEFINITION",
+        "SIK-TERTIAN-MEMBERS",
+        "SIK-TRIAD-COVERAGE",
+        "SIK-TRIAD-KEY-ROLES",
+        "SIK-KINSHIP",
+        "SIK-D-S-RESTRICTION",
+        "SIK-VOICE-ORDER",
+        "SIK-STEMS-SATB",
+        "SIK-SPACING-CONSTRUCTION",
+        "SIK-CONTRAPARALLEL",
+        "SIK-STRICT-KEEP-LAYOUT",
+        "SIK-REPETITION-BASS",
+        "SIK-REPETITION-LAYOUT",
+        "SIK-MELODIC-LEAP-LIMIT",
+        "SIK-SOPRANO-MELODIC",
+        "SIK-HARMONIZE-TRIAD",
+        "SIK-HARMONIZE-AMBIGUITY",
+        "SIK-HARMONIZE-METRIC",
+        "SIK-FREE-AUGMENTED-LEAPS",
+        "SIK-FREE-FIFTH-COMMON",
+        "SIK-INCOMPLETE-TONIC",
+        "SIK-FREE-SECOND",
+        "SIK-REPEAT-OCTAVE-EXCEPTION",
+        "SIK-FREE-MINIMUM",
+        "SIK-INVERSION-MEMBER",
+        "SIK-FIRST-INVERSION-POS",
+        "SIK-FIRST-INVERSION-DOUBLING-MOTION",
+        "SIK-FIRST-INVERSION-LEADING-BASS",
+        "SIK-FIRST-INVERSION-SECOND",
+        "SIK-REPEAT-INVERSION",
+        "SIK-FIRST-INVERSION-BASS-COVERAGE",
+        "SIK-FIGURED-ALTERATION",
+        "SIK-SECOND-INVERSION-ENTRY-EXIT",
+        "SIK-SECOND-INVERSION-CONSECUTIVE",
+        "SIK-CADENCE-CONTEXT",
+        "SIK-CADENCE-TYPES",
+        "SIK-CADENCE-PHRYGIAN",
+        "SIK-CADENTIAL-64",
+        "SIK-CADENTIAL-64-PLACEMENT",
+        "SIK-CADENCE-STRENGTH",
+        "SIK-MIXED-MAJOR",
+        "SIK-DORIAN-MINOR",
+        "SIK-AEOLIAN-MINOR",
+        "SIK-PARALLEL-MODE-THIRD",
+        "SIK-CHURCH-MODAL",
+        "SIK-D7-REGULAR"
+      ],
+      "remaining": "Odczyt kolejno wszystkich obrazów PDF 1–100; od PDF 71 renderer trzykrotnie powiela obraz i daje czarne pole, użyto bezpośrednio osadzonych JPEG. PDF 9 i 10 to duplikat druk. s.20, od PDF 10 do 100 druk. numer = PDF+10. Przedmowa bez karty tytułowej cz.I. Strony z zadaniami i przykłady oglądane w montażach po 4 strony, nie zweryfikowano każdej nuty ani odręcznych dopisków. Następna partia PDF 101."
     }
   ]
 }

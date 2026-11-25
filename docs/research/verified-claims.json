@@ -11596,6 +11596,830 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "SIK-PEDAGOGY",
+      "statement": "W przedmowie Sikorski przeznacza część I skróconego podręcznika dla pierwszego roku harmonii ogólnej w średniej szkole muzycznej i zaleca dokładne przerobienie jej materiału pisemnie, na fortepianie i analitycznie; w części II rozróżnia zakres podstawowy i rozszerzony.",
+      "scope": "Historyczny program autora, nie aktualna podstawa programowa.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I, przedmowa, PDF 1",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHORD-DEFINITION",
+      "statement": "W przyjętym przez autora ujęciu akord obejmuje co najmniej trzy dźwięki różnej nazwy i wysokości; zdwojenia tej samej wysokości lub jej oktaw nie tworzą nowego składnika akordowego.",
+      "scope": "Definicja w ramach harmonii tonalnej autora, nie uniwersalna definicja wszystkich współczesnych użyć słowa akord.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §1, PDF 2",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TERTIAN-MEMBERS",
+      "statement": "Sikorski opisuje tercjową budowę akordu za pomocą prymy, tercji, kwinty, septymy, nony, undecymy i tercdecymy; nazwa składnika pozostaje niezależna od rozłożenia w rejestrach.",
+      "scope": "Model tercjowy, a nie klasyfikacja wszystkich współbrzmień.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §3, druk. s.16–17 (PDF 5–6)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TRIAD-COVERAGE",
+      "statement": "Trójdźwięki triady zawierają razem wszystkie stopnie gamy; I i V stopień są wspólne odpowiednio dla T i S oraz T i D, inne stopnie należą do jednego z trzech akordów.",
+      "scope": "Dotyczy triady naturalnego dur i harmonicznego moll, nie wszystkich akordów tonacji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §7,14, druk. s.22,47 (PDF 12,37)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK01"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-TRIAD-KEY-ROLES",
+      "statement": "W zakresie triady durowy trójdźwięk może być toniką w jednej tonacji durowej, subdominantą w jednej tonacji durowej i dominantą w parze tonacji jednoimiennych; molowy może być toniką lub subdominantą odpowiedniej tonacji molowej.",
+      "scope": "Ograniczenie do początkowej triady dur i moll harmonicznego, nie wyczerpuje funkcji akordów pobocznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §7, druk. s.23 (PDF 13)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK02"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-KINSHIP",
+      "statement": "Pokrewieństwo akordów oznacza u Sikorskiego istnienie co najmniej jednego wspólnego składnika; przy braku wspólnych składników mówi o niepokrewieństwie. Dla triady T–D i T–S są stosunkami kwinty, S–D stosunkiem sekundy.",
+      "scope": "Rozróżnić od pokrewieństwa tonacji i od samej odległości prym w szerszym zbiorze akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §8, druk. s.23–25 (PDF 13–15)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK03"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D-S-RESTRICTION",
+      "statement": "Sikorski uznaje następstwo D–S za słabsze od S–D, gdyż oddala od toniki; dopuszcza je w pewnych sytuacjach, lecz w początkowej harmonizacji sopranu wymaga D–T zamiast D–S.",
+      "scope": "Rozróżnić ocenę funkcjonalną i ograniczenie konkretnego ćwiczenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §8,14, druk. s.24,48 (PDF 14,38)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-VOICE-ORDER",
+      "statement": "W początkowym szkolnym czterogłosie Sikorski wymaga zachowania naturalnej kolejności głosów S–A–T–B bez krzyżowania; odległość tenoru i basu zaleca nie większą niż duodecyma, mimo dopuszczonej granicy dwóch oktaw.",
+      "scope": "Profil wczesnych ćwiczeń, nie uniwersalny zakaz skrzyżowań w repertuarze.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §9, druk. s.25–26 (PDF 15–16)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-STEMS-SATB",
+      "statement": "Przy zapisie czterogłosu na dwóch pięcioliniach autor umieszcza sopran i alt na górnej, tenor i bas na dolnej; laski sopranu i tenoru skierowane w górę, altu i basu w dół.",
+      "scope": "Konwencja szkolnego zapisu dwóch głosów na każdej pięciolinii.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §9, druk. s.27 (PDF 17)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SPACING-CONSTRUCTION",
+      "statement": "W układzie skupionym autor wybiera kolejne najbliższe składniki akordu pod sopranem, w rozległym pomija najbliższy i wybiera następny; chodzi o trzy górne głosy.",
+      "scope": "Model pełnego trójdźwięku bez przewrotu; nie uogólniać na wszystkie czterodźwięki i układy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §9, druk. s.27–28 (PDF 17–18)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CONTRAPARALLEL",
+      "statement": "Sikorski określa jako ruch przeciw­równoległy przypadek ruchu przeciwnego, w którym odstępy głosów różnią się o oktawę i zachowują ten sam gatunek; w podstawowym czterogłosie zakazuje takich prym, oktaw i kwint czystych.",
+      "scope": "Nie utożsamiać każdego ruchu przeciwnego z antyparalelą; zapis rzeczywistych odległości jest konieczny.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §10–11, druk. s.30–31,36–37 (PDF 20–21,26–27)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK04"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-STRICT-KEEP-LAYOUT",
+      "statement": "W ścisłych połączeniach dwóch różnych trójdźwięków triady bez przewrotu układ pozostaje taki sam, choć pozycja się zmienia; zmianę układu dopuszcza się przy powtórzeniu akordu.",
+      "scope": "Dotyczy zasad najbliższej drogi z §§10–13; swobodne połączenia wprowadzane później mogą zmieniać układ.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §10–13, druk. s.34,38–44 (PDF 24,28–34)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-REPETITION-BASS",
+      "statement": "Przy powtórzeniu trójdźwięku bez przewrotu bas może pozostać na prymie lub przenieść się o oktawę w granicach skali i kolejności głosów; autor unika ruchu prostego wszystkich czterech głosów.",
+      "scope": "Ograniczenie początkowego profilu; przenoszenie górnych głosów osobno w §16.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §12, druk. s.40–42 (PDF 30–32)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-REPETITION-LAYOUT",
+      "statement": "Przy zmianie układu skupionego na rozległy bez zmiany pozycji sopran pozostaje, a alt i tenor przemieszczają się do niższych składników; przy odwrotnej zmianie idą w górę.",
+      "scope": "Dotyczy przedstawionych pełnych trójdźwięków z podwojoną prymą.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §12, druk. s.40, przykł.40 (PDF 30)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MELODIC-LEAP-LIMIT",
+      "statement": "W początkowym profilu Sikorski zakazuje skoku o septymę lub ponad oktawę oraz dwóch bezpośrednich skoków w tym samym kierunku, których łączna odległość jest septymą lub przekracza oktawę.",
+      "scope": "Późniejsze swobodne połączenia dopuszczają wskazane wyjątki, np. z VI na VII w dół; nie ogólny zakaz repertuarowy.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §13,15, druk. s.43–44,52 (PDF 33–34,42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SOPRANO-MELODIC",
+      "statement": "W początkowej konstrukcji harmonicznej Sikorski zaleca nie powtarzać tej samej nuty w sopranie więcej niż trzy razy, a wspólny dźwięk dwóch akordów w stosunku kwinty umieszczać raczej w głosie środkowym.",
+      "scope": "Wskazówka metodyczna dla melodii sopranu, nie warunek całej muzyki.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §13, druk. s.45 (PDF 35)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-HARMONIZE-TRIAD",
+      "statement": "W harmonizacji sopranu z samą triadą Sikorski najpierw przypisuje nutom funkcje, następnie dopisuje głosy A–T–B. Początek i koniec zadania wyznacza T, a D łączy z T.",
+      "scope": "Etap §14 bez przewrotów i dźwięków obcych, nie reguła każdego zadania harmonii.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §14, druk. s.47–50 (PDF 37–40)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-HARMONIZE-AMBIGUITY",
+      "statement": "W zadaniu ograniczonym do triady I i V stopień sopranu mogą należeć do dwóch różnych akordów; o wyborze decydują poprzednie i następne nuty oraz możliwość prawidłowego prowadzenia głosów.",
+      "scope": "Nie rozstrzygać funkcji jedynie z jednej nuty.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §14, druk. s.48–49 (PDF 38–39)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-HARMONIZE-METRIC",
+      "statement": "W początkowej harmonizacji Sikorski nie zaleca powtarzać na pierwszej mocnej części taktu akordu z poprzedniej słabej części; po kadencji dopuszcza takie powtórzenie.",
+      "scope": "Reguła ćwiczenia i wyjątek z §23, nie zakaz synkopowanej harmonii.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §14,23, druk. s.48,96 (PDF 38,86)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-AUGMENTED-LEAPS",
+      "statement": "W swobodnych połączeniach autor dopuszcza interwały zmniejszone, lecz nie zwiększone, także jako sumę dwóch kolejnych skoków w tym samym kierunku; wskazuje wyjątek dla skoku w dół z VI na VII stopień.",
+      "scope": "Ograniczenie szkolnego modelu §15, nie reguła śpiewu lub repertuaru ogólnie.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §15, druk. s.52 (PDF 42)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-FIFTH-COMMON",
+      "statement": "W swobodnym połączeniu dwóch trójdźwięków bez przewrotu w stosunku kwinty autor dopuszcza zachowanie wspólnego dźwięku przy zmianie układu; bez jego zachowania bas skacze o kwartę, a trzy górne głosy idą przeciwnie do basu.",
+      "scope": "Wskazówki §15, z osobnymi ograniczeniami dla D–T.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §15, druk. s.53–54 (PDF 43–44)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-INCOMPLETE-TONIC",
+      "statement": "Gdy w swobodnym połączeniu D–T bez przewrotu nie zachowuje się wspólnej nuty, autor opuszcza kwintę toniki i potraja jej prymę; początkowo zaleca ten wariant w zakończeniu po D w pozycji kwinty.",
+      "scope": "Profil §15, nie wszystkich niepełnych akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §15, druk. s.54–55 (PDF 44–45)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-SECOND",
+      "statement": "W swobodnym S–D bez przewrotu głosy tworzące z basem prymę lub oktawę i kwintę na początku zasadniczo prowadzi się przeciwnie do basu; autor pokazuje wariant z ruchem prostym nierównoległym kwinty subdominanty.",
+      "scope": "Podwojona pryma S w omawianym modelu zachowuje ruch przeciwny do basu; pozostałe ograniczenia nadal obowiązują.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §16, druk. s.57–58 (PDF 47–48)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-REPEAT-OCTAVE-EXCEPTION",
+      "statement": "Sikorski dopuszcza równoległe kwinty wynikające z przeniesienia trzech górnych głosów o oktawę przy powtórzeniu tego samego akordu, gdy bas pozostaje.",
+      "scope": "Nie rozszerzać na dowolne połączenie różnych akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §16, druk. s.59, przykł.70 (PDF 49)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FREE-MINIMUM",
+      "statement": "Przy harmonizowaniu sopranu autor zaleca swobodne połączenia wyłącznie tam, gdzie najbliższa droga nie jest możliwa ze względu na ruch melodii.",
+      "scope": "Zalecenie metodyczne §16, nie kryterium wartości kompozycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §16, druk. s.60–61 (PDF 50–51)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-INVERSION-MEMBER",
+      "statement": "W przewrotach nazwa i znaczenie składników akordu nie zmieniają się; historyczne nazwy sekstowy i kwartsekstowy pochodzą od interwałów nad basem, a nie od funkcjonalnej prymy.",
+      "scope": "Nie utożsamiać składnika akordu z liczbą w basie cyfrowanym.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §17, druk. s.63–65 (PDF 53–55)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIRST-INVERSION-POS",
+      "statement": "Przy podwojeniu prymy lub kwinty w pierwszym przewrocie pełnego trójdźwięku autor ogranicza pozycję do prymy albo kwinty, gdyż tercja pozostaje tylko w basie.",
+      "scope": "Dotyczy określonej polityki zdwojenia, nie ogólnego zakazu pozycji tercji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §17, druk. s.64 (PDF 54)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK05"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIRST-INVERSION-DOUBLING-MOTION",
+      "statement": "W omawianych połączeniach w stosunku kwinty kwinta może być zdwojona w ruchu przeciwnym lub ubocznym, a pryma w ruchu prostym, przeciwnym lub ubocznym.",
+      "scope": "Warunek szkolnego profilu §§18–19, nie wszystkich stylów; zachować także zakazy niedozwolonych równoległości.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §18–19, druk. s.67,70 (PDF 57,60)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIRST-INVERSION-LEADING-BASS",
+      "statement": "W początkowym łączeniu dominanty w pierwszym przewrocie z toniką dźwięk prowadzący w basie idzie półtonem w górę na prymę toniki; autor nie dopuszcza w tym modelu D w pierwszym przewrocie do T w pierwszym przewrocie.",
+      "scope": "Początkowy profil ścisły; późniejsze wyjątki należy osobno sprawdzić.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §18, druk. s.68 (PDF 58)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIRST-INVERSION-SECOND",
+      "statement": "W połączeniach trójdźwięków w stosunku sekundy, z których co najmniej jeden jest w pierwszym przewrocie, ruch prosty nierównoległy par tworzących wcześniej kwintę lub oktawę może zastąpić ruch przeciwny.",
+      "scope": "Nie dopuszcza to automatycznie równoległych kwint lub oktaw.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §19, druk. s.70–72 (PDF 60–62)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-REPEAT-INVERSION",
+      "statement": "Powtórzenie akordu może zmienić postać zasadniczą na pierwszy przewrót lub odwrotnie; bas skacze o tercję albo sekstę, a co najmniej jeden z górnych głosów zmienia położenie.",
+      "scope": "Dotyczy przedstawionych modeli pełnego trójdźwięku, zgodnie z zasadami zdwojenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §20, druk. s.74 (PDF 64)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIRST-INVERSION-BASS-COVERAGE",
+      "statement": "W konstrukcji z samą triadą bez przewrotu i w pierwszym przewrocie bas może zawierać wszystkie stopnie gamy poza II; drugi przewrót dominanty dodaje brakujący stopień.",
+      "scope": "Nie odnosić do pełnego zasobu akordów lub basu z dźwiękami obcymi.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §21–22, druk. s.80,86 (PDF 70,76)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK06",
+        "SK07"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-FIGURED-ALTERATION",
+      "statement": "W szkolnym basie cyfrowanym Sikorskiego znak chromatyczny bez cyfry odnosi się do tercji nad basem; przy cyfrze modyfikuje interwał, którego cyfra dotyczy.",
+      "scope": "Rozróżnić od numerów składników pod funkcją i konwencji historycznych.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §21–22,24, druk. s.78,86–87,104 (PDF 68,76–77,94)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK08"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SECOND-INVERSION-ENTRY-EXIT",
+      "statement": "W początkowym modelu drugi przewrót poprzedza lub następuje po powtórzeniu tego samego akordu albo po innym akordzie z ruchem basu o sekundę lub zachowaniem dźwięku wspólnego. Skok kwinty w basie jest dopuszczany przy powtórzeniu tego samego akordu.",
+      "scope": "Warunek jednoczesnego spełnienia reguł wejścia i wyjścia; nie identyfikować z dominantą z podwójnym opóźnieniem.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §22, druk. s.83–85 (PDF 73–75)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-SECOND-INVERSION-CONSECUTIVE",
+      "statement": "Dwa różne trójdźwięki w drugim przewrocie nie mogą następować bezpośrednio po sobie w modelu §22; po S w drugim przewrocie następująca D jest w pierwszym przewrocie.",
+      "scope": "Ograniczenie tego etapu harmonii szkolnej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §22, druk. s.86 (PDF 76)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CADENCE-CONTEXT",
+      "statement": "Sikorski definiuje kadencję jako połączenie co najmniej dwóch różnych akordów tworzące zakończenie całości lub części konstrukcji harmonicznej. W końcowej kadencji omawianego modelu tonika jest bez przewrotu.",
+      "scope": "Nie nazywać każdego wystąpienia D–T kadencją bez kontekstu zakończenia.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §23, druk. s.88–89 (PDF 78–79)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CADENCE-TYPES",
+      "statement": "Mała kadencja doskonała (autentyczna) to D–T, plagalna S–T, zawieszona najczęściej T–D lub S–D; wielka doskonała obejmuje S–D–T.",
+      "scope": "Terminologia Sikorskiego, nie mechaniczna translacja klasyfikacji angielskiej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §23, druk. s.89–90 (PDF 79–80)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CADENCE-PHRYGIAN",
+      "statement": "W harmonicznym moll kadencję zawieszoną S molowa–D autor nazywa frygijską ze względu na ruch VI–V o półton, szczególnie charakterystyczny w głosie skrajnym.",
+      "scope": "Model dur-moll; autor odróżnia właściwą kadencję w skali frygijskiej.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §23, druk. s.90 (PDF 80)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CADENTIAL-64",
+      "statement": "W kadencji dominanta 6/4 ma budowę toniki w drugim przewrocie, lecz u Sikorskiego kwartę i sekstę traktuje się jako górne opóźnienia tercji i kwinty dominanty; zwykłe rozwiązanie to 4–3 oraz 6–5.",
+      "scope": "Funkcja i rzeczywisty skład współbrzmienia są różnymi polami modelu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §23, druk. s.91–94 (PDF 81–84)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK09"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CADENTIAL-64-PLACEMENT",
+      "statement": "W dominancie 6/4 autor podwaja prymę funkcyjną w basie i górnym głosie, nie kwartę ani sekstę. W typowym rozwiązaniu opóźnienia przypadają na mocną część grupy, a rozwiązanie na słabszą.",
+      "scope": "§23 dopuszcza zmianę rozkładu i przedłużenie lub powtórzenie; nie utożsamiać z każdym kwartsekstowym akordem.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §23, druk. s.91–94 (PDF 81–84)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CADENCE-STRENGTH",
+      "statement": "Autor rozpatruje siłę kadencji na trzech osiach: harmonicznej (przewroty), melodycznej (pozycja końcowego akordu) i metrycznej (miejsce końcowego akordu).",
+      "scope": "Klasyfikacja Sikorskiego, nie jedna skala liczbowej siły kadencji.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §23, druk. s.94–95 (PDF 84–85)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-MIXED-MAJOR",
+      "statement": "Obniżenie VI stopnia naturalnego dur tworzy w ujęciu Sikorskiego major harmoniczny (moll-dur), w którym S jest molowa, a T i D pozostają durowe.",
+      "scope": "Nie utożsamiać z moll harmonicznym.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §24, druk. s.99–100 (PDF 89–90)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK10"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-DORIAN-MINOR",
+      "statement": "Podwyższenie VI stopnia moll harmonicznego daje w terminologii autora minor dorycki lub melodyczny, w którym S i D są durowe, T molowa; w połączeniu S–T autor wskazuje kadencję dorycką.",
+      "scope": "Odmiana moll w polskiej nauce harmonii, nie współczesny modus dorycki.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §24, druk. s.100–101 (PDF 90–91)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK11"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-AEOLIAN-MINOR",
+      "statement": "W minorze eolskim trzy trójdźwięki triady są molowe; autor wskazuje możliwość następstwa molowej D–S oraz kadencję eolską D molowa–T molowa.",
+      "scope": "Brak półtonowego dźwięku prowadzącego odróżnia ten model od harmonicznego moll.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §24, druk. s.101–102 (PDF 91–92)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK12"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-PARALLEL-MODE-THIRD",
+      "statement": "Łącząc jednoimienne odmiany trójdźwięków S lub D, Sikorski prowadzi chromatyczną zmianę tercji w tym samym głosie; prymy i kwinty mogą pozostać lub zmienić położenie.",
+      "scope": "Profil szkolny §24, nie uogólniać wszystkich przypadków skośnego brzmienia półtonu.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §24, druk. s.103–104 (PDF 93–94)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-CHURCH-MODAL",
+      "statement": "W historycznym opisie skal kościelnych autor rozróżnia finalis, repercussę i ambitus; plagalny wariant nie ma po prostu identycznej funkcji najniższego stopnia jak autentyczny.",
+      "scope": "Opis autora, historyczne szczegóły wymagają nowszych źródeł; nie przenosić na klasyfikację samych klas wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §24, druk. s.106–107 (PDF 96–97)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "SIK-D7-REGULAR",
+      "statement": "W prawidłowym rozwiązaniu D7 na T Sikorski prowadzi tercję o sekundę małą w górę, septymę o sekundę w dół; w pełnej postaci zasadniczej na T bez przewrotu kwinta schodzi na prymę T, dając niepełną tonikę.",
+      "scope": "Model §25, późniejsze swobodne rozwiązania i wyjątki wymagają osobnej kontroli.",
+      "sourceRefs": [
+        {
+          "sourceId": "SIK-HAR-UPLOAD",
+          "locator": "cz. I §25, druk. s.108–110 (PDF 98–100)",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [
+        "SK13"
+      ],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }

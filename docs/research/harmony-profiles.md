@@ -11,3 +11,6 @@ Każde zadanie SATB jawnie określa profil (sikorski, targosz), etap (triada, pr
 
 ## Uzupełnienie: Wesołowski 1997
 Dodać do przyszłego systemu profil Wesołowskiego, wyłącznie w zweryfikowanym zakresie. Regularne rozwiązanie D7 i nieregularne rozwiązania s.54–55 są osobnymi etapami; w szczególności dopuszczalny kierunek septymy zależy od głosu i typu zadania. Zdwojenie orkiestrowe s.122–123 nie jest samodzielnym głosem SATB. Szczegóły w wesolowski-harmony-reference.md; nie traktować trzech podręczników jako niezależnej recenzji ani gotowego algorytmu.
+
+## Sikorski PDF 1–100 — doprecyzowanie po ciągłej lekturze
+Profil ścisły, swobodny i powtórzenie akordu muszą być odrębne. SIK-REPEAT-OCTAVE-EXCEPTION dopuszcza szczególną równoległość kwint przy przeniesieniu wszystkich trzech górnych głosów w powtórzeniu; nie dotyczy różnych akordów. SIK-FIRST-INVERSION-DOUBLING-MOTION ogranicza sposób zdwojenia kwinty, SIK-SECOND-INVERSION-ENTRY-EXIT określa kontekst kwartsekstowego trójdźwięku. SIK-CADENTIAL-64 rozdziela identyczną budowę od funkcji i SIK-CADENCE-STRENGTH rozróżnia trzy wymiary kadencji. U Targosza również spotykamy rozróżnienie struktury od funkcji, ale nie przenosimy ograniczeń obu autorów bez sprawdzenia ich szczegółowych zakresów. Nie ma jeszcze gotowego walidatora muzycznego.

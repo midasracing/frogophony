@@ -678,7 +678,8 @@
         "WES-MODE-PATTERNS",
         "WES-TWO-AUG-SECONDS",
         "WES-HIGHLAND-MODEL",
-        "WES-WHOLETONE-CLASSES"
+        "WES-WHOLETONE-CLASSES",
+        "SIK-CHURCH-MODAL"
       ],
       "status": "partial"
     },
@@ -818,7 +819,8 @@
         "WES-STEM-SIDE",
         "WES-VOCAL-BEAMS",
         "WES-PLASTIC-NOTATION",
-        "WES-ACCIDENTAL-COLLISION"
+        "WES-ACCIDENTAL-COLLISION",
+        "SIK-STEMS-SATB"
       ],
       "status": "partial"
     },
@@ -875,7 +877,16 @@
         "TAR-MEDIANT-FIRST",
         "TAR-ENH-DIM-SETS",
         "TAR-ENH-DIM-ROLES",
-        "TAR-ENH-AUG-SETS"
+        "TAR-ENH-AUG-SETS",
+        "SIK-CHORD-DEFINITION",
+        "SIK-TERTIAN-MEMBERS",
+        "SIK-TRIAD-COVERAGE",
+        "SIK-TRIAD-KEY-ROLES",
+        "SIK-KINSHIP",
+        "SIK-INVERSION-MEMBER",
+        "SIK-MIXED-MAJOR",
+        "SIK-DORIAN-MINOR",
+        "SIK-AEOLIAN-MINOR"
       ],
       "status": "partial"
     },
@@ -980,7 +991,31 @@
         "TAR-ALTER-PARALLEL-DIMINISHED",
         "TAR-MOD-CHROM-RAISED-FIFTH-CADENCE",
         "TAR-MOD-CHROM-TRIAD-TO-SEVENTH",
-        "TAR-ENH-DIM-ENTRY-VOICING"
+        "TAR-ENH-DIM-ENTRY-VOICING",
+        "SIK-VOICE-ORDER",
+        "SIK-STEMS-SATB",
+        "SIK-SPACING-CONSTRUCTION",
+        "SIK-CONTRAPARALLEL",
+        "SIK-STRICT-KEEP-LAYOUT",
+        "SIK-REPETITION-BASS",
+        "SIK-REPETITION-LAYOUT",
+        "SIK-MELODIC-LEAP-LIMIT",
+        "SIK-FREE-AUGMENTED-LEAPS",
+        "SIK-FREE-FIFTH-COMMON",
+        "SIK-INCOMPLETE-TONIC",
+        "SIK-FREE-SECOND",
+        "SIK-REPEAT-OCTAVE-EXCEPTION",
+        "SIK-INVERSION-MEMBER",
+        "SIK-FIRST-INVERSION-POS",
+        "SIK-FIRST-INVERSION-DOUBLING-MOTION",
+        "SIK-FIRST-INVERSION-LEADING-BASS",
+        "SIK-FIRST-INVERSION-SECOND",
+        "SIK-REPEAT-INVERSION",
+        "SIK-SECOND-INVERSION-ENTRY-EXIT",
+        "SIK-SECOND-INVERSION-CONSECUTIVE",
+        "SIK-CADENTIAL-64-PLACEMENT",
+        "SIK-PARALLEL-MODE-THIRD",
+        "SIK-D7-REGULAR"
       ],
       "status": "partial"
     },
@@ -1027,7 +1062,16 @@
         "TAR-MOD-ENTRY-VI",
         "TAR-SECONDARY-SEVENTH-CHAIN",
         "TAR-SECONDARY-DECEPTIVE",
-        "TAR-REAL-SEQUENCE-CYCLE"
+        "TAR-REAL-SEQUENCE-CYCLE",
+        "SIK-D-S-RESTRICTION",
+        "SIK-HARMONIZE-METRIC",
+        "SIK-CADENCE-CONTEXT",
+        "SIK-CADENCE-TYPES",
+        "SIK-CADENCE-PHRYGIAN",
+        "SIK-CADENTIAL-64",
+        "SIK-CADENCE-STRENGTH",
+        "SIK-DORIAN-MINOR",
+        "SIK-AEOLIAN-MINOR"
       ],
       "status": "partial"
     },
@@ -1077,7 +1121,17 @@
         "TAR-FIGURED-CONTINUO-PRACTICE",
         "TAR-MOD-PRACTICE-MODES",
         "TAR-SECONDARY-SOPRANO-CLUES",
-        "TAR-CHORALE-EXERCISE"
+        "TAR-CHORALE-EXERCISE",
+        "SIK-PEDAGOGY",
+        "SIK-TRIAD-COVERAGE",
+        "SIK-D-S-RESTRICTION",
+        "SIK-SOPRANO-MELODIC",
+        "SIK-HARMONIZE-TRIAD",
+        "SIK-HARMONIZE-AMBIGUITY",
+        "SIK-HARMONIZE-METRIC",
+        "SIK-FREE-MINIMUM",
+        "SIK-FIRST-INVERSION-BASS-COVERAGE",
+        "SIK-FIGURED-ALTERATION"
       ],
       "status": "partial"
     },
@@ -1142,7 +1196,10 @@
         "TAR-ALTER-S-SIXTH",
         "TAR-ALTER-S-DYSALTER",
         "TAR-ALTER-S-PROFILE",
-        "TAR-ALTER-DOUBLING"
+        "TAR-ALTER-DOUBLING",
+        "SIK-CADENTIAL-64",
+        "SIK-CADENTIAL-64-PLACEMENT",
+        "SIK-PARALLEL-MODE-THIRD"
       ],
       "status": "partial"
     },
@@ -1272,7 +1329,9 @@
         "TAR-ANALYSIS-E-PRELUDE",
         "TAR-ANALYSIS-CS-PRELUDE",
         "TAR-ANALYSIS-GS-PRELUDE",
-        "TAR-ANALYSIS-CM-PRELUDE"
+        "TAR-ANALYSIS-CM-PRELUDE",
+        "SIK-PEDAGOGY",
+        "SIK-TRIAD-KEY-ROLES"
       ],
       "status": "partial"
     },

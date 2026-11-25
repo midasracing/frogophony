@@ -3554,6 +3554,242 @@
         ],
         "count": 4
       }
+    },
+    {
+      "id": "SK01",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "degree": 1
+      },
+      "expected": {
+        "possibleFunctions": [
+          "T",
+          "S"
+        ]
+      }
+    },
+    {
+      "id": "SK02",
+      "domain": "harmony",
+      "input": {
+        "triad": [
+          "D",
+          "F#",
+          "A"
+        ],
+        "scope": "primary triads"
+      },
+      "expected": {
+        "tonic": [
+          "D major"
+        ],
+        "subdominant": [
+          "A major"
+        ],
+        "dominant": [
+          "G major",
+          "G harmonic minor"
+        ]
+      }
+    },
+    {
+      "id": "SK03",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "functions": [
+          "S",
+          "D"
+        ]
+      },
+      "expected": {
+        "commonPitchClasses": [],
+        "rootRelation": "major-second"
+      }
+    },
+    {
+      "id": "SK04",
+      "domain": "harmony",
+      "input": {
+        "voicesBefore": [
+          60,
+          60
+        ],
+        "voicesAfter": [
+          55,
+          67
+        ]
+      },
+      "expected": {
+        "contrary": true,
+        "octaveClass": true,
+        "prohibitedInBasicProfile": true
+      }
+    },
+    {
+      "id": "SK05",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "chord": "T",
+        "bass": "A",
+        "doubledMember": 5
+      },
+      "expected": {
+        "allowedSopranoMembers": [
+          1,
+          5
+        ]
+      }
+    },
+    {
+      "id": "SK06",
+      "domain": "harmony",
+      "input": {
+        "scope": "primary triads root and first inversion"
+      },
+      "expected": {
+        "bassDegrees": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "missing": [
+          2
+        ]
+      }
+    },
+    {
+      "id": "SK07",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "function": "D",
+        "inversion": 2
+      },
+      "expected": {
+        "bassDegree": 2,
+        "bass": "G"
+      }
+    },
+    {
+      "id": "SK08",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "bass": "C",
+        "accidental": "#",
+        "figure": null
+      },
+      "expected": {
+        "affectedInterval": 3,
+        "diatonicLetter": "E",
+        "chromaticChange": 1
+      }
+    },
+    {
+      "id": "SK09",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "bass": "C",
+        "upperMembers": [
+          "F",
+          "A",
+          "C"
+        ]
+      },
+      "expected": {
+        "structuralInversion": 2,
+        "function": "D",
+        "suspensions": [
+          [
+            4,
+            3
+          ],
+          [
+            6,
+            5
+          ]
+        ],
+        "resolvedUpperMembers": [
+          "E",
+          "G",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "SK10",
+      "domain": "harmony",
+      "input": {
+        "key": "D harmonic major"
+      },
+      "expected": {
+        "triadQualities": {
+          "T": "major",
+          "S": "minor",
+          "D": "major"
+        }
+      }
+    },
+    {
+      "id": "SK11",
+      "domain": "harmony",
+      "input": {
+        "key": "D minor",
+        "variant": "Sikorski-dorian"
+      },
+      "expected": {
+        "triadQualities": {
+          "T": "minor",
+          "S": "major",
+          "D": "major"
+        }
+      }
+    },
+    {
+      "id": "SK12",
+      "domain": "harmony",
+      "input": {
+        "key": "D natural minor"
+      },
+      "expected": {
+        "triadQualities": {
+          "T": "minor",
+          "S": "minor",
+          "D": "minor"
+        }
+      }
+    },
+    {
+      "id": "SK13",
+      "domain": "harmony",
+      "input": {
+        "key": "F major",
+        "chord": [
+          "C",
+          "E",
+          "G",
+          "Bb"
+        ],
+        "bass": "C",
+        "targetInversion": 0
+      },
+      "expected": {
+        "targetMembers": [
+          "F",
+          "A",
+          "F",
+          "F"
+        ],
+        "omittedMember": 5,
+        "doubledMemberCount": 3
+      }
     }
   ]
 }
