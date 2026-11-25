@@ -765,6 +765,10 @@
           [
             11,
             126
+          ],
+          [
+            128,
+            316
           ]
         ],
         "excerptSurveyRanges": [
@@ -887,8 +891,8 @@
           "CHOM-RONDO-TWENTIETH-CENTURY",
           "CHOM-RONDO-SERIAL-IDENTITY"
         ],
-        "nextFullTextRangeStart": 128,
-        "remaining": "Cała książka objęta wstępnym przeglądem, ale od PDF 128 przeglądano fragmenty warstwy tekstowej, nie każdy akapit. PDF 10 pusta, PDF 127 diagram. Kontrola nut i recenzja niezależna otwarte. Nie sumować przeglądu fragmentów do pełnej lektury."
+        "nextFullTextRangeStart": 317,
+        "remaining": "Dostępny tekst odczytany do PDF 316; od PDF 317 do końca wcześniej wykonano przegląd fragmentów. PDF 10 pusta, 127 diagram; nie przeprowadzono indywidualnej transkrypcji przykładów nutowych. Kontynuować pełny odczyt od 317."
       }
     },
     {
@@ -2784,6 +2788,37 @@
         "CHOM-PERCUSSION-DISTRIBUTION"
       ],
       "remaining": "Odczyt całego dostępnego tekstu PDF 110–126. Nie zweryfikowano wszystkich ilustracji i nut."
+    },
+    {
+      "sourceId": "CHOM-FORM1-1983-UPLOAD",
+      "ranges": [
+        [
+          128,
+          316
+        ]
+      ],
+      "status": "sequential-text-reading",
+      "claimIds": [
+        "CHOM-MOTIF-ACCENT-PROFILES",
+        "CHOM-MOTIF-CONTOUR",
+        "CHOM-PHRASE-HOMOGENEITY",
+        "CHOM-SYMMETRY-DIMENSIONS",
+        "CHOM-PHRASE-HARMONIC-RHYTHM",
+        "CHOM-TOPHONIC-TEXTURE",
+        "CHOM-TEXTURE-ARTICULATION-LAYERS",
+        "CHOM-CONTRAPUNTAL-VOICE-EXCHANGE",
+        "CHOM-CANTUS-FIRMUS-TEXTURE",
+        "CHOM-PERIOD-HIGHER-ORDER-TENSION",
+        "CHOM-REPRISE-CODA",
+        "CHOM-EVOLUTION-CONSTANS-VARIABILIS",
+        "CHOM-METABOLIC-REGULATION",
+        "CHOM-DANCE-TRIO-CONTRAST",
+        "CHOM-MAZURKA-FOLK-MODELS",
+        "CHOM-WALTZ-ROUNDED-BINARY",
+        "CHOM-SCHERZO-METER-EXCEPTIONS",
+        "CHOM-LYRIC-FORM-COEXISTENCE"
+      ],
+      "remaining": "Odczyt całej dostępnej warstwy tekstowej tego zakresu; strony nutowe i wykresy nie zostały indywidualnie skolacjonowane. Następny zakres 317."
     }
   ]
 }

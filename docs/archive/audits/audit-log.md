@@ -196,3 +196,6 @@ Ponowny odczyt PDF 102–103 w powiększeniu. Zindeksowano 43 widocznych pozycji
 
 ## Chomińscy t.I — PDF 110–573, przegląd do końca tomu
 111 nowych twierdzeń opartych na odczytanych fragmentach, 18 autorskich przypadków oczekiwanych. Pełny dostępny tekst PDF 110–126, dalej przegląd fragmentów stron PDF 128–573. Nie nazywać tego pełną lekturą. Pusta karta PDF 10 i schemat obsady PDF 127 zidentyfikowane na renderach, błąd druku s.87 potwierdzony na obrazie. Trzy zamienione pary stron zarejestrowane. Przeszukanie całej warstwy tekstowej pod kątem erraty nie dało wyniku; zewnętrzna errata niezweryfikowana. Nowe rekordy są niezatwierdzone do produkcji. Weryfikacja spójności danych i odwołań nie stanowi recenzji muzycznej. Pozostała pełna lektura od PDF 128 oraz indywidualny audyt przykładów nutowych.
+
+## Chomińscy t.I — dokładny odczyt PDF 128–316
+18 dodatkowych rekordów po lekturze pełnego dostępnego tekstu. Odróżniono przegląd całego tomu od zakresu odczytu szczegółowego. Następna strona PDF 317. Bez deklaracji recenzji nutowej.

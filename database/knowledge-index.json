@@ -2,7 +2,7 @@
   "version": 1,
   "counts": {
     "sources": 162,
-    "claims": 1288,
+    "claims": 1306,
     "fixtures": 308,
     "competencies": 73,
     "partial": 58
@@ -1102,7 +1102,25 @@
       "CHOM-RONDO-SONATA-RELATION",
       "CHOM-RONDO-BRILLANT",
       "CHOM-RONDO-TWENTIETH-CENTURY",
-      "CHOM-RONDO-SERIAL-IDENTITY"
+      "CHOM-RONDO-SERIAL-IDENTITY",
+      "CHOM-MOTIF-ACCENT-PROFILES",
+      "CHOM-MOTIF-CONTOUR",
+      "CHOM-PHRASE-HOMOGENEITY",
+      "CHOM-SYMMETRY-DIMENSIONS",
+      "CHOM-PHRASE-HARMONIC-RHYTHM",
+      "CHOM-TOPHONIC-TEXTURE",
+      "CHOM-TEXTURE-ARTICULATION-LAYERS",
+      "CHOM-CONTRAPUNTAL-VOICE-EXCHANGE",
+      "CHOM-CANTUS-FIRMUS-TEXTURE",
+      "CHOM-PERIOD-HIGHER-ORDER-TENSION",
+      "CHOM-REPRISE-CODA",
+      "CHOM-EVOLUTION-CONSTANS-VARIABILIS",
+      "CHOM-METABOLIC-REGULATION",
+      "CHOM-DANCE-TRIO-CONTRAST",
+      "CHOM-MAZURKA-FOLK-MODELS",
+      "CHOM-WALTZ-ROUNDED-BINARY",
+      "CHOM-SCHERZO-METER-EXCEPTIONS",
+      "CHOM-LYRIC-FORM-COEXISTENCE"
     ],
     "WOJ-ABC-UPLOAD": [
       "CHOM-FORM",
@@ -1772,8 +1790,10 @@
         "CHOM-SYNCOPATION-FUNCTION",
         "CHOM-SYNTHESIS-CHAIN",
         "CHOM-TECHNIQUE-ROLE",
+        "CHOM-TEXTURE-ARTICULATION-LAYERS",
         "CHOM-TEXTURE-BLEND",
         "CHOM-TIME-REGULATORS",
+        "CHOM-TOPHONIC-TEXTURE",
         "CHOM-TRANSMISSION",
         "CHOM-VERTICAL-MATERIAL",
         "CHOM-VOICE-ACTING",
@@ -1804,12 +1824,15 @@
         "CHOM-ASSEMBLY-ALEATORIC",
         "CHOM-ASSEMBLY-ORDER-RULES",
         "CHOM-EVOL",
+        "CHOM-EVOLUTION-CONSTANS-VARIABILIS",
         "CHOM-EVOLUTION-RHYTHM",
         "CHOM-FORM-PRINCIPLE-PRIORITY",
         "CHOM-JUXT",
         "CHOM-JUXTAPOSITION-BARLINE",
         "CHOM-MOTIF",
+        "CHOM-MOTIF-ACCENT-PROFILES",
         "CHOM-MOTIF-ARSIS-THESIS",
+        "CHOM-MOTIF-CONTOUR",
         "CHOM-MOTIF-PARTIAL",
         "CHOM-MOTIF-VERTICAL",
         "CHOM-OPEN-CIRCULAR-FORM",
@@ -1817,13 +1840,17 @@
         "CHOM-PERIOD-ARCHITECTURE",
         "CHOM-PERIOD-ASYMMETRY",
         "CHOM-PERIOD-CAD",
+        "CHOM-PERIOD-HIGHER-ORDER-TENSION",
         "CHOM-PERIOD-NONFUNCTIONAL",
         "CHOM-PERIOD-OPEN-END",
         "CHOM-PHRASE",
+        "CHOM-PHRASE-HARMONIC-RHYTHM",
+        "CHOM-PHRASE-HOMOGENEITY",
         "CHOM-PHRASE-POLYPHONIC-BOUNDARY",
         "CHOM-PHRASE-TIME",
         "CHOM-RHYTHM-SYMMETRY",
         "CHOM-SENTENCE-CADENCE-CONTEXT",
+        "CHOM-SYMMETRY-DIMENSIONS",
         "TAR-ANALYSIS-CM-PRELUDE",
         "WH-PERIOD-CADENCES",
         "WOJ-PERIOD"
@@ -1845,7 +1872,9 @@
         "CHOM-ADDED-RHYTHMIC-VALUES",
         "CHOM-CANON",
         "CHOM-CANON-TRANSFORMATIONS",
+        "CHOM-CANTUS-FIRMUS-TEXTURE",
         "CHOM-CHORALE-PRELUDE-TECHNIQUES",
+        "CHOM-CONTRAPUNTAL-VOICE-EXCHANGE",
         "CHOM-DRONE-OSTINATO-FUNCTION",
         "CHOM-EVOL",
         "CHOM-EVOLUTION-RHYTHM",
@@ -1909,6 +1938,7 @@
         "CHOM-CAPRICCIO-FANTASY",
         "CHOM-CSARDAS-STRUCTURE",
         "CHOM-DANCE-ANALYSIS",
+        "CHOM-DANCE-TRIO-CONTRAST",
         "CHOM-ETUDE-TECHNIQUE-FORM",
         "CHOM-FIGURATION-DOMINANT-ROLE",
         "CHOM-FIGURATION-FORMAL-DIVISION",
@@ -1919,11 +1949,13 @@
         "CHOM-JAZZ-STYLIZATION",
         "CHOM-KRAKOWIAK-SYNCOPATION",
         "CHOM-LYRIC-EXPRESSION-STRUCTURE",
+        "CHOM-LYRIC-FORM-COEXISTENCE",
         "CHOM-LYRIC-MULTIPART",
         "CHOM-LYRIC-RECAP",
         "CHOM-LYRIC-UNITY",
         "CHOM-MARCH-TRIO",
         "CHOM-MAZURKA-ACCENTS",
+        "CHOM-MAZURKA-FOLK-MODELS",
         "CHOM-MINIATURE-CONSTRUCTIVIST",
         "CHOM-MINUET-TRIO",
         "CHOM-PERIOD-ARCHITECTURE",
@@ -1932,6 +1964,7 @@
         "CHOM-POLONAISE-STYLIZATION",
         "CHOM-POLYPHONIC-PRELUDE",
         "CHOM-PRELUDE-MULTIPHASE",
+        "CHOM-REPRISE-CODA",
         "CHOM-ROMANTIC-SYNTHESIS",
         "CHOM-RONDO",
         "CHOM-RONDO-BRILLANT",
@@ -1940,11 +1973,13 @@
         "CHOM-RONDO-SONATA-RELATION",
         "CHOM-RONDO-TWENTIETH-CENTURY",
         "CHOM-SCHERZO-DEVELOPMENT",
+        "CHOM-SCHERZO-METER-EXCEPTIONS",
         "CHOM-SYNCOPATION-FUNCTION",
         "CHOM-TARANTELLA-FIGURATION",
         "CHOM-TOCCATA-ORIGIN",
         "CHOM-TOCCATA-POLYPHONIC",
         "CHOM-WALTZ-CYCLE",
+        "CHOM-WALTZ-ROUNDED-BINARY",
         "WOJ-DANCE",
         "WOJ-SONG",
         "WOJ-TERNARY"
@@ -2105,6 +2140,7 @@
         "CHOM-MENSURAL-DIVISIONS",
         "CHOM-MENSURAL-PROPORTIONS",
         "CHOM-MESSIAEN-LIMITED-TRANSPOSITION",
+        "CHOM-METABOLIC-REGULATION",
         "CHOM-METRIC-Tactus",
         "CHOM-MINIATURE-CONSTRUCTIVIST",
         "CHOM-MODAL-BARLINES",
@@ -17620,6 +17656,186 @@
         "II-FORM-03",
         "II-FORM-04",
         "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MOTIF-ACCENT-PROFILES": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MOTIF-CONTOUR": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PHRASE-HOMOGENEITY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SYMMETRY-DIMENSIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PHRASE-HARMONIC-RHYTHM": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TOPHONIC-TEXTURE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-TEXTURE-ARTICULATION-LAYERS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-01"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CONTRAPUNTAL-VOICE-EXCHANGE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-CANTUS-FIRMUS-TEXTURE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-03"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-PERIOD-HIGHER-ORDER-TENSION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-REPRISE-CODA": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-EVOLUTION-CONSTANS-VARIABILIS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-02"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-METABOLIC-REGULATION": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-06"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-DANCE-TRIO-CONTRAST": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-MAZURKA-FOLK-MODELS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-WALTZ-ROUNDED-BINARY": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-SCHERZO-METER-EXCEPTIONS": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
+      ],
+      "fixtureIds": [],
+      "releaseApproved": false
+    },
+    "CHOM-LYRIC-FORM-COEXISTENCE": {
+      "sourceIds": [
+        "CHOM-FORM1-1983-UPLOAD"
+      ],
+      "competencyIds": [
+        "II-FORM-04"
       ],
       "fixtureIds": [],
       "releaseApproved": false

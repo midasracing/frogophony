@@ -22978,6 +22978,312 @@
       "fixtures": [],
       "teacherReview": null,
       "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MOTIF-ACCENT-PROFILES",
+      "statement": "W systematyce motywu autorzy wyróżniają cztery układy członów akcentowanych (thesis) i nieakcentowanych (arsis): Th–Ar, Ar–Th, Ar–Th–Ar, Th–Ar–Th. Na człon może przypadać więcej niż jeden impuls.",
+      "scope": "Model analityczny autorów; nie przypisywać każdego akcentu taktowego automatycznie motywowi.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 176–177",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MOTIF-CONTOUR",
+      "statement": "Autorzy wyróżniają motywy repetycyjne, wznoszące, opadające, łukowe i faliste ze względu na kierunek linii melodycznej.",
+      "scope": "Nie redukować struktury motywu do samego kierunku wysokości.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 180",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PHRASE-HOMOGENEITY",
+      "statement": "Fraza motywicznie jednorodna może wykorzystywać powtórzenie proste, sekwencyjne albo powtórzenie ze zmianą kierunku linii melodycznej.",
+      "scope": "Typologia źródła; warianty rytmiczne i melodyczne wymagają analizy kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 193–194",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SYMMETRY-DIMENSIONS",
+      "statement": "Autorzy rozróżniają symetrię rozmiarową i melodyczną. Dwie frazy trzytaktowe mogą tworzyć symetryczne zdanie, mimo nieparzystej liczby taktów każdej frazy.",
+      "scope": "Nie utożsamiać symetrii z parzystością rozmiaru pojedynczego członu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 197–198",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PHRASE-HARMONIC-RHYTHM",
+      "statement": "Autorzy określają rytm harmoniczny jako współdziałanie regularnie pulsującej rytmiki z przebiegiem harmonicznym; jako przykład podają frazy jednotaktowe Preludium c-moll op. 28 nr 20 Chopina.",
+      "scope": "Termin w tym kontekście; nie utożsamiać z metrum ani nie wymuszać regularności zmian akordów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 200",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TOPHONIC-TEXTURE",
+      "statement": "Faktura topofoniczna wykorzystuje przestrzenne rozmieszczenie źródeł dźwięku; mogą to być chóry, grupy instrumentalne lub głośniki.",
+      "scope": "Odrębny wymiar od faktury polifonicznej lub homofonicznej; nie wymaga konkretnej liczby kanałów.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 172–175",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-TEXTURE-ARTICULATION-LAYERS",
+      "statement": "W obsadzie jednorodnej różnice artykulacji, np. arco i pizzicato, mogą rozwarstwiać brzmienie; odpowiednie artykulacje różnych rodzin instrumentów mogą natomiast sprzyjać ich stapianiu.",
+      "scope": "Model fakturalny; nie jest gwarancją efektu akustycznego niezależnie od rejestru i kontekstu.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 165–166",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CONTRAPUNTAL-VOICE-EXCHANGE",
+      "statement": "Kontrapunkt podwójny, potrójny i wieloraki opiera się na takim ukształtowaniu współbrzmień, aby głosy można było przestawiać przy zachowaniu przyjętych zasad harmonicznych.",
+      "scope": "Nie wyprowadzać konkretnych reguł kontrapunktu odwracalnego bez właściwego podręcznika.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 162",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-CANTUS-FIRMUS-TEXTURE",
+      "statement": "Cantus firmus może wykorzystywać gotową własną lub zapożyczoną melodię, do której dodaje się inne linie; te mogą być niezależne, motywicznie pokrewne lub imitacyjne.",
+      "scope": "Nie zakładać jednej pozycji ani jednego rytmu cantus firmus we wszystkich realizacjach.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 162",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-PERIOD-HIGHER-ORDER-TENSION",
+      "statement": "W formie okresowej wyższego rzędu następnik może wzmagać napięcie jako kontrast, a odprężenie nastąpić dopiero przy powrocie pierwszego okresu; możliwy jest także następnik odprężający.",
+      "scope": "Nie stosować relacji napięcie–odprężenie małego okresu mechanicznie do całych części.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 218–219",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-REPRISE-CODA",
+      "statement": "W repryzowej formie okresowej powrót A może być dosłowny lub zmodyfikowany; koda może wykorzystywać wcześniejszy materiał lub nowy przebieg melodyczny.",
+      "scope": "Nie wymagać kody w każdym ABA ani dokładnego powtórzenia A.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 220",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-EVOLUTION-CONSTANS-VARIABILIS",
+      "statement": "W ewolucjonizmie konstrukcyjnym autorzy rozróżniają czynniki stałe i zmienne. Snucie motywiczne rozwija motywy, a praca tematyczna większe całości; rozwój motywiczny może być figuracyjny lub selektywny.",
+      "scope": "Nie utożsamiać każdej zmiany z pracą tematyczną bez wykazania związku materiału.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 229–230",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-METABOLIC-REGULATION",
+      "statement": "Regulacja metaboliczna w terminologii autorów obejmuje przemiany samego materiału brzmieniowego; może działać jedno- lub wielostopniowo, w całym utworze albo w jego części.",
+      "scope": "Koncepcja historyczna, nie standardowy algorytm współczesnego przetwarzania dźwięku.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 234–236",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-DANCE-TRIO-CONTRAST",
+      "statement": "Autorzy opisują trio jako możliwą kontrastującą część środkową tańca repryzowego; podkreślają, że nie wszystkie tańce stylizowane mają jeden schemat formalny.",
+      "scope": "Nie wnioskować o liczbie wykonawców z nazwy części.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 238",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-MAZURKA-FOLK-MODELS",
+      "statement": "W ujęciu autorów mazurek stylizowany czerpie z mazura, kujawiaka i oberka; różnice tempa, charakteru i akcentów tych tańców prowadzą do różnorodności mazurków.",
+      "scope": "Typologia historyczna, nie jedyny sposób rozpoznania tańców regionalnych.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 244–245",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-WALTZ-ROUNDED-BINARY",
+      "statement": "W opisie walca autorzy wskazują układ dwuczęściowy, w którym pod koniec drugiej części powraca materiał pierwszej, np. A |: B A :|; odróżniają go od prostego ABA.",
+      "scope": "Ocena wymaga uwzględnienia hierarchii części i repetycji.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 265–266",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-SCHERZO-METER-EXCEPTIONS",
+      "statement": "Scherzo klasyczne i romantyczne przeważnie wykorzystuje metrum trójdzielne, lecz autorzy wskazują wyjątki dwudzielne, m.in. scherzo Bacha i Beethovena.",
+      "scope": "Nie klasyfikować scherza wyłącznie po metrum.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 293–295",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
+    },
+    {
+      "id": "CHOM-LYRIC-FORM-COEXISTENCE",
+      "statement": "Jednolitość wyrazowa liryki instrumentalnej może wynikać z powrotów i rozwijania wspólnego materiału; ewolucjonizm może współistnieć z budową okresową i miejscowym zazębianiem fraz.",
+      "scope": "Wniosek z analizy autorów, nie obowiązkowa reguła gatunku.",
+      "sourceRefs": [
+        {
+          "sourceId": "CHOM-FORM1-1983-UPLOAD",
+          "locator": "PDF 312–314",
+          "access": "direct-read"
+        }
+      ],
+      "status": "source-checked",
+      "checkedAt": "2026-11-25",
+      "fixtures": [],
+      "teacherReview": null,
+      "releaseApproved": false
     }
   ]
 }
