@@ -34,7 +34,7 @@ export function LessonDialog({ session }: { session: DemoSession }) {
     return () => {
       document.body.style.overflow = overflow;
       document.removeEventListener('keydown', keyboard);
-      previousFocus?.focus();
+      requestAnimationFrame(() => { if (previousFocus && previousFocus !== document.body) previousFocus.focus(); else document.querySelector<HTMLElement>('.trail-current, .course-continue button, .practice-card button')?.focus(); });
     };
   }, [setLesson]);
 

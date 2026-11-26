@@ -12,16 +12,18 @@ export default function App() {
   const { view, lesson } = session;
   return (
     <div className="app">
-      <Sidebar session={session} />
-      <div className="workspace">
-        <Header session={session} />
-        <div className="content">
-          <main>
-            <div className="intro"><div><div className="eyebrow">DOBRZE CIĘ WIDZIEĆ!</div><h1>{view==='learn'?'Muzyka zaczyna się od Ciebie.':view==='practice'?'Daj uszom chwilę dla siebie.':view==='progress'?'Każdy krok się liczy.':'Po Twojemu.'}</h1><p>Trochę ciekawości. Kilka minut. Jeszcze jeden krok naprzód.</p></div></div>
-            {view === 'settings' ? <SettingsPanel session={session} /> : view === 'progress' ? <ProgressPanel session={session} /> : <LearningPanel session={session} />}
-            <footer>Frogophony · Pierwsza wersja interfejsu <span>Stworzone z ciekawości do muzyki.</span></footer>
-          </main>
-          <RightRail session={session} />
+      <div className="app-shell" inert={lesson}>
+        <Sidebar session={session} />
+        <div className="workspace">
+          <Header session={session} />
+          <div className="content">
+            <main id="main-content">
+              {(view === 'settings' || view === 'progress') && <div className="page-heading"><h1>{view==='settings'?'Ustawienia':'Moje postępy'}</h1></div>}
+              {view === 'settings' ? <SettingsPanel session={session} /> : view === 'progress' ? <ProgressPanel session={session} /> : <LearningPanel session={session} />}
+              <footer className="app-footer">Frogophony · Wersja demonstracyjna</footer>
+            </main>
+            <RightRail session={session} />
+          </div>
         </div>
       </div>
       {lesson && <LessonDialog session={session} />}
